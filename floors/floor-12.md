@@ -10,6 +10,8 @@ Avoid **Physical** based damage on this floor \(e.g. **Razor**\) and instead rel
 
 You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin Grader** in Chamber 3
 
+## Chambers
+
 {% tabs %}
 {% tab title="Chamber 1" %}
 **Monster Level - 96**
