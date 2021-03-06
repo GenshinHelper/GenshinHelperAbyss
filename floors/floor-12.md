@@ -93,12 +93,12 @@ Once infused, Geovishaps will gain resistance to that element \(30%\)
     <tr>
       <td style="text-align:center">
         <p>Recommended 5&#x2605;</p>
-        <p><b>Childe, Ganyu, Zhong Li</b>
+        <p><b>Childe, Ganyu, Xiao, Zhong Li</b>
         </p>
       </td>
       <td style="text-align:center">
         <p>Recommended 5&#x2605;</p>
-        <p><b>Diluc, Keqing, Klee, Qiqi</b>
+        <p><b>Diluc, Keqing, Klee, Qiqi, Xiao, Zhong Li</b>
         </p>
       </td>
     </tr>
