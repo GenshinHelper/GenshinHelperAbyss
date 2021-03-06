@@ -111,7 +111,7 @@ Once infused, Geovishaps will gain resistance to that element \(30%\)
 
 | Side 1 | Side 2 |
 | :---: | :---: |
-| ![](../.gitbook/assets/12-3-1.png)  | ![](../.gitbook/assets/12-2-2.png)  |
+| ![](../.gitbook/assets/12-2-1.png)  | ![](../.gitbook/assets/12-2-2.png)  |
 | [Electro Triangle](../mechanics/auras/electro-triangle.md) | [Fireball](../mechanics/auras/fireball.md) |
 | Focus the **Electro Cicin** with the aura to stop the **Electro Triangle** | Focus the **Pyro Agent** with the aura to stop the **Fireball** |
 | **Cryo Cicin** will regenerate her shield as long as her flies are live. Kill them to slow/stop the shield |  |
