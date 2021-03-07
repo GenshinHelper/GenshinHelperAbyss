@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Genshin Impact Abyss Guide](README.md)
+* [Spiral Abyss Guide](README.md)
+* [FAQ](faq.md)
 
 ## Floors
 
