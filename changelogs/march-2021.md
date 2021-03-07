@@ -4,6 +4,7 @@
 | :--- | :--- | :--- |
 | Mar 7 | Started Abyss doc in gitbook | AegisD |
 |  | Added Ice Cage page | AegisD |
+|  | Started adding FAQ section | AegisD |
 
 ### 
 
