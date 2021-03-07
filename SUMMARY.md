@@ -21,6 +21,9 @@
   * [Fireball](mechanics/auras/fireball.md)
   * [Ice Cage](mechanics/auras/ice-cage.md)
   * [Shockwave](mechanics/auras/shockwave.md)
+* [Video Guides](mechanics/video-guides/README.md)
+  * [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md)
+  * [Auras](mechanics/video-guides/auras.md)
 
 ## Changelogs
 
