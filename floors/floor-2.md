@@ -1,4 +1,4 @@
-# Template
+# Floor 2
 
 ## Divergence
 
@@ -16,13 +16,13 @@
 
 ## Chamber 1
 
-**Monster Level - 20**
+**Monster Level - 40**
 
 ## **Chamber 2**
 
-**Monster Level - 20**
+**Monster Level - 40**
 
 ## **Chamber 3**
 
-**Monster Level - 20**
+**Monster Level - 40**
 
