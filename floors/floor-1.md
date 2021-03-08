@@ -1,29 +1,47 @@
 # Floor 1
-Pyro DMG dealt by all party members increased by 75%
-Overload DMG increased by 100%
+
+Pyro DMG dealt by all party members increased by 75% Overload DMG increased by 100%
+
 ## Divergence
 
-## General Tips
+* ![](../.gitbook/assets/pyro_small.png) **DMG** dealt by all party members increased by **75%**
+* **Overload DMG** increased by **100%**
 
 ## Team Recommendations
 
 |  |  |
-| :--- | :--- |
+| :--- | :---: |
 | **Shieldbreakers** |  |
-| **Preferred Damage** |  |
-| **Avoid Damage** |  |
-| **4**★ **Supports**  |  |
+| **Preferred Damage** | ![](../.gitbook/assets/pyro_small.png)  |
+| **Avoid Damage** | ![](../.gitbook/assets/electro_small.png)  |
+| **4**★ **Supports** |  |
 | **5**★ **Supports** |  |
 
 ## Chamber 1
 
 **Monster Level - 25**
 
+![](../.gitbook/assets/1-1.png)
+
+**Mutant \(Yellow\) Electric Slimes** will cause **Purple slimes** to emit electric shocks. Prioritize killing them when they appear
+
+Use![](../.gitbook/assets/pyro_small.png)to trigger **Overload** and deal a lot of damage to slimes
+
 ## **Chamber 2**
 
 **Monster Level - 25**
 
+![](../.gitbook/assets/1-2.png)
+
+Fighting near the **Ranged Hilichurls** will help group the mobs
+
+Use ![](../.gitbook/assets/pyro_small.png) to burn through the wooden shields
+
 ## **Chamber 3**
 
 **Monster Level - 25**
+
+![](../.gitbook/assets/1-3.png)
+
+Using ranged attacks on the **Electro Cicin Mage** can be difficult due to auto-aim targeting the flies. If you are using ranged attacks, get up close to the Cicin to help with targeting.
 

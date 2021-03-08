@@ -5,8 +5,6 @@
 
 ## Floors
 
-* [Template](floors/untitled-1.md)
-* [Untitled](floors/untitled.md)
 * [Floor 1](floors/floor-1.md)
 * [Floor 2](floors/floor-2.md)
 * [Floor 3](floors/floor-3.md)

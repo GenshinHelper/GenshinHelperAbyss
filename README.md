@@ -4,7 +4,7 @@ description: by the Genshin Helper Team
 
 # Spiral Abyss Guide
 
-![](.gitbook/assets/spiral_abyss_guide_banner.jpg)
+![](.gitbook/assets/spiral_abyss_banner_no_text.jpg)
 
 ## Abyssal Moon Spire - Mar 1st - 15th
 

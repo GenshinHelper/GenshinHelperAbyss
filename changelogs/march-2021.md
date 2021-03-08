@@ -6,6 +6,9 @@
 |  | Added Ice Cage page | AegisD |
 |  | Started adding FAQ section | AegisD |
 |  | Finished up FAQ section and added Envi video guides pages | AegisD |
+| Mar 8 | Added placeholders for all floors | AegisD |
+|  | Added Floor 1 info | AegisD |
+|  |  |  |
 
 ### 
 

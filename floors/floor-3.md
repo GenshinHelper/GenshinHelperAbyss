@@ -11,7 +11,7 @@
 | **Shieldbreakers** |  |
 | **Preferred Damage** |  |
 | **Avoid Damage** |  |
-| **4**★ **Supports**  |  |
+| **4**★ **Supports** |  |
 | **5**★ **Supports** |  |
 
 ## Chamber 1
