@@ -31,17 +31,19 @@ All progress and rewards on **F9-12** will be reset. You will have to beat each 
 
 ### How often does Abyss reset?
 
-Resets happen **twice a month**. Once on the **1st**, and again on the **16th**. You can always check the exact amount of time remaining by clicking on the Spiral Abyss portal on your map
+Resets happen **twice a month**. Once on the **1st**, and again on the **16th**. You can always check the exact amount of time remaining by clicking on the Spiral Abyss portal on your map.
 
-### What about Floors 1 - 8?
+Note that resets **aren't tied to patches**! If a new version releases, Abyss won't update until the next reset period.
 
-The progress and rewards for these floors do not reset, and can only be obtained once
+### What about Floors 1-8?
 
-### I beat Floor 8 but I didn't get any rewards?
+The progress and rewards for these floors do not reset, and can only be obtained once.
+
+### I beat Floor 8 but I didn't get the rewards shown on the Event banner?
 
 &lt;img&gt;
 
-Clearing Floor 8 does not grant any additional rewards. The ones shown in the **Moment of Szyzygy** banner are just a summary of all the rewards obtainable from **Floors 1-8**. Same goes for
+Clearing Floor 8 does not grant any additional rewards. The ones shown in the **Moment of Szyzygy** banner are just a summary of all the rewards obtainable from **Floors 1-8** for clearing each floor and obtaining 9★
 
 ## Progression
 

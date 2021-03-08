@@ -13,12 +13,12 @@ You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin G
 ## Team Recommendations
 
 |  | Side 1 | Side 2 |
-| :--- | :--- | :--- |
-| Required Shieldbreakers |   |  |
+| :--- | :---: | :---: |
+| Required Shieldbreakers | ![](../.gitbook/assets/pyro_small.png)  |  |
 | Preferred Damage |   |  |
 | Avoid Damage |   |  |
-| Recommended Supports \(4\*\) |  |  |
-| Recommended Supports \(5\*\) |  |  |
+| Recommended Supports \(4★\) |  |  |
+| Recommended Supports \(5★\) |  |  |
 
 ## Chambers
 

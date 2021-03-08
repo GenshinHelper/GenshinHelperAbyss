@@ -19,8 +19,8 @@ You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin G
 | **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png)  |
 | **Preferred Damage** | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png)  |
 | **Avoid Damage** | ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png)  |
-| **Recommended Supports \(4\*\)** |  |
-| **Recommended Supports \(5\*\)** |  |
+| **Recommended Supports \(4**★**\)** |  |
+| **Recommended Supports \(5**★**\)** |  |
 {% endtab %}
 
 {% tab title="Side 2" %}
