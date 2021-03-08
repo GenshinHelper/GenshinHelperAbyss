@@ -12,29 +12,13 @@ You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin G
 
 ## Team Recommendations
 
-{% tabs %}
-{% tab title="Side 1" %}
-| \*\*\*\* | \*\*\*\* |
-| :--- | :---: |
-| **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png)  |
-| **Preferred Damage** | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png)  |
-| **Avoid Damage** | ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png)  |
-| **Recommended Supports \(4**★**\)** |  |
-| **Recommended Supports \(5**★**\)** |  |
-{% endtab %}
-
-{% tab title="Side 2" %}
-
-
-|  |   |
-| :--- | :---: |
-| **Shieldbreakers** |  |
-| **Preferred Damage** | ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png)  |
-| **Avoid Damage** | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png)  |
-| **Recommended Supports \(4\*\)** |  |
-| **Recommended Supports \(5\*\)** |  |
-{% endtab %}
-{% endtabs %}
+|  |  |  |
+| :--- | :---: | :---: |
+| **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png) |  |
+| **Preferred Damage** | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png) |
+| **Avoid Damage** | ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png)![](../.gitbook/assets/physical_small.png)  | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/physical_small.png)  |
+| **Recommended Supports \(4**★**\)** |  |  |
+| **Recommended Supports \(5**★**\)** |  |  |
 
 ## Chamber 1
 
@@ -46,70 +30,61 @@ Once infused, Geovishaps will gain resistance to that element \(30%\)
 
 {% page-ref page="../monsters/geovishap.md" %}
 
-{% tabs %}
-{% tab title="Side 1" %}
-![](../.gitbook/assets/12-1-1.png)
+### Side 1
 
-Avoid bringing **Electro** and **Pyro** damage on this side
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F273cab7d7602b09e95d918854ccb026f2af08769.png?alt=media)
 
-### Tips for 3\*
+Avoid ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/electro_small.png)![](../.gitbook/assets/geo_small.png)![](../.gitbook/assets/physical_small.png) **DMG**
 
-Avoid **Electro, Pyro, Geo, Phys** based carries
-{% endtab %}
+### Side 2
 
-{% tab title="Side 2" %}
-![](../.gitbook/assets/12-1-2.png)
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F5591a616630778a85bb7abab2c5c9e0a2aa5f4d5.png?alt=media)
 
-  
-Avoid bringing **Hydro** and **Cryo** damage on this side
+Avoid ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/geo_small.png)![](../.gitbook/assets/physical_small.png) **DMG**
 
-### Tips for 3\* <a id="tips-for-3"></a>
+![](../.gitbook/assets/cryo_small.png) Geovishap is immune to freeze
 
-Avoid **Electro, Pyro, Geo, Phys** based carries
-{% endtab %}
-{% endtabs %}
+![](../.gitbook/assets/hydro_small.png) Geovishap can easily be frozen by ![](../.gitbook/assets/cryo_small.png) after infusion.
 
 ## Chamber 2
 
 **Monster Level - 98**
 
-{% tabs %}
-{% tab title="Side 1" %}
-![](../.gitbook/assets/12-2-1.png)
+### **Side 1**
+
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F4a7a94d3c4cf950d5a4b66feeb4281b7f36b88b1.png?alt=media)
 
 {% page-ref page="../mechanics/auras/electro-triangle.md" %}
 
 Focus the **Electro Cicin** with the aura to stop the **Electro Triangle**
 
 **Cryo Cicin** will regenerate her shield as long as her flies are live. Kill them to slow/stop the shield
-{% endtab %}
 
-{% tab title="Side 2" %}
-![](../.gitbook/assets/12-2-2.png)
+### Side 2
+
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F427319af261c0032ce5a27be7c467d0a58a93098.png?alt=media)
 
 {% page-ref page="../mechanics/auras/fireball.md" %}
 
 Focus the **Pyro Agent** with the aura to stop the **Fireball**
-{% endtab %}
-{% endtabs %}
 
 ## Chamber 3
 
 **Monster Level - 100**
 
-{% tabs %}
-{% tab title="Side 1" %}
-![](../.gitbook/assets/12-3-1.png)
+### **Side 1**
+
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fc25b44c65ef4e4ca195a0e210bde2e8eb51c96e4.png?alt=media)
 
 {% page-ref page="../mechanics/auras/shockwave.md" %}
 
 The **Shockwave** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura
 
 Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier
-{% endtab %}
 
-{% tab title="Side 2" %}
-![](../.gitbook/assets/12-3-2.png)
+### Side 2
+
+![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fb0507bc78894bb328c8a77e9807c3fbbc211ecac.png?alt=media)
 
 {% page-ref page="../mechanics/auras/ice-cage.md" %}
 
@@ -118,8 +93,6 @@ Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier
 Getting caught in **Ice Cage** during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
 
 While it's possible to disable the **Ruin Grader** completely, it's difficult to do in practice and isn't actually that helpful. It's often more effective to just keep attacking them if you stagger them to their knees instead of using that time to shoot their eyes
-{% endtab %}
-{% endtabs %}
 
 
 
