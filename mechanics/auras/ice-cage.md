@@ -1,7 +1,5 @@
 # Ice Cage
 
-##  
-
 ![](../../.gitbook/assets/cryo_icecage_med.png)
 
 |  |  |
