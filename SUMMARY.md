@@ -5,7 +5,7 @@
 
 ## Floors
 
-* [Untitled](floors/untitled-1.md)
+* [Template](floors/untitled-1.md)
 * [Untitled](floors/untitled.md)
 * [Floor 12 \(Version A\)](floors/floor-12.md)
 * [Floor 12 \(Version B\)](floors/floor-12-version-b.md)
