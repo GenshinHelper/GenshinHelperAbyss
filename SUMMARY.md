@@ -16,9 +16,7 @@
 * [Floor 9](floors/floor-9.md)
 * [Floor 10](floors/floor-10.md)
 * [Floor 11](floors/floor-11.md)
-* [Floor 12 \(Version A\)](floors/floor-12.md)
-* [Floor 12 \(Version B\)](floors/floor-12-version-b.md)
-* [Floor 12 \(Version C\)](floors/floor-12-version-c.md)
+* [Floor 12](floors/floor-12.md)
 
 ## Monsters
 

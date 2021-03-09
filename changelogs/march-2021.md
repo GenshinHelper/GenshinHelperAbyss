@@ -8,6 +8,7 @@
 |  | Finished up FAQ section and added Envi video guides pages | AegisD |
 | Mar 8 | Added placeholders for all floors | AegisD |
 |  | Added Floor 1 info | AegisD |
+| Mar 9 | Added Floor 1-4 info | AegisD |
 |  |  |  |
 
 ### 

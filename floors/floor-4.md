@@ -15,7 +15,7 @@
 | **Preferred Damage** | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png)    |
 | **Avoid Damage** | ![](../.gitbook/assets/hydro_small.png)  |
 | **4**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_amber.png) ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_chongyun.png)![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_fischl.png)![](../.gitbook/assets/ui_avataricon_kaeya.png) |
-| **5**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_ganyu.png) |
+| **5**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_ganyu.png)![](../.gitbook/assets/ui_avataricon_venti.png)  |
 
 ## Chamber 1
 
