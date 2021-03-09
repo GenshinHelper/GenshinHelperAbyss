@@ -11,11 +11,11 @@ Pyro DMG dealt by all party members increased by 75% Overload DMG increased by 1
 
 |  |  |
 | :--- | :---: |
-| **Shieldbreakers** |  |
+| **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png)  |
 | **Preferred Damage** | ![](../.gitbook/assets/pyro_small.png)  |
 | **Avoid Damage** | ![](../.gitbook/assets/electro_small.png)  |
-| **4**★ **Supports** |  |
-| **5**★ **Supports** |  |
+| **4**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_amber.png) ![](../.gitbook/assets/ui_avataricon_xinyan.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)  |
+| **5**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_venti.png)  |
 
 ## Chamber 1
 
