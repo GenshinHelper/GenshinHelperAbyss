@@ -29,11 +29,14 @@
 * [Debuffs](mechanics/debuffs/README.md)
   * [Removing Debuffs](mechanics/debuffs/removing-debuffs.md)
 * [Auras](mechanics/auras/README.md)
-  * [Electro Triangle](mechanics/auras/electro-triangle.md)
   * [Fireball](mechanics/auras/fireball.md)
+  * [Bubbles](mechanics/auras/bubbles.md)
   * [Ice Cage](mechanics/auras/ice-cage.md)
-  * [Shockwave](mechanics/auras/shockwave.md)
+  * [Electro Triangle](mechanics/auras/electro-triangle.md)
+  * [Black Hole](mechanics/auras/black-hole.md)
+  * [Earthquake](mechanics/auras/shockwave.md)
 * [Video Guides](mechanics/video-guides/README.md)
+  * [11-2 Guides \(v1.3\)](mechanics/video-guides/11-2-guides-v1.3.md)
   * [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md)
   * [Auras](mechanics/video-guides/auras.md)
 
@@ -43,5 +46,6 @@
 
 ---
 
+* [About Us](about-us.md)
 * [Credits](credits.md)
 

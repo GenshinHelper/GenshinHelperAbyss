@@ -6,6 +6,7 @@
 | :--- | :---: |
 | **Damage Type** |   ![](../../.gitbook/assets/cryo_small.png)  |
 | **Timer** | 11.75s |
+| **Duration** | 2s |
 
 <table>
   <thead>
