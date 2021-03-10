@@ -40,7 +40,7 @@
 
 ## Other Resources
 
-Need more help? Check out some strategies in video form at [11-2 Guides \(v1.3\)](../mechanics/video-guides/11-2-guides-v1.3.md) 
+Need more help? Check out some strategies in video form at [11-2 Guides \(v1.3\)](../../mechanics/video-guides/11-2-guides-v1.3.md) 
 
-Not sure what something means? Check the [Glossary](glossary.md)
+Not sure what something means? Check the [Glossary](../glossary.md)
 

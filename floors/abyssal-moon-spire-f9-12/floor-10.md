@@ -17,11 +17,11 @@ Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the
 
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
-| **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png) | ![](../.gitbook/assets/pyro_small.png) |
-| **Preferred Damage** | ![](../.gitbook/assets/pyro_small.png) | ![](../.gitbook/assets/pyro_small.png) |
-| **Avoid Damage** | ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png) |
-| **4**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_amber.png)![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_xinyan.png) | ![](../.gitbook/assets/ui_avataricon_amber.png)![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_xinyan.png) |
-| **5**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_venti.png) | ![](../.gitbook/assets/ui_avataricon_jean.png) |
+| **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/pyro_small.png) |
+| **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/pyro_small.png) |
+| **Avoid Damage** | ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/hydro_small.png) ![](../../.gitbook/assets/cryo_small.png) |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png) | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png) |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png) | ![](../../.gitbook/assets/ui_avataricon_jean.png) |
 
 ## Chamber 1
 
@@ -29,15 +29,15 @@ Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the
 
 ### Side 1
 
-![](../.gitbook/assets/10-1-1.png)
+![](../../.gitbook/assets/10-1-1.png)
 
 Fight near the **Grenadiers** and let the **Slimes** come to you
 
 ### Side 2
 
-![](../.gitbook/assets/10-1-2.png)
+![](../../.gitbook/assets/10-1-2.png)
 
-{% page-ref page="../mechanics/auras/ice-cage.md" %}
+{% page-ref page="../../mechanics/auras/ice-cage.md" %}
 
 Focus the **Hydro Samachurls** and quickly burst them down before they can heal. If get **Frozen** too much, try breaking **Cryo Abyss Mage** shield before switching to the **Hydro Samachurls** to make it easier.
 
@@ -49,13 +49,13 @@ Focus the **Hydro Samachurls** and quickly burst them down before they can heal.
 
 ### Side 1
 
-![](../.gitbook/assets/10-2-1.png)
+![](../../.gitbook/assets/10-2-1.png)
 
 The pack of **Ice Shield Hilichurls** that spawn behind you will produce the **Mitachurl**. Prioritize those first to spawn it, then fight near the Grenadiers to group them together.
 
 ### Side 2
 
-![](../.gitbook/assets/10-2-2.png)
+![](../../.gitbook/assets/10-2-2.png)
 
 Killing off **Potioneers** will make it easier to deal with the **Cryo Cicin**.
 
@@ -67,9 +67,9 @@ Killing off **Potioneers** will make it easier to deal with the **Cryo Cicin**.
 
 ### Side 1
 
-![](../.gitbook/assets/10-3-1.png)
+![](../../.gitbook/assets/10-3-1.png)
 
-{% page-ref page="../mechanics/auras/ice-cage.md" %}
+{% page-ref page="../../mechanics/auras/ice-cage.md" %}
 
 Focus the **Cryo Cicin** to get rid of **Ice Cage**. The **Pyro Fatui** will come towards you anyway, letting you group them easily.
 
@@ -79,11 +79,11 @@ Focus the **Cryo Cicin** to get rid of **Ice Cage**. The **Pyro Fatui** will com
 
 ### Side 2
 
-![](../.gitbook/assets/10-3-2.png)
+![](../../.gitbook/assets/10-3-2.png)
 
-{% page-ref page="../mechanics/auras/ice-cage.md" %}
+{% page-ref page="../../mechanics/auras/ice-cage.md" %}
 
-Use ![](../.gitbook/assets/pyro_small.png) to break through the shield. After doing this, the **Lawachurl** will be vulnerable to staggering, making the fight easier.
+Use ![](../../.gitbook/assets/pyro_small.png) to break through the shield. After doing this, the **Lawachurl** will be vulnerable to staggering, making the fight easier.
 
 Here are some basic attack patterns:
 
@@ -96,5 +96,5 @@ Here are some basic attack patterns:
 
 ## Other Resources
 
-Not sure what something means? Check the [Glossary](glossary.md)
+Not sure what something means? Check the [Glossary](../glossary.md)
 
