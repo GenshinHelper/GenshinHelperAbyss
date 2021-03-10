@@ -18,7 +18,6 @@ You'll have to inflict yourself with an element that reacts with that element in
 
 | Character | Applied Element | Skill |
 | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_beidou.png)  | ![](../../.gitbook/assets/electro_small.png)  | Q |
 | ![](../../.gitbook/assets/ui_avataricon_razor.png)  | ![](../../.gitbook/assets/electro_small.png)  | Q |
 | ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../../.gitbook/assets/hydro_small.png)  | E |
 
