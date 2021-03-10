@@ -2,9 +2,28 @@
 
 ## Feedback/Suggestions?
 
-Contact me directly on Discord at AegisD\#2280
+Contact me!
+
+|  |  |
+| :---: | :--- |
+| ![](.gitbook/assets/artboard-1_48.png)  | u/AegisD |
+| ![](.gitbook/assets/discord-logo-color.png)  | AegisD\#2280 |
+|  |  |
 
 ## Contributors
+
+|  |
+| :--- |
+| Dandi |
+| Dupah |
+| Twofu |
+| Potaaato |
+| Aidan |
+| Shiro |
+| Hydra |
+| Network |
+| Miko-chan |
+| Setz |
 
 ## Special Thanks
 

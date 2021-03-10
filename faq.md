@@ -117,18 +117,7 @@ Anemo characters need to be **within 20 levels** of an enemy to properly CC them
 
 ### What characters can get rid of this elemental debuff \(cleanse\)?
 
-You'll have to inflict yourself with an element that reacts with that element in order to get rid of it. Currently, the characters that can apply elements to the team are:
-
-* Bennet
-* Barbara
-* Xinyan
-* Diona
-* Jean
-
-Other characters can apply an element but only themselves.
-
-* Xingqiu
-* Razor
+{% page-ref page="mechanics/debuffs/removing-debuffs.md" %}
 
 ### I keep dying to this Ice Cage/Vortex/Fireball and I don't know where it's coming from
 

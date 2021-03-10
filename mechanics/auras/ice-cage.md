@@ -44,7 +44,8 @@
         <img src="../../.gitbook/assets/dodge.gif" alt/>
       </td>
       <td style="text-align:left">A snowflake will appear at your feet when an ice cage is about to spawn.
-        Dodge at the last second to avoid the Ice Cage completely</td>
+        Once the snowflake reaches full size, <b>dodge</b> to avoid being trapped
+        by the cage.</td>
     </tr>
     <tr>
       <td style="text-align:left">

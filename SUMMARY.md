@@ -25,6 +25,8 @@
 
 ## Mechanics
 
+* [Debuffs](mechanics/debuffs/README.md)
+  * [Removing Debuffs](mechanics/debuffs/removing-debuffs.md)
 * [Auras](mechanics/auras/README.md)
   * [Electro Triangle](mechanics/auras/electro-triangle.md)
   * [Fireball](mechanics/auras/fireball.md)
