@@ -11,6 +11,7 @@
 | Mar 9 | Added Floor 1-4 info | AegisD |
 |  | Added Floor 5 info | AegisD |
 |  | Added Floor 6 info | AegisD |
+|  | Added Floor 7 info | AegisD |
 
 ### 
 

@@ -11,48 +11,117 @@
 
 {% page-ref page="../mechanics/video-guides/fatui-skirmishers.md" %}
 
-The floor has very strict element requirements:  
-  
-Each team needs a ****![](../.gitbook/assets/pyro_small.png)  - your free options are ​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2F-MVKTPJXzkfD7cQl9kZr%2F-MVK_BSWgxb2kRAIvYGt%2FUI_AvatarIcon_Amber.png?alt=media&token=5ed44853-bcab-47df-af93-e6c4f69de461)![](../.gitbook/assets/ui_avataricon_xiangling.png) 
+The floor has **very strict element requirements**. Each team must have the following:
 
-Each team needs a ![](../.gitbook/assets/cryo_small.png) - the only free option is ​![](../.gitbook/assets/ui_avataricon_kaeya.png)   
-If you have no other Cryo units, put **Kaeya** on Side 1 and focus the **Electrohammer first** on **Chamber 3 Side 2.**
+| Side 1 | Side 2 |
+| :---: | :---: |
+| ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/electro_small.png)  | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)   |
 
-Team 1 should have an ![](../.gitbook/assets/electro_small.png) - your free option is ![](../.gitbook/assets/ui_avataricon_lisa.png)   
-Team 2 should have a Hydro - your free option is Barbara  
-Each team requires a Geo or Claymore character - your free options are Noelle, Geo MC. If possible, you should bring a Claymore that also fulfils one of the above requirements \(Razor, Beidou, Chongyun, Diluc\) instead of Noelle and Geo MC. For Team 1, you can also skip this step by using Overload to break Geo shields since that team already has a Pyro + Electro, but this can be slower
+Since **Kaeya** is the only guaranteed **Cryo** character, you may not have access to one Cryo per team. If that is the case, but him on **Team 1** and make sure to focus the **Electrohammer first** when you get to **Chamber 3 Side 2**.
+
+Each team also requires a way to break ![](../.gitbook/assets/geo_small.png)shields. This can be specifically a **Geo** character, or a **Claymore** wielder. Note that you could skip doing this on **Team 1** by using **Overload** \( ![](../.gitbook/assets/pyro_small.png) +![](../.gitbook/assets/electro_small.png) \) to break shields, but this takes longer.
 
 ## Team Recommendations
 
-|  |  |
-| :--- | :--- |
-| **Shieldbreakers** |  |
-| **Preferred Damage** |  |
-| **Avoid Damage** |  |
-| **4**★ **Supports** |  |
-| **5**★ **Supports** |  |
+|  | Side 1 | Side 2 |
+| :--- | :---: | :---: |
+| **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/electro_small.png) ![](../.gitbook/assets/geo_small.png)  | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/geo_small.png) |
+| **Preferred Damage** | ![](../.gitbook/assets/physical_small.png)  | ![](../.gitbook/assets/physical_small.png)  |
+| **Avoid Damage** |  |  |
+| **4**★ **Supports** |  |  |
+| **5**★ **Supports** |  |  |
 
 ## Chamber 1
 
-**Monster Level - 50**
+**Monster Level - 65**
 
 ### Side 1
 
+![](../.gitbook/assets/7-1-1.png)
+
+Go for the **Hydrogunner** first as he is able to heal.
+
+Dodge towards and behind the **Electrohammer** to easily evade all of his attacks.
+
+| Enemy | Weak Element |
+| :--- | :--- |
+| **Hydrogunner** | ![](../.gitbook/assets/electro_small.png)  |
+| **Electrohammer** | ![](../.gitbook/assets/cryo_small.png)  |
+| **Cryogunner** | ![](../.gitbook/assets/pyro_small.png)  |
+
 ### Side 2
+
+![](../.gitbook/assets/7-1-2.png)
+
+Focusing the **Cryogunner** first will make the fight easier.
+
+Focusing the **Pyrogunner** first will make the **Cryogunner** come to you, grouping them up for a faster clear.
+
+Focus the **Anemoboxer** in the second half. They can revive allies that have their shield broken and cause them to reshield imm
+
+| Enemy | Weak Element |
+| :--- | :--- |
+| **Pyrogunner** | ![](../.gitbook/assets/hydro_small.png)  |
+| **Cryogunner** | ![](../.gitbook/assets/pyro_small.png)  |
 
 ## **Chamber 2**
 
-**Monster Level - 50**
+**Monster Level - 65**
 
 ### Side 1
 
+![](../.gitbook/assets/7-2-1.png)
+
+Focusing the **Cryogunner** first will make the fight easier.
+
+Focusing the **Geochanter** first will make the **Cryogunner** come to you, grouping them up for a faster clear.
+
+Dodge towards and behind the **Electrohammer** to easily evade all of his attacks.
+
+| Enemy | Weak Element |
+| :--- | :--- |
+| **Geochanter** | ![](../.gitbook/assets/geo_small.png)  |
+| **Electrohammer** | ![](../.gitbook/assets/cryo_small.png)  |
+| **Cryogunner** | ![](../.gitbook/assets/pyro_small.png)  |
+
 ### Side 2
+
+![](../.gitbook/assets/7-2-2.png)
+
+In the second phase, focus the **Anemoboxer** as he can recover knocked down Fatuis which lets them reshield immediately.
+
+If you focus one of the ranged Fatuis, the **Anemoboxer** will come to you, grouping them up for a faster clear.
+
+| Enemy | Weak Element |
+| :--- | :---: |
+| **Geochanter** | ![](../.gitbook/assets/geo_small.png)  |
+| **Pyrogunner** | ![](../.gitbook/assets/hydro_small.png)  |
 
 ## **Chamber 3**
 
-**Monster Level - 50**
+**Monster Level - 65**
 
 ### Side 1
 
+![](../.gitbook/assets/7-3-1.png)
+
+Go for the **Hydrogunner** first as he is able to heal, and do as much damage as you can before he shields. Next, focus the **Anemoboxer**
+
+| Enemy | Weak Element |
+| :--- | :--- |
+| **Hydrogunner** | ![](../.gitbook/assets/electro_small.png)  |
+| **Electrohammer** | ![](../.gitbook/assets/cryo_small.png)  |
+
 ### Side 2
+
+![](../.gitbook/assets/7-3-2.png)
+
+If you don't have a ![](../.gitbook/assets/cryo_small.png) on this team, aim for the **Electrohammer** first and try to kill him before he shields Otherwise, focus the **Anemoboxer**
+
+| Enemy | Weak Element |
+| :--- | :--- |
+| **Pyrogunner** | ![](../.gitbook/assets/hydro_small.png)  |
+| **Electrohammer** | ![](../.gitbook/assets/cryo_small.png)  |
+
+
 
