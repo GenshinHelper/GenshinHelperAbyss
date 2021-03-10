@@ -42,7 +42,8 @@
 
 ## Changelogs
 
-* [March 2021](changelogs/march-2021.md)
+* [2021](changelogs/2021/README.md)
+  * [March](changelogs/2021/march-2021.md)
 
 ---
 

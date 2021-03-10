@@ -1,7 +1,15 @@
-# March 2021
+---
+description: Changelogs
+---
+
+# March
 
 | Date | Change | Author |
 | :--- | :--- | :--- |
+| Mar 1 | Added Ruin Grader stunned section | AegisD |
+|  | Added Dodge gif to Geovishap Rolling Slam | Network |
+| Mar 2 | Added Ice Cage Aura page | Setz |
+| Mar 6 | Added Ice Cage DMG for all floors | Twofu |
 | Mar 7 | Started Abyss doc in gitbook | AegisD |
 |  | Added Ice Cage page | AegisD |
 |  | Started adding FAQ section | AegisD |
