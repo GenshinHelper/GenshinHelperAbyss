@@ -6,9 +6,7 @@ description: by the Genshin Helper Team
 
 ![](.gitbook/assets/spiral_abyss_banner_no_text.jpg)
 
-## Abyssal Moon Spire
-
-### Current Blessing
+## Blessings
 
 A **charge** accumulates every **10s** \(max 3\). If active character **HP &lt; 50%**, they consume a **charge** when they hit an opponent to create an **unstable energy orb** \(max 1 orb every 2s\). Orbs explode after 1s.
 
