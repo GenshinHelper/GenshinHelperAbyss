@@ -85,3 +85,7 @@ Fight near the **Mitachurl** targeting the pillar to group them together.
 
 **Ice Cage** deals **3417 DMG**
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

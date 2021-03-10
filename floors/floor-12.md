@@ -94,5 +94,9 @@ Getting caught in **Ice Cage** during a **Ruin Grader** spin attack is lethal. P
 
 While it's possible to disable the **Ruin Grader** completely, it's difficult to do in practice and isn't actually that helpful. It's often more effective to just keep attacking them if you stagger them to their knees instead of using that time to shoot their eyes
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+
 
 

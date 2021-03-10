@@ -94,3 +94,7 @@ Here are some basic attack patterns:
 
 **Ice Cage** deals **4266 DMG.**
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+
