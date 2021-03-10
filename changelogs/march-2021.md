@@ -13,7 +13,7 @@
 |  | Added Floor 6 info | AegisD |
 |  | Added Floor 7 info | AegisD |
 |  | Added Floor 8 Info | AegisD |
-|  |  |  |
+| Mar 10 | Adding Geovishap and Ruin Grader pages | AegisD |
 
 ### 
 
