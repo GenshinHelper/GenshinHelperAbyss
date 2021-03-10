@@ -89,3 +89,7 @@ Focus down the **Electro Potioneers** first to prevent being **Overloaded**. The
 
 The **Fireball** Aura from the **Pyro Agent** is difficult to avoid. Make sure you bring healing.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

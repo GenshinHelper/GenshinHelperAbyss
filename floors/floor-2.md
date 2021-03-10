@@ -46,3 +46,7 @@ Focus the **Hydro Samachurls** first as they can heal each other.
 
 Using ![](../.gitbook/assets/cryo_small.png) against **Hydro Abyss Mages** are effective at breaking their shields while also keeping them from attacking you.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

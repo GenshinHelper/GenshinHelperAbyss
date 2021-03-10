@@ -43,3 +43,7 @@ Use ![](../.gitbook/assets/pyro_small.png) to burn through the wooden shields.
 
 Using ranged attacks on the **Electro Cicin Mage** can be difficult due to auto-aim targeting the flies. If you are using ranged attacks, get up close to the Cicin to help with targeting.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

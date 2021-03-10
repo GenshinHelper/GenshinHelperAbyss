@@ -123,5 +123,7 @@ If you don't have a ![](../.gitbook/assets/cryo_small.png) on this team, aim for
 | **Pyrogunner** | ![](../.gitbook/assets/hydro_small.png)  |
 | **Electrohammer** | ![](../.gitbook/assets/cryo_small.png)  |
 
+## Other Resources
 
+Not sure what something means? Check the [Glossary](glossary.md)
 

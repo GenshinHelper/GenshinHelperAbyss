@@ -17,6 +17,7 @@
 * [Floor 10](floors/floor-10.md)
 * [Floor 11](floors/floor-11.md)
 * [Floor 12](floors/floor-12.md)
+* [Glossary](floors/glossary.md)
 
 ## Monsters
 

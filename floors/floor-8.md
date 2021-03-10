@@ -89,3 +89,7 @@ Use ![](../.gitbook/assets/hydro_small.png) to break the shield and stun the **R
 
 The best way to star this chamber is to enter with low health to trigger the **divergence** buff, and kill it after staggering it the first time.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

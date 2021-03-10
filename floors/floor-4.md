@@ -51,3 +51,7 @@ Target the **Hydro Samachurl** first as it can heal the other enemies.
 
 In the second phase, target the **Hydro Abyss Mage** with the **Aura** to prevent bubbles from spawning. Make sure to continue attacking it after breaking it's shield, as they can recover the shield if left too long.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

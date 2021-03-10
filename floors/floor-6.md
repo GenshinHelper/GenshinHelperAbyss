@@ -82,3 +82,7 @@ Use ![](../.gitbook/assets/geo_small.png) , Claymores, or Explosive Damage \(Kle
 
 Focus **Pyro Abyss Mages** whenever you can. Use ![](../.gitbook/assets/hydro_small.png) on their shields.
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+

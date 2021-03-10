@@ -12,6 +12,8 @@
 |  | Added Floor 5 info | AegisD |
 |  | Added Floor 6 info | AegisD |
 |  | Added Floor 7 info | AegisD |
+|  | Added Floor 8 Info | AegisD |
+|  |  |  |
 
 ### 
 

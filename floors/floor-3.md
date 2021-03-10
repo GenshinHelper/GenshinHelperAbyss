@@ -55,3 +55,7 @@ Use an archer to stun the **Ruin Guard**, and then focus it. The **Mitachurl** s
 
 If you rely on ![](../.gitbook/assets/physical_small.png) **DMG**, make sure you have **Superconduct** \( ![](../.gitbook/assets/cryo_small.png)+![](../.gitbook/assets/electro_small.png) \) on the **Ruin Guard** because they have high ![](../.gitbook/assets/physical_small.png) **RES**
 
+## Other Resources
+
+Not sure what something means? Check the [Glossary](glossary.md)
+
