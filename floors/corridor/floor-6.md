@@ -60,6 +60,10 @@ Focus **Hydro** **Samachurls** when they spawn, as they can heal other enemies.
 
 ![](../../.gitbook/assets/6-2-2.png)
 
+| Aura | DMG |
+| :--- | :--- |
+| **Smoldering Flame** | 294![](../../.gitbook/assets/pyro_small.png)/ Tick \(?? DPS\) |
+
 Fight near ranged units to group enemies easier.
 
 Focus **Samachurls** when they spawn, as they can be annoying to deal with.

@@ -25,7 +25,7 @@
 
 | Aura | DMG |
 | :--- | :--- |
-| [Bubbles](../../mechanics/auras/bubbles.md) | 853![](../../.gitbook/assets/hydro_small.png) |
+| [Bubbles](../../mechanics/auras/bubbles.md) | 971![](../../.gitbook/assets/hydro_small.png) |
 
 ![](../../.gitbook/assets/electro_small.png) is the best at dealing damage to **Hydro Slimes** on this floor.
 
