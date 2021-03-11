@@ -24,6 +24,8 @@ Contact me!
 | Network |
 | Miko-chan |
 | Setz |
+| Yumi |
+| Beatus |
 
 ## Special Thanks
 
