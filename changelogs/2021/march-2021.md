@@ -23,6 +23,7 @@ description: Changelogs
 |  | Added Floor 8 Info | AegisD |
 | Mar 10 | Adding Geovishap and Ruin Grader pages | AegisD |
 |  | Added Floor 9, 10 Info | AegisD |
+|  | Adding Floor 11, 12 Info | AegisD |
 
 ### 
 
