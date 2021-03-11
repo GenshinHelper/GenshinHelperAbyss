@@ -38,7 +38,7 @@
   * [Black Hole](mechanics/auras/black-hole.md)
   * [Earthquake](mechanics/auras/shockwave.md)
 * [Video Guides](mechanics/video-guides/README.md)
-  * [11-2 Guides \(v1.3\)](mechanics/video-guides/11-2-guides-v1.3.md)
+  * [11-2 Video Guides](mechanics/video-guides/11-2-guides-v1.3.md)
   * [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md)
   * [Auras](mechanics/video-guides/auras.md)
 

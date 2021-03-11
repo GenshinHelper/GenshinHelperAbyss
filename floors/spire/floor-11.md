@@ -33,7 +33,9 @@ Avoid **Barbara, Xingqiu** as they will cause **Electrocharged** on your charact
 
 ![](../../.gitbook/assets/11-1-1.png)
 
-{% page-ref page="../../mechanics/auras/bubbles.md" %}
+| [Bubbles](../../mechanics/auras/bubbles.md) |  |
+| :--- | :--- |
+| **DMG** | 3424![](../../.gitbook/assets/hydro_small.png) |
 
 Getting hit by ![](../../.gitbook/assets/hydro_small.png) causes **Electrocharged** which can stagger your character. Do your best to avoid these attacks.
 
@@ -57,25 +59,72 @@ Attack the **Stone Shield Mitachurls** when they are attacking if you didn't bri
 
 ![](../../.gitbook/assets/11-2-1.png)
 
+{% page-ref page="../../mechanics/video-guides/11-2-guides-v1.3.md" %}
+
+There are several strategies you can use to beat this Chamber, but it is important to understand the aggro patterns of the mobs! Check out the various Video Guides above if you need help.
+
+Your goal is to have **&gt; 80%** **HP** on the monolith after this side if you're going for a 3★. This will give you a good buffer and let you take a hit or two on the other side.
+
+Any composition can defeat this floor with &gt; 80% HP if you understand how the mobs work. If you don't want to use a specific strategy in the Video Guides, try killing mobs in this order:
+
+* Stone Shield Hilichurls \(4\)
+* Axe Mitachurl \(spawns after Hilichurls\)
+* Archers
+
+While the **Archers** can damage the monolith, they attack fairly slow and only do about **2% HP / 5 seconds** from both archers. If you can kill the enemies quickly enough, this might be easier than worrying about aggro or blocking.
+
 ### Side 2
 
 ![](../../.gitbook/assets/11-2-2.png)
+
+{% page-ref page="../../mechanics/video-guides/11-2-guides-v1.3.md" %}
+
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) |  |
+| :--- | :--- |
+| **DMG** | 721 ![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
+
+This side is slightly easier to manage than the first, but it is also important to understand the aggro patterns, so check out the various video guides.
+
+**Hoarders** are easy to stagger. If you can group them together, continually attacking them will be enough to prevent them from hitting the Monolith. **Hoarders** should be prioritized as they focus the Monolith.
+
+The exception is the **Gravedigger** in the second half. He will only throw dirt at the Monolith which does **no damage** and can be ignored.
+
+Grouping the **Hoarders** together is an effective way to keep them staggered. You can do this with various **Anemo** skills, or try **Sword Charged Attacks** which throw enemies away from you too.
+
+**Electro Cicin Mage** flies can go for the pillar, so try to fight her away from it if possible. This will also prevent the **Electro Triangle** from spawning on the Monolith.
+
+**Electro Triangle** does **5768 DPS**.
 
 ## **Chamber 3**
 
 **Monster Level - 92**
 
+The stage will occasionally be struck by **Electro Storms**. These appear as AoE circles on the ground which trigger after a slight delay, doing ![](../../.gitbook/assets/electro_small.png) **DMG** and draining a very large amount of **Energy**. Avoid these as best as you can.
+
+| Electro Storm |  |
+| :--- | :--- |
+| **DMG** | 1897 ![](../../.gitbook/assets/electro_small.png)  |
+| **Energy Drain** | 40 Energy |
+
 ### Side 1
 
 ![](../../.gitbook/assets/11-3-1.png)
+
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) |  |
+| :--- | :--- |
+| **DMG** | 758 ![](../../.gitbook/assets/electro_small.png) / Tick \(6064 DPS\) |
+
+Focus the **Hydrogunner** in the second half as he can heal the others.
+
+If you are going for 3★ on the chamber, try to down the **Hydrogunner** before he shields. If you do you can also skip bringing ![](../../.gitbook/assets/electro_small.png) on this team.
 
 ### Side 2
 
 ![](../../.gitbook/assets/11-3-2.png)
 
-## Other Resources
+**Pyro Agents** can deal a lot of damage, particularly if both hit you at the same time. Make sure you look out for their attacks and dodge appropriately.
 
-Need more help? Check out some strategies in video form at [11-2 Guides \(v1.3\)](../../mechanics/video-guides/11-2-guides-v1.3.md) 
+## Other Resources
 
 Not sure what something means? Check the [Glossary](../glossary.md)
 
