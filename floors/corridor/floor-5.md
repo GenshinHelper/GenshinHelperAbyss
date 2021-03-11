@@ -29,17 +29,21 @@ Keeping your **Main Carry** above **95% HP** is important to maximize damage on 
 
 ![](../../.gitbook/assets/5-1-1.png)
 
-{% page-ref page="../../mechanics/auras/ice-cage.md" %}
+| Aura | DMG |
+| :--- | :--- |
+| \*\*\*\*[**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 1594![](../../.gitbook/assets/cryo_small.png) |
 
 ![](../../.gitbook/assets/pyro_small.png) is the most effective against **Cryo Slime** shields. Kill the **Cryo Slimes** before they can reshield 
 
 Focus the **Large Cryo Slimes** as they are the most threatening followed by the **Archers** as they can disrupt your combos. The last **Large Cryo Slime** causes the **Ice Cage**. Prioritize it when it spawns
 
-**Ice Cage** deals **1594 DMG**
-
 ### Side 2
 
 ![](../../.gitbook/assets/5-1-2.png)
+
+| Aura | DMG |
+| :--- | :--- |
+| **Smoldering Flame** | 203![](../../.gitbook/assets/pyro_small.png)/ Tick \(?? DPS\) |
 
 Focus the **Pyro Abyss Mage** on the left that has the **Aura** to prevent getting debuffed by **Smoldering Flames.**
 
@@ -84,6 +88,10 @@ The Cicin's **Aura** will drain your energy, so use bursts when they are up.
 ### Side 2
 
 ![](../../.gitbook/assets/5-3-2.png)
+
+| Aura | DMG |
+| :--- | :--- |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 598![](../../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Focus down the **Electro Potioneers** first to prevent being **Overloaded**. The **Pyro Agent** will come to you.
 

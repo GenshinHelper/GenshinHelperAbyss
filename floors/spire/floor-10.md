@@ -37,11 +37,11 @@ Fight near the **Grenadiers** and let the **Slimes** come to you
 
 ![](../../.gitbook/assets/10-1-2.png)
 
-{% page-ref page="../../mechanics/auras/ice-cage.md" %}
+| Aura | DMG |
+| :--- | :--- |
+| [Ice Cage](../../mechanics/auras/ice-cage.md) | 3785![](../../.gitbook/assets/cryo_small.png) |
 
 Focus the **Hydro Samachurls** and quickly burst them down before they can heal. If get **Frozen** too much, try breaking **Cryo Abyss Mage** shield before switching to the **Hydro Samachurls** to make it easier.
-
-**Ice Cage** deals **3785 DMG**
 
 ## **Chamber 2**
 
@@ -69,19 +69,21 @@ Killing off **Potioneers** will make it easier to deal with the **Cryo Cicin**.
 
 ![](../../.gitbook/assets/10-3-1.png)
 
-{% page-ref page="../../mechanics/auras/ice-cage.md" %}
+| Aura | DMG |
+| :--- | :--- |
+| [Ice Cage](../../mechanics/auras/ice-cage.md) | 4194![](../../.gitbook/assets/cryo_small.png) |
 
 Focus the **Cryo Cicin** to get rid of **Ice Cage**. The **Pyro Fatui** will come towards you anyway, letting you group them easily.
 
 **Cicin Flies** will continually recharge the shield on **Cryo Cicin Mage** when alive. Kill them to stop her from reshielding.
 
-**Ice Cage** deals **4194 DMG**.
-
 ### Side 2
 
 ![](../../.gitbook/assets/10-3-2.png)
 
-{% page-ref page="../../mechanics/auras/ice-cage.md" %}
+| Aura | DMG |
+| :--- | :--- |
+| [Ice Cage](../../mechanics/auras/ice-cage.md) | 4266![](../../.gitbook/assets/cryo_small.png) |
 
 Use ![](../../.gitbook/assets/pyro_small.png) to break through the shield. After doing this, the **Lawachurl** will be vulnerable to staggering, making the fight easier.
 
@@ -91,8 +93,6 @@ Here are some basic attack patterns:
 * Pattern 2: Winds up a wide frontal swing which leaves behind some exploding ice
 * Pattern 3: Leans back and roars and then leaps at the player, and then does a large ground slam Pattern 4: charges at a distant player and leaves ice that explodes after a delay at it's destination \(can also end in a slam if charge ends close to player\)
 * Pattern 5: digs up an object to throw at the player Pattern 6: slam followed by large ground slam
-
-**Ice Cage** deals **4266 DMG.**
 
 ## Other Resources
 

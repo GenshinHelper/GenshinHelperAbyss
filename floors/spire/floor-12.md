@@ -82,9 +82,9 @@ This side is generally harder than **Side 2** since the **Geovishaps** on this s
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F4a7a94d3c4cf950d5a4b66feeb4281b7f36b88b1.png?alt=media)
 
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 946![](../../.gitbook/assets/electro_small.png) / Tick \(7568 DPS\) |
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 946![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
 
 It's fairly difficult to keep the **Cicins** grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
 
@@ -103,9 +103,9 @@ Electro & Cryo Cicin: ~450-500K HP"
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F427319af261c0032ce5a27be7c467d0a58a93098.png?alt=media)
 
-| [Fireball](../../mechanics/auras/fireball.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 2365 ![](../../.gitbook/assets/pyro_small.png) / Explosion |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 2365 ![](../../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
@@ -122,9 +122,9 @@ Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fc25b44c65ef4e4ca195a0e210bde2e8eb51c96e4.png?alt=media)
 
-| [Earthquake](../../mechanics/auras/shockwave.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 3349![](../../.gitbook/assets/geo_small.png) / Wave |
+| [Earthquake](../../mechanics/auras/shockwave.md) | 3349![](../../.gitbook/assets/geo_small.png) / Wave |
 
 The **Earthquake** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
 
@@ -146,9 +146,9 @@ Trying to avoid the **Earthquake** aura can be a big time loss due to how often 
 
 ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fb0507bc78894bb328c8a77e9807c3fbbc211ecac.png?alt=media)
 
-| [Ice Cage](../../mechanics/auras/ice-cage.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 6699![](../../.gitbook/assets/cryo_small.png) |
+| [Ice Cage](../../mechanics/auras/ice-cage.md) | 6699![](../../.gitbook/assets/cryo_small.png) |
 
 Getting caught in **Ice Cage** during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
 

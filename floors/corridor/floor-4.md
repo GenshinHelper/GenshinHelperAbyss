@@ -23,6 +23,10 @@
 
 ![](../../.gitbook/assets/4-1.png)
 
+| Aura | DMG |
+| :--- | :--- |
+| [Bubbles](../../mechanics/auras/bubbles.md) | 853![](../../.gitbook/assets/hydro_small.png) |
+
 ![](../../.gitbook/assets/electro_small.png) is the best at dealing damage to **Hydro Slimes** on this floor.
 
 Use ![](../../.gitbook/assets/cryo_small.png) on the **Hydro Abyss Mages** so they stay frozen in place and cannot attack. Their **Aura** \(Bubbles\) will still spawn when frozen
@@ -35,6 +39,10 @@ Use ![](../../.gitbook/assets/cryo_small.png) on the **Hydro Abyss Mages** so th
 
 ![](../../.gitbook/assets/4-2.png)
 
+| Aura | DMG |
+| :--- | :--- |
+| [Bubbles](../../mechanics/auras/bubbles.md) | 971![](../../.gitbook/assets/hydro_small.png) |
+
 Most of the enemies that attack the monolith will be ![](../../.gitbook/assets/hydro_small.png) . Use ![](../../.gitbook/assets/cryo_small.png) to **Freeze** them and prevent them from damaging the monolith.
 
 If you fight too close to the monolith, **Hilichurls** may hit the pillar by accident. Try not to fight directly next to the monolith
@@ -46,6 +54,10 @@ Both **Hydro Abyss Mages** target the monolith. Make sure you **Freeze** them as
 **Monster Level - 50**
 
 ![](../../.gitbook/assets/4-3.png)
+
+| Aura | DMG |
+| :--- | :--- |
+| [Bubbles](../../mechanics/auras/bubbles.md) | 971![](../../.gitbook/assets/hydro_small.png) |
 
 Target the **Hydro Samachurl** first as it can heal the other enemies.
 

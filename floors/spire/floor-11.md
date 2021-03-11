@@ -33,9 +33,9 @@ Avoid **Barbara, Xingqiu** as they will cause **Electrocharged** on your charact
 
 ![](../../.gitbook/assets/11-1-1.png)
 
-| [Bubbles](../../mechanics/auras/bubbles.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 3424![](../../.gitbook/assets/hydro_small.png) |
+| [Bubbles](../../mechanics/auras/bubbles.md) | 3424![](../../.gitbook/assets/hydro_small.png) |
 
 Getting hit by ![](../../.gitbook/assets/hydro_small.png) causes **Electrocharged** which can stagger your character. Do your best to avoid these attacks.
 
@@ -79,9 +79,9 @@ While the **Archers** can damage the monolith, they attack fairly slow and only 
 
 {% page-ref page="../../mechanics/video-guides/11-2-guides-v1.3.md" %}
 
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 721 ![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 721 ![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
 
 This side is slightly easier to manage than the first, but it is also important to understand the aggro patterns, so check out the various video guides.
 
@@ -110,9 +110,9 @@ The stage will occasionally be struck by **Electro Storms**. These appear as AoE
 
 ![](../../.gitbook/assets/11-3-1.png)
 
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) |  |
+| Aura | DMG |
 | :--- | :--- |
-| **DMG** | 758 ![](../../.gitbook/assets/electro_small.png) / Tick \(6064 DPS\) |
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 758![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
 
 Focus the **Hydrogunner** in the second half as he can heal the others.
 

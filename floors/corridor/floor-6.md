@@ -62,7 +62,7 @@ Focus **Hydro** **Samachurls** when they spawn, as they can heal other enemies.
 
 Fight near ranged units to group enemies easier.
 
-Focus **amachurls** when they spawn, as they can be annoying to deal with.
+Focus **Samachurls** when they spawn, as they can be annoying to deal with.
 
 ## **Chamber 3**
 
@@ -79,6 +79,10 @@ Use ![](../../.gitbook/assets/geo_small.png) , Claymores, or Explosive Damage \(
 ### Side 2
 
 ![](../../.gitbook/assets/6-3-2.png)
+
+| Aura | DMG |
+| :--- | :--- |
+| **Smoldering Flame** | 295![](../../.gitbook/assets/pyro_small.png)/ Tick \(?? DPS\) |
 
 Focus **Pyro Abyss Mages** whenever you can. Use ![](../../.gitbook/assets/hydro_small.png) on their shields.
 

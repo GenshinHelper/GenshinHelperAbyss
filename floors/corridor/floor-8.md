@@ -45,6 +45,10 @@ You can sometimes push the two Abyss Mages together with movement or abilities, 
 
 ![](../../.gitbook/assets/8-1-2.png)
 
+| Aura | DMG |
+| :--- | :--- |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 1080![](../../.gitbook/assets/pyro_small.png)/ Explosion |
+
 Use ![](../../.gitbook/assets/hydro_small.png) to bring down the **Pyro Abyss Mage** shield.
 
 Focus the one with the **Fireball Aura** to stop it from spawning.
