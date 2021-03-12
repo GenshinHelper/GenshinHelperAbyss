@@ -26,6 +26,7 @@ description: Changelogs
 |  | Adding Floor 11, 12 Info | AegisD |
 |  | Adding Ice Cage DMG | Miko-chan |
 |  | Adding all remaining Aura DMG | Twofu |
+| Mar 11 | Double checked doc before first public release | Twofu |
 
 ### 
 

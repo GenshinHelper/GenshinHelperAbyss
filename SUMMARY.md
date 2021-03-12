@@ -36,7 +36,7 @@
   * [Ice Cage](mechanics/auras/ice-cage.md)
   * [Electro Triangle](mechanics/auras/electro-triangle.md)
   * [Black Hole](mechanics/auras/black-hole.md)
-  * [Earthquake](mechanics/auras/shockwave.md)
+  * [Shockwave](mechanics/auras/shockwave.md)
 * [Video Guides](mechanics/video-guides/README.md)
   * [11-2 Video Guides](mechanics/video-guides/11-2-guides-v1.3.md)
   * [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md)

@@ -39,12 +39,6 @@ Note that resets **aren't tied to patches**! If a new version releases, Abyss wo
 
 The progress and rewards for these floors do not reset, and can only be obtained once.
 
-### I beat Floor 8 but I didn't get the rewards shown on the Event banner?
-
-&lt;img&gt;
-
-Clearing Floor 8 does not grant any additional rewards. The ones shown in the **Moment of Szyzygy** banner are just a summary of all the rewards obtainable from **Floors 1-8** for clearing each floor and obtaining 9★
-
 ## Progression
 
 ### I cleared the 3rd chamber but it won't let me go to the next floor?

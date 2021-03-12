@@ -35,7 +35,7 @@ Avoid **Barbara, Xingqiu** as they will cause **Electrocharged** on your charact
 
 | Aura | DMG |
 | :--- | :--- |
-| [Bubbles](../../mechanics/auras/bubbles.md) | 3424![](../../.gitbook/assets/hydro_small.png) |
+| \*\*\*\*[**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | 3424![](../../.gitbook/assets/hydro_small.png) |
 
 Getting hit by ![](../../.gitbook/assets/hydro_small.png) causes **Electrocharged** which can stagger your character. Do your best to avoid these attacks.
 
@@ -73,6 +73,8 @@ Any composition can defeat this floor with &gt; 80% HP if you understand how the
 
 While the **Archers** can damage the monolith, they attack fairly slow and only do about **2% HP / 5 seconds** from both archers. If you can kill the enemies quickly enough, this might be easier than worrying about aggro or blocking.
 
+Another common strategy is to kill the initial **Pyro Archer**, and only that archer. Doing this makes sure the two archers in the chamber are targeting you. Focus the remaining enemies in the order listed above.
+
 ### Side 2
 
 ![](../../.gitbook/assets/11-2-2.png)
@@ -81,7 +83,7 @@ While the **Archers** can damage the monolith, they attack fairly slow and only 
 
 | Aura | DMG |
 | :--- | :--- |
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 721 ![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
+| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 721 ![](../../.gitbook/assets/electro_small.png) / Tick _\(8 ticks / second\)_ |
 
 This side is slightly easier to manage than the first, but it is also important to understand the aggro patterns, so check out the various video guides.
 
@@ -91,9 +93,9 @@ The exception is the **Gravedigger** in the second half. He will only throw dirt
 
 Grouping the **Hoarders** together is an effective way to keep them staggered. You can do this with various **Anemo** skills, or try **Sword Charged Attacks** which throw enemies away from you too.
 
-**Electro Cicin Mage** flies can go for the pillar, so try to fight her away from it if possible. This will also prevent the **Electro Triangle** from spawning on the Monolith.
+**Electro Cicin Mage** flies can go for the pillar, so try to fight her away from it if possible. Remember the **Electro Triangle** spawns where you are too, so keeping yourself far from the Monolith is safest.
 
-**Electro Triangle** does **5768 DPS**.
+**Pyro Agent** can do about **20%** of Monolith health in a single attack. Make sure you don't get the Monolith between you and the Pyro Agent when it attacks, or it will get hit.
 
 ## **Chamber 3**
 
@@ -112,7 +114,7 @@ The stage will occasionally be struck by **Electro Storms**. These appear as AoE
 
 | Aura | DMG |
 | :--- | :--- |
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 758![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
+| \*\*\*\*[**Electro Triangle**](../../mechanics/auras/electro-triangle.md)\*\*\*\* | 758![](../../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 Focus the **Hydrogunner** in the second half as he can heal the others.
 

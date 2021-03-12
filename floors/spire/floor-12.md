@@ -38,7 +38,7 @@ Once infused, Geovishaps will gain resistance to that element \(30%\)
 
 | Monster | HP |
 | :--- | :--- |
-| [Geovishap](../../monsters/geovishap.md) | ~400K |
+| \*\*\*\*[**Geovishap**](../../monsters/geovishap.md)\*\*\*\* | ~400K |
 
 ### Side 1
 
@@ -84,15 +84,13 @@ This side is generally harder than **Side 2** since the **Geovishaps** on this s
 
 | Aura | DMG |
 | :--- | :--- |
-| [Electro Triangle](../../mechanics/auras/electro-triangle.md) | 946![](../../.gitbook/assets/electro_small.png) / Tick \(5768 DPS\) |
+| \*\*\*\*[**Electro Triangle**](../../mechanics/auras/electro-triangle.md)\*\*\*\* | 946![](../../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 It's fairly difficult to keep the **Cicins** grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
 
 Aim the **Electro Cicin** first to get rid of the **Electro Triangle**. The **Cryo Cicin** will mostly ignore you during this time.
 
 **Cryo Cicin** will keep regenerating her shield as long as she has Cicin flies alive. Kill them to slow/stop the recharge.
-
-Electro & Cryo Cicin: ~450-500K HP"
 
 | Monster | HP |
 | :--- | :--- |
@@ -124,9 +122,9 @@ Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
 | Aura | DMG |
 | :--- | :--- |
-| [Earthquake](../../mechanics/auras/shockwave.md) | 3349![](../../.gitbook/assets/geo_small.png) / Wave |
+| [**Shockwave**](../../mechanics/auras/shockwave.md)\*\*\*\* | 3349![](../../.gitbook/assets/geo_small.png) / Wave |
 
-The **Earthquake** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
+The **Shockwave** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
 
 Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier.
 
@@ -138,9 +136,9 @@ Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier.
 
 Any **Elemental** based team will be effective against Ruin Guards.
 
-If you want to group the Ruin Guards quickly, the best way is to stay in the middle and let them come to you. Moving closer to either Ruin Guard will cause the other to stop and fire a Missile Attack, which makes them group together slower. You may however miss out on some damage waiting this way. Pick the strategy that best suits your comp.
+One way to group the Ruin Guards quickly is to stay in the middle and let them come to you, but this is RNG dependent. Moving closer to either Ruin Guard may cause the other to stop and fire a Missile Attack, which makes them group together slower. You might however miss out on some damage standing in the middle too. Pick the strategy that best suits your comp.
 
-Trying to avoid the **Earthquake** aura can be a big time loss due to how often it is on field. It is better to try and Shield/Heal through it and just take the damage if possible.
+Trying to avoid the **Earthquake** aura can be a big time loss due to how often it is on field. It is better to try and Shield/Heal through it and just take the damage if possible. If you try to dodge the wave, try to dodge into a ruin grader. This prevents you from moving further away, but still gives you i-frames that will prevent the damage.
 
 ### Side 2
 
@@ -148,7 +146,7 @@ Trying to avoid the **Earthquake** aura can be a big time loss due to how often 
 
 | Aura | DMG |
 | :--- | :--- |
-| [Ice Cage](../../mechanics/auras/ice-cage.md) | 6699![](../../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 6699![](../../.gitbook/assets/cryo_small.png) |
 
 Getting caught in **Ice Cage** during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
 
