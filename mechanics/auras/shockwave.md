@@ -1,8 +1,10 @@
-# Earthquakes
+# Shockwave
+
+![](../../.gitbook/assets/geo_med.png)
 
 |  |  |
-| :--- | :--- |
-| **Damage Type** | **Geo** |
+| :--- | :---: |
+| **Damage Type** | ![](../../.gitbook/assets/geo_med.png)  |
 | **Timer** | 14.75s |
 | **Duration** | 8s |
 
@@ -23,7 +25,6 @@
           <br />
           <br />The total duration of the 2 earthquakes travelling is 4 seconds. Once
           they disappear the 2nd red rectangle will appear and spawn 2 more earthquakes.</p>
-        <p></p>
         <p>You can just avoid the damage by dashing out of the way before the waves
           hit you.</p>
       </td>
@@ -34,7 +35,6 @@
         <p>if you don&apos;t pay attention to the earthquakes they can hit you when
           you&apos;re off-guard. They are harder to see with aimed-shot characters
           because zoom in while in aimed mode.</p>
-        <p></p>
         <p>If you are unable to avoid the damage consistently you can use a shield,
           use your burst or switch to another character to keep your important characters
           from taking the damage.</p>
@@ -45,7 +45,6 @@
       <td style="text-align:left">
         <p>It is possible to <b>iframe</b> dash through an earthquake and not take
           any damage.</p>
-        <p></p>
         <p>However you <b>cannot iframe</b> through both earthquakes because your dash
           doesn&apos;t travel far enough to dodge both of them. You&apos;ll not take
           damage on one but that dash will head straight for the 2nd one so it&apos;s

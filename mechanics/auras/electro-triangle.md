@@ -1,10 +1,13 @@
 # Electro Triangle
 
+![](../../.gitbook/assets/electro_triangle_small.png)
+
 |  |  |
-| :--- | :--- |
-| **Damage Type** | **Electro** |
+| :--- | :---: |
+| **Damage Type** | \*\*\*\*![](../../.gitbook/assets/electro_small.png) **** |
 | **Timer** | 11.75s |
 | **Duration** | 5s |
+| **Tick Frequency** | 8 per second |
 
 <table>
   <thead>
@@ -16,33 +19,32 @@
   <tbody>
     <tr>
       <td style="text-align:left">&#x200B;
-        <img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVXm_5H8kiX7PhrLht4%2F-MVYpQ7AJiafGFLX1U6N%2F-MVYvsBvdo_gpaDTA2Ts%2FElectro%20Aura%20spawn.gif?alt=media&amp;token=2654be93-543f-42d4-bbaf-84aec8dd041c"
-        alt/>
+        <img src="../../.gitbook/assets/electro_aura_spawn.gif" alt/>
       </td>
       <td style="text-align:left">
-        <p>The Electro Triangle will appear in front of the character in the direction
-          they are facing. It acts as a roadblock to get in your way.</p>
-        <p>&#x200B;</p>
-        <p>Be sure to watch your surroundings so you don&apos;t get caught off-guard
-          in an awkward position when it spawns.</p>
+        <p>Spawns directly in front of you in a &quot;V&quot; shape.</p>
+        <p>
+          <br />If you stay where you are, you will not be hit by it.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">
-        <p>The Triangle does 8 ticks every second for 5 seconds. The electro damage
-          will also cause your character attacks to be interrupted.</p>
-        <p>&#x200B;</p>
-        <p>Your character can very quickly die if you fight around the triangle and
-          accidentally touch it. So try to move away from where the triangle is to
-          avoid sticky situations.</p>
+      <td style="text-align:left">&#x200B;
+        <img src="../../.gitbook/assets/electro_aura_damage.gif" alt/>
       </td>
+      <td style="text-align:left">Touching any part of the triangle causes you to take damage quickly, at
+        a rate of <b>8 ticks/second</b>s.
+        <br />
+        <br />The damage will also cause your character&apos;s attacks to be interrupted.
+        Prioritize moving out of it.</td>
     </tr>
     <tr>
-      <td style="text-align:left">&#x200B;</td>
-      <td style="text-align:left">You can iframe dash through the triangle and not take any damage. Be sure
-        to be at a right angle when you iframe or else you&apos;ll take damage
-        after the dash.</td>
+      <td style="text-align:left">&#x200B;
+        <img src="../../.gitbook/assets/electro_aura_iframe.gif" alt/>
+      </td>
+      <td style="text-align:left">You can <b>dash</b> through it to avoid all damage.
+        <br />
+        <br />Make sure you dash straight through it and not at an angle, or you may
+        end your dash still touching it and take damage.</td>
     </tr>
   </tbody>
 </table>

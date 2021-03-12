@@ -27,6 +27,8 @@ description: Changelogs
 |  | Adding Ice Cage DMG | Miko-chan |
 |  | Adding all remaining Aura DMG | Twofu |
 | Mar 11 | Double checked doc before first public release | Twofu |
+|  | Added pages on Fireball, Bubbles, Electro Triangle Auras | Miko-chan |
+|  | Added images/edited Fireball, Bubbles, Electro Triangle Auras | AegisD |
 
 ### 
 

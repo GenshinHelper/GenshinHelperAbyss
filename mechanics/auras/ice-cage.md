@@ -8,6 +8,10 @@
 | **Timer** | 11.75s |
 | **Duration** | 2s |
 
+![](../../.gitbook/assets/damage.gif)
+
+
+
 <table>
   <thead>
     <tr>

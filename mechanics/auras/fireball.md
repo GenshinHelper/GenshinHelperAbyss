@@ -1,10 +1,10 @@
-# Fireballs
+# Fireball
 
-
+![](../../.gitbook/assets/pyro_fireball_med.png)
 
 |  |  |
-| :--- | :--- |
-| **Damage Type** | **Pyro** |
+| :--- | :---: |
+| **Damage Type** | \*\*\*\*![](../../.gitbook/assets/pyro_small.png) **** |
 | **Timer** | 19.75s |
 | **Duration** | 10s |
 
@@ -17,39 +17,46 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p>The fireball will spawn from where the enemy is and will travel to your
-          current location. When it reaches your location it will stop and do 3 explosions
-          and then will travel to your current location again for 2 more time up
-          to a total of 9 explosions.</p>
+        <img src="../../.gitbook/assets/fire_aura_spawn_and_damage.gif" alt/>
+      </td>
+      <td style="text-align:left">Spawns from an enemy and travels towards the player. When it reaches you,
+        it will stop and do <b>3 explosions</b>.
+        <br />
+        <br />It will then follow you again <b>1-2</b> more times, triggering another <b>3 explosions</b> each
+        time.</td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fire_aura_dodge_fail.gif" alt/>
+      </td>
+      <td style="text-align:left">
+        <p>It is very difficult to completely avoid the fireball. Dashing too early
+          will cause the fireball to turn quickly and still hit you.</p>
         <p></p>
-        <p>Just dash away from the explosions to keep yourself safe.</p>
+        <p>If you get hit, quickly move out of the AoE to avoid the next 2 explosions.</p>
       </td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">If you move far enough away from the last fireball location it will not
-        home into you and will instead fly away from the arena.</td>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/fire_aura_iframe.gif" alt/>
+      </td>
+      <td style="text-align:left">It is possible to avoid all damage with the correct dodge timing.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">The fireball is always set to always last <b>10 seconds</b> so if you let
-        the fireball fly for too long to reach your location it will time out,
-        not doing all 9 explosions and will just disappear.</td>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/goodbye_fire_aura_2.gif" alt/>
+      </td>
+      <td style="text-align:left">The fireball is duration based, lasting about <b>10 seconds</b> max. Causing
+        the fireball to travel further will actually reduce the number of total
+        explosions.</td>
     </tr>
     <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">Normally you will always take damage from the first explosion of the fireball
-        when it reaches you location but it is possible to use <b>iframes </b>to
-        dodge it although the window is very tight and you need to be prepared
-        to dodge it beforehand to avoid the first hit consistently.</td>
-    </tr>
-    <tr>
-      <td style="text-align:left"></td>
-      <td style="text-align:left">If you dash too early trying to avoid the first hit the fireball will
-        still travel to you location at the end of the dash and cause you to take
-        the damage.</td>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/goodbye_fire_aura.gif" alt/>
+      </td>
+      <td style="text-align:left">Moving far enough away from the fireball between explosions can also cause
+        it to fly off the arena.</td>
     </tr>
   </tbody>
 </table>

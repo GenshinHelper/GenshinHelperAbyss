@@ -1,10 +1,10 @@
 # Bubbles
 
-
+![](../../.gitbook/assets/hydro_bubble_med.png)
 
 |  |  |
-| :--- | :--- |
-| **Damage Type** | Hydro |
+| :--- | :---: |
+| **Damage Type** | ![](../../.gitbook/assets/hydro_small.png)  |
 | **Timer** | 11.75s |
 | **Duration** | 10s |
 
@@ -17,27 +17,41 @@
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left"></td>
       <td style="text-align:left">
-        <p>2 sets consisting of 4 bubbles will spawn around you. Only the 1st of
-          4 bubbles will spawn, but if you leave the area those bubbles surround
-          the 2nd set of bubbles will spawn for a total of 8 bubbles maximum. Touching
-          them will cause you to take damage.</p>
+        <img src="../../.gitbook/assets/hydro_aura_damage.gif" alt/>
+      </td>
+      <td style="text-align:left">
+        <p>4 bubbles spawn in a &quot;+&quot; pattern around the player.</p>
         <p></p>
-        <p>Be aware of you surroundings and do not carelessly dash away from the
-          area as you might dash on top of where a bubble will spawn.</p>
+        <p>Touching them pops the bubble, causing you to take damage.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/hydro_aura_2nd_set.gif" alt/>
+      </td>
+      <td style="text-align:left">
+        <p>Leaving the initial AoE will cause a second set of bubbles to spawn.</p>
+        <p></p>
+        <p>Be careful not to dash out of the first set and into where the second
+          set will spawn.</p>
+      </td>
+    </tr>
+    <tr>
+      <td style="text-align:left">
+        <img src="../../.gitbook/assets/hydro_aura.gif" alt/>
+      </td>
+      <td style="text-align:left">
+        <p>You can destroy the bubbles with attacks and abilities.</p>
+        <p></p>
+        <p>Even if you destroy all the bubbles, leaving the initial AoE will spawn
+          the second set.</p>
       </td>
     </tr>
     <tr>
       <td style="text-align:left"></td>
-      <td style="text-align:left">You can destroy the bubbles with your character attacks lessening the
-        obstacles that can harm you.
-        <br />
-        <br />The 2nd set bubbles will still spawn even though you destroy the 1st set
-        of bubbles.</td>
+      <td style="text-align:left"></td>
     </tr>
   </tbody>
 </table>
-
-
 
