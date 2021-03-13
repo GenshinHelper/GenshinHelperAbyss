@@ -20,7 +20,7 @@ While **Geovishaps** are resistant to ****![](../../.gitbook/assets/geo_small.pn
 
 ## Team Recommendations
 
-|  |  |  |
+|  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png) |  |
 | **Preferred Damage** | ![](../../.gitbook/assets/hydro_small.png) ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) ![](../../.gitbook/assets/electro_small.png) |
