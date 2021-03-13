@@ -15,11 +15,18 @@ All debuffs last **20 seconds**, or until **cleansed** by an elemental reaction 
 
 Debuffs can either come from an **enemy** \(aura\), or be part of the **stage** \(divergence in Domain/Abyss\). The two work slightly differently
 
+### Enemy Debuffs
+
+{% embed url="https://imgur.com/ZHPxYiD" %}
+
+
+
+
+
 | Enemy | Stage |
 | :--- | :--- |
+| [https://imgur.com/ZHPxYiD](https://imgur.com/ZHPxYiD) |  |
 |  |  |
-
-
 
 
 
