@@ -32,7 +32,7 @@ description: Changelogs
 | Mar 12 | Added pages on Debuffs with gifs | Miko-chan |
 |  | Edited page on Debuffs | AegisD |
 | Mar 13 | Edited Shockwave page | AegisD |
-|  |  |  |
+|  | Updated formatting on Aura pages | AegisD |
 
 ### 
 
