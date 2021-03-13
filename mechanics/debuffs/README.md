@@ -23,6 +23,16 @@ Debuffs can either come from an **enemy** \(aura\), or be part of the **stage** 
 
 ![test](../../.gitbook/assets/debuff_apply_enemy.mp4) ![test2](../../.gitbook/assets/electro_small.png)
 
+<div>
+<video width="384" height="216" loop autoplay muted>
+  <source src="../../.gitbook/assets/debuff_apply_enemy.mp4" type="video/mp4">
+</video>
+
+<video width="384" height="216" loop autoplay muted>
+  <source src="https://imgur.com/ZHPxYiD" type="video/mp4">
+</video>
+</div>
+
 ### Enemy Debuffs
 
 | Enemy | Stage |
