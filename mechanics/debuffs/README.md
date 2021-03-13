@@ -6,29 +6,25 @@ Debuffs apply an **element** to the character, as well as a secondary effect bas
 
 | Element | Name | Effect |
 | :---: | :--- | :--- |
-| ![](../../.gitbook/assets/pyro_small.png)  |  **Smoldering Flames** | Active character takes![](../../.gitbook/assets/pyro_small.png) **DMG** once every second |
-| ![](../../.gitbook/assets/cryo_small.png)  |  **Condensed Ice** | Increases **Stamina Consumption** by **2x** |
-| ![](../../.gitbook/assets/hydro_small.png)  |  **Slowing Water** | Increases **Skill Cooldowns** by **2x** |
-| ![](../../.gitbook/assets/electro_small.png)  |  **Engulfing Storm** | Drains **5 energy** every 3 seconds |
+| ![](../../.gitbook/assets/pyro_small.png) | **Smoldering Flames** | Active character takes![](../../.gitbook/assets/pyro_small.png) **DMG** once every second |
+| ![](../../.gitbook/assets/cryo_small.png) | **Condensed Ice** | Increases **Stamina Consumption** by **2x** |
+| ![](../../.gitbook/assets/hydro_small.png) | **Slowing Water** | Increases **Skill Cooldowns** by **2x** |
+| ![](../../.gitbook/assets/electro_small.png) | **Engulfing Storm** | Drains **5 energy** every 3 seconds |
 
 All debuffs last **20 seconds**, or until **cleansed** by an elemental reaction \(see [Removing Debuffs](removing-debuffs.md)\).
 
 Debuffs can either come from an **enemy** \(aura\), or be part of the **stage** \(divergence in Domain/Abyss\). The two work slightly differently
 
+{% embed url="https://imgur.com/ZHPxYiD" %}
+
+
+
 ### Enemy Debuffs
-
-{% embed url="../../gitbook/assets/debuff_apply_enemy.mp4" %}
-
-
-
-
 
 | Enemy | Stage |
 | :--- | :--- |
 | [https://imgur.com/ZHPxYiD](https://imgur.com/ZHPxYiD) |  |
 |  |  |
-
-
 
 |  |  |
 | :--- | :--- |
