@@ -18,8 +18,9 @@ You'll have to inflict yourself with an element that reacts with that element in
 
 ## Self Cleansers
 
-| Character | Applied Element | Skill |
+| Character | Applied Element | Talent |
 | :---: | :---: | :---: |
+| ![](../../.gitbook/assets/ui_avataricon_beidou.png) | ![](../../.gitbook/assets/electro_small.png) | Skill |
 | ![](../../.gitbook/assets/ui_avataricon_razor.png)  | ![](../../.gitbook/assets/electro_small.png)  | Burst |
 | ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../../.gitbook/assets/hydro_small.png)  | Skill |
 
