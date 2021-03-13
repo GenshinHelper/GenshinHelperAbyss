@@ -29,6 +29,8 @@ description: Changelogs
 | Mar 11 | Double checked doc before first public release | Twofu |
 |  | Added pages on Fireball, Bubbles, Electro Triangle Auras | Miko-chan |
 |  | Added images/edited Fireball, Bubbles, Electro Triangle Auras | AegisD |
+| Mar 12 | Added pages on Debuffs with gifs | Miko-chan |
+|  | Edited page on Debuffs | AegisD |
 
 ### 
 

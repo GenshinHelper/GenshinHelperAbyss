@@ -1,7 +1,7 @@
 # Removing Debuffs
 
-{% hint style="info" %}
-This page is under construction!
+{% hint style="danger" %}
+This page is undergoing active work. Please come back later!
 {% endhint %}
 
 ## Team Cleansers
@@ -18,9 +18,45 @@ You'll have to inflict yourself with an element that reacts with that element in
 
 ## Self Cleansers
 
-| Character | Applied Element | Talent |
-| :---: | :---: | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_beidou.png) | ![](../../.gitbook/assets/electro_small.png) | Skill |
-| ![](../../.gitbook/assets/ui_avataricon_razor.png)  | ![](../../.gitbook/assets/electro_small.png)  | Burst |
-| ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../../.gitbook/assets/hydro_small.png)  | Skill |
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">Character</th>
+      <th style="text-align:center">Applied Element</th>
+      <th style="text-align:center">Talent</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_beidou.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/electro_small.png" alt/>
+      </td>
+      <td style="text-align:center">Skill</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_razor.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/electro_small.png" alt/>
+      </td>
+      <td style="text-align:center">Burst</td>
+    </tr>
+    <tr>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../../.gitbook/assets/hydro_small.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <p>Skill</p>
+        <p>This page is undergoing active work. Please come back later!</p>
+      </td>
+    </tr>
+  </tbody>
+</table>
 
