@@ -1,5 +1,9 @@
 # Debuffs
 
+{% hint style="danger" %}
+This page is undergoing active work. Please come back later!
+{% endhint %}
+
 ## Mechanics
 
 Debuffs apply an **element** to the character, as well as a secondary effect based on the element.
@@ -15,14 +19,9 @@ All debuffs last **20 seconds**, or until **cleansed** by an elemental reaction 
 
 Debuffs can either come from an **enemy** \(aura\), or be part of the **stage** \(divergence in Domain/Abyss\). The two work slightly differently
 
-{% embed url="https://imgur.com/ZHPxYiD" %}
+{% embed url="https://imgur.com/ZHPxYiD" caption="" %}
 
-<video width="384" height="216" loop autoplay muted>
-  <source src="../../.gitbook/assets/debuff_apply_enemy.mp4" type="video/mp4">
-</video>
-
-![test](../../.gitbook/assets/debuff_apply_enemy.mp4)
-![test2](../../.gitbook/assets/electro_small.png)
+![test](../../.gitbook/assets/debuff_apply_enemy.mp4) ![test2](../../.gitbook/assets/electro_small.png)
 
 ### Enemy Debuffs
 
