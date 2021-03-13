@@ -17,7 +17,7 @@ Debuffs can either come from an **enemy** \(aura\), or be part of the **stage** 
 
 ### Enemy Debuffs
 
-{% embed url="https://imgur.com/ZHPxYiD" %}
+{% embed url="../../gitbook/assets/debuff_apply_enemy.mp4" %}
 
 
 
