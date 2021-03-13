@@ -28,7 +28,7 @@ Debuffs can either come from an **Aura** \(enemy\), or be part of the **Stage** 
 
 Enemies that inflict debuffs will have a set of **glowing rings** as their **aura** underneath.
 
-Aura debuffs **only affect the active character**. Others in your party will not be debuffed. You can switch
+Aura debuffs **only affect the active character**. Others in your party will not be debuffed. You can switch to another character and wait out the debuff. You can even intentionally switch to a support to absorb the debuff, and afterwards switch back into your main carry.
 
 The **outer ring** shows the range of the debuff when it activates. You can avoid the debuff by being outside of the circle when it pulses. You **cannot** avoid this using i-frames from a dodge or burst.
 
