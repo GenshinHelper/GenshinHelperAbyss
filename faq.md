@@ -59,6 +59,12 @@ You are currently 7/9 ★'s for the floor, and you only got 1★ in Chamber 1 th
 
 This also means you don't have to 9★ a floor in one run! You can build a team specifically for clearing a specific Chamber with 3★. Once you've done that, in future runs you can get no stars in that chamber and still get 9/9★. One useful way to use this is to deliberately take your time in a chamber you've already 3★'d in order to charge up Burst energy, so you can enter the next chamber with all your Bursts ready
 
+### I cleared 8-3 but I didn't get the 2400 Primogems shown in the Event?
+
+![Moment of Syzygy &quot;Event&quot; Banner](.gitbook/assets/moment_of_syzygy.jpg)
+
+The rewards advertised in the **Moment of Syzygy** banner are **not a separate reward!** It's simply a sum of all the rewards you would normally get from **clearing and 9**★-**ing Floors 1-8**. There is no additional reward.
+
 ## Buff Cards
 
 ### Are buff cards the same for everyone?

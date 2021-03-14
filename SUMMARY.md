@@ -23,6 +23,7 @@
 
 ## Monsters
 
+* [Frostarm Lawachurl](monsters/frostarm-lawachurl.md)
 * [Geovishap](monsters/geovishap.md)
 * [Ruin Grader](monsters/ruin-grader.md)
 

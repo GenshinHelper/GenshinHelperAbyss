@@ -33,6 +33,8 @@ description: Changelogs
 |  | Edited page on Debuffs | AegisD |
 | Mar 13 | Edited Shockwave page | AegisD |
 |  | Updated formatting on Aura pages | AegisD |
+|  | Added Frostarm Lawachurl gifs | Koshu |
+|  | Added Frostarm Lawachurl page | AegisD |
 
 ### 
 
