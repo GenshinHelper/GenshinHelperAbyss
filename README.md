@@ -8,11 +8,13 @@ description: by the Genshin Helper Team
 
 ## Current Blessing
 
-**Duration:** Mar 1st - 15th
+**Duration:** Mar 16th - 31st
 
-A **charge** accumulates every **10s** \(max 3\). If active character **HP &lt; 50%**, they consume a **charge** when they hit an opponent to create an **unstable energy orb** \(max 1 orb every 2s\). Orbs explode after 1s.
+When the active character **HP &lt; 50%**, gain **2% DMG** Bonus for **10s** after hitting an opponent \(stacks **10 times**\).
 
-Orbs do **Physical DMG** that scale based on the floor. The explosion does around **4k - 4.5k DMG** base on F12
+Each character in the party has their own stacks/durations
+
+Each time the stack count or duration of this effect resets, there is a **50%** chance to release an **Energy Blas**t \(Max once per **10s**\).
 
 <table>
   <thead>
@@ -23,25 +25,33 @@ Orbs do **Physical DMG** that scale based on the floor. The explosion does aroun
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">Feb 16th - 28th</td>
       <td style="text-align:left">Mar 16th - 31st</td>
+      <td style="text-align:left">Apr 1st - 15th</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
-          <li>When active character <b>HP &lt; 70%</b>, <b>+20% ATK</b> and<b> +15%</b>  <b>ATK SPD</b>
-          </li>
-          <li>When active character <b>HP &lt; 35%</b> and they are <b>shielded</b>, <b>+20% CRIT Rate</b> and <b>+40% CRIT DMG</b>
-          </li>
+          <li>A <b>charge</b> accumulates every <b>10s</b> (max 3). If active character <b>HP &lt; 50%</b>,
+            they consume a <b>charge</b> when they hit an opponent to create an <b>unstable energy orb</b> (max
+            1 orb every 2s). Orbs explode after 1s.</li>
+          <li>Orbs do <b>Physical DMG</b> that scale based on the floor. The explosion
+            does around <b>4k - 4.5k DMG</b> base on F12</li>
         </ul>
       </td>
       <td style="text-align:left">
         <ul>
-          <li>When the active character <b>HP &lt; 50%</b>, gain <b>2% DMG</b> Bonus for <b>10s</b> after
-            hitting an opponent (stacks <b>10 times</b>).</li>
-          <li>Each character in the party has their own stacks/durations</li>
-          <li>Each time the stack count or duration of this effect resets, there is
-            a <b>50%</b> chance to release an <b>Energy Blas</b>t (Max once per <b>10s</b>).</li>
+          <li>Characters have an <b>aura</b> that increases <b>ATK </b>by a maximum of <b>60%</b>.
+            Every opponent inside the aura reduces the effect by <b>25%</b>.</li>
+          <li>0 Enemies<b> - 60%</b>
+          </li>
+          <li>1 Enemy - <b>45%</b>
+          </li>
+          <li>2 Enemies - <b>30%</b>
+          </li>
+          <li>3 Enemies - <b>15%</b>
+          </li>
+          <li>4+ Enemies - <b>0%</b>
+          </li>
         </ul>
       </td>
     </tr>
