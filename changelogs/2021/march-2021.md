@@ -35,6 +35,8 @@ description: Changelogs
 |  | Updated formatting on Aura pages | AegisD |
 |  | Added Frostarm Lawachurl gifs | Koshu |
 |  | Added Frostarm Lawachurl page | AegisD |
+| Mar 18 | Added videos for cleansing examples | Folie |
+|  | Added page on cleansing | AegisD |
 
 ### 
 

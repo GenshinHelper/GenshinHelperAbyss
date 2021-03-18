@@ -28,7 +28,7 @@ Debuffs can either come from an **Aura** \(enemy\), or be part of the **Stage** 
 
 Enemies that inflict debuffs will have a set of **glowing rings** as their **aura** underneath. When you are hit by the aura, an icon of the element will show briefly above the character, and you will have a **red icon** of the element above your HP bar along with the regular element icon.
 
-![Engulfing Storm Aura Debuff](../../.gitbook/assets/aura_debuff.jpg)
+![Engulfing Storm Aura Debuff Icon](../../.gitbook/assets/aura_debuff.jpg)
 
 Aura debuffs **only affect the active character**. Inactive party members will not be affected. Switching to another character will **move the debuff onto that character**.
 
@@ -37,7 +37,7 @@ The **outer ring** shows the range of the debuff when it activates. You can avoi
 ![Aura debuffs can be avoided by moving out of the range.](../../.gitbook/assets/debuff_aura_full_attack.gif)
 
 {% hint style="warning" %}
-Certain abilities are not able to **cleanse** aura debuffs of certain elements! See [Removing Debuffs](removing-debuffs.md) for more details.
+Certain abilities are not able to **cleanse** aura debuffs of certain elements! See [Aura Debuffs](https://genshinhelper.gitbook.io/abyss/mechanics/debuffs/removing-debuffs#aura-debuffs) for more details.
 {% endhint %}
 
 ### Stage Debuff
@@ -46,5 +46,5 @@ Certain abilities are not able to **cleanse** aura debuffs of certain elements! 
 
 Some stages will periodically apply a **debuff** to an entire team. This cannot be avoided.
 
-
+There is no additional indicator when you are affected by a stage debuff. Only the element icon is shown.
 

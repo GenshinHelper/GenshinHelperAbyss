@@ -26,6 +26,7 @@ Contact me!
 | Setz |
 | Yumi |
 | Beatus |
+| Folie |
 
 ## Special Thanks
 
