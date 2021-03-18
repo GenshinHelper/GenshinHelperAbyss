@@ -6,14 +6,21 @@ Removing a debuff \(**cleansing**\) can only be done by applying an element to a
 
 ### Strong/Weak Cleanses
 
-Abilities that apply elements that are **strong** against the debuff element work the best. Using a element that is **weak** against the debuff may only **partially cleanse** the element, and require multiple applications/reactions before fulling removing the debuff.
+Abilities that apply elements that are **strong** against the debuff element work the best. Using an element that is **weak** against the debuff may only **partially cleanse** the element, and require multiple applications/reactions before fulling removing the debuff.
 
-| Debuff | Strong Cleanse | Neutral Cleanse | Weak Cleanse | Not Effective |
+| Debuff | Strong | Neutral | Weak | Not Effective |
 | :---: | :---: | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  |  ![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/cryo_small.png) | - |
-| ![](../../.gitbook/assets/hydro_small.png) | - | - | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) |
-| ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/hydro_small.png) | ![](../../.gitbook/assets/electro_small.png) | - |
-| ![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | - | ![](../../.gitbook/assets/hydro_small.png) |
+| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  |  ![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/cryo_small.png) | - |
+| ![](../../.gitbook/assets/hydro_small.png) | - | ![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) |
+| ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/electro_small.png) | - |
+| ![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png) | - | ![](../../.gitbook/assets/hydro_small.png) |
+
+The weaker the cleanse, the more applications of the element it will take to remove the debuff. Table below shows the number of reactions that need to be triggered.
+
+| Type | Strong | Neutral | Weak |
+| :--- | :---: | :---: | :---: |
+| Stage Debuff | 1 | 2 | 4 |
+| Aura Debuff | 1 | 1 | 2 |
 
 ### **Stage Debuff**
 
