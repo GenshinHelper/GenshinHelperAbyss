@@ -63,7 +63,7 @@ This also means you don't have to 9★ a floor in one run! You can build a team 
 
 ![Moment of Syzygy &quot;Event&quot; Banner](.gitbook/assets/moment_of_syzygy.jpg)
 
-The rewards advertised in the **Moment of Syzygy** banner are **not a separate reward!** It's simply a sum of all the rewards you would normally get from **clearing and 9**★-**ing Floors 1-8**. There is no additional reward.
+The rewards advertised in the **Moment of Syzygy** banner are **not a separate reward!** It's simply a summary of all the rewards you would normally get from **clearing and 9**★-**ing Floors 1-8**. There is no bonus after completing 8-3.
 
 ## Buff Cards
 
