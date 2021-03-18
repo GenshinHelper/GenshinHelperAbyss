@@ -26,15 +26,19 @@ Debuffs can either come from an **Aura** \(enemy\), or be part of the **Stage** 
 
 ![Slowing Water from a Hydro Abyss Mage](../../.gitbook/assets/debuff_aura_hit.gif)
 
-Enemies that inflict debuffs will have a set of **glowing rings** as their **aura** underneath.
+Enemies that inflict debuffs will have a set of **glowing rings** as their **aura** underneath. When you are hit by the aura, an icon of the element will show briefly above the character, and you will have a **red icon** of the element above your HP bar along with the regular element icon.
 
-Aura debuffs **only affect the active character**. Others in your party will not be debuffed. You can switch to another character and wait out the debuff. You can even intentionally switch to a support to absorb the debuff, and afterwards switch back into your main carry.
+![Engulfing Storm Aura Debuff](../../.gitbook/assets/aura_debuff.jpg)
+
+Aura debuffs **only affect the active character**. Inactive party members will not be affected. Switching to another character will **move the debuff onto that character**.
 
 The **outer ring** shows the range of the debuff when it activates. You can avoid the debuff by being outside of the circle when it pulses. You **cannot** avoid this using i-frames from a dodge or burst.
 
 ![Aura debuffs can be avoided by moving out of the range.](../../.gitbook/assets/debuff_aura_full_attack.gif)
 
-Certain abilities are not able to **cleanse** aura debuffs the same as **stage** ones! See [Removing Debuffs](removing-debuffs.md) for more details.
+{% hint style="warning" %}
+Certain abilities are not able to **cleanse** aura debuffs of certain elements! See [Removing Debuffs](removing-debuffs.md) for more details.
+{% endhint %}
 
 ### Stage Debuff
 
