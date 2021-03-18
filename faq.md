@@ -55,7 +55,7 @@ In general, it will be easier to 6★ the next floor than it will be to 9★ the
 
 No! Each Chamber tracks your best ★ rating separately. For example:
 
-You are currently 7/9 ★'s for the floor, and you only got 1★ in Chamber 1 the first time. Now, if you go back and beat Chamber 1 again with 3★, you can exit out of your run immediately and be at 9/9 ★'s. You do not need to beat the remaining chambers on the floor.
+> You are currently 7/9 ★'s for the floor, and you only got 1★ in Chamber 1 the first time. Now, if you go back and beat Chamber 1 again with 3★, you can exit out of your run immediately and be at 9/9 ★'s. You do not need to beat the remaining chambers on the floor.
 
 This also means you don't have to 9★ a floor in one run! You can build a team specifically for clearing a specific Chamber with 3★. Once you've done that, in future runs you can get no stars in that chamber and still get 9/9★. One useful way to use this is to deliberately take your time in a chamber you've already 3★'d in order to charge up Burst energy, so you can enter the next chamber with all your Bursts ready
 
