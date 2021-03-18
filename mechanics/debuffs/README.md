@@ -37,7 +37,7 @@ The **outer ring** shows the range of the debuff when it activates. You can avoi
 ![Aura debuffs can be avoided by moving out of the range.](../../.gitbook/assets/debuff_aura_full_attack.gif)
 
 {% hint style="warning" %}
-Certain abilities are not able to **cleanse** aura debuffs of certain elements! See [Aura Debuffs](https://genshinhelper.gitbook.io/abyss/mechanics/debuffs/removing-debuffs#aura-debuffs) for more details.
+Certain abilities are not able to **cleanse** aura debuffs of certain elements! See [Aura Debuffs](https://genshinhelper.gitbook.io/abyss/mechanics/debuffs/removing-debuffs#aura-debuff) for more details.
 {% endhint %}
 
 ### Stage Debuff
