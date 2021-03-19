@@ -37,6 +37,7 @@ description: Changelogs
 |  | Added Frostarm Lawachurl page | AegisD |
 | Mar 18 | Added videos for cleansing examples | Folie |
 |  | Added page on cleansing | AegisD |
+|  | Added section on reaction trigger order | AegisD |
 
 ### 
 

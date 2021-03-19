@@ -4,6 +4,18 @@
 
 Removing a debuff \(**cleansing**\) can only be done by applying an element to a character and triggering an **Elemental Reaction** with the debuff element. 
 
+### Reaction Trigger
+
+The order that the elements are applied matters. You want to make sure that the **debuff** element is applied **first**, followed by the element from the **cleanse second**. The source that **triggers the reaction** determines if the reaction affects you or the enemy.
+
+In the example below, the ![](../../.gitbook/assets/electro_small.png)debuff is applied, and cleansed by ![](../../.gitbook/assets/pyro_small.png)from Bennet. This triggers **Overload**, but Bennet doesn't take damage, and instead the Slimes take damage.
+
+![Electro Debuff followed by Bennet Pyro](../../.gitbook/assets/cleanse_overload_nodmg.gif)
+
+In the next example, ![](../../.gitbook/assets/pyro_small.png)is applied from Bennet, followed by ![](../../.gitbook/assets/electro_small.png)from the debuff. This triggers **Overload**, but Bennet takes damage.
+
+![Bennet Pyro followed by Electro Debuff](../../.gitbook/assets/cleanse_overload_dmg.gif)
+
 ### Strong/Weak Cleanses
 
 Abilities that apply elements that are **strong** against the debuff element work the best. Using an element that is **weak** against the debuff may only **partially cleanse** the element, and require multiple applications/reactions before fulling removing the debuff.
