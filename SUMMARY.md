@@ -29,7 +29,6 @@
 
 ## Mechanics
 
-* [Elemental Reactions](mechanics/elemental-reactions.md)
 * [Debuffs](mechanics/debuffs/README.md)
   * [Removing Debuffs](mechanics/debuffs/removing-debuffs.md)
 * [Auras](mechanics/auras/README.md)
@@ -56,4 +55,5 @@
 
 * [About Us](about-us.md)
 * [Credits](credits.md)
+* [Resources](resources.md)
 

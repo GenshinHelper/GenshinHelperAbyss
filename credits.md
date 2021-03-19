@@ -1,32 +1,24 @@
 # Credits
 
-## Feedback/Suggestions?
-
-Contact me!
-
-|  |  |
-| :---: | :--- |
-| ![](.gitbook/assets/artboard-1_48.png)  | u/AegisD |
-| ![](.gitbook/assets/discord-logo-color.png)  | AegisD\#2280 |
-|  |  |
-
 ## Contributors
 
-|  |
-| :--- |
-| Dandi |
-| Dupah |
-| Twofu |
-| Potaaato |
-| Aidan |
-| Shiro |
-| Hydra |
-| Network |
-| Miko-chan |
-| Setz |
-| Yumi |
-| Beatus |
-| Folie |
+| Contributor | Contact |
+| :--- | :--- |
+| AegisD | AegisD\#2280 |
+| Dandi |  |
+| Dupah |  |
+| Twofu |  |
+| Potaaato |  |
+| Aidan |  |
+| Shiro |  |
+| Hydra |  |
+| Network |  |
+| Miko-chan |  |
+| Setz |  |
+| Yumi |  |
+| Beatus |  |
+| Folie |  |
+| Donuts |  |
 
 ## Special Thanks
 
