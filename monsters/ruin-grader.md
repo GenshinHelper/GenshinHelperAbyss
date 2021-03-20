@@ -10,6 +10,8 @@
 
 ## Tips and Mechanics
 
+**Weak Point** - Leg Core \(x2\), Eye Core \(x1\). Weak points are only exposed during attacks.
+
 Ruin Graders have extremely high ![](../.gitbook/assets/physical_small.png) **RES**. Avoid using any **PHYS** based carry \(e.g. **Razor**\) if possible when fighting them. If you do, always bring **Superconduct** \( ![](../.gitbook/assets/cryo_small.png)+![](../.gitbook/assets/electro_small.png) \) ****to reduce their resistance by **40%.**
 
 After hitting the **Eye twice**, it will break, preventing the Ruin Grader from making Eye based attacks \(e.g. **Laser**\). It will still make other attacks. This recovers after a set period of time \(**~20 seconds**\).

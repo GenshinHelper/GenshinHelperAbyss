@@ -10,6 +10,8 @@
 
 ## Tips and Mechanics
 
+**Weak Point** - Head
+
 Geovishaps can become **infused** with an element. **Infusion** adds elemental effects to attacks, as well as **+20% Elemental RES**, for a total of **30% RES** in that element.
 
 Once **infused**, they will always carry their element \(like **Slimes**\). Use this to trigger beneficial reactions against them to your advantage.

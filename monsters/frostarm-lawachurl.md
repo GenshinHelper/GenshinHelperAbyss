@@ -10,6 +10,8 @@
 
 ## Tips and Mechanics
 
+**Weak Point** - Face
+
 While shielded, the Lawachurl absorbs damage by giving a **80% DMG** penalty to incoming attacks \[[1](https://genshinhelper.gitbook.io/abyss/monsters/frostarm-lawachurl#references)\]. It is also much more dangerous when shielded. Prioritize getting it's shield down.
 
 ![](../.gitbook/assets/pyro_small.png) is the most effective against the shield, but other reactions and claymore attacks work as well.
