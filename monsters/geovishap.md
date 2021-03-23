@@ -46,9 +46,13 @@ Dodge out of the way before it lands. The best timing is to dodge just as the re
 
 Dodge to the side of the roll, then dodge again when it slams down.
 
-If you are **shielded** when they roll into you, it will stagger them briefly
+If you are **shielded** when they roll into you, it will stagger them briefly.
 
-![Dodging the initial roll staggers the Geovishap briefly, and prevents the followup slam!](../.gitbook/assets/geovishap_roll_dodge.gif)
+Dodging the roll can be difficult. If you are low on stamina, focus on dodging the **jump** portion of the attack, as it does a lore more damage.
+
+![](../.gitbook/assets/geovishap_roll_dodge.gif)
+
+If you are able to dodge the roll, it will stagger the Geovishap and prevent the followup jump attack!
 
 ### Spikes
 
