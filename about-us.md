@@ -9,7 +9,7 @@ Contact me!
 |  |  |
 | :---: | :--- |
 | ![](.gitbook/assets/artboard-1_48.png)  | u/AegisD |
-| ![](.gitbook/assets/discord-logo-color.png)  | AegisD\#2280 |
+| ![](.gitbook/assets/discord-logo-color.png)  | AegisD\#2280 \(Blep\) |
 | ![](.gitbook/assets/gmail-icon.png)  | genshinhelperteam@gmail.com |
 
 
