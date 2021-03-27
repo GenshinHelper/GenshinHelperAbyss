@@ -68,8 +68,6 @@ Avoid ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_s
 
 Consider using an **EM Sands** as if you are using ![](../../.gitbook/assets/pyro_small.png)**DMG**. **Sucrose** will also be particularly good here if you have her geared.
 
-This side is generally harder than **Side 2** since the **Geovishaps** on this side cannot be **Frozen**. Recommended you put your stronger characters here.
-
 | Recommended Carries / Sub DPS |
 | :---: |
 | ![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_diluc.png)![](../../.gitbook/assets/ui_avataricon_hutao.png)![](../../.gitbook/assets/ui_avataricon_keqing.png)![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_xiao.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png) |
