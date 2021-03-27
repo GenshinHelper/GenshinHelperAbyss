@@ -40,6 +40,7 @@ description: Changelogs
 |  | Added section on reaction trigger order | AegisD |
 |  | Adding About Us and Resources pages | AegisD |
 | Mar 20 | Adding weak point info on monsters | AegisD |
+| Mar 27 | Adding Buff Card List | Beatus |
 
 ### 
 

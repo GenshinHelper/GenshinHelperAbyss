@@ -1,0 +1,44 @@
+# Buff Cards
+
+{% hint style="info" %}
+This page is under construction! Come back later for more info
+{% endhint %}
+
+## List of Buff Cards
+
+### Floor Buffs
+
+| Description |
+| :--- |
+| Character ATK +20% |
+| Character Crit Rate +8%; Crit DMG +15% |
+| Character DEF +30% |
+| Character DMG within 8s of sprint +20% |
+| Character Elemental Burst DMG +20% |
+| Character Elemental Mastery +80 |
+| Character Elemental Skill DMG +20% |
+| Character Energy Recharge +20% |
+| Character Max HP +25% |
+| Character Normal and Charged Attack DMG +20% |
+| Character Physical DMG +25% |
+| Increases Character DMG dealt to opponents' weak points by 30% |
+
+### Chamber Buffs
+
+| Description |
+| :--- |
+| Character Charged Attack Stamina Consumption -50% |
+| Character DEF -15% ; ATK +40% |
+| Character Elemental RES +25% |
+| Character Elemental Skill and Burst CD -20% |
+| Character Movement SPD +30% |
+| Character Normal Attack SPD +25% |
+| Character Physical DMG RES +30% |
+| Character Sprinting Stamina Cost -30% |
+| Defeating an opponent gives a 50% chance to end current Elemental Skill CD |
+| Defeating an opponent instantly restores 8% HP for the current character |
+| Instantly restores 25% HP to all party members |
+| Character Elemental Bursts Instantly restore 30% HP |
+| When Character HP is greater than 50%; ATK +30% |
+| When Character HP is greater than 50%; DEF +40% |
+
