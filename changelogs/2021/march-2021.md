@@ -4,6 +4,16 @@ description: Changelogs
 
 # March
 
+## Major Updates
+
+* Brand new website up and running! All existing info from the doc moved
+* Pages covering \(almost\) all enemy [Auras](../../mechanics/auras/) 
+* New monster guide for [Frostarm Lawachurl](../../monsters/frostarm-lawachurl.md)
+* Mechanics of [Debuffs](../../mechanics/debuffs/) and mechanics on [Removing Debuffs](../../mechanics/debuffs/removing-debuffs.md)
+* List of all Abyss [Buff Cards](../../mechanics/buff-cards.md)
+
+## Full Changelogs
+
 | Date | Change | Author |
 | :--- | :--- | :--- |
 | Mar 1 | Added Ruin Grader stunned section | AegisD |
@@ -41,6 +51,7 @@ description: Changelogs
 |  | Adding About Us and Resources pages | AegisD |
 | Mar 20 | Adding weak point info on monsters | AegisD |
 | Mar 27 | Adding Buff Card List | Beatus |
+| Mar 29 | Added major updates section for march | AegisD |
 
 ### 
 
