@@ -2,7 +2,7 @@
 
 ## Official Discord
 
-{% embed url="https://discord.gg/QMsaHdd8" %}
+{% embed url="https://discord.gg/genshinimpact" %}
 
 ## Genshin Helper Build Doc
 
