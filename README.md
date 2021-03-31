@@ -12,9 +12,13 @@ description: by the Genshin Helper Team
 
 Characters have an **aura** that increases **ATK** by a maximum of **60%**. Every opponent inside the aura reduces the effect by **25%**.
 
-Each character in the party has their own stacks/durations
-
-Each time the stack count or duration of this effect resets, there is a **50%** chance to release an **Energy Blas**t \(Max once per **10s**\).
+| Enemy Count | ATK% Buff |
+| :---: | :---: |
+| 0 | 60% |
+| 1 | 45% |
+| 2 | 30% |
+| 3 | 15% |
+| 4+ | 0% |
 
 <table>
   <thead>
