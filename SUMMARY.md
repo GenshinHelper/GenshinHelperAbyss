@@ -23,9 +23,16 @@
 
 ## Monsters
 
-* [Frostarm Lawachurl](monsters/frostarm-lawachurl.md)
-* [Geovishap](monsters/geovishap.md)
-* [Ruin Grader](monsters/ruin-grader.md)
+* [Animals](monsters/animals/README.md)
+  * [Geovishap](monsters/animals/geovishap.md)
+* [Hilichurls](monsters/hilichurls/README.md)
+  * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
+* [Fatui](monsters/fatui/README.md)
+  * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
+  * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
+* [Ruin Constructs](monsters/ruin-constructs/README.md)
+  * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)
+  * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
 
 ## Mechanics
 

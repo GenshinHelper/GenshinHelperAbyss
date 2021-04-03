@@ -8,7 +8,7 @@ description: Changelogs
 
 * Brand new website up and running! All existing info from the doc moved
 * Pages covering \(almost\) all enemy [Auras](../../mechanics/auras/) 
-* New monster guide for [Frostarm Lawachurl](../../monsters/frostarm-lawachurl.md)
+* New monster guide for [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md)
 * Mechanics of [Debuffs](../../mechanics/debuffs/) and mechanics on [Removing Debuffs](../../mechanics/debuffs/removing-debuffs.md)
 * List of all Abyss [Buff Cards](../../mechanics/buff-cards.md)
 

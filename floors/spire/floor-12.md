@@ -38,7 +38,7 @@ Once infused, Geovishaps will gain resistance to that element \(30%\)
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Geovishap**](../../monsters/geovishap.md)\*\*\*\* | ~400K |
+| \*\*\*\*[**Geovishap**](../../monsters/animals/geovishap.md)\*\*\*\* | ~400K |
 
 ### Side 1
 
@@ -152,7 +152,7 @@ While it's possible to disable the **Ruin Grader** completely, it's difficult to
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Ruin Grader**](../../monsters/ruin-grader.md)\*\*\*\* | ~800K |
+| \*\*\*\*[**Ruin Grader**](../../monsters/ruin-constructs/ruin-grader.md)\*\*\*\* | ~800K |
 
 #### 3★ Tips
 
