@@ -12,7 +12,53 @@
 
 **Weak Point** - Face
 
+The **Cicins** move widly and are hard to hit, making them mostly a distraction. You should focus on attacking the **Cicin Mage**.
+
+The window when the **Cicin Mage** is charging **Shield** is a good opportunity to deal damage as there are no flies to worry about. Just be ready to either run away or break her shield quickly afterwards to avoid taking lots of damage.
+
+Avoid moving into the **Cicin Mage** during her **Lightning Storm** attack, as this will make it difficult to attack her after due to the ground effect.
+
+**Electro Cicin Mages** are always able to teleport, making it impossible to keep them locked down with regular **staggering** effects. The only way to prevent them from teleporting is to use **Freeze** \( ![](../../.gitbook/assets/cryo_small.png)+ ![](../../.gitbook/assets/hydro_small.png) \), or lock them in certain ![](../../.gitbook/assets/anemo_small.png) skills.
+
 ## Abilities
 
-### Cicins
+### Summon Cicins
+
+![Summons 3 Cicins ](../../.gitbook/assets/cicin_summon%20%281%29.gif)
+
+The **Cicin Mage** can use this ability when there are less than 3 **Cicins** on the field, replenishing back up to 3 total.
+
+### Lightning Storm
+
+![Sends consecutive bolts of lightning at the player](../../.gitbook/assets/cicin_lightning.gif)
+
+The bolts will leave a lingering effect on the ground, dealing ![](../../.gitbook/assets/electro_small.png) **DMG over Time**.
+
+![Occasionally the attack is a single bolt](../../.gitbook/assets/cicin_lightning_single.gif)
+
+### Shield
+
+![Summons a protective shield that damages nearby enemies \(2x speed\)](../../.gitbook/assets/cicin_shield%20%281%29.gif)
+
+The **Cicin Mage** can still be attacked while summoning her shield. Use this window to deal damage.
+
+Any summoned **Cicins** will disappear when the shield is cast.
+
+After casting the shield, the **Cicin Mage** will move towards you. The shield will periodically deal ![](../../.gitbook/assets/electro_small.png) **DMG** to nearby enemies.
+
+### Teleport
+
+![Cicin Mage teleports to avoid an attack](../../.gitbook/assets/cicin_teleport%20%281%29.gif)
+
+This is often triggered by repeated attempts to **stagger** the **Cicin Mage**. This makes it impossible to keep her permanently locked down like this.
+
+The teleport often lands directly behind the player
+
+### Cicin Attack
+
+![Cicins shoot a projectile at the player](../../.gitbook/assets/cicin_attack%20%281%29.gif)
+
+### Cicin Charge
+
+![Cicins charge at the player one at a time](../../.gitbook/assets/cicin_charge.gif)
 

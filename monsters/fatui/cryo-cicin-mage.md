@@ -22,7 +22,7 @@ Unlike the [Electro Cicin Mage](electro-cicin-mage.md), **Cryo Cicin Mages** can
 
 ### Summon Cicins
 
-![Summons three Cicins](../../.gitbook/assets/cicin_summon.gif)
+![Summons 3 Cicins](../../.gitbook/assets/cicin_summon.gif)
 
 The **Cicin Mage** will not summon **Cicins** unless all of them are killed.
 
