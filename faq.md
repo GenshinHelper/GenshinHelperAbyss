@@ -75,19 +75,19 @@ No, buff cards are different for each player and change each day during reset. I
 
 No! The buff cards will reset as usual and when you continue the chamber again the next day there will be new options. Any Floor buffs you took on previous Chambers will remain the same.
 
+### I got the same 3 cards two days in a row. I thought it was meant to change?
+
+The buff cards are completely random, so it's possible to get the same choices multiple days in a row.
+
 ### Does the same buff card stack?
 
 Yes!
 
 ### Which buff card should I pick?
 
-In Chambers 1 & 2, you will mostly want to take the Floor Buff card over Chamber Buff cards so that you can benefit from them in later chambers. In Chamber 3, you can pick anything.
+Check out the detailed section on buff cards below
 
-The best Floor Buff cards is \[+8% CR, +15% CD\]. Other Floor Buff cards are more situational - \[+20% ATK\], \[+80 EM\], \[+20% Elemental Skill DMG\], \[+20% Elemental Burst DMG\], \[+20% Regular ATK DMG / +20% Charged ATK DMG\] - but can be good depending on your team
-
-The best Chamber Buff cards are \[+25% ATK SPD\] if you run an autoattacking character, and \[-15% DEF +40% ATK\] card.
-
-Most of the other cards are not worth going for, so if you think you need these bonuses to clear Abyss, it may be best to leave when there are no good buff cards and come back the next day after they reset to a new set
+{% page-ref page="mechanics/buff-cards.md" %}
 
 ### Does the 25% heal card revive dead characters?
 
