@@ -18,6 +18,8 @@ You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin G
 
 While **Geovishaps** are resistant to ****![](../../.gitbook/assets/geo_small.png), bringing a **Geo Support** is a great way to survive against them by triggering **Crystallize** on their elements once they infuse.
 
+**Taunt** abilities are particularly effective here to give some time for you to recover stamina.
+
 ## Team Recommendations
 
 |  | Side 1 | Side 2 |
@@ -26,7 +28,7 @@ While **Geovishaps** are resistant to ****![](../../.gitbook/assets/geo_small.pn
 | **Preferred Damage** | ![](../../.gitbook/assets/hydro_small.png) ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) ![](../../.gitbook/assets/electro_small.png) |
 | **Avoid Damage** | ![](../../.gitbook/assets/pyro_small.png) ![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/physical_small.png)  | ![](../../.gitbook/assets/hydro_small.png) ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/physical_small.png)  |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_noelle.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png) | ![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_noelle.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_mona.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)  | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 ## Chamber 1
 

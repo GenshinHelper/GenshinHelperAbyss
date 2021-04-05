@@ -1,8 +1,25 @@
 # Buff Cards
 
+
+
 {% hint style="info" %}
 This page is under construction! Come back later for more info
 {% endhint %}
+
+## Mechanics
+
+![](../.gitbook/assets/benediction.jpg)
+
+At the beginning of each chamber, you will be given a choice of 3 buff cards \(**benedictions**\). These come in two types:
+
+* **Effective this floor \(blue\)** cards. These effects apply to the current chamber, and all remaining chambers in the floor.
+* **Effective this chamber \(yellow\)** cards. These effects only apply to the current chamber.
+
+**Floor Buffs** of the same type stack with each other.
+
+### Reset
+
+
 
 ## List of Buff Cards
 
@@ -41,4 +58,6 @@ This page is under construction! Come back later for more info
 | Character Elemental Bursts Instantly restore 30% HP |
 | When Character HP is greater than 50%; ATK +30% |
 | When Character HP is greater than 50%; DEF +40% |
+
+
 
