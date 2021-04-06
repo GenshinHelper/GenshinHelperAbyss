@@ -36,17 +36,29 @@ The **strength** of the shield is relative to the number of **Cicins** that are 
 
 The **Cicin Mage** shields frequently while **Cicins** are alive. Prioritize killing the flies if your team isn't able to quickly break the shield.
 
-![](../../.gitbook/assets/pyro_small.png) is most effective at breaking the shield. 
-
-Note that killing the **Cicins** after the shield is cast does not cause it to go away.
+![](../../.gitbook/assets/pyro_small.png) is most effective at breaking the shield. ![](../../.gitbook/assets/electro_small.png) ![](../../.gitbook/assets/geo_small.png) ![](../../.gitbook/assets/anemo_small.png)and **claymores** will also work.
 
 ![Cicin Mage can cast shield again to refresh its health](../../.gitbook/assets/cicin_shield_refresh.gif)
+
+![Killing all the Cicins will cause the shield to disappear](../../.gitbook/assets/cicin_deshield.gif)
+
+{% hint style="danger" %}
+If the **Cicin Mage** is in the middle of casting shield when you kill the last **Cicin**, it will not interrupt the shield, and leave you with no way to remove it without breaking it directly! You will have to wait for her to finish casting shield before killing the last **Cicin** if you are relying on this method.
+{% endhint %}
+
+![Killing the last Cicin while the Cicin Mage is casting shield](../../.gitbook/assets/cicin_deshield_fail.gif)
 
 ### Teleport
 
 ![](../../.gitbook/assets/cicin_teleport.gif)
 
 The **Cicin Mage** will sometimes evade attacks by switching places with the **Cicin** flies. If no flies are active, she cannot use this ability!
+
+### Ice Slam
+
+![Cicin Mage slams the ground, causing ice damage in an AoE around her](../../.gitbook/assets/cicin_slam%20%281%29.gif)
+
+This attack will only be used if the player gets close to the **Cicin Mage.**
 
 ### Cicin Attack
 
