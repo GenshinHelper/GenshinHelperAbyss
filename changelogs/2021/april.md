@@ -8,7 +8,10 @@ description: Changlogs
 
 * New monster guide for [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md)
 * New monster guide for [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md)
+* New monster guide for [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md)
 * Added section on [Buff Cards](../../mechanics/buff-cards.md)
+
+
 
 ## Full Changelogs
 
@@ -21,4 +24,7 @@ description: Changlogs
 |  | Added Tips/Mechanics for Electro Cicin Mage | AegisD |
 | Apr 4 | Performed damage comparisons on buff cards | Yumi/Twofu |
 |  | Added section on Buff Cards | AegisD |
+| Apr 5 | Fixed section on removing Cryo Cicin shield and added gifs | AegisD |
+|  | Added Ruin Guard gifs | Setz |
+|  | Added Tips/Mechanics for Ruin Guard | AegisD |
 
