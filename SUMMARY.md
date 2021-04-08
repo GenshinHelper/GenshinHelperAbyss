@@ -21,6 +21,12 @@
   * [Floor 12](floors/spire/floor-12.md)
 * [Glossary](floors/glossary.md)
 
+## Teambuilding
+
+* [Building a Composition](teambuilding/building-a-composition.md)
+* [Character Investment](teambuilding/character-investment.md)
+* [Character Tierlist](teambuilding/character-tierlist.md)
+
 ## Monsters
 
 * [Animals](monsters/animals/README.md)
@@ -30,6 +36,7 @@
 * [Fatui](monsters/fatui/README.md)
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
+  * [Pyro Agent](monsters/fatui/pyro-agent.md)
 * [Ruin Constructs](monsters/ruin-constructs/README.md)
   * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
