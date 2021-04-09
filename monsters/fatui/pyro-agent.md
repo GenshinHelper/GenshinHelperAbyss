@@ -16,9 +16,7 @@ There are very obvious **audio** signals when the **Pyro Agent** is about to att
 
 **Pyro Agents** do a lot of damage compared to other enemies of a similar level. Most of their attacks are quite telegraphed, so make sure to learn how to dodge them effectively.
 
-**Pyro Agents** are very easy to stagger. You can keep them permanently disabled using things like **charged attacks**, and various ![](../../.gitbook/assets/anemo_small.png) abilities.
-
-
+**Pyro Agents** are very easy to stagger. You can keep them permanently disabled using things like **charged attacks**, and various ![](../../.gitbook/assets/anemo_small.png) abilities, making them much easier to manage.
 
 ### Invisibility
 
@@ -42,7 +40,7 @@ The **Pyro Agent** will always lead with this attack.
 
 You will not get hit by the blades if you stand directly next to the **Pyro Agent**. You can use a **dash** to get past the blades without being hit.
 
-If you interrupt the **Pyro Agent** before he finishes this move, he will not go **invisible**.
+The **Pyro Agent** is immune to interruption during this attack! If you want to prevent him from going invisible, you will need to stagger him before he casts the blades.
 
 ### Dash
 

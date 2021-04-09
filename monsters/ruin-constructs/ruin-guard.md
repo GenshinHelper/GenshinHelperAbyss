@@ -44,5 +44,7 @@ The **back weak point** is most exposed during the missile attack. Hit it and fo
 
 ![Spins rapidly, damaging everything around it \(2x speed\)](../../.gitbook/assets/ruinguard_spin.gif)
 
+![](../../.gitbook/assets/ruinguard_spin_stun.gif)
+
 Hitting either **weak point** will interrupt the spin, but it can be difficult to time. **Freeze** can be an effective way of landing a **weak point** shot during a spin.
 

@@ -30,4 +30,5 @@ description: Changlogs
 |  | Added Tips/Mechanics for Ruin Guard | AegisD |
 | Apr 8 | Added Pyro Agent gifs | Setz |
 |  | Added Tips/Mechanics for Pyro Agent | AegisD |
+|  | Small fixes to Ruin Guard and Pyro Agent pages | Setz |
 
