@@ -11,8 +11,7 @@ description: Changlogs
 * New monster guide for [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md)
 * New monster guide for [Pyro Agent](../../monsters/fatui/pyro-agent.md)
 * Added section on [Buff Cards](../../mechanics/buff-cards.md)
-
-
+* Added section for [Character Investment](../../teambuilding/character-investment.md)
 
 ## Full Changelogs
 
@@ -31,4 +30,6 @@ description: Changlogs
 | Apr 8 | Added Pyro Agent gifs | Setz |
 |  | Added Tips/Mechanics for Pyro Agent | AegisD |
 |  | Small fixes to Ruin Guard and Pyro Agent pages | Setz |
+| Apr 9 | Drafting information on character investment | Prad/Setz |
+|  | Adding early game investment section | AegisD |
 
