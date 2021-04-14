@@ -12,7 +12,7 @@ This guide will walk you through where to focus your resources to have the best 
 
 #### Focus on investing on 2 Main DPS and 2-4 Supports \(including 2 healers\)
 
-Spreading out your resources is a common reason players aren't able to progress through Abyss. If your goal is to get through Abyss, it's best to prioritize just a few characters.
+Spreading out your resources is a common reason players aren't able to progress through Abyss. If your goal is to get through Abyss, it's best to prioritize just a few characters to start.
 
 #### Save your Fragile Resin until AR45
 
@@ -268,7 +268,7 @@ Focus on your main DPS characters first, but once you have the correct mainstat 
 
 |  | Char Lvl | Weap Lvl | Talent Lvl | Artifacts |
 | :--- | :---: | :---: | :---: | :---: |
-| **Main DPS** | 80/80 | 80/80 | 8 | +20 on 5★ with mainstat |
+| **Main DPS** | 70/80 - 80/80 | 80/80 | 8 | +20 on 5★ with mainstat |
 | **Support** | 60/70 | 70/70 - 80/80 | 4 - 6 | +8 or +12 on 5★ with mainstat |
 
 ## Building to 36★
@@ -281,7 +281,7 @@ Once you reach **AR50**, you will have access to another ascension level. You sh
 
 Obtaining all 36★ in the Abyss is going to be a pure DPS check. To pass this you will need to start paying more attention to artifact **substats** to increase your damage further.
 
-If you haven't already, then this is a good time to invest more in your **supports**. Incidental damage from using support talents can really add up if you spend some resources upgrading their artifacts.
+You will also want to start investing in characters other than just your **main DPS**. Many characters you would think of as "support" do significant damage when equipped with proper artifacts. This can often be better than trying to maximize substats for a single character.
 
 ### Artifacts
 
@@ -291,6 +291,6 @@ If you haven't already, then this is a good time to invest more in your **suppor
 
 |  | Char Lvl | Weap Lvl | Talent Lvl | Artifacts |
 | :--- | :---: | :---: | :---: | :---: |
-| **Main DPS** | 80/80 - 80/90 | 90/90 | 8 - 9 | +20 on 5★ with mainstat  and good substats |
+| **DPS** | 70/80 - 80/90 | 90/90 | 8 - 9 | +20 on 5★ with mainstat  and good substats |
 | **Support** | 60/70 - 70/80 | 80/80 - 90/90 | 6 - 8 | +16 or +20 on 5★ with mainstat |
 
