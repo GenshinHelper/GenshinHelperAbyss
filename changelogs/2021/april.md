@@ -32,4 +32,5 @@ description: Changlogs
 |  | Small fixes to Ruin Guard and Pyro Agent pages | Setz |
 | Apr 9 | Drafting information on character investment | Prad/Setz |
 |  | Adding early game investment section | AegisD |
+| Apr 13 | Adding mid-late game investment sections | AegisD |
 

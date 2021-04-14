@@ -18,8 +18,6 @@ You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin G
 
 While **Geovishaps** are resistant to ****![](../../.gitbook/assets/geo_small.png), bringing a **Geo Support** is a great way to survive against them by triggering **Crystallize** on their elements once they infuse.
 
-**Taunt** abilities are particularly effective here to give some time for you to recover stamina.
-
 ## Team Recommendations
 
 |  | Side 1 | Side 2 |
@@ -34,9 +32,13 @@ While **Geovishaps** are resistant to ****![](../../.gitbook/assets/geo_small.pn
 
 **Monster Level - 96**
 
-Geovishaps will infuse **35s** into the chamber
+Geovishaps will infuse **35s** into the chamber.
 
-Once infused, Geovishaps will gain resistance to that element \(30%\)
+Once infused, **Geovishaps** will gain resistance to that element \(30%\).
+
+**Taunt** abilities are particularly effective here to give some time for you to recover stamina.
+
+Attempting to dodge every attack will quickly drain your stamina. Focus on dodging both hits of the **Double Slam** attack, as this does the most damage. Rely on your shields/healing for other damage if you can.
 
 | Monster | HP |
 | :--- | :--- |
