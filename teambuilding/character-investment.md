@@ -285,8 +285,7 @@ If you haven't already, then this is a good time to invest more in your **suppor
 
 ### Artifacts
 
-* 4★ artifacts and 5★ artifacts for your main DPS with no CRIT substats are no longer worth levelling, and should be used as XP for better artifacts
-* 5★ artifacts with double CRIT substat may be worth levelling even if they are an off-set. A well rolled piece can very easily be better than a set bonus
+* 5★ artifacts with the **correct mainstat** and **two CRIT substats** may be worth levelling even if they are an off-set. A well rolled piece can very easily be better than trying to maintain a set bonus.
 
 ### Benchmarks
 
