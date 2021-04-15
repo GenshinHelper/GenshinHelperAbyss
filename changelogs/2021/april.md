@@ -33,4 +33,5 @@ description: Changlogs
 | Apr 9 | Drafting information on character investment | Prad/Setz |
 |  | Adding early game investment section | AegisD |
 | Apr 13 | Adding mid-late game investment sections | AegisD |
+| Apr 15 | Updating blessing | AegisD |
 
