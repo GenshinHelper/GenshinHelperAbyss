@@ -40,7 +40,7 @@ The **Pyro Agent** will always lead with this attack.
 
 You will not get hit by the blades if you stand directly next to the **Pyro Agent**. You can use a **dash** to get past the blades without being hit.
 
-The **Pyro Agent** is immune to interruption during this attack! If you want to prevent him from going invisible, you will need to stagger him before he casts the blades.
+If you interrupt the **Pyro Agent** before he finishes this move, he will not go **invisible**.
 
 ### Dash
 
