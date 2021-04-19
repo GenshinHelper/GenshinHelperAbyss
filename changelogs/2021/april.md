@@ -34,4 +34,5 @@ description: Changlogs
 |  | Adding early game investment section | AegisD |
 | Apr 13 | Adding mid-late game investment sections | AegisD |
 | Apr 15 | Updating blessing | AegisD |
+| Apr 19 | Starting page on Teambuilding | AegisD |
 
