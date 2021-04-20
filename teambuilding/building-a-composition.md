@@ -134,7 +134,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 * This core is centered around the **Electrocharged** \(![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/electro_small.png)\) reaction. Utilizes **Keqing's** ![](../.gitbook/assets/electro_small.png) **infusion** and strong **Charged Attack.**
 
-### Ganyu + Pyro
+### Ganyu + Xiangling
 
 **Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png)
 
