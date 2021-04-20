@@ -24,15 +24,23 @@ The best supports will often fill in more than one of these categories. This is 
 
 #### Healer
 
-Each team should have a character than can heal. While it's possible to run a strong shield character like Zhong Li instead of a healer, it's not recommended.
+Each team should have a character than can heal. 
+
+{% hint style="info" %}
+While it's possible to run a strong shield character like Zhong Li instead of a healer, it's not recommended
+{% endhint %}
 
 #### Shieldbreakers
 
-Prioritize adding any elements you are missing for breaking enemy shields. You can find a list of required elements in the guide for each floor. 
+Prioritize adding any elements you are missing for breaking enemy shields. 
+
+{% hint style="info" %}
+If you're not sure what elements you need, check out the guides on each floor! Each one will list the shieldbreaking requirements at the very top
+{% endhint %}
 
 #### Energy
 
-Commonly referred to as a battery, these supports are the same element as the core character and are good at generating energy to keep their Bursts up more often, helping you deal more damage.
+Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their **Bursts** up more often, helping you deal more damage.
 
 #### Crowd Control
 
@@ -40,7 +48,7 @@ Characters that are able to disable enemies in various ways. This will often be 
 
 #### Damage
 
-These supports boost the damage of your core unit in some way, for example:
+These supports boost the damage of your core unit in some way, either by:
 
 * Buffing your team \(**Bennet**, ****character using **Noblesse Oblige** set\)
 * Debuffing your enemies \(**Zhong Li**, ![](../.gitbook/assets/anemo_small.png)using **Viridescent Veneer** set\)
