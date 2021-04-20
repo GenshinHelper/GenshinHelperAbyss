@@ -19,7 +19,7 @@ If possible, try to use different types of damage between the two teams in order
 Which supports you choose for each team will vary depending on the specific requirements for the floor.
 
 {% hint style="info" %}
-The best supports will often fill in more than one of these categories. This is why pure healers like Barbara or Qiqi are not usually recommended over other more versatile supports like Bennet or Zhong Li.
+The best supports will often fill in more than one of these categories. This is why pure healers like Barbara or Qiqi are not usually recommended over other more versatile supports like Bennett or Zhong Li.
 {% endhint %}
 
 #### Healer
