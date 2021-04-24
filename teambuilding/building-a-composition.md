@@ -38,6 +38,16 @@ Prioritize adding any elements you are missing for breaking enemy shields.
 If you're not sure what elements you need, check out the guides on each floor! Each one will list the shieldbreaking requirements at the very top
 {% endhint %}
 
+#### Resonance
+
+Adding![](../.gitbook/assets/pyro_small.png)resonance is an easy way to add damage to any team if the floor allows it. This gives a nice boost early on but drops off on the later floors as you get better stats.
+
+![](../.gitbook/assets/cryo_small.png)/![](../.gitbook/assets/geo_small.png) resonances are very good for specific compositions that rely on **Freeze** / ![](../.gitbook/assets/geo_small.png)**DMG**.
+
+![](../.gitbook/assets/anemo_small.png) resonance is good on teams that will swap between **Elemental Skills** often.
+
+![](../.gitbook/assets/electro_small.png)/![](../.gitbook/assets/hydro_small.png)resonances are the weakest and usually not worth going for specifically.
+
 #### Energy
 
 Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their **Bursts** up more often, helping you deal more damage.
@@ -58,7 +68,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Razor/Keqing + Cryo
 
-**Primary Damage Type -** ![](../.gitbook/assets/physical_small.png) 
+**Primary Damage Type -** ![](../.gitbook/assets/physical_small.png) ![](../.gitbook/assets/electro_small.png)
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
@@ -66,6 +76,17 @@ These supports boost the damage of your core unit in some way, either by:
 
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
 * **Diona** and **Qiqi** are the preferred supports as they also fill in for you as a **healer**.
+
+### Rosaria/Kaeya + Electro
+
+**Primary Damage Type -** ![](../.gitbook/assets/physical_small.png) ![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/electro_small.png)
+
+| DPS | Supports |
+| :---: | :---: |
+| ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_fischl.png)   |
+
+* Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
+* Adding a ![](../.gitbook/assets/hydro_small.png)support is a nice way to add **Freeze** on this team for extra **Crowd Control**.
 
 ### Ningguang + Geo
 
@@ -81,7 +102,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Bennet + Chong
 
-**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) 
+**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/cryo_small.png)
 
 | DPS | Support |
 | :---: | :---: |
@@ -92,11 +113,11 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Diluc/Klee/Hu Tao + Hydro
 
-**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) 
+**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_hutao.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
+| ![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
 
 * This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
 
@@ -112,6 +133,17 @@ These supports boost the damage of your core unit in some way, either by:
 * **Tartaglia** is the ideal character for this as his **Elemental Skill Melee Stance** is great at applying![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)on top of doing a good amount of damage.
 * Unlike the other ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)core, **Xiangling's** basic attack is not![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media). In order to property utilize this, she needs sufficient **energy recharge** to make sure her **Elemental Burst** is ready as much as possible. This often means running a second ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)in a flex slot for resonance.
 
+### Childe + Cryo
+
+**Primary Damage Type -** ![](../.gitbook/assets/hydro_small.png) ![](../.gitbook/assets/cryo_small.png) 
+
+| DPS | Best Support | Other Supports |
+| :---: | :---: | :---: |
+| ![](../.gitbook/assets/ui_avataricon_tartaglia.png)   | ![](../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../.gitbook/assets/ui_avataricon_diona.png)   ![](../.gitbook/assets/ui_avataricon_rosaria.png)  |   ![](../.gitbook/assets/ui_avataricon_qiqi.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png)  |
+
+* This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/cryo_small.png)to enemies and then use **Childe's** **Elemental Skill Melee Stance** to deal damage to enemies while frozen.
+* You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**.
+
 ### Fischl/Beidou + Hydro
 
 **Primary Damage Type -** ![](../.gitbook/assets/electro_small.png) ![](../.gitbook/assets/hydro_small.png) 
@@ -126,7 +158,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Keqing + Hydro
 
-**Primary Damage Type -** ![](../.gitbook/assets/electro_small.png)
+**Primary Damage Type -** ![](../.gitbook/assets/electro_small.png)![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
 
 | DPS | Best Support | Good Supports |
 | :---: | :---: | :---: |
@@ -136,7 +168,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Ganyu + Xiangling
 
-**Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png)
+**Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/pyro_small.png)
 
 | DPS | Support |
 | :---: | :---: |
@@ -146,14 +178,14 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Ganyu + Hydro
 
-**Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png)
+**Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/hydro_small.png)
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
 | ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  |
 
 * This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** to deal damage to **frozen** enemies.
-* You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**.
+* You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
 * **Xingqiu** can work, but is not ideal for this as you have to weave in regular attacks in between charged attacks.
 
 ### Xiao + Anemo 

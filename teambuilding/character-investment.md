@@ -294,3 +294,37 @@ You will also want to start investing in characters other than just your **main 
 | **DPS** | 70/80 - 80/90 | 90/90 | 8 - 9 | +20 on 5★ with mainstat  and good substats |
 | **Support** | 60/70 - 70/80 | 80/80 - 90/90 | 6 - 8 | +16 or +20 on 5★ with mainstat |
 
+## FAQ
+
+### What character should I build?
+
+While some characters are stronger than others, you should invest in characters that you truly enjoy playing. Any character can be used to clear all the content in the game as long as they’re built right and have a strong supporting team. The main difference will be that some characters will take more resources to reach the same point as another, so find a balance between viability and enjoyability.
+
+Check out [Building a Composition](building-a-composition.md#cores) for some suggestions on strong teams you can build around a character you enjoy.
+
+### **Should I spend Primogems on Resin refreshes?**
+
+Ultimately it's up to you how you want to spend your Primogems, but in general you should not refresh. While refreshing gets you better gear faster, if you spend your resources correctly you will have more than enough Resin naturally to make your way through Abyss in a month or two of playtime.
+
+### Should I keep fighting weekly bosses if I don't need any of their talent material drops?
+
+Yes! Weekly bosses give a lot of resources for their cost, particularly **Gladiator/Wanderer** set pieces. You should continue to do them. Who knows, you may one day roll the character that needs that material anyway.
+
+### How important are character constellations for Abyss?
+
+Not at all! You can 36★ Abyss with all C0 characters. Some constellations however do give a significant boost, but it does vary from character to character. If you are investing in a character, research which constellations are most important and try for them when they're featured if you need the boost. 5★ constellations are absolutely not necessary and you should only get those if you can afford them.
+
+### I don't see Elemental Mastery mentioned anywhere. How important is it?
+
+EM can be powerful for the right characters/compositions but difficult to generalize, so we haven't mentioned it. You will have to research builds for the characters you choose to invest in to see if EM will be beneficial for you or not.
+
+### When should I stop investing in a character?
+
+Fully optimizing a character takes a large amount of time/resources, and is not recommended. You should only do this once you have a team that can 36★ Abyss and only for fun.
+
+As a general guideline for a DPS role, aim for above **1700 ATK**, and roughly **40% CRIT Rate / 80% CRIT DMG**. After that, you should start looking into investing in supports as well invested supports can output a significant amount of damage for a lot less than it would cost to improve your DPS stats further.
+
+
+
+###  
+

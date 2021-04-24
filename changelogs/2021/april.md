@@ -36,5 +36,8 @@ description: Changlogs
 | Apr 13 | Adding mid-late game investment sections | AegisD |
 | Apr 15 | Updating blessing | AegisD |
 | Apr 19 | Added Composition Building page | AegisD |
-|  |  |  |
+| Apr 20 | Adding Childe Freeze to Compositions | Aidan |
+| Apr 23 | Adding Resonance to Support section in Compositions | AegisD/Prad |
+|  | Adding Kaeya/Rosaria Physical to Compositions | AegisD/Prad |
+|  | Added FAQ section to Char Investment | Prad |
 
