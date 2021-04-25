@@ -40,4 +40,6 @@ description: Changlogs
 | Apr 23 | Adding Resonance to Support section in Compositions | AegisD/Prad |
 |  | Adding Kaeya/Rosaria Physical to Compositions | AegisD/Prad |
 |  | Added FAQ section to Char Investment | Prad |
+| Apr 24 | Adding v1.5 F11/12 placeholders | AegisD |
+|  | Adding blessing for May 1st | AegisD |
 
