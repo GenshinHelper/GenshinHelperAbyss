@@ -6,6 +6,8 @@ description: Changelogs
 
 ## Major Updates
 
+* New monster guide for [Abyss Herald](../../monsters/abyss-order/abyss-herald.md)
+
 ## Full Changelogs
 
 | Date | Change | Author |
