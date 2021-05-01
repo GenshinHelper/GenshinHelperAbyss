@@ -35,15 +35,21 @@
 
 **Monster Level - 90**
 
-### Side 1
+### Side 1 
+
+![](../../.gitbook/assets/11-2-1%20%281%29.png)
 
 ### Side 2
+
+![](../../.gitbook/assets/11-2-2%20%281%29.png)
 
 ## Chamber 3
 
 **Monster Level - 92**
 
 ### Side 1
+
+![](../../.gitbook/assets/11-3-1%20%281%29.png)
 
 #### 3★ Tips
 
