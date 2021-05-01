@@ -39,9 +39,14 @@
 
 ![](../../.gitbook/assets/11-2-1%20%281%29.png)
 
+Focus the **Hydrogunner** first as he is able to heal allies.
+
 ### Side 2
 
 ![](../../.gitbook/assets/11-2-2%20%281%29.png)
+
+  
+Focus the **Hydrogunner** first as he is able to heal allies.
 
 ## Chamber 3
 

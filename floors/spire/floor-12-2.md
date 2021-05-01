@@ -22,9 +22,15 @@
 
 ### Side 1
 
+![](../../.gitbook/assets/12-1-1%20%282%29.png)
+
 #### 3★ Tips
 
 ### Side 2
+
+![](../../.gitbook/assets/12-1-2%20%282%29.png)
+
+![](../../.gitbook/assets/hydro_small.png) Geovishap can easily be frozen by ![](../../.gitbook/assets/cryo_small.png) after infusion.
 
 #### 3★ Tips
 
@@ -49,6 +55,8 @@
 #### 3★ Tips
 
 ### Side 2
+
+![](../../.gitbook/assets/12-3-2.png)
 
 #### 3★ Tips
 
