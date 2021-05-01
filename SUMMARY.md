@@ -31,14 +31,20 @@
 
 ## Monsters
 
+* [Abyss Order](monsters/abyss-order/README.md)
+  * [Abyss Herald](monsters/abyss-order/abyss-herald.md)
+  * [Abyss Lector](monsters/abyss-order/abyss-lector.md)
+  * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)
+  * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
+  * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
 * [Animals](monsters/animals/README.md)
   * [Geovishap](monsters/animals/geovishap.md)
-* [Hilichurls](monsters/hilichurls/README.md)
-  * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
 * [Fatui](monsters/fatui/README.md)
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
   * [Pyro Agent](monsters/fatui/pyro-agent.md)
+* [Hilichurls](monsters/hilichurls/README.md)
+  * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
 * [Ruin Constructs](monsters/ruin-constructs/README.md)
   * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)

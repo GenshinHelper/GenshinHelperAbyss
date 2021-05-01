@@ -14,4 +14,6 @@ description: Changelogs
 |  | Moving new F11/12 pages and adding shieldbreaking | AegisD |
 |  | Added some preliminary mob information for F11/12 | Network |
 |  | Adding mob infographics to a few chambers | AegisD |
+|  | Adding gifs for Abyss Herald attacks | Network |
+|  | Adding page for Abyss Herald and descriptions | AegisD |
 
