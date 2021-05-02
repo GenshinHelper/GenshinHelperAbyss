@@ -9,6 +9,8 @@
 
 **Bennet, Jean, Xinyan** can clear the **Slowing Waters** debuff, however it will take multiple ticks to do so for each character.
 
+If you use a skill when affected by **Slowing Waters**, it will have increased cooldowns. Even if you **cleanse** the debuff afterwards, the extended cooldown remains. If you are relying on a **cleanse**, make sure to wait until the ![](../../.gitbook/assets/hydro_small.png)element is fully removed before using any skills.
+
 If possible, use characters that don't rely on skills as much like **Ganyu** or **Klee**, and avoid characters that do like **Diluc** or **Childe**.
 
 ![](../../.gitbook/assets/electro_small.png) **resonance** reduces the duration of ![](../../.gitbook/assets/hydro_small.png) by **40%**, reducing the debuff duration from **20s** to **12s**. If you can, run two ![](../../.gitbook/assets/electro_small.png) chars in your team and time your cooldowns so you use skills while not debuffed.

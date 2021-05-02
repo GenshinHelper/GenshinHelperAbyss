@@ -11,7 +11,7 @@ Debuffs apply an **element** to the character, as well as a secondary effect bas
 | ![](../../.gitbook/assets/hydro_small.png) | **Slowing Water** | Increases **Skill Cooldowns** by **2x** |
 | ![](../../.gitbook/assets/electro_small.png) | **Engulfing Storm** | Drains **5 energy** every 3 seconds |
 
-All debuffs last **20 seconds**, or until **cleansed** by an elemental reaction \(see [Removing Debuffs](removing-debuffs.md)\).
+All debuffs last **20 seconds**, or until the **element** is removed by an **elemental reaction**, often called **cleansing**. \(See [Removing Debuffs](removing-debuffs.md) for detailed information\).
 
 Debuffs can either come from an **Aura** \(enemy\), or be part of the **Stage** \(divergence in Domain/Abyss\). The two have slightly different mechanics.
 

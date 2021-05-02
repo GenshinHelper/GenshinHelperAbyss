@@ -74,6 +74,8 @@ These characters are able to apply elements to other members of the party, makin
 
 These talents will periodically apply elements to the active character **every few seconds**.
 
+For weaker cleanses, you may need to wait for multiple ticks before the element is removed.
+
 | Character | Applied Element | Talent | Timer |
 | :---: | :---: | :---: | :---: |
 | ![](../../.gitbook/assets/ui_avataricon_bennett.png)  | ![](../../.gitbook/assets/pyro_small.png)  | Burst | 1s |
@@ -83,6 +85,8 @@ These talents will periodically apply elements to the active character **every f
 ### Shields
 
 Shields apply their element **when used**, but again whenever you **switch characters**.
+
+For weaker cleanses, you may need to switch multiple times before the element is removed.
 
 | Character | Applied Element | Talent |
 | :---: | :---: | :---: |
