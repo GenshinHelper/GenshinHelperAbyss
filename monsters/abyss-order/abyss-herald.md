@@ -1,6 +1,6 @@
 # Abyss Herald
 
-
+![](../../.gitbook/assets/abyss-herald.jpg)
 
 ## Resistances
 

@@ -19,5 +19,6 @@ description: Changelogs
 |  | Adding gifs for Abyss Herald attacks | Network |
 |  | Adding page for Abyss Herald and descriptions | AegisD |
 | May 2 | Added mob spawn infographics for remaining chambers | AegisD |
+|  | Adding tips for F11 | AegisD, Creed, Prad |
 |  |  |  |
 
