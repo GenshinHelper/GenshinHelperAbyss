@@ -85,6 +85,10 @@ Bring ![](../../.gitbook/assets/cryo_small.png) so that you can freeze **Hydro M
 
 The **Crane Hydro Mimics** in the second wave to significant damage, particularly if you get affected by  ![](../../.gitbook/assets/pyro_small.png)from the **Pyro Abyss Mage**. Take them out before dealing with the other enemies.
 
+{% hint style="danger" %}
+Be careful using **Bennet** on this side! He will apply ![](../../.gitbook/assets/pyro_small.png)to your character, allowing the enemies to trigger **Vaporize** on you with their attacks, dealing heavy damage.
+{% endhint %}
+
 #### 3★ Tips
 
 Run straight for the **Hydro Abyss Mage** and apply a burst that can keep it **Frozen** \(**Rosaria, Diona, Ganyu**\). The rest of the mobs will then run towards you and group together.
