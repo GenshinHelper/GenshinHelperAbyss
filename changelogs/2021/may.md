@@ -20,5 +20,7 @@ description: Changelogs
 |  | Adding page for Abyss Herald and descriptions | AegisD |
 | May 2 | Added mob spawn infographics for remaining chambers | AegisD |
 |  | Adding tips for F11 | AegisD, Creed, Prad |
-|  |  |  |
+|  | Adding tips for F12 | AegisD, Creed, Prad |
+
+
 

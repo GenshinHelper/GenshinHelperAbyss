@@ -75,6 +75,10 @@ Focus the **Hydrogunner** first as he is able to heal allies. He spawns in the b
 
 ![](../../.gitbook/assets/11-3-1%20%281%29.png)
 
+| Aura | DMG |
+| :--- | :--- |
+| [**Electro Triangle**](../../mechanics/auras/electro-triangle.md)\*\*\*\* | ???![](../../.gitbook/assets/electro_small.png)DMG  |
+
 #### 3★ Tips
 
 ### Side 2
@@ -86,4 +90,8 @@ Focus the **Hydrogunner** first as he is able to heal allies. He spawns in the b
 ![](../../.gitbook/assets/cryo_small.png) is the best way to deal with the **Abyss Herald** shield, as it applies **Frozen**. Multiple ![](../../.gitbook/assets/cryo_small.png) characters are recommended due to **Slowing Waters**.
 
 #### 3★ Tips
+
+## Other Resources
+
+Not sure what something means? Check the [Glossary](../glossary.md)
 
