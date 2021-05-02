@@ -40,9 +40,13 @@
 
 ### Side 1
 
+![](../../.gitbook/assets/12-2-1%20%282%29.png)
+
 #### 3★ Tips
 
 ### Side 2
+
+![](../../.gitbook/assets/12-2-2.png)
 
 #### 3★ Tips
 
@@ -51,6 +55,8 @@
 **Monster Level - 100**
 
 ### Side 1
+
+![](../../.gitbook/assets/12-3-1.png)
 
 #### 3★ Tips
 

@@ -18,4 +18,6 @@ description: Changelogs
 |  | Adding mob infographics to a few chambers | AegisD |
 |  | Adding gifs for Abyss Herald attacks | Network |
 |  | Adding page for Abyss Herald and descriptions | AegisD |
+| May 2 | Added mob spawn infographics for remaining chambers | AegisD |
+|  |  |  |
 

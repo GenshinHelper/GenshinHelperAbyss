@@ -29,7 +29,11 @@
 
 ### Side 1
 
+![](../../.gitbook/assets/11-1-1%20%281%29.png)
+
 ### Side 2
+
+![](../../.gitbook/assets/11-1-2%20%281%29.png)
 
 ## Chamber 2
 
@@ -59,6 +63,8 @@ Focus the **Hydrogunner** first as he is able to heal allies.
 #### 3★ Tips
 
 ### Side 2
+
+![](../../.gitbook/assets/11-3-2%20%281%29.png)
 
 #### 3★ Tips
 
