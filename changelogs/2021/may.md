@@ -21,6 +21,8 @@ description: Changelogs
 | May 2 | Added mob spawn infographics for remaining chambers | AegisD |
 |  | Adding tips for F11 | AegisD, Creed, Prad |
 |  | Adding tips for F12 | AegisD, Creed, Prad |
+| May 3 | Added gifs for Abyss Lector attacks | Koshu |
+|  | Added page for Abyss Lector and descriptions | AegisD |
 
 
 
