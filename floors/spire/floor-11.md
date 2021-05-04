@@ -7,15 +7,29 @@
 
 ## General Tips
 
-**Bennet, Jean, Xinyan** can clear the **Slowing Waters** debuff, however it will take multiple ticks to do so for each character.
+![](../../.gitbook/assets/cryo_small.png)character/DPS is **highly recommended** on Side 2 for the **Abyss Heralds**. Keeping them **Frozen** is the best way to deal with them.
 
-If you use a skill when affected by **Slowing Waters**, it will have increased cooldowns. Even if you **cleanse** the debuff afterwards, the extended cooldown remains. If you are relying on a **cleanse**, make sure to wait until the ![](../../.gitbook/assets/hydro_small.png)element is fully removed before using any skills.
+## Slowing Waters Tips
+
+{% hint style="warning" %}
+Unlike other **Stage Debuffs**,  lasts a full **30 seconds** and is reapplied every **30 seconds**. This means you will always be affected by the debuff unless you lower it's duration in some way.
+{% endhint %}
+
+If you use a talent when affected by **Slowing Waters**, it will have increased cooldowns. Even if you **cleanse** the debuff afterwards, the extended cooldown remains. If you are relying on a **cleanse**, make sure to wait until the ![](../../.gitbook/assets/hydro_small.png)element is fully removed before using any talents.
+
+There is a small window right as you start a chamber before you are hit with the **Slowing Waters** debuff. If you immediately use a talent during this time, the cooldown will not be increased. 
 
 If possible, use characters that don't rely on skills as much like **Ganyu** or **Klee**, and avoid characters that do like **Diluc** or **Childe**.
 
-![](../../.gitbook/assets/electro_small.png) **resonance** reduces the duration of ![](../../.gitbook/assets/hydro_small.png) by **40%**, reducing the debuff duration from **20s** to **12s**. If you can, run two ![](../../.gitbook/assets/electro_small.png) chars in your team and time your cooldowns so you use skills while not debuffed.
+{% page-ref page="../../mechanics/debuffs/" %}
 
-![](../../.gitbook/assets/cryo_small.png)character/DPS is **highly recommended** on Side 2 for the **Abyss Heralds**. Keeping them **Frozen** is the best way to deal with them.
+### Removing Slowing Waters
+
+**Bennet, Jean, Xinyan** can cleanse the **Slowing Waters** debuff. However it will take multiple ticks to do so for each character.
+
+Applying![](../../.gitbook/assets/electro_small.png)to yourself can reduce the duration of ![](../../.gitbook/assets/hydro_small.png) as well by triggering **Electrocharged**. However, the only characters that do this \(**Razor, Beidou**\) can only apply it to themselves.
+
+![](../../.gitbook/assets/electro_small.png) **resonance** reduces the duration of ![](../../.gitbook/assets/hydro_small.png) by **40%**, reducing the debuff duration from **30s** to **18s**. If you can, run two ![](../../.gitbook/assets/electro_small.png) chars in your team and time your cooldowns so you use skills while not debuffed. You can also use **Tiara of Torrents** which has the same effect, but giving up a circlet slot is often not worth it. The two stack multiplicatively, so using both reduces the duration from **30s** to **10.8s**.
 
 {% page-ref page="../../mechanics/debuffs/removing-debuffs.md" %}
 
@@ -81,17 +95,34 @@ Focus the **Hydrogunner** first as he is able to heal allies. He spawns in the b
 | :--- | :--- |
 | [**Electro Triangle**](../../mechanics/auras/electro-triangle.md)\*\*\*\* | ???![](../../.gitbook/assets/electro_small.png)DMG  |
 
+| Monster | HP |
+| :--- | :--- |
+| [**Electro Cicin Mage**](../../monsters/fatui/electro-cicin-mage.md)\*\*\*\* | ~250K |
+| \*\*\*\*[**Cryo Cicin Mage**](../../monsters/fatui/cryo-cicin-mage.md)\*\*\*\* | ~250K |
+
 #### 3★ Tips
+
+Aim for **under 1 minute** on this side to leave yourself plenty of time for the second side.
+
+![](../../.gitbook/assets/anemo_small.png)characters work the best for keeping the **Cicin Mages** grouped and staggered. You can also use **Freeze** to prevent the **Electro Cicin Mage** from teleporting.
+
+
 
 ### Side 2
 
 ![](../../.gitbook/assets/11-3-2%20%281%29.png)
 
-{% page-ref page="../../monsters/abyss-order/abyss-herald.md" %}
+| Monster | HP |
+| :--- | :--- |
+| \*\*\*\*[**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)\*\*\*\* | ??? |
 
-![](../../.gitbook/assets/cryo_small.png) is the best way to deal with the **Abyss Herald** shield, as it applies **Frozen**. Multiple ![](../../.gitbook/assets/cryo_small.png) characters are recommended due to **Slowing Waters**.
+![](../../.gitbook/assets/cryo_small.png) is the best way to deal with the **Abyss Herald** shield, as it applies **Frozen**. Multiple ![](../../.gitbook/assets/cryo_small.png) characters are recommended due to **Slowing Waters**.![](../../.gitbook/assets/electro_small.png) can also be effective.
 
 #### 3★ Tips
+
+Try to group the **Abyss Heralds** together after they shield and keep them **Frozen** with ![](../../.gitbook/assets/cryo_small.png) and continue damaging both shields.
+
+Try using **Chongyun** with **Tiara of Torrents**. This reduces the duration of **Slowing Waters** on him, allowing you to have better uptime on his **Elemental Skill** which infuses attacks with![](../../.gitbook/assets/cryo_small.png), giving you a consistent source of applying it. Note that it is better to use a non-claymore user in his field so that you don't **Shatter**.
 
 ## Other Resources
 

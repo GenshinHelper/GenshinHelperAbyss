@@ -11,13 +11,17 @@ Debuffs apply an **element** to the character, as well as a secondary effect bas
 | ![](../../.gitbook/assets/hydro_small.png) | **Slowing Water** | Increases **Skill Cooldowns** by **2x** |
 | ![](../../.gitbook/assets/electro_small.png) | **Engulfing Storm** | Drains **5 energy** every 3 seconds |
 
-All debuffs last **20 seconds**, or until the **element** is removed by an **elemental reaction**, often called **cleansing**. \(See [Removing Debuffs](removing-debuffs.md) for detailed information\).
+All debuffs last **20 seconds\***, or until the **element** is removed by an **elemental reaction**, often called **cleansing**. \(See [Removing Debuffs](removing-debuffs.md) for detailed information\).
+
+{% hint style="warning" %}
+There is one exception. **Slowing Waters** on **Floor 11** in **v1.5** appears to last a full **30 seconds**
+{% endhint %}
 
 Debuffs can either come from an **Aura** \(enemy\), or be part of the **Stage** \(divergence in Domain/Abyss\). The two have slightly different mechanics.
 
 |  | Aura | Stage |
 | :--- | :--- | :--- |
-| **Duration** | 20s | 20s |
+| **Duration** | 20s | 20s\* |
 | **Timer** | 15s | 30s |
 | **Range** | Limited | Unlimited |
 | **Affects** | Active Character | Entire Party |
