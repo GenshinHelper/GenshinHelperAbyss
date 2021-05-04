@@ -24,6 +24,7 @@ description: Changelogs
 | May 3 | Added gifs for Abyss Lector attacks | Koshu |
 |  | Added page for Abyss Lector and descriptions | AegisD |
 | May 5 | Adding some F11 tips and fixing some debuff info | AegisD |
+|  | Adding some F12 tips | AegisD |
 
 
 

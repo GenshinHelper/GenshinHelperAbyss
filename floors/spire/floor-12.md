@@ -16,7 +16,7 @@ Each Chamber/Side on this Floor has very different requirements. Focus on first 
 | **Preferred Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../../.gitbook/assets/cryo_small.png) | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)\*\*\*\* |
 | **Avoid Damage** | ![](../../.gitbook/assets/electro_small.png)\*\*\*\* | ![](../../.gitbook/assets/hydro_small.png)\*\*\*\* |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)  |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)   |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)   |
 
 ## Chamber 1
 
@@ -62,6 +62,14 @@ The  **Hydro/Cryo Cicins** in the second wave can **freeze** you repeatedly. Be 
 
 #### 3★ Tips
 
+Having a way to apply ![](../../.gitbook/assets/cryo_small.png)in a large area will help deal with the shield.
+
+Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoarders** is still important. Try to fight near the **potioneers** and let the melee enemies run towards you.
+
+| Recommended Characters |
+| :---: |
+|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_xiao.png)![](../../.gitbook/assets/ui_avataricon_venti.png)  |
+
 ### Side 2
 
 ![](../../.gitbook/assets/12-2-2.png)
@@ -99,6 +107,10 @@ Next, focus down the **Hydro Abyss Mage** so you can stop **Bubbles** from spawn
 
 In the second wave, run for the **Crane Hydro Mimics**. The other enemies will come to you.
 
+| Recommended Characters |
+| :---: |
+|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
+
 ## Chamber 3
 
 **Monster Level - 100**
@@ -119,6 +131,12 @@ This side can be particularly difficult due to the shields. Aim for around **2 m
 
 Once **shielded**, **Abyss Lectors** will no longer be moveable. Keeping them together is extremely important when going for stars. **Reactions** triggered on one shield \(**Overload, Superconduct**\) will damage the other shield if they are close enough.
 
+Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to apply pyro.
+
+| Recommended Characters |
+| :---: |
+|  ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png)  |
+
 ### Side 2
 
 ![](../../.gitbook/assets/12-3-2.png)
@@ -133,9 +151,11 @@ Having some form of **Crowd Control** helps greatly on this side.
 
 #### 3★ Tips
 
-If you have **Jean and/or Venti**, put them on this side.
-
 When going for a fast clear, aim for the **Cryo Cicin Mage**. Keeping her staggered prevents her from shielding and saves you time. You can use attacks to try and push her closer to the other enemies and group them.
+
+| Recommended Characters |
+| :---: |
+|  ![](../../.gitbook/assets/ui_avataricon_razor.png) ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 ## Other Resources
 
