@@ -18,9 +18,11 @@ Note - below resistance values are not confirmed.
 
 ## Shield
 
-Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) attacks to break through the shield.
+Use![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) attacks to break through the shield.
 
 ![](../../.gitbook/assets/cryo_small.png) is the most recommended, as this will **Freeze** the **Abyss Herald**.
+
+![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **half as effective**.
 
 ## Abilities
 

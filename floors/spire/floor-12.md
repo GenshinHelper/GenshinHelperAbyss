@@ -119,7 +119,19 @@ In the second wave, run for the **Crane Hydro Mimics**. The other enemies will c
 
 ![](../../.gitbook/assets/12-3-1.png)
 
-Use ![](../../.gitbook/assets/pyro_small.png) or ![](../../.gitbook/assets/cryo_small.png) against the **Abyss Lector** shield.
+| Monster | HP |
+| :--- | :--- |
+| \*\*\*\*[**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)\*\*\*\* | ~735K HP |
+
+
+
+{% hint style="info" %}
+The **Abyss Lector shield** has **36U** of strength. This means it takes anywhere between **18~36** applications of![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/hydro_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **36~72** applications.
+{% endhint %}
+
+Use ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/hydro_small.png)against the **Abyss Lector** shield. 
+
+While the above 3 elements are equally effective, there are more![](../../.gitbook/assets/pyro_small.png)chars with good elemental application, so using it is preferred.
 
 Taunts are particularly effective at drawing their attacks and giving you windows to deal damage.
 

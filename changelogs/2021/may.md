@@ -27,6 +27,7 @@ description: Changelogs
 |  | Adding some F12 tips | AegisD |
 | May 8 | Adding more tips for F11/12 | AegisD |
 |  | Adding some notes on Herald/Lector pages | AegisD |
+|  | Adding notes on shields for Herald/Lector | Donuts |
 
 
 

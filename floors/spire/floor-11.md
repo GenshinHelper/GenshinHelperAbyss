@@ -116,7 +116,11 @@ Aim for **under 1 minute** on this side to leave yourself plenty of time for the
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)\*\*\*\* | ??? |
+| \*\*\*\*[**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)\*\*\*\* | ~410K HP |
+
+{% hint style="info" %}
+The **Abyss Herald** **shield** has **36U** of strength. This means it takes anywhere between **18~36** applications of![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **36~72** applications.
+{% endhint %}
 
 ![](../../.gitbook/assets/cryo_small.png) is the best way to deal with the **Abyss Herald** shield, as it applies **Frozen**. Multiple ![](../../.gitbook/assets/cryo_small.png) characters are recommended due to **Slowing Waters**.![](../../.gitbook/assets/electro_small.png) can also be effective.
 

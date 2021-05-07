@@ -20,7 +20,9 @@ Note - below resistance values are not confirmed.
 
 ## Shield
 
-Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)attacks to break through the shield.
+Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/hydro_small.png)attacks to break through the shield.
+
+ ![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **half as effective**.
 
 {% hint style="info" %}
 Unlike other ![](../../.gitbook/assets/electro_small.png)shields, both![](../../.gitbook/assets/pyro_small.png)and![](../../.gitbook/assets/cryo_small.png)appear to be equally effective on **Abyss Lector** shields. Use whichever characters you have that apply elements the quickest.
