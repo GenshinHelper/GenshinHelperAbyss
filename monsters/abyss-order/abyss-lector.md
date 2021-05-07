@@ -22,6 +22,12 @@ Note - below resistance values are not confirmed.
 
 Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)attacks to break through the shield.
 
+{% hint style="info" %}
+Unlike other ![](../../.gitbook/assets/electro_small.png)shields, both![](../../.gitbook/assets/pyro_small.png)and![](../../.gitbook/assets/cryo_small.png)appear to be equally effective on **Abyss Lector** shields. Use whichever characters you have that apply elements the quickest.
+{% endhint %}
+
+Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
+
 ## Abilities
 
 ### Lightning Orbs
@@ -29,6 +35,10 @@ Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small
 ![Sends three orbs at the player which explode](../../.gitbook/assets/abyssherald_orbs.gif)
 
 Being hit by an orb will drain your character's energy.
+
+Blocking the damage with a **shield** prevents it from draining your energy.
+
+You can only be affected by the energy drain **once** per set of 3 orbs. Getting hit by all 3 won't drain your energy 3x as much, you will still lose the same amount.
 
 ### Lightning Streak
 

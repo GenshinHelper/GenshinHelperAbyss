@@ -15,8 +15,8 @@ Each Chamber/Side on this Floor has very different requirements. Focus on first 
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png) |
 | **Preferred Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../../.gitbook/assets/cryo_small.png) | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)\*\*\*\* |
 | **Avoid Damage** | ![](../../.gitbook/assets/electro_small.png)\*\*\*\* | ![](../../.gitbook/assets/hydro_small.png)\*\*\*\* |
-| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)  |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)   |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_xingqiu.png) | ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png) |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_mona.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
 
 ## Chamber 1
 
@@ -131,7 +131,7 @@ This side can be particularly difficult due to the shields. Aim for around **2 m
 
 Once **shielded**, **Abyss Lectors** will no longer be moveable. Keeping them together is extremely important when going for stars. **Reactions** triggered on one shield \(**Overload, Superconduct**\) will damage the other shield if they are close enough.
 
-Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to apply pyro.
+Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
 
 | Recommended Characters |
 | :---: |

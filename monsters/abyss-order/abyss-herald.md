@@ -57,6 +57,8 @@ Getting hit by this attack will **add 6 seconds** to any **Elemental Skill/Burst
 
 This only affects the active character hit, and this **does not affect skills that aren't on cooldown**.
 
+Blocking the damage with a **shield** prevents it from increasing your cooldowns.
+
 ### Water Wheel
 
 ![Spins rapidly towards the player 1 - 4 times](../../.gitbook/assets/herald_mizuguruma_2.gif)

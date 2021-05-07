@@ -25,6 +25,8 @@ description: Changelogs
 |  | Added page for Abyss Lector and descriptions | AegisD |
 | May 5 | Adding some F11 tips and fixing some debuff info | AegisD |
 |  | Adding some F12 tips | AegisD |
+| May 8 | Adding more tips for F11/12 | AegisD |
+|  | Adding some notes on Herald/Lector pages | AegisD |
 
 
 

@@ -40,8 +40,8 @@ Applying![](../../.gitbook/assets/electro_small.png)to yourself can reduce the d
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png) |
 | **Preferred Damage** | ![](../../.gitbook/assets/physical_small.png) | ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/cryo_small.png) |
 | **Avoid Damage** | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/hydro_small.png) |
-| **4**★ **Supports** |  | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png)    |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
+| **4**★ **Supports** |  | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png)  ![](../../.gitbook/assets/ui_avataricon_lisa.png)  |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png)  | ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 ## Chamber 1
 
@@ -106,7 +106,9 @@ Aim for **under 1 minute** on this side to leave yourself plenty of time for the
 
 ![](../../.gitbook/assets/anemo_small.png)characters work the best for keeping the **Cicin Mages** grouped and staggered. You can also use **Freeze** to prevent the **Electro Cicin Mage** from teleporting.
 
-
+| Recommended Characters |
+| :---: |
+| ![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 ### Side 2
 
@@ -123,6 +125,10 @@ Aim for **under 1 minute** on this side to leave yourself plenty of time for the
 Try to group the **Abyss Heralds** together after they shield and keep them **Frozen** with ![](../../.gitbook/assets/cryo_small.png) and continue damaging both shields.
 
 Try using **Chongyun** with **Tiara of Torrents**. This reduces the duration of **Slowing Waters** on him, allowing you to have better uptime on his **Elemental Skill** which infuses attacks with![](../../.gitbook/assets/cryo_small.png), giving you a consistent source of applying it. Note that it is better to use a non-claymore user in his field so that you don't **Shatter**.
+
+| Recommended Characters |
+| :---: |
+| ![](../../.gitbook/assets/ui_avataricon_lisa.png)![](../../.gitbook/assets/ui_avataricon_keqing.png)![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png) |
 
 ## Other Resources
 
