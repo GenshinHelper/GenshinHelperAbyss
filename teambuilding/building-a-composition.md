@@ -74,7 +74,7 @@ These supports boost the damage of your core unit in some way, either by:
 | :---: | :---: | :---: |
 | ![](../.gitbook/assets/ui_avataricon_razor.png) ![](../.gitbook/assets/ui_avataricon_keqing.png)  | ![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_qiqi.png)  | ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png)![](../.gitbook/assets/ui_avataricon_ganyu.png)   |
 
-* Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
+* Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **12 seconds**.
 * **Diona** and **Qiqi** are the preferred supports as they also fill in for you as a **healer**.
 
 ### Rosaria/Kaeya + Electro
