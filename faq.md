@@ -19,7 +19,7 @@ Always focus on levelling your **Main carry/DPS** first. The characters and thei
 
 Characters only used for **shield breaking** do not need any levels at all. Their skills are equally effective at level 1 \(as long as you can keep them alive!\)
 
-Once you get to the higher floors, you will always be lower level than the enemies on the floor. This is where investment into artifacts becomes important. Prioritize getting your main carries to **80/80** with levelled weapons/artifacts/talents. Supports can be kept at 60/70 unless you need their talents at lv 6, in which case bring them to 70/80.
+Once you get to the higher floors, you will always be lower level than the enemies on the floor. This is where investment into artifacts becomes important. Prioritize getting your main carries to **80/80** with levelled weapons/artifacts/talents. Supports can be kept at 60/70 unless you want their talents above lv 6, in which case bring them to 70/80.
 
 It is not recommended you level characters past 80/90 as the damage boost is not worth it. It's often better to put the resources used to bring a character to 90 elsewhere.
 
