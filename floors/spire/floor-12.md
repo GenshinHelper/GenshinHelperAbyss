@@ -155,7 +155,7 @@ Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental 
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | ???![](../../.gitbook/assets/pyro_small.png)/ Explosion |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 2512![](../../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Aim for the **Pyro Agent** first to get rid of the **Fireball** aura.
 
