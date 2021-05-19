@@ -29,6 +29,8 @@ description: Changelogs
 |  | Adding some notes on Herald/Lector pages | AegisD |
 |  | Adding notes on shields for Herald/Lector | Donuts |
 | May 18 | Updating blessings | AegisD |
+|  | Updated FAQ question order | AegisD |
+|  | Added Aura damage numbers | Prad |
 
 
 

@@ -95,15 +95,9 @@ No
 
 ## Other Mechanics
 
-### There are no enemies left but the counter still has enemies remaining. Where are they?
+### If I "Leave for now" on a chamber, update my stats, and then continue, will it use the new values?
 
-This is a bug that can happen after co-op. Leave for now and restart the game. The enemies should appear property once you resume from the Chamber
-
-### How come I don't deal any damage to the Fatui on floor 7?
-
-Fatui gain massive damage resistance until their shield is broken with the right element.
-
-See [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md) for Enviosity's guide on them
+No. Abyss will "snapshot" your stats whenever you start a run for the floor. If you updated your stats, you will have to restart your run in order to have the updates take effect
 
 ### How do I stop enemies from hitting the monolith?
 
@@ -125,7 +119,13 @@ Some enemies come with additional abilities that will activate periodically as l
 
 See [Auras](mechanics/auras/) for details on each individual effect
 
-### If I "Leave for now" on a chamber, update my stats, and then continue, will it use the new values?
+### There are no enemies left but the counter still has enemies remaining. Where are they?
 
-No. Abyss will "snapshot" your stats whenever you start a run for the floor. If you updated your stats, you will have to restart your run in order to have the updates take effect
+This is a bug that can happen after co-op. Leave for now and restart the game. The enemies should appear property once you resume from the Chamber
+
+### How come I don't deal any damage to the Fatui on floor 7?
+
+Fatui gain massive damage resistance until their shield is broken with the right element.
+
+See [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md) for Enviosity's guide on them
 

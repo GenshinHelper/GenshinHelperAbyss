@@ -76,8 +76,8 @@ Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoar
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | ???![](../../.gitbook/assets/hydro_small.png)DMG  |
-| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | ???![](../../.gitbook/assets/pyro_small.png)/ Explosion |
+| [**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | 4730![](../../.gitbook/assets/hydro_small.png)DMG  |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 2512![](../../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Each type of **Hydro Mimic** is weak to a different element \[[1](https://genshinhelper.gitbook.io/abyss/floors/spire/floor-12#references)\]. 
 
