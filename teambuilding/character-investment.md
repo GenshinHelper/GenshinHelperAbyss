@@ -322,7 +322,7 @@ EM can be powerful for the right characters/compositions but difficult to genera
 
 Fully optimizing a character takes a large amount of time/resources, and is not recommended. You should only do this once you have a team that can 36★ Abyss and only for fun.
 
-As a general guideline for a DPS role, aim for above **1700 ATK**, and roughly **40% CRIT Rate / 80% CRIT DMG**. After that, you should start looking into investing in supports as well invested supports can output a significant amount of damage for a lot less than it would cost to improve your DPS stats further.
+As a general guideline for a DPS role, aim for above **1700 ATK**, and roughly **50% CRIT Rate / 100% CRIT DMG**. After that, you should start looking into investing in supports as well invested supports can output a significant amount of damage for a lot less than it would cost to improve your DPS stats further.
 
 
 
