@@ -35,6 +35,8 @@ description: Changelogs
 |  | Updated FAQ question order | AegisD |
 |  | Added Aura damage numbers | Prad |
 | May 25 | Fixing minor typos and mistakes | ChiliLion |
+| May 26 | Adding short entry on blessing buff | Prad |
+|  | Adding clip for grouping Lectors | Donuts |
 
 
 

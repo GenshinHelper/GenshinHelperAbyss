@@ -12,6 +12,12 @@ description: by the Genshin Helper Team
 
 When a character with a **shield** is hit, deals **AoE DMG** \(max 1 per 6s\)
 
+### Characters Buffed by Blessing
+
+| Best | Good |
+| :---: | :---: |
+| ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2F-MVKTPJXzkfD7cQl9kZr%2F-MVKcpeIdQ9tL919MXpn%2FUI_AvatarIcon_Diona.png?alt=media&token=208d6e39-ccd4-4a45-b3ca-22e4bc975e6f)![](.gitbook/assets/ui_avataricon_albedo.png)![](.gitbook/assets/ui_avataricon_ningguang.png)![](.gitbook/assets/ui_avataricon_noelle.png)![](.gitbook/assets/ui_avataricon_zhongli.png) | ![](.gitbook/assets/ui_avataricon_xinyan.png)![](.gitbook/assets/ui_avataricon_beidou.png)![](.gitbook/assets/ui_avataricon_aether_geo.png) |
+
 <table>
   <thead>
     <tr>

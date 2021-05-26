@@ -141,6 +141,10 @@ This side can be particularly difficult due to the shields. Aim for around **2 m
 
 **Abyss Lectors** will not move during their attacks if you stay within range. You can use this to your advantage by grouping them together before using damaging skills. While unshielded, they are easily staggered, for example with **sword charged attacks**. Use this to push them together as close as possible.
 
+You can also group the **Lectors** by walking to one side of the arena at the start of the fight. This takes about **10-12s** to do and can be worth it if you have no other way to group them quickly.
+
+{% embed url="https://youtu.be/G-SVZasNb-Q" %}
+
 Once **shielded**, **Abyss Lectors** will no longer be moveable. Keeping them together is extremely important when going for stars. **Reactions** triggered on one shield \(**Overload, Superconduct**\) will damage the other shield if they are close enough.
 
 Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
