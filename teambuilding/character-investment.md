@@ -42,7 +42,7 @@ You should expect to clear Floor 3 around **AR20-25**. Once you've gotten **Xian
 | ![](../.gitbook/assets/berserker_flower.png)  | Berserker | 2 | CRIT Rate +12% |
 | ![](../.gitbook/assets/sojourner_flower.png)  | Resolution of Sojourner | 2 | ATK +18% |
 | ![](../.gitbook/assets/braveheart_flower.png) | Brave Heart | 2 | ATK +18% |
-| ![](../.gitbook/assets/braveheart_flower.png) | Martial Artist | 2 | Increases Normal Attack and Charged Attack DMG by 15% |
+| ![](../.gitbook/assets/martialartist_flower.png) | Martial Artist | 2 | Increases Normal Attack and Charged Attack DMG by 15% |
 | ![](../.gitbook/assets/martialartist_flower.png) | Martial Artist | 4 | After using Elemental Skill, increases Normal Attack and Charged Attack DMG by 25% for 8s |
 
 #### Support Sets

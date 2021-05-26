@@ -63,7 +63,6 @@
   * [Icicles](mechanics/stage-hazards/icicles.md)
   * [Electro Storm](mechanics/stage-hazards/electro-storm.md)
 * [Video Guides](mechanics/video-guides/README.md)
-  * [11-2 Video Guides](mechanics/video-guides/11-2-guides-v1.3.md)
   * [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md)
   * [Auras](mechanics/video-guides/auras.md)
 
@@ -85,6 +84,7 @@
 ---
 
 * [Previous Floors](previous-floors/README.md)
+  * [11-2 Video Guides \(v1.2 - 1.4\)](previous-floors/11-2-guides-v1.3.md)
   * [Floor 11 \(v1.2 - 1.4\)](previous-floors/floor-11-v14.md)
   * [Floor 12 \(v1.3 - 1.4\)](previous-floors/floor-12-v14.md)
 

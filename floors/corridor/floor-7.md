@@ -57,7 +57,7 @@ Focusing the **Cryogunner** first will make the fight easier.
 
 Focusing the **Pyrogunner** first will make the **Cryogunner** come to you, grouping them up for a faster clear.
 
-Focus the **Anemoboxer** in the second half. They can revive allies that have their shield broken and cause them to reshield imm
+Focus the **Anemoboxer** in the second half. They can revive allies that have their shield broken and cause them to reshield immediately.
 
 | Enemy | Weak Element |
 | :--- | :--- |
@@ -105,7 +105,7 @@ If you focus one of the ranged Fatuis, the **Anemoboxer** will come to you, grou
 
 ![](../../.gitbook/assets/7-3-1.png)
 
-Go for the **Hydrogunner** first as he is able to heal, and do as much damage as you can before he shields. Next, focus the **Anemoboxer**
+Go for the **Hydrogunner** first as he is able to heal, and do as much damage as you can before he shields. Next, focus the **Anemoboxer.**
 
 | Enemy | Weak Element |
 | :--- | :--- |
@@ -116,7 +116,7 @@ Go for the **Hydrogunner** first as he is able to heal, and do as much damage as
 
 ![](../../.gitbook/assets/7-3-2.png)
 
-If you don't have a ![](../../.gitbook/assets/cryo_small.png) on this team, aim for the **Electrohammer** first and try to kill him before he shields Otherwise, focus the **Anemoboxer**
+If you don't have a ![](../../.gitbook/assets/cryo_small.png) on this team, aim for the **Electrohammer** first and try to kill him before he shields Otherwise, focus the **Anemoboxer.**
 
 | Enemy | Weak Element |
 | :--- | :--- |

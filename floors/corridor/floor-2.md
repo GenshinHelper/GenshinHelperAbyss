@@ -3,7 +3,7 @@
 ## Divergence
 
 * ![](../../.gitbook/assets/cryo_small.png) **DMG** dealt by all party members increased by **75%**
-* The duration of the **Frozen** status effect is greatly increased.
+* The duration of the **Frozen** status effect is greatly increased
 
 ## Team Recommendations
 

@@ -12,7 +12,7 @@
 | Aidan |  |
 | Shiro |  |
 | Hydra |  |
-| Network |  |
+| Aias |  |
 | Miko-chan |  |
 | Setz |  |
 | Yumi |  |
@@ -21,6 +21,7 @@
 | Donuts |  |
 | Prad |  |
 | Kreed |  |
+| ChiliLion |  |
 
 ## Special Thanks
 

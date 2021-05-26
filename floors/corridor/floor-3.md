@@ -9,7 +9,7 @@
 
 Bring a **Bow** user in order to stun the **Ruin Guard** in the third chamber.
 
-**Sword charged attacks** are particularly useful at quickly throwing an enemy backwards off of a ledge
+**Sword charged attacks** are particularly useful at quickly throwing an enemy backwards off of a ledge.
 
 ## Team Recommendations
 
@@ -29,9 +29,9 @@ Bring a **Bow** user in order to stun the **Ruin Guard** in the third chamber.
 
 ![](../../.gitbook/assets/3-1.png)
 
-This arena does not have edges. The **archers** spawn at the edge and can be knocked off the platform easily. Note that the **Pyro Archer** spawns right after the **Cryo Archer**, so stay in the area until you kill both archers to save time. Enemies can be knocked off easily by ![](../../.gitbook/assets/anemo_small.png) skills or charged attacks
+This arena does not have edges. The **archers** spawn at the edge and can be knocked off the platform easily. Note that the **Pyro Archer** spawns right after the **Cryo Archer**, so stay in the area until you kill both archers to save time. Enemies can be knocked off easily by ![](../../.gitbook/assets/anemo_small.png) skills or charged attacks.
 
-You can use the slimes to **Swirl** elements to your advantage. For example, using it to swirl ![](../../.gitbook/assets/pyro_small.png) from **Slimes** to burn **Hilichurl** shields. Doing this on the last group of 3
+You can use the slimes to **Swirl** elements to your advantage. For example, using it to swirl ![](../../.gitbook/assets/pyro_small.png) from **Slimes** to burn **Hilichurl** shields. Doing this on the last group of 3 **Slimes** can be particularly effective, as they will all react with each other.
 
 ## **Chamber 2**
 
@@ -53,7 +53,7 @@ Watch out for the **Potioneers** attacks which leave Elemental AoE on the ground
 
 Use an archer to stun the **Ruin Guard**, and then focus it. The **Mitachurl** should come to you and group, allowing you to hit both at once.
 
-If you rely on ![](../../.gitbook/assets/physical_small.png) **DMG**, make sure you have **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) on the **Ruin Guard** because they have high ![](../../.gitbook/assets/physical_small.png) **RES**
+If you rely on ![](../../.gitbook/assets/physical_small.png) **DMG**, make sure you have **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) on the **Ruin Guard** because they have high ![](../../.gitbook/assets/physical_small.png) **RES.**
 
 ## Other Resources
 

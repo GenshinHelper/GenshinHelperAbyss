@@ -11,7 +11,7 @@
 
 Keeping your **Main Carry** **below 30% HP** is important to maximize damage on this floor. If possible, prefer characters with **shields** over characters that **heal**. This allows you to mitigate damage while still keeping the floor buff active.
 
-Avoid relying on strong healers such as **Barbara, Bennet, Jean, Qiqi**
+Avoid relying on strong healers such as **Barbara, Bennet, Jean, Qiqi.**
 
 **Chamber 2** also contains a **Ruin Guard** on each side. If you rely on ![](../../.gitbook/assets/physical_small.png) **DMG**, you must bring **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png) + ![](../../.gitbook/assets/electro_small.png) \).
 

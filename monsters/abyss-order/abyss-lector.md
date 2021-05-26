@@ -52,7 +52,7 @@ You can only be affected by the energy drain **once** per set of 3 orbs. Getting
 
 ![Deals damage in an AoE after a brief delay](../../.gitbook/assets/abyssherald_strike.gif)
 
-The number of slashes performed during this attack is variable, and based on the **Abyss Lector's health/shield**
+The number of bolts unleashed during this attack is variable, and based on the **Abyss Lector's health/shield**
 
 | Health | Number of Bolts |
 | :--- | :--- |

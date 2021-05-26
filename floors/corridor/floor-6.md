@@ -76,7 +76,7 @@ Focus **Samachurls** when they spawn, as they can be annoying to deal with.
 
 ![](../../.gitbook/assets/6-3-1.png)
 
-Focus the **Geo Samachurl** immediately so that it doesn't get a chance to spawn it's pillar
+Focus the **Geo Samachurl** immediately so that it doesn't get a chance to spawn it's pillar.
 
 Use ![](../../.gitbook/assets/geo_small.png) , Claymores, or Explosive Damage \(Klee, Overload\) to damage the **Stonehide Lawachurl's** shield. It's attacks are more powerful when shielded.
 

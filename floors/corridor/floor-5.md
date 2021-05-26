@@ -33,9 +33,9 @@ Keeping your **Main Carry** above **95% HP** is important to maximize damage on 
 | :--- | :--- |
 | \*\*\*\*[**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 1594![](../../.gitbook/assets/cryo_small.png) |
 
-![](../../.gitbook/assets/pyro_small.png) is the most effective against **Cryo Slime** shields. Kill the **Cryo Slimes** before they can reshield 
+![](../../.gitbook/assets/pyro_small.png) is the most effective against **Cryo Slime** shields. Kill the **Cryo Slimes** before they can reshield.
 
-Focus the **Large Cryo Slimes** as they are the most threatening followed by the **Archers** as they can disrupt your combos. The last **Large Cryo Slime** causes the **Ice Cage**. Prioritize it when it spawns
+Focus the **Large Cryo Slimes** as they are the most threatening followed by the **Archers** as they can disrupt your combos. The last **Large Cryo Slime** causes the **Ice Cage**. Prioritize it when it spawns.
 
 ### Side 2
 
@@ -79,7 +79,7 @@ Fight near ranged enemies when possible and let the melee enemies come to you.
 
 ![](../../.gitbook/assets/5-3-1.png)
 
-Avoid using ranged autoattacks \(**Bow, Catalyst**\) as **Cicin** **Flies** can easily draw autoaim
+Avoid using ranged autoattacks \(**Bow, Catalyst**\) as **Cicin** **Flies** can easily draw autoaim.
 
 Focus the **Cicin Mage** and let the melee **Hoarders** come to you.
 

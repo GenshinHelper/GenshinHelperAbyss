@@ -7,6 +7,9 @@ description: Changelogs
 ## Major Updates
 
 * New monster guide for [Abyss Herald](../../monsters/abyss-order/abyss-herald.md)
+* New monster guide for [Abyss Lector](../../monsters/abyss-order/abyss-lector.md)
+* Guide for new [Floor 11](../../floors/spire/floor-11.md)
+* Guide for new [Floor 12](../../floors/spire/floor-12.md)
 
 ## Full Changelogs
 
@@ -31,6 +34,7 @@ description: Changelogs
 | May 18 | Updating blessings | AegisD |
 |  | Updated FAQ question order | AegisD |
 |  | Added Aura damage numbers | Prad |
+| May 25 | Fixing minor typos and mistakes | ChiliLion |
 
 
 

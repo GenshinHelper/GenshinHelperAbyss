@@ -59,7 +59,7 @@ Attack the **Stone Shield Mitachurls** when they are attacking if you didn't bri
 
 ![](../.gitbook/assets/11-2-1.png)
 
-{% page-ref page="../mechanics/video-guides/11-2-guides-v1.3.md" %}
+{% page-ref page="11-2-guides-v1.3.md" %}
 
 There are several strategies you can use to beat this Chamber, but it is important to understand the aggro patterns of the mobs! Check out the various Video Guides above if you need help.
 
@@ -79,7 +79,7 @@ Another common strategy is to kill the initial **Pyro Archer**, and only that ar
 
 ![](../.gitbook/assets/11-2-2.png)
 
-{% page-ref page="../mechanics/video-guides/11-2-guides-v1.3.md" %}
+{% page-ref page="11-2-guides-v1.3.md" %}
 
 | Aura | DMG |
 | :--- | :--- |
