@@ -108,7 +108,7 @@ Aim for **under 1 minute** on this side to leave yourself plenty of time for the
 
 | Recommended Characters |
 | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
+| ![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_eula.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)![](../../.gitbook/assets/ui_avataricon_jean.png) ![](../../.gitbook/assets/ui_avataricon_venti.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 ### Side 2
 
@@ -132,7 +132,7 @@ Try using **Chongyun** with **Tiara of Torrents**. This reduces the duration of 
 
 | Recommended Characters |
 | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_lisa.png)![](../../.gitbook/assets/ui_avataricon_keqing.png)![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png) |
+| ![](../../.gitbook/assets/ui_avataricon_lisa.png)![](../../.gitbook/assets/ui_avataricon_keqing.png)![](../../.gitbook/assets/ui_avataricon_razor.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_eula.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png) |
 
 ## Other Resources
 

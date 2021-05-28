@@ -77,30 +77,18 @@ These supports boost the damage of your core unit in some way, either by:
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **12 seconds**.
 * **Diona** and **Qiqi** are the preferred supports as they also fill in for you as a **healer**.
 
-### Rosaria/Kaeya + Electro
+### Eula/Rosaria/Kaeya + Electro
 
 **Primary Damage Type -** ![](../.gitbook/assets/physical_small.png) ![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/electro_small.png)
 
 | DPS | Supports |
 | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_fischl.png)   |
+| ![](../.gitbook/assets/ui_avataricon_eula.png)![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_fischl.png)   |
 
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
 * Adding a ![](../.gitbook/assets/hydro_small.png)support is a nice way to add **Freeze** on this team for extra **Crowd Control**.
 
-### Ningguang + Geo
-
-**Primary Damage Type -** ![](../.gitbook/assets/geo_small.png) 
-
-| DPS | Best Supports | Other Supports |
-| :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_ningguang.png)  | ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_albedo.png)  | ![](../.gitbook/assets/ui_avataricon_aether_geo.png)  |
-
-* Usually you would want at least **C1** on **Ningguang** before using this comp to help with AoE damage.
-* Free catalyst options are not great so you may also want to avoid this core if you don't have a **CRIT** substat catalyst to use.
-* With two ![](../.gitbook/assets/geo_small.png) chars, shield breaking can be an issue on some floors. In particular, this core can't cover all required elements on **Floor 7** of .
-
-### Bennet + Chong
+### Bennet + Chongyun
 
 **Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/cryo_small.png)
 
@@ -111,13 +99,13 @@ These supports boost the damage of your core unit in some way, either by:
 * This core is centered around the **Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Chongyun's Elemental Skill** to have **Bennett's** attacks apply ****![](../.gitbook/assets/cryo_small.png) to an enemy before hitting it with **Bennett's Elemental Skill/Burst.**
 * Even without a dedicated support build, **Bennett's Elemental Burst** should be enough healing to cover this team. You should not need a second healer.
 
-### Diluc/Klee/Hu Tao + Hydro
+### Pyro DPS + Hydro
 
 **Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_hutao.png) ![](../.gitbook/assets/ui_avataricon_bennett.png) | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
+| ![](../.gitbook/assets/ui_avataricon_hutao.png)![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_yanfei.png) | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
 
 * This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
 
@@ -187,6 +175,29 @@ These supports boost the damage of your core unit in some way, either by:
 * This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** to deal damage to **frozen** enemies.
 * You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
 * **Xingqiu** can work, but is not ideal for this as you have to weave in regular attacks in between charged attacks.
+
+### Kaeya/Rosaria + Chongyun
+
+**Primary Damage Type -**  ![](../.gitbook/assets/cryo_small.png)
+
+| DPS | Support |
+| :---: | :---: |
+| ![](../.gitbook/assets/ui_avataricon_kaeya.png)![](../.gitbook/assets/ui_avataricon_rosaria.png)  | ![](../.gitbook/assets/ui_avataricon_chongyun.png)  |
+
+* While this core does not inherently have a reaction, you should add additional supports such as![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)for **Freeze** and/or ![](../.gitbook/assets/pyro_small.png)for **Melt** reactions.
+* While **Chongyun** could be the DPS, he is generally not recommended because his claymore attacks will **shatter** frozen targets, which ultimately will lower your DPS.
+
+### Ningguang + Geo
+
+**Primary Damage Type -** ![](../.gitbook/assets/geo_small.png) 
+
+| DPS | Best Supports | Other Supports |
+| :---: | :---: | :---: |
+| ![](../.gitbook/assets/ui_avataricon_ningguang.png)  | ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_albedo.png)  | ![](../.gitbook/assets/ui_avataricon_aether_geo.png)  |
+
+* Usually you would want at least **C1** on **Ningguang** before using this comp to help with AoE damage.
+* Free catalyst options are not great so you may also want to avoid this core if you don't have a **CRIT** substat catalyst to use.
+* With two ![](../.gitbook/assets/geo_small.png) chars, shield breaking can be an issue on some floors. In particular, this core can't cover all required elements on **Floor 7.**
 
 ### Xiao + Anemo 
 

@@ -68,7 +68,7 @@ Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoar
 
 | Recommended Characters |
 | :---: |
-|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_xiao.png)![](../../.gitbook/assets/ui_avataricon_venti.png)  |
+|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_tartaglia.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) ![](../../.gitbook/assets/ui_avataricon_xiao.png)![](../../.gitbook/assets/ui_avataricon_venti.png)  |
 
 ### Side 2
 
@@ -109,7 +109,7 @@ In the second wave, run for the **Crane Hydro Mimics**. The other enemies will c
 
 | Recommended Characters |
 | :---: |
-|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
+|  ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_yanfei.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png) ![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
 
 ## Chamber 3
 
@@ -157,7 +157,7 @@ If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts*
 
 | Recommended Characters |
 | :---: |
-|  ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png)  |
+|  ![](../../.gitbook/assets/ui_avataricon_bennett.png) ![](../../.gitbook/assets/ui_avataricon_diluc.png) ![](../../.gitbook/assets/ui_avataricon_klee.png)![](../../.gitbook/assets/ui_avataricon_hutao.png) ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_eula.png) ![](../../.gitbook/assets/ui_avataricon_ganyu.png) ![](../../.gitbook/assets/ui_avataricon_kaeya.png)  |
 
 ### Side 2
 

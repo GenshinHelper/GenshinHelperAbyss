@@ -38,6 +38,7 @@ description: Changelogs
 | May 26 | Adding short entry on blessing buff | Prad |
 |  | Adding clip for grouping Lectors | Donuts |
 | May 27 | Adding clips for Lector strategies | Sonarchy |
+|  | Adding Eula and Yanfei to Compositions page | AegisD |
 
 
 
