@@ -22,6 +22,7 @@
 | Prad |  |
 | Kreed |  |
 | ChiliLion |  |
+| Sonarchy |  |
 
 ## Special Thanks
 

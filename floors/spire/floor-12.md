@@ -147,7 +147,13 @@ You can also group the **Lectors** by walking to one side of the arena at the st
 
 Once **shielded**, **Abyss Lectors** will no longer be moveable. Keeping them together is extremely important when going for stars. **Reactions** triggered on one shield \(**Overload, Superconduct**\) will damage the other shield if they are close enough.
 
-Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
+Try using **Bennett** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
+
+![Bennett with 4pc Thundering Fury using Elemental Skill](../../.gitbook/assets/4tf_benny.gif)
+
+If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts** together to trigger **Swirl** \(![](../../.gitbook/assets/pyro_small.png)+![](../../.gitbook/assets/anemo_small.png)\). This causes **AOE** ![](../../.gitbook/assets/pyro_small.png)**DMG once per second** around you, which can also deal quick damage to shields.
+
+![Combining Bennett and Jean&apos;s Elemental Bursts](../../.gitbook/assets/bennett_jean.gif)
 
 | Recommended Characters |
 | :---: |
