@@ -23,6 +23,7 @@
 | Kreed |  |
 | ChiliLion |  |
 | Sonarchy |  |
+| Hyper |  |
 
 ## Special Thanks
 
