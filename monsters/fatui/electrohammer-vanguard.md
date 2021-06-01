@@ -1,6 +1,6 @@
 # Electrohammer Vanguard
 
-
+![](../../.gitbook/assets/fatui-electrohammer.jpg)
 
 ## Resistances
 
