@@ -69,6 +69,7 @@
 ## Changelogs
 
 * [2021](changelogs/2021/README.md)
+  * [June](changelogs/2021/june.md)
   * [May](changelogs/2021/may.md)
   * [April](changelogs/2021/april.md)
   * [March](changelogs/2021/march-2021.md)

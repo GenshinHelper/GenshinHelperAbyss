@@ -8,15 +8,24 @@ description: by the Genshin Helper Team
 
 ## Current Blessing
 
-**Duration:** May 16th - 31st
+**Duration:** Jun 1st - 15th
 
-When a character with a **shield** is hit, deals **AoE DMG** \(max 1 per 6s\)
+On **Normal, Charged, and Plunging Attack** hits that deal  ![](.gitbook/assets/physical_small.png) **DMG**, character's **CRIT Rate** is increased by **3%** for **10s**.
+
+Stacks up to **5 times**, max 1 stack per attack.
+
+When **5 stacks** have been obtained, **CRIT Hits** deal **AoE DMG** \(max 1/s\)
 
 ### Characters Buffed by Blessing
 
-| Best | Good |
-| :---: | :---: |
-| ![](https://gblobscdn.gitbook.com/assets%2F-MVAGyyACcSzyzfmgy7f%2F-MVKTPJXzkfD7cQl9kZr%2F-MVKcpeIdQ9tL919MXpn%2FUI_AvatarIcon_Diona.png?alt=media&token=208d6e39-ccd4-4a45-b3ca-22e4bc975e6f)![](.gitbook/assets/ui_avataricon_albedo.png)![](.gitbook/assets/ui_avataricon_ningguang.png)![](.gitbook/assets/ui_avataricon_noelle.png)![](.gitbook/assets/ui_avataricon_zhongli.png) | ![](.gitbook/assets/ui_avataricon_xinyan.png)![](.gitbook/assets/ui_avataricon_beidou.png)![](.gitbook/assets/ui_avataricon_aether_geo.png) |
+Any character can benefit from this blessing. The only exceptions are
+
+* **Catalyst** users
+* Characters that **infuse** attacks \(while infusion is active\)
+
+| Characters with Infusion |
+| :---: |
+| ![](.gitbook/assets/ui_avataricon_diluc.png)![](.gitbook/assets/ui_avataricon_hutao.png)![](.gitbook/assets/ui_avataricon_tartaglia.png)![](.gitbook/assets/ui_avataricon_chongyun.png)![](.gitbook/assets/ui_avataricon_keqing.png)![](.gitbook/assets/ui_avataricon_xiao.png)![](.gitbook/assets/ui_avataricon_noelle.png) |
 
 <table>
   <thead>
@@ -27,30 +36,17 @@ When a character with a **shield** is hit, deals **AoE DMG** \(max 1 per 6s\)
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">May 1st - 15th</td>
-      <td style="text-align:left">Jun 1st - 15th</td>
+      <td style="text-align:left">May 16th - 31st</td>
+      <td style="text-align:left">Jun 16th - 30th</td>
     </tr>
     <tr>
       <td style="text-align:left">
         <ul>
-          <li>Scoring consecutive hits with <b>Normal Attacks</b> within <b>2s</b> increases
-            <img
-            src=".gitbook/assets/physical_small.png" alt/> <b>DMG</b> by <b>5%</b> for <b>10s</b>. This effect stacks up to 5 times,
-            and only 1 stack per attack regardless of how many enemies hit</li>
-          <li>When <b>5 stacks</b> are obtained, hits will create shockwaves that deal <b>AoE DMG</b> (at
-            most once every <b>1s</b>)</li>
+          <li>When a character with a <b>shield</b> is hit, deals <b>AoE DMG </b>(max 1
+            per 6s)</li>
         </ul>
       </td>
-      <td style="text-align:left">
-        <ul>
-          <li>On <b>Normal, Charged, and Plunging Attack</b> hits that deal
-            <img src=".gitbook/assets/physical_small.png"
-            alt/> <b>DMG</b>, character&apos;s <b>CRIT Rate</b> is increased by <b>3%</b> for <b>10s</b>.</li>
-          <li>Stacks up to <b>5 times</b>, max 1 stack per attack.</li>
-          <li>When<b> 5 stacks</b> have been obtained, <b>CRIT Hits</b> deal<b> AoE DMG</b> (max
-            1/s)</li>
-        </ul>
-      </td>
+      <td style="text-align:left">???</td>
     </tr>
   </tbody>
 </table>
