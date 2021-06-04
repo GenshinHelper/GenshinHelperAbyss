@@ -30,11 +30,11 @@
 ## Monsters
 
 * [Abyss Order](monsters/abyss-order/README.md)
+  * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
+  * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
+  * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)
   * [Abyss Herald](monsters/abyss-order/abyss-herald.md)
   * [Abyss Lector](monsters/abyss-order/abyss-lector.md)
-  * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)
-  * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
-  * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
 * [Animals](monsters/animals/README.md)
   * [Pyro Whopperflower](monsters/animals/pyro-whopperflower.md)
   * [Geovishap](monsters/animals/geovishap.md)
