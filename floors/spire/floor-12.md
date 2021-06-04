@@ -30,6 +30,11 @@ Focus on the **Geovishap** to start, but you should switch to the **Whopperflowe
 
 ![](../../.gitbook/assets/12-1-1%20%282%29.png)
 
+| Monster | HP |
+| :--- | :--- |
+| [Geovishap](../../monsters/animals/geovishap.md) | ~400K |
+| [Pyro Whopperflower](../../monsters/animals/pyro-whopperflower.md) | ?? |
+
 #### 3★ Tips
 
 Use![](../../.gitbook/assets/hydro_small.png)or![](../../.gitbook/assets/cryo_small.png) **DMG** on this side, and avoid ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png)  **DMG**
