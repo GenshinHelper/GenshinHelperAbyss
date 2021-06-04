@@ -36,6 +36,7 @@
   * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
   * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
 * [Animals](monsters/animals/README.md)
+  * [Pyro Whopperflower](monsters/animals/pyro-whopperflower.md)
   * [Geovishap](monsters/animals/geovishap.md)
 * [Fatui](monsters/fatui/README.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
