@@ -90,4 +90,5 @@
   * [11-2 Video Guides \(v1.2 - 1.4\)](previous-floors/11-2-guides-v1.3.md)
   * [Floor 11 \(v1.2 - 1.4\)](previous-floors/floor-11-v14.md)
   * [Floor 12 \(v1.3 - 1.4\)](previous-floors/floor-12-v14.md)
+  * [How to be as handsome as Blep](previous-floors/how-to-be-as-handsome-as-blep.md)
 
