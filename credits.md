@@ -13,6 +13,7 @@
 | Shiro |  |
 | Hydra |  |
 | Aias |  |
+| Koshu |  |
 | Miko-chan |  |
 | Setz |  |
 | Yumi |  |
