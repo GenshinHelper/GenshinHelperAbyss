@@ -18,4 +18,5 @@ description: Changelogs
 |  | Adding Electrohammer videos | Hyper |
 | June 5 | Added Pyro Whopperflower page + tips | AegisD |
 |  | Adding Pyro Whopperflower videos | ChiliLion |
+| June 15th | Updating blessings | AegisD |
 

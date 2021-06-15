@@ -8,45 +8,46 @@ description: by the Genshin Helper Team
 
 ## Current Blessing
 
-**Duration:** Jun 1st - 15th
+**Duration:** Jun 16th - 30th
 
-On **Normal, Charged, and Plunging Attack** hits that deal  ![](.gitbook/assets/physical_small.png) **DMG**, character's **CRIT Rate** is increased by **3%** for **10s**.
-
-Stacks up to **5 times**, max 1 stack per attack.
-
-When **5 stacks** have been obtained, **CRIT Hits** deal **AoE DMG** \(max 1/s\)
+When an active character triggers a **Swirl** reaction on a nearby opponent, they will trigger a shockwave at that opponent's position that deals **AoE DMG** \(max once every 3.5s\)
 
 ### Characters Buffed by Blessing
 
-Any character can benefit from this blessing. The only exceptions are
-
-* **Catalyst** users
-* Characters that **infuse** attacks \(while infusion is active\)
-
-| Characters with Infusion |
+| Characters that can trigger Swirl |
 | :---: |
-| ![](.gitbook/assets/ui_avataricon_diluc.png)![](.gitbook/assets/ui_avataricon_hutao.png)![](.gitbook/assets/ui_avataricon_tartaglia.png)![](.gitbook/assets/ui_avataricon_chongyun.png)![](.gitbook/assets/ui_avataricon_keqing.png)![](.gitbook/assets/ui_avataricon_xiao.png)![](.gitbook/assets/ui_avataricon_noelle.png) |
+| ![](.gitbook/assets/ui_avataricon_jean.png)![](.gitbook/assets/ui_avataricon_sucrose.png)![](.gitbook/assets/ui_avataricon_lumine_anemo.png)![](.gitbook/assets/ui_avataricon_xiao.png)![](.gitbook/assets/ui_avataricon_venti.png) |
 
 <table>
   <thead>
     <tr>
       <th style="text-align:left">Previous Blessing</th>
       <th style="text-align:left">Next Blessing</th>
+      <th style="text-align:left">Next Blessing</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">May 16th - 31st</td>
-      <td style="text-align:left">Jun 16th - 30th</td>
+      <td style="text-align:left">June 1st - 15th</td>
+      <td style="text-align:left">July 1st - 15th</td>
+      <td style="text-align:left">July 16th - 30th</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <ul>
-          <li>When a character with a <b>shield</b> is hit, deals <b>AoE DMG </b>(max 1
-            per 6s)</li>
-        </ul>
+        <p>On <b>Normal, Charged, and Plunging Attack</b> hits that deal
+          <img src=".gitbook/assets/physical_small.png"
+          alt/> <b>DMG</b>, character&apos;s <b>CRIT Rate</b> is increased by <b>3%</b> for <b>10s</b>.</p>
+        <p>Stacks up to <b>5 times</b>, max 1 stack per attack.</p>
+        <p>When<b> 5 stacks</b> have been obtained, <b>CRIT Hits</b> deal<b> AoE DMG</b> (max
+          1/s)</p>
       </td>
-      <td style="text-align:left">???</td>
+      <td style="text-align:left">When an active character triggers a <b>Swirl </b>reaction on a nearby opponent,
+        they will regenerate <b>4 Energy</b> for all characters in the party (max
+        once every 3.5s)</td>
+      <td style="text-align:left">When an active character triggers a <b>Swirl </b>reaction on a nearby opponent,
+        creates an <b>Aura</b> at that location that does <b>DMG</b> to opponents once
+        every <b>2s</b>. One aura can be generated every <b>9s.</b>
+      </td>
     </tr>
   </tbody>
 </table>
