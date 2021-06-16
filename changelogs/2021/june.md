@@ -20,6 +20,7 @@ description: Changelogs
 |  | Adding Pyro Whopperflower videos | ChiliLion |
 | June 15th | Updating blessings | AegisD |
 |  | Adding placeholders for new F9-12 | AegisD |
+|  | Adding some mob infographics | AegisD |
 
 
 

@@ -29,6 +29,8 @@ Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the
 
 ### Side 2
 
+![](../../.gitbook/assets/10-1-2%20%281%29.png)
+
 ## Chamber 2
 
 **Monster Level - 82**
@@ -37,6 +39,8 @@ Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the
 
 ### Side 2
 
+![](../../.gitbook/assets/10-2-2%20%281%29.png)
+
 ## Chamber 3
 
 **Monster Level - 84**
@@ -44,4 +48,6 @@ Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the
 ### Side 1
 
 ### Side 2
+
+![](../../.gitbook/assets/10-3-2%20%281%29.png)
 
