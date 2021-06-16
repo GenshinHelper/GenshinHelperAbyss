@@ -7,8 +7,6 @@
 
 ## General Tips
 
-Fighting near the braziers is the best strategy, so Sheer Cold shouldn't be much of an issue.
-
 ## Team Recommendations
 
 |  | Side 1 | Side 2 |
