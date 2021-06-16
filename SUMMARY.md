@@ -19,6 +19,10 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
+  * [Floor 9 \(v1.2 - v1.5\)](floors/spire/floor-9-v15.md)
+  * [Floor 10 \(v1.2 - v1.5\)](floors/spire/floor-10-v15.md)
+  * [Floor 11 \(v1.4 - v1.5\)](floors/spire/floor-11-v15.md)
+  * [Floor 12 \(v1.4 - v1.5\)](floors/spire/floor-12-v15.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -87,8 +91,6 @@
 ---
 
 * [Previous Floors](previous-floors/README.md)
-  * [11-2 Video Guides \(v1.2 - 1.4\)](previous-floors/11-2-guides-v1.3.md)
   * [Floor 11 \(v1.2 - 1.4\)](previous-floors/floor-11-v14.md)
   * [Floor 12 \(v1.3 - 1.4\)](previous-floors/floor-12-v14.md)
-  * [How to be as handsome as Blep](previous-floors/how-to-be-as-handsome-as-blep.md)
 
