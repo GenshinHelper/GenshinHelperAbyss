@@ -19,10 +19,6 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
-  * [Floor 9 \(v1.2 - v1.5\)](floors/spire/floor-9-v15.md)
-  * [Floor 10 \(v1.2 - v1.5\)](floors/spire/floor-10-v15.md)
-  * [Floor 11 \(v1.4 - v1.5\)](floors/spire/floor-11-v15.md)
-  * [Floor 12 \(v1.4 - v1.5\)](floors/spire/floor-12-v15.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -59,12 +55,13 @@
 * [Debuffs](mechanics/debuffs/README.md)
   * [Removing Debuffs](mechanics/debuffs/removing-debuffs.md)
 * [Auras](mechanics/auras/README.md)
-  * [Fireball](mechanics/auras/fireball.md)
-  * [Bubbles](mechanics/auras/bubbles.md)
+  * [Pursuing Fireball](mechanics/auras/fireball.md)
+  * [Mist Bubble](mechanics/auras/bubbles.md)
   * [Ice Cage](mechanics/auras/ice-cage.md)
-  * [Electro Triangle](mechanics/auras/electro-triangle.md)
-  * [Black Hole](mechanics/auras/black-hole.md)
-  * [Shockwave](mechanics/auras/shockwave.md)
+  * [Ice Blast](mechanics/auras/ice-blast.md)
+  * [Lightning Stake](mechanics/auras/electro-triangle.md)
+  * [Vacuum Vortex](mechanics/auras/black-hole.md)
+  * [Rumbling Stone](mechanics/auras/shockwave.md)
 * [Stage Hazards](mechanics/stage-hazards/README.md)
   * [Icicles](mechanics/stage-hazards/icicles.md)
   * [Electro Storm](mechanics/stage-hazards/electro-storm.md)
@@ -91,6 +88,10 @@
 ---
 
 * [Previous Floors](previous-floors/README.md)
+  * [Floor 9 \(v1.2 - v1.5\)](previous-floors/floor-9-v15.md)
+  * [Floor 10 \(v1.2 - v1.5\)](previous-floors/floor-10-v15.md)
+  * [Floor 11 \(v1.4 - v1.5\)](previous-floors/floor-11-v15.md)
+  * [Floor 12 \(v1.4 - v1.5\)](previous-floors/floor-12-v15.md)
   * [Floor 11 \(v1.2 - 1.4\)](previous-floors/floor-11-v14.md)
   * [Floor 12 \(v1.3 - 1.4\)](previous-floors/floor-12-v14.md)
 

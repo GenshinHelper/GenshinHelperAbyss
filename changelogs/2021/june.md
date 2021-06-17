@@ -21,6 +21,8 @@ description: Changelogs
 | June 15th | Updating blessings | AegisD |
 |  | Adding placeholders for new F9-12 | AegisD |
 |  | Adding some mob infographics | AegisD |
+| June 16th | Adding images for F9 | AegisD |
+|  | Adding tips for F9 | Prad/AegisD |
 
 
 

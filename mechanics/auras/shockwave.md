@@ -1,4 +1,4 @@
-# Shockwave
+# Rumbling Stone
 
 ![](../../.gitbook/assets/geo_med.png)
 

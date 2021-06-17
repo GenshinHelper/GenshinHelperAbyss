@@ -1,4 +1,4 @@
-# Bubbles
+# Mist Bubble
 
 ![](../../.gitbook/assets/hydro_bubble_med.png)
 

@@ -1,4 +1,4 @@
-# Electro Triangle
+# Lightning Stake
 
 ![](../../.gitbook/assets/electro_triangle_small.png)
 

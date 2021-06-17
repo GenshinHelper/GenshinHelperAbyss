@@ -8,8 +8,8 @@ description: Changelogs
 
 * New monster guide for [Abyss Herald](../../monsters/abyss-order/abyss-herald.md)
 * New monster guide for [Abyss Lector](../../monsters/abyss-order/abyss-lector.md)
-* Guide for new [Floor 11](../../floors/spire/floor-11-v15.md)
-* Guide for new [Floor 12](../../floors/spire/floor-12-v15.md)
+* Guide for new [Floor 11](../../previous-floors/floor-11-v15.md)
+* Guide for new [Floor 12](../../previous-floors/floor-12-v15.md)
 
 ## Full Changelogs
 

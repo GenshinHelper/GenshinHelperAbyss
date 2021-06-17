@@ -1,4 +1,4 @@
-# Fireball
+# Pursuing Fireball
 
 ![](../../.gitbook/assets/pyro_fireball_med.png)
 
