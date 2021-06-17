@@ -10,11 +10,11 @@
 
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
-| **Shieldbreakers** |  |  |
-| **Preferred Damage** |  |  |
-| **Avoid Damage** |  |  |
-| **4**★ **Supports** |  |  |
-| **5**★ **Supports** |  |  |
+| **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) |
+| **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/pyro_small.png) |
+| **Avoid Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fe0472b52c548a7162a648c191cad9b7bbdf4498b.png?generation=1615182626170812&alt=media)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/geo_small.png) |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_sucrose.png) |  |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png) |  |
 
 ## Chamber 1
 
@@ -60,9 +60,19 @@ Avoid ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_s
 
 ### Side 1
 
+![](../../.gitbook/assets/12-2-1%20%283%29.png)
+
+Enemies will periodically be buffed by an![](../../.gitbook/assets/cryo_small.png)**shield** which reduces incoming damage. The most effective way to remove it is with ![](../../.gitbook/assets/pyro_small.png), but ![](../../.gitbook/assets/electro_small.png)will also work.
+
 #### 3★ Tips
 
 ### Side 2
+
+![](../../.gitbook/assets/12-2-2%20%282%29.png)
+
+Bring **shields** and/or **taunts** on this side if able.
+
+**Geovishap Hatchlings** move around a lot and are hard to hit, which can cause large time losses. You can try using **Freeze** \(![](../../.gitbook/assets/hydro_small.png)+![](../../.gitbook/assets/cryo_small.png)\) to keep them locked down for longer if you are having trouble.
 
 #### 3★ Tips
 
@@ -74,11 +84,27 @@ Avoid ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_s
 
 ![](../../.gitbook/assets/12-3-1%20%282%29.png)
 
+| Monster | HP |
+| :--- | :--- |
+| \*\*\*\*[**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)\*\*\*\* | ~735K HP |
+
+![](../../.gitbook/assets/cryo_small.png)works well for breaking shields on this side, as it is effective against both the **Abyss Lector** and the **Abyss Mage**.
+
+If you have an ![](../../.gitbook/assets/anemo_small.png)unit on this side, you can choose not to bring ![](../../.gitbook/assets/hydro_small.png)for breaking the **Pyro Abyss Mage** shields. Instead, you can use your ![](../../.gitbook/assets/anemo_small.png)skill on the **Hydro Abyss Mage** in order to **infuse** ![](../../.gitbook/assets/hydro_small.png), and **Swirl** onto the ![](../../.gitbook/assets/pyro_small.png)shield to break it.
+
 #### 3★ Tips
 
 ### Side 2
 
 ![](../../.gitbook/assets/12-3-2%20%282%29.png)
+
+| Monster | HP |
+| :--- | :--- |
+| \*\*\*\*[**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)\*\*\*\* | ?? |
+
+![](../../.gitbook/assets/cryo_small.png)works best against **Abyss Herald** shields as it locks them in place with **Freeze**.
+
+If you have an ![](../../.gitbook/assets/anemo_small.png)unit on this side, you can choose not to bring ![](../../.gitbook/assets/pyro_small.png)for breaking the **Cryo Abyss Mage** shields. Instead, you can use your ![](../../.gitbook/assets/anemo_small.png)skill on the **Pyro Abyss Mage** in order to **infuse**![](../../.gitbook/assets/pyro_small.png), and **Swirl** onto the ![](../../.gitbook/assets/cryo_small.png)shield to break it.
 
 #### 3★ Tips
 

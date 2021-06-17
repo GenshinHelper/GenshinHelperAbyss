@@ -23,6 +23,8 @@ description: Changelogs
 |  | Adding some mob infographics | AegisD |
 | June 16th | Adding images for F9 | AegisD |
 |  | Adding tips for F9 | Prad/AegisD |
+| June 17th | Adding images for F12-2 | AegisD |
+|  | Adding some tips for F12 | Koshu/AegisD |
 
 
 
