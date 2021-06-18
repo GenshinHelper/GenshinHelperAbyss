@@ -46,10 +46,13 @@ These buff cards are effective for any team and should be picked when possible. 
 
 | Buff Card | Approx. Damage Boost |
 | :--- | :---: |
-| \[Chamber\] Character DEF -15% ; ATK +40% | 18% |
+| \[Chamber\] Character DEF -15% ; ATK +40% \* | 18% |
+| \[Chamber\] When Character HP is less than 50%; ATK +60% \* | 27% |
 | \[Floor\] Character Crit Rate +8%; Crit DMG +15% | 9% |
 | \[Floor\] Character ATK +20% | 9% |
 | \[Chamber\] When Character HP is greater than 50%; ATK +30% | 13% |
+
+You should only choose \[Chamber\] cards on the final chamber, or if you are specifically going for stars on a particular Chamber.
 
 #### Situational cards
 
@@ -115,8 +118,10 @@ Some characters scale off of stats like **DEF** and **HP**, however these rarely
 | Buff Card |
 | :--- |
 | \[Floor\] Character DEF +30% |
+| \[Floor\] Character Healing Effectiveness is increased by 20% |
 | \[Floor\] Character Max HP +25% |
 | \[Chamber\] Character All Elemental RES +25% |
+| \[Chamber\] Character Cryo RES +35% |
 | \[Chamber\] Character Elemental Bursts Instantly restore 30% HP |
 | \[Chamber\] Character Movement SPD +30% |
 | \[Chamber\] Character Physical DMG RES +30% |
@@ -139,6 +144,7 @@ Some characters scale off of stats like **DEF** and **HP**, however these rarely
 | Character Elemental Mastery +80 |
 | Character Elemental Skill DMG +20% |
 | Character Energy Recharge +20% |
+| Character Healing Effectiveness is increased by 20% |
 | Character Max HP +25% |
 | Character Normal and Charged Attack DMG +20% |
 | Character Physical DMG +25% |
@@ -150,6 +156,7 @@ Some characters scale off of stats like **DEF** and **HP**, however these rarely
 | :--- |
 | Character All Elemental RES +25% |
 | Character Charged Attack Stamina Consumption -50% |
+| Character Cryo RES +35% |
 | Character DEF -15% ; ATK +40% |
 | Character Elemental Bursts Instantly restore 30% HP |
 | Character Elemental Skill and Burst CD -20% |
@@ -162,6 +169,7 @@ Some characters scale off of stats like **DEF** and **HP**, however these rarely
 | Instantly restores 25% HP to all party members |
 | When Character HP is greater than 50%; ATK +30% |
 | When Character HP is greater than 50%; DEF +40% |
+| When Character HP is less than 50%; ATK +60% |
 
 
 

@@ -29,6 +29,9 @@ description: Changelogs
 |  | Adding tips for F9 | Prad/AegisD |
 | June 17th | Adding images for F12-2 | AegisD |
 |  | Adding some tips for F12 | Koshu/AegisD |
+|  | Adding images for F10 | AegisD |
+|  | Adding tips for F10 | AegisD/Hyper |
+|  | Adding new buff cards | Hyper/Sonarchy |
 
 
 

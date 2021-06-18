@@ -37,6 +37,7 @@
   * [Abyss Lector](monsters/abyss-order/abyss-lector.md)
 * [Animals](monsters/animals/README.md)
   * [Pyro Whopperflower](monsters/animals/pyro-whopperflower.md)
+  * [Geovishap Hatchling](monsters/animals/geovishap-hatchling.md)
   * [Geovishap](monsters/animals/geovishap.md)
 * [Fatui](monsters/fatui/README.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
@@ -48,6 +49,8 @@
 * [Ruin Constructs](monsters/ruin-constructs/README.md)
   * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
+* [Elites](monsters/elites/README.md)
+  * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
 
 ## Mechanics
 
