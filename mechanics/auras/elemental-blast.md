@@ -1,4 +1,6 @@
-# Ice Blast
+# Elemental Blast
+
+
 
 ![](../../.gitbook/assets/cryo_explosion_med.png)
 

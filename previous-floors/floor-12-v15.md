@@ -81,8 +81,8 @@ Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoar
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Bubbles**](../mechanics/auras/bubbles.md)\*\*\*\* | 4730![](../.gitbook/assets/hydro_small.png)DMG  |
-| \*\*\*\*[**Fireball**](../mechanics/auras/fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| [**Bubbles**](../mechanics/auras/mist-bubble.md)\*\*\*\* | 4730![](../.gitbook/assets/hydro_small.png)DMG  |
+| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Each type of **Hydro Mimic** is weak to a different element \[[1](https://genshinhelper.gitbook.io/abyss/floors/spire/floor-12#references)\]. 
 
@@ -170,7 +170,7 @@ If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts*
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../mechanics/auras/fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Aim for the **Pyro Agent** first to get rid of the **Fireball** aura.
 

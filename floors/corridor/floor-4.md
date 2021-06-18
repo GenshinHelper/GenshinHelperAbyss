@@ -23,7 +23,7 @@
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
+| [**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
 
 ![](../../.gitbook/assets/electro_small.png) is the best at dealing damage to **Hydro Slimes** on this floor.
 
@@ -39,7 +39,7 @@ Use ![](../../.gitbook/assets/cryo_small.png) on the **Hydro Abyss Mages** so th
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
+| [**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
 
 Most of the enemies that attack the monolith will be ![](../../.gitbook/assets/hydro_small.png) . Use ![](../../.gitbook/assets/cryo_small.png) to **Freeze** them and prevent them from damaging the monolith.
 
@@ -55,7 +55,7 @@ Both **Hydro Abyss Mages** target the monolith. Make sure you **Freeze** them as
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Bubbles**](../../mechanics/auras/bubbles.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
+| \*\*\*\*[**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
 
 Target the **Hydro Samachurl** first as it can heal the other enemies.
 

@@ -93,7 +93,7 @@ Focus the **Hydrogunner** first as he is able to heal allies. He spawns in the b
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Electro Triangle**](../mechanics/auras/electro-triangle.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png)DMG / Tick _\(8 ticks per second\)_ |
+| [**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png)DMG / Tick _\(8 ticks per second\)_ |
 
 | Monster | HP |
 | :--- | :--- |

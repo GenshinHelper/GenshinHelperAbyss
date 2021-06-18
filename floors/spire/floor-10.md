@@ -35,7 +35,7 @@ The second team can be any damage type as long as you have effective ways of dea
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Mist Bubble**](../../mechanics/auras/bubbles.md)\*\*\*\* | 3626![](../../.gitbook/assets/hydro_small.png) |
+| [**Mist Bubble**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 3626![](../../.gitbook/assets/hydro_small.png) |
 
 Fighting near the **Hilichurl Grenadiers** is the best way to group enemies.
 
@@ -115,7 +115,7 @@ Using ![](../../.gitbook/assets/pyro_small.png)**DPS** is particularly effective
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Mist Bubble**](../../mechanics/auras/bubbles.md)\*\*\*\* | 4266![](../../.gitbook/assets/hydro_small.png) |
+| \*\*\*\*[**Elemental Blast**](../../mechanics/auras/elemental-blast.md)\*\*\*\* | 4266![](../../.gitbook/assets/hydro_small.png) |
 
 Focus the **Hydro Abyss Mage** first to prevent **Mist Bubble** as well as being **Frozen** by combo attacks.
 

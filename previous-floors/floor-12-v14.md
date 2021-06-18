@@ -86,7 +86,7 @@ Consider using an **EM Sands** as if you are using ![](../.gitbook/assets/pyro_s
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Electro Triangle**](../mechanics/auras/electro-triangle.md)\*\*\*\* | 946![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
+| \*\*\*\*[**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 946![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 It's fairly difficult to keep the **Cicins** grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
 
@@ -105,7 +105,7 @@ Aim the **Electro Cicin** first to get rid of the **Electro Triangle**. The **Cr
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../mechanics/auras/fireball.md)\*\*\*\* | 2365 ![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2365 ![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
@@ -124,7 +124,7 @@ Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Shockwave**](../mechanics/auras/shockwave.md)\*\*\*\* | 3349![](../.gitbook/assets/geo_small.png) / Wave |
+| [**Shockwave**](../mechanics/auras/rumbling-stone.md)\*\*\*\* | 3349![](../.gitbook/assets/geo_small.png) / Wave |
 
 The **Shockwave** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
 

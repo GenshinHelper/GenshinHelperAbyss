@@ -87,7 +87,7 @@ The **archers** and **samachurl** spawn behind you. Turn around and attack them 
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Ice Blast**](../../mechanics/auras/ice-blast.md)\*\*\*\* | ??![](../../.gitbook/assets/cryo_small.png) |
+| \*\*\*\*[**Elemental Blast**](../../mechanics/auras/elemental-blast.md)\*\*\*\* | ??![](../../.gitbook/assets/cryo_small.png) |
 
 Aim for the **mitachurl** first, otherwise it may charge and split away from the other enemies.
 

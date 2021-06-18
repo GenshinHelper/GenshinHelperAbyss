@@ -35,7 +35,7 @@ Avoid **Barbara, Xingqiu** as they will cause **Electrocharged** on your charact
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Bubbles**](../mechanics/auras/bubbles.md)\*\*\*\* | 3424![](../.gitbook/assets/hydro_small.png) |
+| \*\*\*\*[**Bubbles**](../mechanics/auras/mist-bubble.md)\*\*\*\* | 3424![](../.gitbook/assets/hydro_small.png) |
 
 Getting hit by ![](../.gitbook/assets/hydro_small.png) causes **Electrocharged** which can stagger your character. Do your best to avoid these attacks.
 
@@ -79,7 +79,7 @@ Another common strategy is to kill the initial **Pyro Archer**, and only that ar
 
 | Aura | DMG |
 | :--- | :--- |
-| [Electro Triangle](../mechanics/auras/electro-triangle.md) | 721 ![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks / second\)_ |
+| [Electro Triangle](../mechanics/auras/lightning-stake.md) | 721 ![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks / second\)_ |
 
 This side is slightly easier to manage than the first, but it is also important to understand the aggro patterns, so check out the various video guides.
 
@@ -110,7 +110,7 @@ The stage will occasionally be struck by **Electro Storms**. These appear as AoE
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Electro Triangle**](../mechanics/auras/electro-triangle.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
+| \*\*\*\*[**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 Focus the **Hydrogunner** in the second half as he can heal the others.
 

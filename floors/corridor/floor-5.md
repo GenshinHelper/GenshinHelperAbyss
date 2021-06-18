@@ -91,7 +91,7 @@ The Cicin's **Aura** will drain your energy, so use bursts when they are up.
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../../mechanics/auras/fireball.md)\*\*\*\* | 598![](../../.gitbook/assets/pyro_small.png)/ Explosion |
+| \*\*\*\*[**Fireball**](../../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 598![](../../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Focus down the **Electro Potioneers** first to prevent being **Overloaded**. The **Pyro Agent** will come to you.
 
