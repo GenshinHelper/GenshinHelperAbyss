@@ -13,8 +13,8 @@
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) |
 | **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/pyro_small.png) |
 | **Avoid Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2Fe0472b52c548a7162a648c191cad9b7bbdf4498b.png?generation=1615182626170812&alt=media)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/geo_small.png) |
-| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_sucrose.png) |  |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png) |  |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png) |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |  |
 
 ## Chamber 1
 
