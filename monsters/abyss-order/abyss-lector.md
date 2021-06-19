@@ -20,7 +20,9 @@ Note - below resistance values are not confirmed.
 
 ## Shield
 
-Use![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/hydro_small.png)attacks to break through the shield.
+Prefer![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)attacks to break through the shield.
+
+![](../../.gitbook/assets/hydro_small.png) attacks will also work, but are less effective than![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)
 
  ![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **half as effective**.
 
@@ -29,6 +31,10 @@ Unlike other ![](../../.gitbook/assets/electro_small.png)shields, both![](../../
 {% endhint %}
 
 Try using **Bennet** with **4pc Thundering Fury**. Every use of his **Elemental Skill** triggers **Overload** on the **Abyss Lector** shields, which reduces the cooldown by **1 second**. Since his elemental skill already has a low cooldown, this lets you use it very frequently to quickly damage the shield.
+
+{% hint style="info" %}
+The **Abyss Lector shield** has **36U** of strength. This means it takes anywhere between **18~36** applications of![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/hydro_small.png)is slightly less effectively, requiring about **45 ticks** of **Electrocharged**, and ![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **36~72** applications.
+{% endhint %}
 
 ## Abilities
 

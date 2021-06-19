@@ -32,6 +32,8 @@ description: Changelogs
 |  | Adding images for F10 | AegisD |
 |  | Adding tips for F10 | AegisD/Hyper |
 |  | Adding new buff cards | Hyper/Sonarchy |
+| June 18th | Adding images for F11 | AegisD |
+|  | Adding tips for F11 | AegisD/ChiliLion/Donuts |
 
 
 

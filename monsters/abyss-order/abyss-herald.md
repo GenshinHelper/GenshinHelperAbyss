@@ -18,11 +18,15 @@ Note - below resistance values are not confirmed.
 
 ## Shield
 
-Use![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) attacks to break through the shield.
+Prefer![](../../.gitbook/assets/cryo_small.png)to break the shield, as this will **Freeze** the **Abyss Herald**.
 
-![](../../.gitbook/assets/cryo_small.png) is the most recommended, as this will **Freeze** the **Abyss Herald**.
+![](../../.gitbook/assets/electro_small.png) attacks will also work, but are less effective than![](../../.gitbook/assets/cryo_small.png)
 
 ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **half as effective**.
+
+{% hint style="info" %}
+The **Abyss Herald** **shield** has **36U** of strength. This means it takes anywhere between **18~36** applications of![](../../.gitbook/assets/cryo_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **45 ticks** of **Electrocharged**, and![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **36~72** applications.
+{% endhint %}
 
 ## Abilities
 
