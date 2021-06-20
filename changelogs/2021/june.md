@@ -30,10 +30,12 @@ description: Changelogs
 | June 17th | Adding images for F12-2 | AegisD |
 |  | Adding some tips for F12 | Koshu/AegisD |
 |  | Adding images for F10 | AegisD |
-|  | Adding tips for F10 | AegisD/Hyper |
+|  | Adding tips for F10 | Hyper/AegisD |
 |  | Adding new buff cards | Hyper/Sonarchy |
 | June 18th | Adding images for F11 | AegisD |
-|  | Adding tips for F11 | AegisD/ChiliLion/Donuts |
+|  | Adding tips for F11 | ChiliLion/Donuts/ AegisD |
+| June 19th | Adding additional tips for F12 | Sonarchy/Syphex/Donuts |
+|  | Adding some video tips for F12 | Sonarchy |
 
 
 

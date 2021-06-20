@@ -12,7 +12,7 @@
 | **Shieldbreakers** | ![](../../.gitbook/assets/cryo_small.png) |
 | **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)  **** |
 | **Avoid Damage** | ![](../../.gitbook/assets/hydro_small.png) ![](../../.gitbook/assets/electro_small.png)  |
-| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png) |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png) |
 | **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_qiqi.png)  |
 
 ## Chamber 1
