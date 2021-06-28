@@ -4,7 +4,7 @@
 
 |  |  |
 | :--- | :---: |
-| **Damage Type** | ![](../../.gitbook/assets/geo_med.png)  |
+| **Damage Type** | ![](../../.gitbook/assets/geo_small.png)  |
 | **Timer** | 14.75s |
 | **Duration** | 4s per wave |
 | **Waves** | 2 |

@@ -12,6 +12,7 @@ description: Changelogs
 * Guide for new [Floor 10](../../floors/spire/floor-10.md)
 * Guide for new [Floor 11](../../floors/spire/floor-11.md)
 * Guide for new [Floor 12](../../floors/spire/floor-12.md)
+* Guide for new Aura [Elemental Blast](../../mechanics/auras/elemental-blast.md)
 
 ## Full Changelogs
 
@@ -36,6 +37,7 @@ description: Changelogs
 |  | Adding tips for F11 | ChiliLion/Donuts/ AegisD |
 | June 19th | Adding additional tips for F12 | Sonarchy/Syphex/Donuts |
 |  | Adding some video tips for F12 | Sonarchy |
+| June 27th | Adding Elemental Blast page | AegisD |
 
 
 
