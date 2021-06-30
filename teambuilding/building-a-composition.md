@@ -196,7 +196,7 @@ These supports boost the damage of your core unit in some way, either by:
 | ![](../.gitbook/assets/ui_avataricon_ningguang.png)  | ![](../.gitbook/assets/ui_avataricon_zhongli.png) ![](../.gitbook/assets/ui_avataricon_albedo.png)  | ![](../.gitbook/assets/ui_avataricon_aether_geo.png)  |
 
 * Usually you would want at least **C1** on **Ningguang** before using this comp to help with AoE damage.
-* Free catalyst options are not great so you may also want to avoid this core if you don't have a **CRIT** substat catalyst to use.
+* Craftable catalyst options are not great so you may also want to avoid this core if you don't have a good weapon. Check the [Build Guide](%20https://docs.google.com/spreadsheets/d/e/2PACX-1vRq-sQxkvdbvaJtQAGG6iVz2q2UN9FCKZ8Mkyis87QHFptcOU3ViLh0_PJyMxFSgwJZrd10kbYpQFl1/pubhtml) to see if you have access to one of her preferred weapons.
 * With two ![](../.gitbook/assets/geo_small.png) chars, shield breaking can be an issue on some floors. In particular, this core can't cover all required elements on **Floor 7.**
 
 ### Xiao + Anemo 
