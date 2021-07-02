@@ -10,9 +10,9 @@
 
 **Weak Point** - None
 
-The **Cryo Hypostasis** is continually infused with ![](../../.gitbook/assets/cryo_small.png). This makes it impossible non-cryo reactions on it directly.
+The **Cryo Hypostasis** is continually infused with ![](../../.gitbook/assets/cryo_small.png)when the vulnerable.
 
-![](../../.gitbook/assets/pyro_small.png) **DMG** is the most effective against the **Cryo Hypostasis**, as you will always be able to cause **Melt** on it, for at least **2x** damage.
+![](../../.gitbook/assets/pyro_small.png) **DMG** is the most effective against the **Cryo Hypostasis**, as you will always be able to trigger **Melt** on your attacks, giving **2x** on your attacks at a minimum.
 
 ## Abilities
 

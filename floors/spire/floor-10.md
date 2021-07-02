@@ -103,7 +103,9 @@ Using a **shield** is an effective way to prevent the **Abyss Lector** from drai
 | :--- | :--- |
 | \*\*\*\*[**Cryo Hypostasis**](../../monsters/elites/cryo-hypostasis.md)\*\*\*\* | ?? |
 
-Using ![](../../.gitbook/assets/pyro_small.png)**DPS** is particularly effective as your attacks will **Melt**. 
+Using ![](../../.gitbook/assets/pyro_small.png)**DPS** is particularly effective as your attacks will **Melt**.
+
+The attacks it will use are completely random. Some patterns take longer than others, so you can potentially retry this chamber until it performs a favorable attack.
 
 ### Side 2
 
