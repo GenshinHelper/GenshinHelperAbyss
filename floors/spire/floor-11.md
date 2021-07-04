@@ -102,6 +102,7 @@ Using![](../../.gitbook/assets/anemo_small.png) **Swirl** does a lot of damage, 
 | Monster | HP |
 | :--- | :--- |
 | \*\*\*\*[**Ruin Guard**](../../monsters/ruin-constructs/ruin-guard.md)\*\*\*\* | ?? |
+| [**Ruin Hunter**](../../monsters/ruin-constructs/ruin-hunter.md)\*\*\*\* | ?? |
 
 #### 3★ Tips
 

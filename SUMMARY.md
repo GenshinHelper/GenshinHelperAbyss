@@ -48,6 +48,7 @@
   * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
 * [Ruin Constructs](monsters/ruin-constructs/README.md)
   * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)
+  * [Ruin Hunter](monsters/ruin-constructs/ruin-hunter.md)
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
 * [Elites](monsters/elites/README.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
