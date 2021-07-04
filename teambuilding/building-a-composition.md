@@ -14,6 +14,10 @@ For Abyss, you will need at least 1 core for each team. When starting a floor, l
 If possible, try to use different types of damage between the two teams in order to avoid being heavily disadvantaged if a floor is bad for a specific element.
 {% endhint %}
 
+{% hint style="warning" %}
+The cores listed here are intentionally limited to only suggesting **2 character combinations**. This leaves the most room for flexibility for each abyss floor. This means there will be some compositions that require specific 3 or 4 characters that will not be included here.
+{% endhint %}
+
 ### Add supports
 
 Which supports you choose for each team will vary depending on the specific requirements for the floor.
@@ -72,7 +76,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_razor.png) ![](../.gitbook/assets/ui_avataricon_keqing.png)  | ![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_qiqi.png)  | ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png)![](../.gitbook/assets/ui_avataricon_ganyu.png)   |
+| ![](../.gitbook/assets/ui_avataricon_razor.png) ![](../.gitbook/assets/ui_avataricon_keqing.png)  | ![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_qiqi.png)![](../.gitbook/assets/ui_avataricon_ganyu.png)   |
 
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **12 seconds**.
 * **Diona** and **Qiqi** are the preferred supports as they also fill in for you as a **healer**.
@@ -87,6 +91,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
 * Adding a ![](../.gitbook/assets/hydro_small.png)support is a nice way to add **Freeze** on this team for extra **Crowd Control**.
+* When using **Eula**, it is highly recommended to bring a **Battery** in another slot \(e.g. **Diona**\) due to her damage being very **Burst** dependent.
 
 ### Bennet + Chongyun
 
