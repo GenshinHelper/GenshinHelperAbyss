@@ -100,7 +100,8 @@ If you don't have access to a strong **Freeze** team, it's best to try to build 
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)\*\*\*\* | ~735K HP |
+| \*\*\*\*[**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)\*\*\*\* | ~735K |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* | ?? |
 
 ![](../../.gitbook/assets/cryo_small.png)works well for breaking shields on this side, as it is effective against both the **Abyss Lector** and the **Abyss Mage**.
 

@@ -33,6 +33,10 @@ The second team can be any damage type as long as you have effective ways of dea
 
 ![](../../.gitbook/assets/10-1-1%20%281%29.png)
 
+| Monster | HP |
+| :--- | :--- |
+| \*\*\*\*[**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* | ?? |
+
 | Aura | DMG |
 | :--- | :--- |
 | [**Mist Bubble**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 3626![](../../.gitbook/assets/hydro_small.png) |
@@ -114,6 +118,7 @@ The attacks it will use are completely random. Some patterns take longer than ot
 | Monster | HP |
 | :--- | :--- |
 | \*\*\*\*[**Frostarm Lawachurl**](../../monsters/hilichurls/frostarm-lawachurl.md)\*\*\*\* | ?? |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* | ?? |
 
 | Aura | DMG |
 | :--- | :--- |
