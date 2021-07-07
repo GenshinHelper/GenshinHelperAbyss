@@ -16,4 +16,5 @@
 | July 3 | Adding Ruin Hunter page | Hyper/AegisD |
 | July 6 | Adding Hydro Abyss Mage page | Syphex/AegisD |
 | July 7 | Adding Cryogunner Legionnaire page | Hyper/AegisD |
+|  | Adding some tips for shield strength | AegisD |
 
