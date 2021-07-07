@@ -59,6 +59,12 @@ Use ![](../../.gitbook/assets/pyro_small.png) against the shields.
 
 ![](../../.gitbook/assets/9-2-2%20%281%29.png)
 
+
+
+| Monster | HP |
+| :--- | :--- |
+| [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ?? |
+
 | Aura | DMG |
 | :--- | :--- |
 | \*\*\*\*[**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 3213![](../../.gitbook/assets/cryo_small.png) |
