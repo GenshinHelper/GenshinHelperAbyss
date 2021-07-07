@@ -27,6 +27,10 @@ While shielded, the **Cryogunner Legionnaire** gains **+100% RES** to all types 
 
 ![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **very ineffective**
 
+{% hint style="info" %}
+The **Cryogunner Legionnaire shield** has **4U** of strength. This means it takes anywhere between **2~4** applications of![](../../.gitbook/assets/pyro_small.png)to break the shield, depending on how strong the ability is at applying the element.
+{% endhint %}
+
 ## Abilities
 
 ### Jump

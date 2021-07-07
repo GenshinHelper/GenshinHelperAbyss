@@ -29,6 +29,10 @@ While shielded, the **Electrohammer's** attacks will be infused with ![](../../.
 
 ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **very ineffective**
 
+{% hint style="info" %}
+The **Electrohammer Vanguard shield** has **4U** of strength. This means it takes anywhere between **2~4** applications of![](../../.gitbook/assets/cryo_small.png)to break the shield, depending on how strong the ability is at applying the element.
+{% endhint %}
+
 ## Abilities
 
 ### Triple Attack

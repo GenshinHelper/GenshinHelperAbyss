@@ -26,6 +26,10 @@ Prefer![](../../.gitbook/assets/cryo_small.png)to break the shield, as this will
 
 After the shield is broken, the **Abyss Mage** will be briefly stunned.
 
+{% hint style="info" %}
+The **Hydro Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **6~12** applications of![](../../.gitbook/assets/cryo_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **15 ticks** of **Electrocharged**, and![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **12~24** applications.
+{% endhint %}
+
 ## Abilities
 
 ### Basic Attack
