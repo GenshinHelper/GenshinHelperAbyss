@@ -41,6 +41,7 @@
   * [Geovishap](monsters/animals/geovishap.md)
 * [Fatui](monsters/fatui/README.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
+  * [Cryogunner Legionnaire](monsters/fatui/cryogunner-legionnaire.md)
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
   * [Pyro Agent](monsters/fatui/pyro-agent.md)

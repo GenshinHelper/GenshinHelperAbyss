@@ -51,7 +51,9 @@ This attack will only be used if the player is far enough away.
 
 ![Creates a shield that increases resistances and infuses attacks](../../.gitbook/assets/electrohammer_infuse.gif)
 
-Once the shield is broken, the **Electrohammer Vanguard** will be stunned for a short time
+Once the shield is broken, the **Electrohammer Vanguard** will be stunned for about **8 seconds**.
 
 ![](../../.gitbook/assets/electrohammer_break.gif)
+
+
 
