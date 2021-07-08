@@ -45,7 +45,7 @@ Dodge towards and behind the **Electrohammer** to easily evade all of his attack
 
 | Enemy | Weak Element |
 | :--- | :--- |
-| **Hydrogunner** | ![](../../.gitbook/assets/electro_small.png)  |
+| \*\*\*\*[**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)\*\*\*\* | ![](../../.gitbook/assets/electro_small.png)  |
 | [**Electrohammer Vanguard**](../../monsters/fatui/electrohammer-vanguard.md)\*\*\*\* | ![](../../.gitbook/assets/cryo_small.png)  |
 | \*\*\*\*[**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ![](../../.gitbook/assets/pyro_small.png)  |
 
@@ -109,7 +109,7 @@ Go for the **Hydrogunner** first as he is able to heal, and do as much damage as
 
 | Enemy | Weak Element |
 | :--- | :--- |
-| **Hydrogunner** | ![](../../.gitbook/assets/electro_small.png)  |
+| \*\*\*\*[**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)\*\*\*\* | ![](../../.gitbook/assets/electro_small.png)  |
 | [**Electrohammer Vanguard**](../../monsters/fatui/electrohammer-vanguard.md)\*\*\*\* | ![](../../.gitbook/assets/cryo_small.png)  |
 
 ### Side 2

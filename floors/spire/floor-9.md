@@ -63,6 +63,7 @@ Use ![](../../.gitbook/assets/pyro_small.png) against the shields.
 
 | Monster | HP |
 | :--- | :--- |
+| \*\*\*\*[**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)\*\*\*\* | ?? |
 | [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ?? |
 
 | Aura | DMG |

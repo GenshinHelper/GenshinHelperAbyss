@@ -85,6 +85,7 @@ Using![](../../.gitbook/assets/anemo_small.png) **Swirl** does a lot of damage, 
 
 | Monster | HP |
 | :--- | :--- |
+| \*\*\*\*[**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)\*\*\*\* | ?? |
 | \*\*\*\*[**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ?? |
 
 | Aura |

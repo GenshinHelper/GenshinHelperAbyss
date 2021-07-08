@@ -6,6 +6,7 @@
 * New monster guide for [Ruin Hunter](../../monsters/ruin-constructs/ruin-hunter.md)
 * New monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
 * New monster guide for [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md)
+* New monster guide for [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md)
 
 ## Full Changelogs
 
@@ -17,4 +18,5 @@
 | July 6 | Adding Hydro Abyss Mage page | Syphex/AegisD |
 | July 7 | Adding Cryogunner Legionnaire page | Hyper/AegisD |
 |  | Adding some tips for shield strength | AegisD |
+| July 8 | Adding Hydrogunner Legionnaire page | Hyper/AegisD |
 
