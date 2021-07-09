@@ -37,6 +37,11 @@ Bring a **Bow** character on each side with the correct element to disable the *
 
 ![](../../.gitbook/assets/8-1-1.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Cryo Abyss Mage**](../../monsters/abyss-order/cryo-abyss-mage.md)\*\*\*\* |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
+
 **Cryo Abyss Mage** shield is much easier to break than the **Hydro Abyss Mage**. Focusing the **Cryo** first will prevent you from having to deal with being **Frozen**. 
 
 You can sometimes push the two Abyss Mages together with movement or abilities, allowing you to hit both shields at once.
@@ -44,6 +49,10 @@ You can sometimes push the two Abyss Mages together with movement or abilities, 
 ### Side 2
 
 ![](../../.gitbook/assets/8-1-2.png)
+
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Pyro Abyss Mage**](../../monsters/abyss-order/pyro-abyss-mage.md)\*\*\*\* |
 
 | Aura | DMG |
 | :--- | :--- |
@@ -61,6 +70,10 @@ Focus the one with the **Fireball Aura** to stop it from spawning.
 
 ![](../../.gitbook/assets/8-2-1.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Ruin Guard**](../../monsters/ruin-constructs/ruin-guard.md)\*\*\*\* |
+
 A pillar will periodically shield enemies with ![](../../.gitbook/assets/cryo_small.png), reducing their damage taken. Use ![](../../.gitbook/assets/pyro_small.png) to break the shield.
 
 Focusing down the **Ruin Guard** first will save the most time.
@@ -68,6 +81,10 @@ Focusing down the **Ruin Guard** first will save the most time.
 ### Side 2
 
 ![](../../.gitbook/assets/8-2-2.png)
+
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Ruin Guard**](../../monsters/ruin-constructs/ruin-guard.md)\*\*\*\* |
 
 A pillar will periodically shield enemies with ![](../../.gitbook/assets/pyro_small.png), reducing their damage taken. Use ![](../../.gitbook/assets/hydro_small.png) to break the shield.
 

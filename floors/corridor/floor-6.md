@@ -38,6 +38,10 @@ Fighting near the **archers** can help group enemies together.
 
 ![](../../.gitbook/assets/6-1-2.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Pyro Whopperflower**](../../monsters/animals/pyro-whopperflower.md)\*\*\*\* |
+
 Prioritize attacking **Whopperflowers** when they have their shield up to prevent their attacks. ![](../../.gitbook/assets/hydro_small.png) is the most effective against their shields, but other elements and claymores will damage it as well. 
 
 **Whopperflowers** become stunned if you break their shields. They take more damage while stunned, so make sure to focus them when this happens.
@@ -83,6 +87,10 @@ Use ![](../../.gitbook/assets/geo_small.png) , Claymores, or Explosive Damage \(
 ### Side 2
 
 ![](../../.gitbook/assets/6-3-2.png)
+
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Pyro Abyss Mage**](../../monsters/abyss-order/pyro-abyss-mage.md)\*\*\*\* |
 
 | Aura | DMG |
 | :--- | :--- |

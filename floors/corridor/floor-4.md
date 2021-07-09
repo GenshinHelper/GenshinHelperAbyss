@@ -21,6 +21,10 @@
 
 ![](../../.gitbook/assets/4-1.png)
 
+| **Monster** |
+| :--- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
+
 | Aura | DMG |
 | :--- | :--- |
 | [**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
@@ -37,6 +41,10 @@ Use ![](../../.gitbook/assets/cryo_small.png) on the **Hydro Abyss Mages** so th
 
 ![](../../.gitbook/assets/4-2.png)
 
+| **Monster** |
+| :--- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
+
 | Aura | DMG |
 | :--- | :--- |
 | [**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 971![](../../.gitbook/assets/hydro_small.png) |
@@ -52,6 +60,10 @@ Both **Hydro Abyss Mages** target the monolith. Make sure you **Freeze** them as
 **Monster Level - 50**
 
 ![](../../.gitbook/assets/4-3.png)
+
+| **Monster** |
+| :--- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
 
 | Aura | DMG |
 | :--- | :--- |

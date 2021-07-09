@@ -32,6 +32,10 @@
 
 ![](../../.gitbook/assets/2-2.png)
 
+| **Monster** |
+| :--- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
+
 Use ![](../../.gitbook/assets/cryo_small.png) to freeze enemies and prevent them from attacking the monolith.
 
 Be careful using ![](../../.gitbook/assets/electro_small.png) as the floor is water and can become **Electrocharged.**
@@ -41,6 +45,10 @@ Be careful using ![](../../.gitbook/assets/electro_small.png) as the floor is wa
 **Monster Level - 40**
 
 ![](../../.gitbook/assets/2-3.png)
+
+| **Monster** |
+| :--- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* |
 
 Focus the **Hydro Samachurls** first as they can heal each other.
 

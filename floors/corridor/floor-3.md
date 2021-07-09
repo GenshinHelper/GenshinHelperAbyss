@@ -51,6 +51,10 @@ Watch out for the **Potioneers** attacks which leave Elemental AoE on the ground
 
 ![](../../.gitbook/assets/3-3.png)
 
+| **Monster** |
+| :--- |
+| [**Ruin Guard**](../../monsters/ruin-constructs/ruin-guard.md)\*\*\*\* |
+
 Use an archer to stun the **Ruin Guard**, and then focus it. The **Mitachurl** should come to you and group, allowing you to hit both at once.
 
 If you rely on ![](../../.gitbook/assets/physical_small.png) **DMG**, make sure you have **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) on the **Ruin Guard** because they have high ![](../../.gitbook/assets/physical_small.png) **RES.**

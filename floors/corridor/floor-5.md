@@ -41,6 +41,10 @@ Focus the **Large Cryo Slimes** as they are the most threatening followed by the
 
 ![](../../.gitbook/assets/5-1-2.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Pyro Abyss Mage**](../../monsters/abyss-order/pyro-abyss-mage.md)\*\*\*\* |
+
 | Aura | DMG |
 | :--- | :--- |
 | **Smoldering Flame** | 203![](../../.gitbook/assets/pyro_small.png)/ Tick \(?? DPS\) |
@@ -79,6 +83,10 @@ Fight near ranged enemies when possible and let the melee enemies come to you.
 
 ![](../../.gitbook/assets/5-3-1.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Electro Cicin Mage**](../../monsters/fatui/electro-cicin-mage.md)\*\*\*\* |
+
 Avoid using ranged autoattacks \(**Bow, Catalyst**\) as **Cicin** **Flies** can easily draw autoaim.
 
 Focus the **Cicin Mage** and let the melee **Hoarders** come to you.
@@ -88,6 +96,10 @@ The Cicin's **Aura** will drain your energy, so use bursts when they are up.
 ### Side 2
 
 ![](../../.gitbook/assets/5-3-2.png)
+
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Pyro Agent**](../../monsters/fatui/pyro-agent.md)\*\*\*\* |
 
 | Aura | DMG |
 | :--- | :--- |

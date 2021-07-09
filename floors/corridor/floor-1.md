@@ -41,6 +41,10 @@ Use ![](../../.gitbook/assets/pyro_small.png) to burn through the wooden shields
 
 ![](../../.gitbook/assets/1-3.png)
 
+| **Monster** |
+| :--- |
+| \*\*\*\*[**Electro Cicin Mage**](../../monsters/fatui/electro-cicin-mage.md)\*\*\*\* |
+
 Using ranged attacks on the **Electro Cicin Mage** can be difficult due to auto-aim targeting the flies. If you are using ranged attacks, get up close to the Cicin to help with targeting.
 
 ## Other Resources
