@@ -34,15 +34,15 @@ The **Hydro Abyss Mage** **shield** has **12U** of strength. This means it takes
 
 ### Basic Attack
 
-![Fires a projectile at the player.](../../.gitbook/assets/hydroabyssmage_projectile.gif)
+{% embed url="https://gfycat.com/completesnoopyjoey" caption="Fires a projectile at the player." %}
 
 ### Bubble
 
-![Fires a homing bubble at the player, immobilizing the target.](../../.gitbook/assets/hydroabyssmage_bubble.gif)
+{% embed url="https://gfycat.com/colossalpreciouslangur" caption="" %}
 
 The bubble will pop if hit by an attack.
 
-![](../../.gitbook/assets/hydroabyssmage_pop.gif)
+{% embed url="https://gfycat.com/foolishtendercuttlefish" %}
 
 The bubble can friendly fire on other enemy units. If possible, put another small enemy in between to avoid the attack and disable that enemy briefly.
 
@@ -50,7 +50,7 @@ The bubble will last about **5 seconds** before disappearing.
 
 ### Teleport
 
-![Teleports close to the player.](../../.gitbook/assets/hydroabyssmage_teleport.gif)
+{% embed url="https://gfycat.com/skinnylastinglemming" caption="Teleports close to the player." %}
 
 Moving a distance away from the **Abyss Mage** will trigger this ability.
 
@@ -58,7 +58,7 @@ The **Abyss Mage** will appear where the player is facing. You can use this to r
 
 ### Dance
 
-![Spawns bubbles in an AoE around the Abyss Mage](../../.gitbook/assets/hydroabyssmage_dance.gif)
+{% embed url="https://gfycat.com/honestgaseousantarcticgiantpetrel" caption="Spawns bubbles in an AoE around the Abyss Mage." %}
 
 The **Abyss Mage** will start this attack after some time being stunned.
 
@@ -66,7 +66,7 @@ You can interrupt this attack by stunning/staggering the **Abyss Mage** with cer
 
 ### Shield
 
-![Refreshes the shield.](../../.gitbook/assets/hydroabyssmage_shield.gif)
+{% embed url="https://gfycat.com/chubbyunhappyhart" %}
 
 After about **8 seconds** of the **Dance** attack, the **Abyss Mage** will reshield.
 
