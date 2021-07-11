@@ -22,4 +22,5 @@
 | July 8 | Adding Hydrogunner Legionnaire page | Hyper/AegisD |
 | July 9 | Adding Pyro Abyss Mage page | Syphex/AegisD |
 | July 10 | Updating Pyro/Hydro Mage gifs to gfycat | AegisD |
+|  | Updaing Abyss Lector gifs | AegisD |
 

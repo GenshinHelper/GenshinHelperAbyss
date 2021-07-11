@@ -40,23 +40,25 @@ The **Abyss Lector shield** has **36U** of strength. This means it takes anywher
 
 ### Lightning Orbs
 
-![Sends three orbs at the player which explode](../../.gitbook/assets/abyssherald_orbs.gif)
+{% embed url="https://gfycat.com/energeticpotableamazonparrot" caption="Sends three orbs at the player, exploding in an AoE" %}
 
 Being hit by an orb will drain your character's energy.
 
 Blocking the damage with a **shield** prevents it from draining your energy.
 
-You can only be affected by the energy drain **once** per set of 3 orbs. Getting hit by all 3 won't drain your energy 3x as much, you will still lose the same amount.
+You can only be affected by the energy drain **once** per set of 3 orbs. Getting hit by all 3 orbs will drain the same amount of energy as getting hit by one.
 
 ### Lightning Streak
 
-![Sends a line of lightning at the player along the ground](../../.gitbook/assets/abyssherald_line.gif)
+{% embed url="https://gfycat.com/ickyvastcommongonolek" caption="Sends bolts of lightning in a line at the player." %}
 
-![When shielded, sends out two lines](../../.gitbook/assets/abysshreald_line_double.gif)
+While **shielded**, two streaks are sent at the player.
+
+{% embed url="https://gfycat.com/orneryorneryaurochs" %}
 
 ### Lightning Bolt
 
-![Deals damage in an AoE after a brief delay](../../.gitbook/assets/abyssherald_strike.gif)
+{% embed url="https://gfycat.com/exemplaryrecentfrog" caption="Deals damage in an AoE where the player is standing." %}
 
 The number of bolts unleashed during this attack is variable, and based on the **Abyss Lector's health/shield**
 
@@ -69,13 +71,13 @@ The number of bolts unleashed during this attack is variable, and based on the *
 
 ### Explosion
 
-![Deals damage in an AoE around the Abyss Lector](../../.gitbook/assets/abyssherald_explosion.gif)
+{% embed url="https://gfycat.com/compassionatethankfulladybird" caption="Deals damage in an AoE around the Abyss Lector" %}
 
 ### Electro Shield
 
-![](../../.gitbook/assets/abyssherald_shield.gif)
+{% embed url="https://gfycat.com/gleamingconsiderategonolek" caption="Deals damage in an AoE around the Abyss Lector, and creates a shield." %}
 
-Once the **Abyss Lector** drops below a certain **HP**, it will summon a ![](../../.gitbook/assets/electro_small.png) **shield** and deal ![](../../.gitbook/assets/electro_small.png)**DMG** to nearby characters.
+Once the **Abyss Lector** drops below a certain **HP**, it will summon a ![](../../.gitbook/assets/electro_small.png) **shield** and deal ![](../../.gitbook/assets/electro_small.png)**DMG** to nearby characters. There is no way to kill the **Abyss Lector** immediately and skip the shield phase.
 
 The **shield** absorbs incoming damage. Destroying the **shield** will immediately kill the **Abyss Lector**, regardless of how much **HP** is left
 
@@ -83,7 +85,7 @@ The **shield** absorbs incoming damage. Destroying the **shield** will immediate
 
 This attack is only performed when **shielded**.
 
-![Unleashes orbs in a circular pattern around the Abyss Lector](../../.gitbook/assets/abyssherald_circle.gif)
+{% embed url="https://gfycat.com/serenetotalbeetle" caption="Sends out orbs in a circular pattern, which remain on the field." %}
 
 Being hit by an orb will drain your character's energy.
 
