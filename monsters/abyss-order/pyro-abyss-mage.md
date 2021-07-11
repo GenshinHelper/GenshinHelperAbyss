@@ -32,11 +32,11 @@ The **Pyro Abyss Mage** **shield** has **12U** of strength. This means it takes 
 
 ### Basic Attack
 
-{% embed url="https://gfycat.com/repentanttinyesok" %}
+{% embed url="https://gfycat.com/repentanttinyesok" caption="Fires a projectile at the player." %}
 
 ### Flame Turret
 
-{% embed url="https://gfycat.com/narrowvigilantastrangiacoral" %}
+{% embed url="https://gfycat.com/narrowvigilantastrangiacoral" caption="Summons three heads that shoot jets of flame, centered on the player." %}
 
 Once cast, the skill does not move, making it easy to avoid by stepping out of the AoE.
 
@@ -44,7 +44,7 @@ The turrents will last about **5 seconds** before disappearing.
 
 ### Teleport
 
-{% embed url="https://gfycat.com/ultimatemetallicattwatersprairiechicken" %}
+{% embed url="https://gfycat.com/ultimatemetallicattwatersprairiechicken" caption="Teleports close to the player." %}
 
 Moving a distance away from the **Abyss Mage** will trigger this ability.
 
@@ -52,7 +52,7 @@ The **Abyss Mage** will appear where the player is facing. You can use this to r
 
 ### Dance
 
-{% embed url="https://gfycat.com/pinkquerulousjanenschia" %}
+{% embed url="https://gfycat.com/pinkquerulousjanenschia" caption="Creates jets of fire from the ground around the Abyss Mage." %}
 
 The **Abyss Mage** will start this attack after some time being stunned.
 
