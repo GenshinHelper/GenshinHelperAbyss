@@ -32,11 +32,11 @@ The **Pyro Abyss Mage** **shield** has **12U** of strength. This means it takes 
 
 ### Basic Attack
 
-![Fires a projectile at the player.](../../.gitbook/assets/pyroabyssmage_projectile.gif)
+{% embed url="https://gfycat.com/repentanttinyesok" %}
 
 ### Flame Turret
 
-![Summon three heads around the player that release fire at intervals.](../../.gitbook/assets/pyroabyssmage_flame.gif)
+{% embed url="https://gfycat.com/narrowvigilantastrangiacoral" %}
 
 Once cast, the skill does not move, making it easy to avoid by stepping out of the AoE.
 
@@ -44,7 +44,7 @@ The turrents will last about **5 seconds** before disappearing.
 
 ### Teleport
 
-![Teleports close to the player.](../../.gitbook/assets/pyroabyssmage_teleport.gif)
+{% embed url="https://gfycat.com/ultimatemetallicattwatersprairiechicken" %}
 
 Moving a distance away from the **Abyss Mage** will trigger this ability.
 
@@ -52,7 +52,7 @@ The **Abyss Mage** will appear where the player is facing. You can use this to r
 
 ### Dance
 
-![Spawns fire spouts in an AoE around the Abyss Mage](../../.gitbook/assets/pyroabyssmage_dance.gif)
+{% embed url="https://gfycat.com/pinkquerulousjanenschia" %}
 
 The **Abyss Mage** will start this attack after some time being stunned.
 
@@ -60,7 +60,7 @@ You can interrupt this attack by stunning/staggering the **Abyss Mage** with cer
 
 ### Shield
 
-![Refreshes the shield.](../../.gitbook/assets/pyroabyssmage_shield.gif)
+{% embed url="https://gfycat.com/repentantglamorousegret" %}
 
 After about **8 seconds** of the **Dance** attack, the **Abyss Mage** will reshield.
 
