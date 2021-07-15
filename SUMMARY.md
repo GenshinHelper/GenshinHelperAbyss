@@ -58,6 +58,7 @@
 ## Mechanics
 
 * [Buff Cards](mechanics/buff-cards.md)
+* [Shields](mechanics/shields.md)
 * [Debuffs](mechanics/debuffs/README.md)
   * [Removing Debuffs](mechanics/debuffs/removing-debuffs.md)
 * [Auras](mechanics/auras/README.md)
