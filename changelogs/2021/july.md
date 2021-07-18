@@ -2,6 +2,7 @@
 
 ## Major Updates
 
+* New mechanics guide on [Shields](../../mechanics/shields.md)
 * New monster guide for [Cryo Hypostasis](../../monsters/elites/cryo-hypostasis.md)
 * New monster guide for [Ruin Hunter](../../monsters/ruin-constructs/ruin-hunter.md)
 * New monster guide for [Pyro Abyss Mage](../../monsters/abyss-order/pyro-abyss-mage.md)
@@ -23,4 +24,6 @@
 | July 9 | Adding Pyro Abyss Mage page | Syphex/AegisD |
 | July 10 | Updating Pyro/Hydro Mage gifs to gfycat | AegisD |
 |  | Updaing Abyss Lector gifs | AegisD |
+| July 17 | Adding Shield page | Prad/AegisD |
+|  | Updating blessing | AegisD |
 
