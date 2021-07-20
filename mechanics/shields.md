@@ -30,6 +30,12 @@ Shields often do not have HP like regular monsters. They instead have a specific
 For more in depth information on **Elemental Gauges**, please see the **Resources** section at the bottom of this page. 
 {% endhint %}
 
+{% hint style="info" %}
+**Infused** attacks that apply an element have a special cooldown referred to as **Internal Cooldown \(ICD\)**. This means that faster **Normal Attacks** do not necessarily mean you will apply the element any faster.
+
+You can get around this restriction by swapping characters between attacks \(which resets ICD\), or using **Charged/Plunging Attacks**, which do not have an ICD.
+{% endhint %}
+
 ### Geo Shields
 
 Unlike other shields, ![](../.gitbook/assets/geo_small.png) can also be broken without using elemental reactions. You can use:

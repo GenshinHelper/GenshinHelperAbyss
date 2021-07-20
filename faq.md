@@ -6,10 +6,14 @@
 
 While you could try to use a single team for all floors, Abyss teams tend to change per floor based on the Divergence \(floor buff\) and mobs on each floor. Here's a simple approach you can use:
 
-1. Pick a **Main carry/DPS** to use. Check the build docs for recommendations on who can fit this role
+1. Pick a **Main carry/DPS** to use. Check the build docs for recommendations on who can fit this role.
 2. Pick a **Healer** for the team. If possible, pick a character that synergizes with your main by providing buffs, reactions, or resonance.
-3. If the floor contains **Elemental Shields**, add characters that can break those shields here. Check the individual Floor guides on what to bring
-4. Fill in any remaining slots with **Supports** that help your main, often by providing buffs, reactions, or resonance
+3. If the floor contains **Elemental Shields**, add characters that can break those shields here. Check the individual Floor guides on what to bring.
+4. Fill in any remaining slots with **Supports** that help your main, often by providing buffs, reactions, or resonance.
+
+For more detailed info, check out the guide below:
+
+{% page-ref page="teambuilding/building-a-composition.md" %}
 
 ### What level should my characters be?
 
@@ -17,17 +21,19 @@ Always focus on levelling your **Main carry/DPS** first. The characters and thei
 
 **Support** characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their **60/70 ascension** \(meaning ascending from lvl 60, but not levelling them to 70\). This unlocks their last passive talent.
 
-Characters only used for **shield breaking** do not need any levels at all. Their skills are equally effective at level 1 \(as long as you can keep them alive!\)
+Characters only used for **shield breaking** do not need any levels at all. Their skills are equally effective at level 1 \(as long as you can keep them alive!\).
 
-Once you get to the higher floors, you will always be lower level than the enemies on the floor. This is where investment into artifacts becomes important. Prioritize getting your main carries to **80/80** with levelled weapons/artifacts/talents. Supports can be kept at 60/70 unless you want their talents above lv 6, in which case bring them to 70/80.
+It is not recommended you level characters past 80/90 as there is very little benefit for the cost. Put these resources into Supports and Sub DPS characters.
 
-It is not recommended you level characters past 80/90 as the damage boost is not worth it. It's often better to put the resources used to bring a character to 90 elsewhere.
+For more detailed info, check out the guide below:
+
+{% page-ref page="teambuilding/character-investment.md" %}
 
 ## Spiral Abyss Reset
 
 ### What happens when Abyss resets?
 
-All progress and rewards on **F9-12** will be reset. You will have to beat each floor again but you will be able to collect the reward for clearing each chamber as well as obtaining stars
+All progress and rewards on **F9-12** will be reset. You will have to beat each floor again but you will be able to collect the reward for clearing each chamber as well as obtaining stars.
 
 ### How often does Abyss reset?
 
@@ -43,13 +49,13 @@ The progress and rewards for these floors do not reset, and can only be obtained
 
 ### I cleared the 3rd chamber but it won't let me go to the next floor?
 
-You need to get at least 6★ out of the 9 in order to go on to the next floor
+You need to get at least 6★ out of the 9 in order to go on to the next floor.
 
 ### Should I 9★ each floor before moving on to the next one?
 
 No! Your goal should be to reach Floor 9 as quickly as possible so you can access the resetting rewards from Floors 9-12. Just get the minimum 6★ needed to progress floors, and come back to Floors 1-8 later when you have more gear.
 
-In general, it will be easier to 6★ the next floor than it will be to 9★ the current floor
+In general, it will be easier to 6★ the next floor than it will be to 9★ the current floor.
 
 ### If I beat a chamber again with more ★'s than before, do I need to finish the floor for it to count?
 
@@ -57,7 +63,7 @@ No! Each Chamber tracks your best ★ rating separately. For example:
 
 > You are currently 7/9 ★'s for the floor, and you only got 1★ in Chamber 1 the first time. Now, if you go back and beat Chamber 1 again with 3★, you can exit out of your run immediately and be at 9/9 ★'s. You do not need to beat the remaining chambers on the floor.
 
-This also means you don't have to 9★ a floor in one run! You can build a team specifically for clearing a specific Chamber with 3★. Once you've done that, in future runs you can get no stars in that chamber and still get 9/9★. One useful way to use this is to deliberately take your time in a chamber you've already 3★'d in order to charge up Burst energy, so you can enter the next chamber with all your Bursts ready
+This also means you don't have to 9★ a floor in one run! You can build a team specifically for clearing a specific Chamber with 3★. Once you've done that, in future runs you can get no stars in that chamber and still get 9/9★. One useful way to use this is to deliberately take your time in a chamber you've already 3★'d in order to charge up Burst energy, so you can enter the next chamber with all your Bursts ready.
 
 ### I cleared 8-3 but I didn't get the 2400 Primogems shown in the Event?
 
@@ -69,7 +75,7 @@ The rewards advertised in the **Moment of Syzygy** banner are **not a separate r
 
 ### Are buff cards the same for everyone?
 
-No, buff cards are different for each player and change each day during reset. It is possible to get the same set of cards two days in a row though
+No, buff cards are different for each player and change each day during reset. It is possible to get the same set of cards two days in a row though.
 
 ### If I "Leave for now" on a chamber and come back the next day, will the buff cards be the same?
 
@@ -85,29 +91,31 @@ Yes!
 
 ### Which buff card should I pick?
 
-Check out the detailed section on buff cards below
+In general, just choose offensive buff cards and ignore any defensive ones.
+
+Check out the detailed section on buff cards below:
 
 {% page-ref page="mechanics/buff-cards.md" %}
 
 ### Does the 25% heal card revive dead characters?
 
-No
+No.
 
 ## Other Mechanics
 
 ### If I "Leave for now" on a chamber, update my stats, and then continue, will it use the new values?
 
-No. Abyss will "snapshot" your stats whenever you start a run for the floor. If you updated your stats, you will have to restart your run in order to have the updates take effect
+No. Abyss will "snapshot" your stats whenever you start a run for the floor. If you updated your stats, you will have to restart your run in order to have the updates take effect.
 
 ### How do I stop enemies from hitting the monolith?
 
 Enemies will aggro you once they take enough hits/damage, so the best strategy is to keep attacking them as much as possible.
 
-Check out the infographics on the floor if you need a hint on which enemies will target the monolith
+Check out the infographics on the floor if you need a hint on which enemies will target the monolith.
 
 ### Why won't my Anemo MC/Jean/Venti pick up enemies properly?
 
-Anemo characters need to be **within 20 levels** of an enemy to properly CC them. This means for example, on Floor 12-3 with level 100 mobs, your Anemo characters need to be at least level 80
+Anemo characters need to be **within 20 levels** of an enemy to properly CC them. This means for example, on Floor 12-3 with level 100 mobs, your Anemo characters need to be at least level 80.
 
 ### What characters can get rid of this elemental debuff \(cleanse\)?
 
@@ -117,15 +125,15 @@ Anemo characters need to be **within 20 levels** of an enemy to properly CC them
 
 Some enemies come with additional abilities that will activate periodically as long as they're alive \(usually referred to as **auras**\). You can tell these enemies part because they will have a swirly circle indicator below them. Killing the enemy is the only way to stop these abilities from happening.
 
-See [Auras](mechanics/auras/) for details on each individual effect
+See [Auras](mechanics/auras/) for details on each individual effect.
 
 ### There are no enemies left but the counter still has enemies remaining. Where are they?
 
-This is a bug that can happen after co-op. Leave for now and restart the game. The enemies should appear property once you resume from the Chamber
+This is a bug that can happen after co-op. Leave for now and restart the game. The enemies should appear property once you resume from the Chamber.
 
 ### How come I don't deal any damage to the Fatui on floor 7?
 
 Fatui gain massive damage resistance until their shield is broken with the right element.
 
-See [Fatui Skirmishers](mechanics/video-guides/fatui-skirmishers.md) for Enviosity's guide on them
+See [Shields](mechanics/shields.md) for more details on how shields work, as well as [Fatui](monsters/fatui/) in the monsters section for tips on each one.
 

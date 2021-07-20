@@ -27,4 +27,5 @@
 | July 17 | Adding Shield page | Prad/AegisD |
 |  | Updating blessing | AegisD |
 | Jul 19 | Fixing some errors in shields | Prad |
+|  | Fixing up some things in FAQ | AegisD |
 
