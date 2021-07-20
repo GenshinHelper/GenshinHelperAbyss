@@ -137,5 +137,5 @@ For more in depth reading on shields, please check out these additional resource
 
 \*\*\*\*[**Elemental Gauges** \(list of all Character Talents and strength\)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
 
-\*\*\*\*[**Shield Damage in Genshin Impact** \(in depth mechanics of shields\)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
+\*\*\*\*[**Shield Damage in Genshin Impact** \(in depth mechanics of shields\)](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit)
 
