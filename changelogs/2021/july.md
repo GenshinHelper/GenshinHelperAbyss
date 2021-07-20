@@ -26,4 +26,5 @@
 |  | Updaing Abyss Lector gifs | AegisD |
 | July 17 | Adding Shield page | Prad/AegisD |
 |  | Updating blessing | AegisD |
+| Jul 19 | Fixing some errors in shields | Prad |
 

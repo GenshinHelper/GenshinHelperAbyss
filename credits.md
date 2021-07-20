@@ -19,7 +19,7 @@
 | Yumi |  |
 | Beatus |  |
 | Folie |  |
-| Donuts |  |
+| Donuts | [https://www.youtube.com/c/DonutsGaming888](https://www.youtube.com/c/DonutsGaming888) |
 | Prad |  |
 | Kreed |  |
 | ChiliLion |  |

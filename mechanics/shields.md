@@ -11,11 +11,11 @@ Elements have different levels of effectiveness against certain shields. Knowing
 | Shield | Most Effective | Medium | Least Effective | Not Effective |
 | :---: | :---: | :---: | :---: | :---: |
 | ![](../.gitbook/assets/pyro_small.png) | ![](../.gitbook/assets/hydro_small.png) | ![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/pyro_small.png) |
-| ![](../.gitbook/assets/hydro_small.png) | ![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/hydro_small.png) |
-| ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png) |  | ![](../.gitbook/assets/electro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png) |
+| ![](../.gitbook/assets/hydro_small.png) |  | ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/hydro_small.png) |
+| ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png) | ![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png) |
 | ![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png) | ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/electro_small.png) |
-| ![](../.gitbook/assets/anemo_small.png) |  | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |  | ![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) |
-| ![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |  | ![](../.gitbook/assets/anemo_small.png) |
+| ![](../.gitbook/assets/anemo_small.png) |  |  | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) |
+| ![](../.gitbook/assets/geo_small.png) | ![](../.gitbook/assets/geo_small.png) |  | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/anemo_small.png) |
 | ![](../.gitbook/assets/dendro_small.png) | ![](../.gitbook/assets/pyro_small.png) |  |  | All non![](../.gitbook/assets/pyro_small.png) |
 
 ### Elemental Gauge
@@ -95,7 +95,9 @@ These shields **reduce damage** until the shield is destroyed.
 |  | Cryo Whopperflower | 2 | None |
 
 {% hint style="warning" %}
-Note that **Fatui** shields do not obey the **Elemental Effectiveness** table. They will only take damage from elements that are **most effective** against their shield. All other elements have greatly reduced effectiveness.
+Note that **Fatui** shields do not obey the **Elemental Effectiveness** table. They will only take damage from elements that are **most effective** against their shield. All other elements have greatly reduced effectiveness.  
+  
+The **Hydrogunner** is a special case since there is not an effective element against ![](../.gitbook/assets/hydro_small.png) shields. Their shields are weak to![](../.gitbook/assets/electro_small.png).
 {% endhint %}
 
 ### Physical Shields
