@@ -1,8 +1,4 @@
-# Cryo Abyss Mage
-
-{% hint style="info" %}
-This page is under construction! Come back later!
-{% endhint %}
+# Electro Abyss Mage
 
 ## Resistances
 
@@ -16,15 +12,15 @@ This page is under construction! Come back later!
 
 ## Shield
 
-Prefer![](../../.gitbook/assets/pyro_small.png)attacks to break through the shield.
+Prefer![](../../.gitbook/assets/cryo_small.png)attacks to break through the shield.
 
-![](../../.gitbook/assets/electro_small.png) attacks will also work, but are **half as effective** as![](../../.gitbook/assets/pyro_small.png).
+![](../../.gitbook/assets/pyro_small.png) attacks will also work, but are **half as effective** as![](../../.gitbook/assets/cryo_small.png).
 
-![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **1/4 as effective** as![](../../.gitbook/assets/pyro_small.png).
+![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **1/4 as effective** as![](../../.gitbook/assets/cryo_small.png).
 
 After the shield is broken, the **Abyss Mage** will be briefly stunned.
 
 {% hint style="info" %}
-The **Cryo Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **3~6** applications of![](../../.gitbook/assets/pyro_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **6~12** applications, and![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **12~24** applications.
+The **Electro Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **3~6** applications of![](../../.gitbook/assets/cryo_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/pyro_small.png)is slightly less effectively, requiring about **6~12** applications, and![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **12~24** applications.
 {% endhint %}
 

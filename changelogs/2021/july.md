@@ -9,6 +9,9 @@
 * New monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
 * New monster guide for [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md)
 * New monster guide for [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md)
+* New monster guide for [Cryo Whopperflower](../../monsters/animals/cryo-whopperflower.md)
+* New monster guide for [Electro Whopperflower](../../monsters/animals/electro-whopperflower.md)
+* New monster guide for [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md)
 
 ## Full Changelogs
 
@@ -28,4 +31,9 @@
 |  | Updating blessing | AegisD |
 | Jul 19 | Fixing some errors in shields | Prad |
 |  | Fixing up some things in FAQ | AegisD |
+| Jul 24 | Adding Cryo Whopperflower page | Yumi/AegisD |
+|  | Adding Electro Whopperflower page | Yumi/AegisD |
+| Jul 25 | Adding Thunderhelm Lawachurl page | Hyper/AegisD |
+
+
 

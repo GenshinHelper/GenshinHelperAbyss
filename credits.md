@@ -25,6 +25,7 @@
 | ChiliLion |  |
 | Sonarchy |  |
 | Hyper |  |
+| Syphex |  |
 
 ## Special Thanks
 

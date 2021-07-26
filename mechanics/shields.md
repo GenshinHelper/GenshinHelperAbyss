@@ -26,6 +26,12 @@ Shields often do not have HP like regular monsters. They instead have a specific
 * How strong the ability used against the shield is at applying the element.
 * The **cooldown** of the skill used to apply the element and/or the **frequency** that it applies the element.
 
+#### Does character damage affect shieldbreaking?
+
+For **Elemental Armor** and **Physical Shields**, damage does not factor into shieldbreaking at all. On **Elemental Shields**, damage is factored in, however the amount of damage you need to close to **Reaction** damage is extremely high, so in practice, you can also treat it as being unimportant.
+
+This means that a completely un-invested character will be as effective as a fully invested character when it comes to shieldbreaking ability. As long as you can keep them alive, don't be afraid to bring your un-invested characters along to help with shields in specific chambers.
+
 {% hint style="info" %}
 For more in depth information on **Elemental Gauges**, please see the **Resources** section at the bottom of this page. 
 {% endhint %}
@@ -33,8 +39,10 @@ For more in depth information on **Elemental Gauges**, please see the **Resource
 {% hint style="info" %}
 **Infused** attacks that apply an element have a special cooldown referred to as **Internal Cooldown \(ICD\)**. This means that faster **Normal Attacks** do not necessarily mean you will apply the element any faster.
 
-You can get around this restriction by swapping characters between attacks \(which resets ICD\), or using **Charged/Plunging Attacks**, which do not have an ICD.
+You can get around this restriction by swapping characters between attacks \(which resets ICD\), or using **Charged/Plunging Attacks**, which do not have an ICD.=
 {% endhint %}
+
+
 
 ### Geo Shields
 
@@ -66,6 +74,7 @@ These shields **block all damage** until the shield is destroyed.
 | ![](../.gitbook/assets/abyss-mage-pyro-.jpg)  | [Pyro Abyss Mage](../monsters/abyss-order/pyro-abyss-mage.md) | 12 |
 | ![](../.gitbook/assets/abyss-mage-hydro-.jpg)  | [Hydro Abyss Mage](../monsters/abyss-order/hydro-abyss-mage.md) | 12 |
 |  | [Cryo Abyss Mage](../monsters/abyss-order/cryo-abyss-mage.md) | 12 |
+|  | [Electro Abyss Mage](../monsters/abyss-order/electro-abyss-mage.md) |  |
 | ![](../.gitbook/assets/abyss-herald.jpg)  | [Abyss Herald](../monsters/abyss-order/abyss-herald.md) | 36 |
 | ![](../.gitbook/assets/abyss-lector.jpg)  | [Abyss Lector](../monsters/abyss-order/abyss-lector.md) | 36 |
 | ![](../.gitbook/assets/cicin-mage-electro-.jpg)  | [Electro Cicin Mage](../monsters/fatui/electro-cicin-mage.md) | 8 |
@@ -98,7 +107,8 @@ These shields **reduce damage** until the shield is destroyed.
 |  | Stonehide Lawachurl |  | None |
 | ![](../.gitbook/assets/frostarm_lawachurl.png)  | [Frostarm Lawachurl](../monsters/hilichurls/frostarm-lawachurl.md) | 30 | -80% DMG |
 | ![](../.gitbook/assets/whopperflower-pyro-.jpg)  | [Pyro Whopperflower](../monsters/animals/pyro-whopperflower.md) | 2 | None |
-|  | Cryo Whopperflower | 2 | None |
+| ![](../.gitbook/assets/whopperflower-cryo-.png)  | [Cryo Whopperflower](../monsters/animals/cryo-whopperflower.md) | 2 | None |
+|  | [Electro Whopperflower](../monsters/animals/electro-whopperflower.md) | 2 | None |
 
 {% hint style="warning" %}
 Note that **Fatui** shields do not obey the **Elemental Effectiveness** table. They will only take damage from elements that are **most effective** against their shield. All other elements have greatly reduced effectiveness.  

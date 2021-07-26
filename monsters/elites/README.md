@@ -1,2 +1,2 @@
-# Elites
+# World Bosses
 
