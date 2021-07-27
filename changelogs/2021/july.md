@@ -12,28 +12,30 @@
 * New monster guide for [Cryo Whopperflower](../../monsters/animals/cryo-whopperflower.md)
 * New monster guide for [Electro Whopperflower](../../monsters/animals/electro-whopperflower.md)
 * New monster guide for [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md)
+* New monster guide for [Maguu Kenki](../../monsters/elites/maguu-kenki.md)
 
 ## Full Changelogs
 
 | Date | Change | Author |
 | :--- | :--- | :--- |
-| July 1 | Updated blessings on landing page | AegisD |
+| 1st | Updated blessings on landing page | AegisD |
 |  | Adding Cryo Hypostasis page | Koshu/AegisD |
-| July 3 | Adding Ruin Hunter page | Hyper/AegisD |
-| July 6 | Adding Hydro Abyss Mage page | Syphex/AegisD |
-| July 7 | Adding Cryogunner Legionnaire page | Hyper/AegisD |
+| 3rd | Adding Ruin Hunter page | Hyper/AegisD |
+| 6th | Adding Hydro Abyss Mage page | Syphex/AegisD |
+| 7th | Adding Cryogunner Legionnaire page | Hyper/AegisD |
 |  | Adding some tips for shield strength | AegisD |
-| July 8 | Adding Hydrogunner Legionnaire page | Hyper/AegisD |
-| July 9 | Adding Pyro Abyss Mage page | Syphex/AegisD |
-| July 10 | Updating Pyro/Hydro Mage gifs to gfycat | AegisD |
+| 8th | Adding Hydrogunner Legionnaire page | Hyper/AegisD |
+| 9th | Adding Pyro Abyss Mage page | Syphex/AegisD |
+| 10th | Updating Pyro/Hydro Mage gifs to gfycat | AegisD |
 |  | Updaing Abyss Lector gifs | AegisD |
-| July 17 | Adding Shield page | Prad/AegisD |
+| 17th | Adding Shield page | Prad/AegisD |
 |  | Updating blessing | AegisD |
-| Jul 19 | Fixing some errors in shields | Prad |
+| 19th | Fixing some errors in shields | Prad |
 |  | Fixing up some things in FAQ | AegisD |
-| Jul 24 | Adding Cryo Whopperflower page | Yumi/AegisD |
+| 24th | Adding Cryo Whopperflower page | Yumi/AegisD |
 |  | Adding Electro Whopperflower page | Yumi/AegisD |
-| Jul 25 | Adding Thunderhelm Lawachurl page | Hyper/AegisD |
+| 25th | Adding Thunderhelm Lawachurl page | Hyper/AegisD |
+| 26th | Adding Maguu Kenki page | Ultikiller14/AegisD |
 
 
 

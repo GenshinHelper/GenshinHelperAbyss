@@ -60,6 +60,7 @@
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
+  * [Maguu Kenki](monsters/elites/maguu-kenki.md)
 
 ## Mechanics
 
@@ -85,6 +86,7 @@
 ## Changelogs
 
 * [2021](changelogs/2021/README.md)
+  * [August](changelogs/2021/august.md)
   * [July](changelogs/2021/july.md)
   * [June](changelogs/2021/june.md)
   * [May](changelogs/2021/may.md)
