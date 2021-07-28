@@ -13,6 +13,7 @@
 * New monster guide for [Electro Whopperflower](../../monsters/animals/electro-whopperflower.md)
 * New monster guide for [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md)
 * New monster guide for [Maguu Kenki](../../monsters/elites/maguu-kenki.md)
+* New monster guide for [Pyro Hypostasis](../../monsters/elites/pyro-hypostasis.md)
 
 ## Full Changelogs
 
@@ -36,6 +37,7 @@
 |  | Adding Electro Whopperflower page | Yumi/AegisD |
 | 25th | Adding Thunderhelm Lawachurl page | Hyper/AegisD |
 | 26th | Adding Maguu Kenki page | Ultikiller14/AegisD |
+| 28th | Adding Pyro Hypostasis page | Sonarchy/AegisD |
 
 
 

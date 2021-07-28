@@ -8,11 +8,13 @@
 
 **Weak Point** - None
 
-The **Cryo Hypostasis** is continually infused with ![](../../.gitbook/assets/cryo_small.png)when the vulnerable.
+The **Pyro Hypostasis** is continually infused with ![](../../.gitbook/assets/pyro_small.png)while **Extinguished**. It is only vulnerable to attacks during this state.
 
 ![](../../.gitbook/assets/hydro_small.png) **DMG** is the most effective against the **Pyro Hypostasis**, as you will always be able to trigger **Vaporize** on your attacks, giving **2x** on your attacks at a minimum.
 
 ![](../../.gitbook/assets/cryo_small.png) **DMG** is the also effective against the **Pyro Hypostasis**, as you will always be able to trigger **Melt** on your attacks, giving **1.5x** on your attacks at a minimum, however note that![](../../.gitbook/assets/cryo_small.png)**should not be used for shieldbreaking**.
+
+The **Pyro Hypostasis** is very dangerous while **Ignited**. Make sure you bring![](../../.gitbook/assets/hydro_small.png)to get the shield down as quickly as possible.
 
 ## Shield
 
@@ -32,13 +34,57 @@ The **Pyro Hypostasis** **shield** has **28U** of strength. This means it takes 
 
 ## Abilities \(Ignited\)
 
-### Dive
+### Flame Dive
 
-{% embed url="https://gfycat.com/glisteningdentalgnu" %}
+{% embed url="https://gfycat.com/glisteningdentalgnu" caption="Goes underground, and follows up with a leaping attack" %}
 
+### Cobra Strike
 
+{% embed url="https://gfycat.com/handmadegranularearwig" caption="Fires 3 volleys of fireballs at the player" %}
 
+### Ground Pound
 
+{% embed url="https://gfycat.com/illustriousonlycaterpillar" caption="After a brief delay, three explosive rings radiate out from the centre" %}
 
+### Rolling Attack
 
+{% embed url="https://gfycat.com/impeccabledependentbedbug" caption="Turns into a ball and rushes quickly towards the player" %}
+
+This attack is particularly hard to avoid. The best way is to dodge sideways or directly into the direction the ball is rolling.
+
+### EXPLOSION!
+
+{% embed url="https://gfycat.com/somberlastingkinkajou" caption="Charges up for a long time, after which it explodes for massive damage." %}
+
+Due to how long the charge time is, you should not simply wait out the attack. Continue attacking it during the charge time and try to break the shield, which will interrupt the attack.
+
+If it is about to explode, use a **Burst** to i-frame the explosion if necessary.
+
+## Abilities \(Extinguished\)
+
+### Pillars
+
+{% embed url="https://gfycat.com/inbornodditalianbrownbear" caption="Pillars shoot up from the ground" %}
+
+The pillars have a minimum range. Standing close to the **Pyro Hypostasis** can avoid this attack.
+
+### Missiles
+
+{% embed url="https://gfycat.com/shockingspecificboa" caption="Shoots homing missiles at the player" %}
+
+The cube can be damage while in the air if you have ranged attacks.
+
+### Tinders \(Reshield\)
+
+{% embed url="https://gfycat.com/tallantiqueblobfish" caption="Summons 3 Tinders, which recharge the shield unless destroyed" %}
+
+The **shield** needs a total of **6 charges** to fully recharge. The **Pyro Hypostasis** will gain **1 charge** from finishing this ability, and an additional **2 charges** for every **Tinder** that is not destroyed.
+
+Once the cube reaches 6 charges, it will **Reignite**
+
+{% embed url="https://gfycat.com/weirdmerryharvestmouse" %}
+
+{% hint style="info" %}
+Each **Tinder** has **2U** of strength. This means any ![](../../.gitbook/assets/hydro_small.png)ability will immediately destroy one. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring **1~2** applications, and![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **2~4** applications.
+{% endhint %}
 
