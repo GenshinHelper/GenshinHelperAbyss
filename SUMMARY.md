@@ -49,7 +49,7 @@
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
   * [Pyro Agent](monsters/fatui/pyro-agent.md)
-* [Untitled](monsters/untitled.md)
+* [Samurai](monsters/untitled.md)
 * [Hilichurls](monsters/hilichurls/README.md)
   * [Stonehide Lawachurl](monsters/hilichurls/stonehide-lawachurl.md)
   * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
@@ -60,6 +60,7 @@
   * [Ruin Grader](monsters/ruin-constructs/ruin-grader.md)
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
+  * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
 
 ## Mechanics
