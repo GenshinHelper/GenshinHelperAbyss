@@ -26,6 +26,8 @@ Prefer![](../../.gitbook/assets/cryo_small.png)to break the shield, as this will
 
 After the shield is broken, the **Abyss Mage** will be briefly stunned.
 
+See [Shields](../../mechanics/shields.md) for more information.
+
 {% hint style="info" %}
 The **Hydro Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **6~12** applications of![](../../.gitbook/assets/cryo_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **15 ticks** of **Electrocharged**, and![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are half as effective, requiring **12~24** applications.
 {% endhint %}
@@ -34,11 +36,11 @@ The **Hydro Abyss Mage** **shield** has **12U** of strength. This means it takes
 
 ### Basic Attack
 
-{% embed url="https://gfycat.com/completesnoopyjoey" caption="Fires a projectile at the player." %}
+{% embed url="https://gfycat.com/completesnoopyjoey" caption="Fires a projectile at the player" %}
 
 ### Bubble
 
-{% embed url="https://gfycat.com/colossalpreciouslangur" caption="" %}
+{% embed url="https://gfycat.com/colossalpreciouslangur" caption="Summons a bubble that will travel towards the player" %}
 
 The bubble will pop if hit by an attack.
 
@@ -50,7 +52,7 @@ The bubble will last about **5 seconds** before disappearing.
 
 ### Teleport
 
-{% embed url="https://gfycat.com/skinnylastinglemming" caption="Teleports close to the player." %}
+{% embed url="https://gfycat.com/skinnylastinglemming" caption="Teleports close to the player, dealing Hydro damage" %}
 
 Moving a distance away from the **Abyss Mage** will trigger this ability.
 
@@ -58,7 +60,7 @@ The **Abyss Mage** will appear where the player is facing. You can use this to r
 
 ### Dance
 
-{% embed url="https://gfycat.com/honestgaseousantarcticgiantpetrel" caption="Spawns bubbles in an AoE around the Abyss Mage." %}
+{% embed url="https://gfycat.com/honestgaseousantarcticgiantpetrel" caption="Spawns bubbles in an AoE around the Abyss Mage" %}
 
 The **Abyss Mage** will start this attack after some time being stunned.
 

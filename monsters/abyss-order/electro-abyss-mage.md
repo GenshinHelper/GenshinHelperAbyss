@@ -20,7 +20,47 @@ Prefer![](../../.gitbook/assets/cryo_small.png)attacks to break through the shie
 
 After the shield is broken, the **Abyss Mage** will be briefly stunned.
 
+See [Shields](../../mechanics/shields.md) for more information.
+
 {% hint style="info" %}
 The **Electro Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **3~6** applications of![](../../.gitbook/assets/cryo_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/pyro_small.png)is slightly less effectively, requiring about **6~12** applications, and![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **12~24** applications.
 {% endhint %}
+
+## Abilities
+
+### Basic Attack
+
+{% embed url="https://gfycat.com/fatnaturalchrysomelid" caption="Fires a projectile at the player" %}
+
+### Lightning Ring
+
+{% embed url="https://gfycat.com/immaterialmealyafricanfisheagle" caption="Creates an area that continually deals Electro damage" %}
+
+The AoE is fixed at a position and will not move with the **Abyss Mage**.
+
+The ring lasts about **4 seconds** before disappearing.
+
+### Teleport
+
+{% embed url="https://gfycat.com/wideeyedobedienteasternnewt" caption="Teleports close to the player, dealing Electro damage" %}
+
+Moving a distance away from the **Abyss Mage** will trigger this ability.
+
+The **Abyss Mage** will appear where the player is facing. You can use this to reposition them to your advantage.
+
+### Dance
+
+{% embed url="https://gfycat.com/healthyterrificcaterpillar" caption="Spawns waves of Electro orbs radiating out from the Abyss Mage" %}
+
+The **Abyss Mage** will start this attack after some time being stunned.
+
+You can interrupt this attack by stunning/staggering the **Abyss Mage** with certain attacks.
+
+### Shield
+
+{% embed url="https://gfycat.com/finishedshadyhuia" %}
+
+After about **8 seconds** of the **Dance** attack, the **Abyss Mage** will reshield.
+
+Make sure to stagger the **Abyss Mage** in some way if you see it using **Dance** to prevent this from happening.
 

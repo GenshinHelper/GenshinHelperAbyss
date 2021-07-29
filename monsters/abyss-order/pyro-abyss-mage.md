@@ -24,6 +24,8 @@ Prefer![](../../.gitbook/assets/hydro_small.png)attacks to break through the shi
 
 After the shield is broken, the **Abyss Mage** will be briefly stunned.
 
+See [Shields](../../mechanics/shields.md) for more information.
+
 {% hint style="info" %}
 The **Pyro Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **3~6** applications of![](../../.gitbook/assets/hydro_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **6~12** applications, and![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **12~24** applications.
 {% endhint %}
@@ -32,11 +34,11 @@ The **Pyro Abyss Mage** **shield** has **12U** of strength. This means it takes 
 
 ### Basic Attack
 
-{% embed url="https://gfycat.com/repentanttinyesok" caption="Fires a projectile at the player." %}
+{% embed url="https://gfycat.com/repentanttinyesok" caption="Fires a projectile at the player" %}
 
 ### Flame Turret
 
-{% embed url="https://gfycat.com/narrowvigilantastrangiacoral" caption="Summons three heads that shoot jets of flame, centered on the player." %}
+{% embed url="https://gfycat.com/narrowvigilantastrangiacoral" caption="Summons three heads that shoot jets of flame, centered on the player" %}
 
 Once cast, the skill does not move, making it easy to avoid by stepping out of the AoE.
 
@@ -44,7 +46,7 @@ The turrents will last about **5 seconds** before disappearing.
 
 ### Teleport
 
-{% embed url="https://gfycat.com/ultimatemetallicattwatersprairiechicken" caption="Teleports close to the player." %}
+{% embed url="https://gfycat.com/ultimatemetallicattwatersprairiechicken" caption="Teleports close to the player, dealing Pyro damage" %}
 
 Moving a distance away from the **Abyss Mage** will trigger this ability.
 
@@ -52,7 +54,7 @@ The **Abyss Mage** will appear where the player is facing. You can use this to r
 
 ### Dance
 
-{% embed url="https://gfycat.com/pinkquerulousjanenschia" caption="Creates jets of fire from the ground around the Abyss Mage." %}
+{% embed url="https://gfycat.com/pinkquerulousjanenschia" caption="Creates jets of fire from the ground around the Abyss Mage" %}
 
 The **Abyss Mage** will start this attack after some time being stunned.
 
