@@ -1,35 +1,37 @@
 ---
 description: Changelogs
 ---
-
 # June
-
 ## Major Updates
-
-* New mechanics guide on [Shields](../../mechanics/shields.md)
-* New monster guide for [Cryo Hypostasis](../../monsters/elites/cryo-hypostasis.md)
-* New monster guide for [Ruin Hunter](../../monsters/ruin-constructs/ruin-hunter.md)
-* New monster guide for [Pyro Abyss Mage](../../monsters/abyss-order/pyro-abyss-mage.md)
-* New monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
-* New monster guide for [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md)
-* New monster guide for [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md)
+* New monster guide for [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md)
+* New monster guide for [Pyro Whopperflower](../../monsters/animals/pyro-whopperflower.md)
+* Guide for new [Floor 9](../../floors/spire/floor-9.md)
+* Guide for new [Floor 10](../../floors/spire/floor-10.md)
+* Guide for new [Floor 11](../../floors/spire/floor-11.md)
+* Guide for new [Floor 12](../../floors/spire/floor-12.md)
+* Guide for new Aura [Elemental Blast](../../mechanics/auras/elemental-blast.md)
 
 ## Full Changelogs
 
 | Date | Change | Author |
 | :--- | :--- | :--- |
-| July 1 | Updated blessings on landing page | AegisD |
-|  | Adding Cryo Hypostasis page | Koshu/AegisD |
-| July 3 | Adding Ruin Hunter page | Hyper/AegisD |
-| July 6 | Adding Hydro Abyss Mage page | Syphex/AegisD |
-| July 7 | Adding Cryogunner Legionnaire page | Hyper/AegisD |
-|  | Adding some tips for shield strength | AegisD |
-| July 8 | Adding Hydrogunner Legionnaire page | Hyper/AegisD |
-| July 9 | Adding Pyro Abyss Mage page | Syphex/AegisD |
-| July 10 | Updating Pyro/Hydro Mage gifs to gfycat | AegisD |
-|  | Updaing Abyss Lector gifs | AegisD |
-| July 17 | Adding Shield page | Prad/AegisD |
-|  | Updating blessing | AegisD |
-| Jul 19 | Fixing some errors in shields | Prad |
-|  |  |  |
-
+| June 1 | Updated blessings on landing page | AegisD |
+|  | Adding Electrohammer page + tips | AegisD |
+|  | Adding Electrohammer videos | Hyper |
+| June 5 | Added Pyro Whopperflower page + tips | AegisD |
+|  | Adding Pyro Whopperflower videos | ChiliLion |
+| June 15th | Updating blessings | AegisD |
+|  | Adding placeholders for new F9-12 | AegisD |
+|  | Adding some mob infographics | AegisD |
+| June 16th | Adding images for F9 | AegisD |
+|  | Adding tips for F9 | Prad/AegisD |
+| June 17th | Adding images for F12-2 | AegisD |
+|  | Adding some tips for F12 | Koshu/AegisD |
+|  | Adding images for F10 | AegisD |
+|  | Adding tips for F10 | Hyper/AegisD |
+|  | Adding new buff cards | Hyper/Sonarchy |
+| June 18th | Adding images for F11 | AegisD |
+|  | Adding tips for F11 | ChiliLion/Donuts/ AegisD |
+| June 19th | Adding additional tips for F12 | Sonarchy/Syphex/Donuts |
+|  | Adding some video tips for F12 | Sonarchy |
+| June 27th | Adding Elemental Blast page | AegisD |
