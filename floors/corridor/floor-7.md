@@ -17,7 +17,7 @@ The floor has **very strict element requirements**. Each team must have the foll
 | :---: | :---: |
 | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png) ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)   |
 
-Since **Kaeya** is the only guaranteed **Cryo** character, you may not have access to one Cryo per team. If that is the case, but him on **Team 1** and make sure to focus the **Electrohammer first** when you get to **Chamber 3 Side 2**.
+Since **Kaeya** is the only guaranteed **Cryo** character, you may not have access to one Cryo per team. If that is the case, put him on **Team 1** and make sure to focus the **Electrohammer first** when you get to **Chamber 3 Side 2**.
 
 Each team also requires a way to break ![](../../.gitbook/assets/geo_small.png)shields. This can be specifically a **Geo** character, or a **Claymore** wielder. Note that you could skip doing this on **Team 1** by using **Overload** \( ![](../../.gitbook/assets/pyro_small.png)+![](../../.gitbook/assets/electro_small.png) \) to break shields, but this takes longer.
 

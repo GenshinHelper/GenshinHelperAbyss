@@ -8,11 +8,11 @@
 
 **Weak Point** - None
 
-The **Pyro Hypostasis** is continually infused with ![](../../.gitbook/assets/pyro_small.png)while **Extinguished**. It is only vulnerable to attacks during this state.
+The **Pyro Hypostasis** is continually infused with![](../../.gitbook/assets/pyro_small.png)while **Extinguished**. It is only vulnerable to attacks during this state.
 
 ![](../../.gitbook/assets/hydro_small.png) **DMG** is the most effective against the **Pyro Hypostasis**, as you will always be able to trigger **Vaporize** on your attacks, giving **2x** on your attacks at a minimum.
 
-![](../../.gitbook/assets/cryo_small.png) **DMG** is the also effective against the **Pyro Hypostasis**, as you will always be able to trigger **Melt** on your attacks, giving **1.5x** on your attacks at a minimum, however note that![](../../.gitbook/assets/cryo_small.png)**should not be used for shieldbreaking**.
+![](../../.gitbook/assets/cryo_small.png) **DMG** is also effective against the **Pyro Hypostasis**, as you will always be able to trigger **Melt** on your attacks, giving **1.5x** on your attacks at a minimum, however note that![](../../.gitbook/assets/cryo_small.png)**should not be used for shieldbreaking**.
 
 The **Pyro Hypostasis** is very dangerous while **Ignited**. Make sure you bring![](../../.gitbook/assets/hydro_small.png)to get the shield down as quickly as possible.
 
@@ -50,7 +50,7 @@ The **Pyro Hypostasis** **shield** has **28U** of strength. This means it takes 
 
 {% embed url="https://gfycat.com/impeccabledependentbedbug" caption="Turns into a ball and rushes quickly towards the player" %}
 
-This attack is particularly hard to avoid. The best way is to dodge sideways or directly into the direction the ball is rolling.
+Dodging sideways is the most effective way to avoid it.
 
 ### EXPLOSION!
 

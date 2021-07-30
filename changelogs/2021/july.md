@@ -42,6 +42,7 @@
 | 28th | Adding Pyro Hypostasis page | Sonarchy/AegisD |
 | 29th | Adding Electro Abyss Mage page | Syphex/AegisD |
 | 30th | Adding Mirror Maiden page | Donuts/AegisD |
+|  | Fixing typos and inconsistencies | Koshu |
 
 
 

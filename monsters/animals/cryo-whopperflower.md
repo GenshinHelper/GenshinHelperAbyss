@@ -19,7 +19,7 @@ Using **environmental damage** from certain ![](../../.gitbook/assets/anemo_smal
 
 If there are other enemies, it can often be better to focus those first and ignore the **Whopperflowers** until they **shield**, as they have higher resistances until stunned. They will also **Burrow** towards you frequently, so will often group up by themselves.
 
-Beware of abilities apply![](../../.gitbook/assets/hydro_small.png)to your character \(e.g. **Barbara**\). This will cause you to get **Frozen** when hit by any of the **Cryo Whopperflower's** attacks.
+Be careful with abilities that apply![](../../.gitbook/assets/hydro_small.png)to your character \(e.g. **Barbara**\). This will cause you to get **Frozen** when hit by any of the **Cryo Whopperflower's** attacks.
 
 ## Abilities
 

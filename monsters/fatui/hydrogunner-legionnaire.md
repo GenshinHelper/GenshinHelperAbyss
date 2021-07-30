@@ -15,7 +15,7 @@
 
 Unless you are able to take him down before he is able to shield, always bring![](../../.gitbook/assets/electro_small.png) against the **Hydrogunner**. He is extremely resistant to all damage while shielded. Trying to defeat it while the shield is up will lose a lot of time.
 
-Since he can heal allies, you should prioritize the **Hydrogunner** in most chambers. The **Shield** is also particularly tough to get down compared to other Fatui. Bursting him down before he is able to shield can save a lot of time.
+Since he can heal allies, you should prioritize the **Hydrogunner** if he is present. The **Shield** is also particularly tough to get down compared to other Fatui. Bursting him down before he is able to shield can save a lot of time.
 
 ## Shield
 
@@ -26,6 +26,10 @@ While shielded, the **Hydrogunner Legionnaire** gains **+100% RES** to all types
 ![](../../.gitbook/assets/cryo_small.png)is ineffective at breaking the shield, but can **Freeze** the **Hydrogunner.**
 
 ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)will also damage the shield, but are **very ineffective**
+
+{% hint style="info" %}
+The **Hydrogunner Legionnaire shield** has **4U** of strength. This means it takes about **5 ticks** of **Electrocharged** via![](../../.gitbook/assets/electro_small.png)to break the shield.
+{% endhint %}
 
 ## Abilities
 
