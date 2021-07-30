@@ -15,6 +15,7 @@
 * New monster guide for [Maguu Kenki](../../monsters/elites/maguu-kenki.md)
 * New monster guide for [Pyro Hypostasis](../../monsters/elites/pyro-hypostasis.md)
 * New monster guide for [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)
+* New monster guide for [Mirror Maiden](../../monsters/fatui/mirror-maiden.md)
 
 ## Full Changelogs
 
@@ -40,6 +41,7 @@
 | 26th | Adding Maguu Kenki page | Ultikiller14/AegisD |
 | 28th | Adding Pyro Hypostasis page | Sonarchy/AegisD |
 | 29th | Adding Electro Abyss Mage page | Syphex/AegisD |
+| 30th | Adding Mirror Maiden page | Donuts/AegisD |
 
 
 

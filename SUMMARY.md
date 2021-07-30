@@ -48,6 +48,7 @@
   * [Hydrogunner Legionnaire](monsters/fatui/hydrogunner-legionnaire.md)
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
+  * [Mirror Maiden](monsters/fatui/mirror-maiden.md)
   * [Pyro Agent](monsters/fatui/pyro-agent.md)
 * [Samurai](monsters/untitled.md)
 * [Hilichurls](monsters/hilichurls/README.md)
@@ -102,13 +103,11 @@
 
 ## Archive
 
----
-
-* [Previous Floors](previous-floors/README.md)
-  * [Floor 9 \(v1.2 - v1.5\)](previous-floors/floor-9-v15.md)
-  * [Floor 10 \(v1.2 - v1.5\)](previous-floors/floor-10-v15.md)
-  * [Floor 11 \(v1.4 - v1.5\)](previous-floors/floor-11-v15.md)
-  * [Floor 12 \(v1.4 - v1.5\)](previous-floors/floor-12-v15.md)
-  * [Floor 11 \(v1.2 - 1.4\)](previous-floors/floor-11-v14.md)
-  * [Floor 12 \(v1.3 - 1.4\)](previous-floors/floor-12-v14.md)
+* [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 9 \(v1.2 - v1.5\)](archive/previous-floors/floor-9-v15.md)
+  * [Floor 10 \(v1.2 - v1.5\)](archive/previous-floors/floor-10-v15.md)
+  * [Floor 11 \(v1.4 - v1.5\)](archive/previous-floors/floor-11-v15.md)
+  * [Floor 12 \(v1.4 - v1.5\)](archive/previous-floors/floor-12-v15.md)
+  * [Floor 11 \(v1.2 - 1.4\)](archive/previous-floors/floor-11-v14.md)
+  * [Floor 12 \(v1.3 - 1.4\)](archive/previous-floors/floor-12-v14.md)
 

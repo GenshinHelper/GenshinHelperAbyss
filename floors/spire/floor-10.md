@@ -77,7 +77,7 @@ Once the **Hydro Samachurl** spawns, make sure to focus it down immediately or i
 
 ### Side 2
 
-![](../../.gitbook/assets/10-2-2%20%282%29.png)
+![](../../.gitbook/assets/10-2-2%20%282%29%20%281%29.png)
 
 | Monster | HP |
 | :--- | :--- |

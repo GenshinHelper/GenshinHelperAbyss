@@ -1,8 +1,11 @@
 ---
 description: Changelogs
 ---
+
 # June
+
 ## Major Updates
+
 * New monster guide for [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md)
 * New monster guide for [Pyro Whopperflower](../../monsters/animals/pyro-whopperflower.md)
 * Guide for new [Floor 9](../../floors/spire/floor-9.md)
@@ -35,3 +38,4 @@ description: Changelogs
 | June 19th | Adding additional tips for F12 | Sonarchy/Syphex/Donuts |
 |  | Adding some video tips for F12 | Sonarchy |
 | June 27th | Adding Elemental Blast page | AegisD |
+
