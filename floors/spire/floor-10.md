@@ -30,7 +30,15 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 
 ### Side 1
 
+![](../../.gitbook/assets/10-1-1v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md) |  |
+
 ### Side 2
+
+![](../../.gitbook/assets/10-1-2v20.png)
 
 ## Chamber 2
 
@@ -38,7 +46,24 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 
 ### Side 1
 
+![](../../.gitbook/assets/10-2-1v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Pyro Agent](../../monsters/fatui/pyro-agent.md) |  |
+| [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |  |
+| [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md) |  |
+
 ### Side 2
+
+![](../../.gitbook/assets/10-2-2v20.png)
+
+
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |  |
+| [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md) |  |
 
 ## Chamber 3
 
@@ -46,5 +71,17 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 
 ### Side 1
 
+![](../../.gitbook/assets/10-3-1v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Abyss Lector](../../monsters/abyss-order/abyss-lector.md) |  |
+
 ### Side 2
+
+![](../../.gitbook/assets/10-3-2v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Abyss Herald](../../monsters/abyss-order/abyss-herald.md) |  |
 

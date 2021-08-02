@@ -13,6 +13,7 @@
 |  | Updating page links to new F9-12 pages | AegisD |
 |  | Adding Kairagi Page | Syphex/AegisD |
 |  | Adding F9 Mob info | AegisD |
+| 2nd | Adding F10 Mob info | AegisD |
 
 
 
