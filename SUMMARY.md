@@ -15,10 +15,6 @@
   * [Floor 7](floors/corridor/floor-7.md)
   * [Floor 8](floors/corridor/floor-8.md)
 * [Abyssal Moon Spire \(F9-12\)](floors/spire/README.md)
-  * [Floor 9 \(v1.6\)](floors/spire/floor-9-v16.md)
-  * [Floor 10 \(v1.6\)](floors/spire/floor-10-v16.md)
-  * [Floor 11 \(v1.6\)](floors/spire/floor-11-v16.md)
-  * [Floor 12 \(v1.6\)](floors/spire/floor-12-v16.md)
   * [Floor 9](floors/spire/floor-9.md)
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
@@ -109,6 +105,10 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 9 \(v1.6\)](archive/previous-floors/floor-9-v16.md)
+  * [Floor 10 \(v1.6\)](archive/previous-floors/floor-10-v16.md)
+  * [Floor 11 \(v1.6\)](archive/previous-floors/floor-11-v16.md)
+  * [Floor 12 \(v1.6\)](archive/previous-floors/floor-12-v16.md)
   * [Floor 9 \(v1.2 - v1.5\)](archive/previous-floors/floor-9-v15.md)
   * [Floor 10 \(v1.2 - v1.5\)](archive/previous-floors/floor-10-v15.md)
   * [Floor 11 \(v1.4 - v1.5\)](archive/previous-floors/floor-11-v15.md)

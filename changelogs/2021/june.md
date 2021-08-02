@@ -8,10 +8,10 @@ description: Changelogs
 
 * New monster guide for [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md)
 * New monster guide for [Pyro Whopperflower](../../monsters/animals/pyro-whopperflower.md)
-* Guide for new [Floor 9](../../floors/spire/floor-9-v16.md)
-* Guide for new [Floor 10](../../floors/spire/floor-10-v16.md)
-* Guide for new [Floor 11](../../floors/spire/floor-11-v16.md)
-* Guide for new [Floor 12](../../floors/spire/floor-12-v16.md)
+* Guide for new [Floor 9](../../archive/previous-floors/floor-9-v16.md)
+* Guide for new [Floor 10](../../archive/previous-floors/floor-10-v16.md)
+* Guide for new [Floor 11](../../archive/previous-floors/floor-11-v16.md)
+* Guide for new [Floor 12](../../archive/previous-floors/floor-12-v16.md)
 * Guide for new Aura [Elemental Blast](../../mechanics/auras/elemental-blast.md)
 
 ## Full Changelogs

@@ -30,7 +30,16 @@ The area covered by the field will gradually expand as the challenge proceeds.
 
 ### Side 1
 
+![](../../.gitbook/assets/9-1-1v20.png)
+
 ### Side 2
+
+![](../../.gitbook/assets/9-1-2v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md) |  |
+| [Mist Bubble](../../mechanics/auras/mist-bubble.md) | ?? DMG |
 
 ## Chamber 2
 
@@ -38,7 +47,19 @@ The area covered by the field will gradually expand as the challenge proceeds.
 
 ### Side 1
 
+![](../../.gitbook/assets/9-2-1v20.png)
+
+
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md) |  |
+| [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |  |
+| [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md) |  |
+
 ### Side 2
+
+![](../../.gitbook/assets/9-2-2v20.png)
 
 ## Chamber 3
 
@@ -46,5 +67,18 @@ The area covered by the field will gradually expand as the challenge proceeds.
 
 ### Side 1
 
+![](../../.gitbook/assets/9-3-1v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md) |  |
+
 ### Side 2
+
+![](../../.gitbook/assets/9-3-2v20.png)
+
+| **In Depth Guide** | Other Info |
+| :--- | :--- |
+| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |  |
+| [Pyro Agent](../../monsters/fatui/pyro-agent.md) |  |
 
