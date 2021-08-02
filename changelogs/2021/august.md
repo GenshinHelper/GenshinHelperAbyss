@@ -2,7 +2,8 @@
 
 ## Major Updates
 
-
+* Adding new monster guide for [Kairagi](../../monsters/untitled/kairagi.md)
+* Adding [Floor 9](../../floors/spire/floor-9.md) for v2.0
 
 ## Full Changelogs
 
