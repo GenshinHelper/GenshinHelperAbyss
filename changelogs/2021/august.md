@@ -20,6 +20,7 @@
 |  | Adding F11 Mob Info | AegisD |
 |  | Adding monster page icons | AegisD |
 |  | Adding F12 Mob Info | AegisD |
+| 3rd | Adding Tips for F12 | Prad/Sonarchy/Syphex/Donuts |
 
 
 
