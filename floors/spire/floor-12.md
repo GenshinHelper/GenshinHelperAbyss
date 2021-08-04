@@ -1,9 +1,5 @@
 # Floor 12
 
-{% hint style="info" %}
-page is under construction! Check back shortly!
-{% endhint %}
-
 ## Divergence
 
 **Energy Tides** are present in this challenge. They will switch between **Elemental High Tide** and **Elemental Low Tide** in **10s cycles**.
@@ -73,6 +69,8 @@ After using **Heal**, the **Kairagi** will be immune to **Freeze** and **Petrify
 | [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | ~650K HP |
 
 After defeating the **Pyro Agents**, focus the **Mirror Maiden**. She has more HP, and the **Electro Cicin Mage** will naturally teleport to you.
+
+Try to avoid the **Mirror Maiden's Water Wheel** attack. This will apply a buff to the **Mirror Maiden** that will make them immune to being staggered and affected by CC, making them much harder to deal with.
 
 | **Highly Recommended** |
 | :---: |

@@ -12,7 +12,7 @@
 
 **Weak Point** - Face
 
-The **Water Wheel** attack will apply **Refracted** to the player, which empowers the **Mirror Maiden** attacks. It is important to avoid getting hit by this.
+The **Water Wheel** attack will apply **Refracted** to the player, which causes the **Mirror Maiden** to **Polarize**, which both buffs her attacks and also makes her immune to CC. It is important to avoid getting hit by this.
 
 The **Mirror Maiden** will frequently use **Mirror Walk** to escape attacks, making them annoying. Using **Crowd Control** effects like ![](../../.gitbook/assets/anemo_small.png) or **Freeze** is the best way to keep them in place.
 

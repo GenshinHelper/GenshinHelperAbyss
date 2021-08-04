@@ -4,7 +4,7 @@
 
 | Contributor | Contact |
 | :--- | :--- |
-| AegisD | AegisD\#2280 |
+| Blep | AegisD\#2280 |
 | Dandi |  |
 | Dupah |  |
 | Twofu |  |
