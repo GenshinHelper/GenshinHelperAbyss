@@ -1,9 +1,5 @@
 # Floor 10
 
-{% hint style="info" %}
-page is under construction! Check back shortly!
-{% endhint %}
-
 ## Divergence
 
 There will be a **Leader** amongst the opponents present in each challenge on this floor. Its **Attendants** will also be present to provide it with enhancements and protection. 
@@ -14,15 +10,17 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 
 ## General Tips
 
+Focus on the **Attendants** first. Enemies can be fairly spread out so characters with **CC** and/or **AoE Damage** are highly preferred.
+
 ## Team Recommendations
 
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
-| **Shieldbreakers** |  |  |
+| **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) |
 | **Preferred Damage** |  |  |
-| **Avoid Damage** |  |  |
-| **4**★ **Supports** |  |  |
-| **5**★ **Supports** |  |  |
+| **Avoid Damage** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/electro_small.png) |
+| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) |
+| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) | ![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
 
 ## Chamber 1
 
@@ -36,9 +34,17 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 | :--- | :--- |
 | [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md) |  |
 
+The **Archers** are spread out at the start of the first wave. Clear them out one at a time.
+
+In the second wave, target the **Hydro Samachurl** first, as they can heal allies. The **Dendro Samachurl** should often go next since their abilities are annoying.
+
 ### Side 2
 
 ![](../../.gitbook/assets/10-1-2v20.png)
+
+The **Archers** are spread out at the start. Try and group them with an ![](../../.gitbook/assets/anemo_small.png)ability.
+
+While attacking the **Archers**, watch for the indicators on the ground for the **Stonehide Lawachurl's** attacks, and dodge accordingly.
 
 ## Chamber 2
 
@@ -54,16 +60,18 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 | [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |  |
 | [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md) |  |
 
+Focus the **Hydrogunner** first as he will heal his allies. After that, deal with the **Attendants** as normal.
+
 ### Side 2
 
 ![](../../.gitbook/assets/10-2-2v20.png)
-
-
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 | [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |  |
 | [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md) |  |
+
+Having an​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983&alt=media)character on this side helps greatly, as their CC skills can pick up all enemies other than the **Electrohammer**.
 
 ## Chamber 3
 
@@ -77,6 +85,8 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 | :--- | :--- |
 | [Abyss Lector](../../monsters/abyss-order/abyss-lector.md) |  |
 
+Fcous the **Hydro Samachurl** first, followed by the **Anemo Samachurl**.
+
 ### Side 2
 
 ![](../../.gitbook/assets/10-3-2v20.png)
@@ -84,4 +94,6 @@ When there are no Attendants, the Leader will not have any of the above enhancem
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 | [Abyss Herald](../../monsters/abyss-order/abyss-herald.md) |  |
+
+It is highly recommended to bring one or more![](../../.gitbook/assets/cryo_small.png)for the **Abyss Herald's** shield phase.
 

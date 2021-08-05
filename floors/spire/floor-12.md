@@ -94,9 +94,11 @@ Try to avoid the **Mirror Maiden's Water Wheel** attack. This will apply a buff 
 | [Lightning Stake](../../mechanics/auras/lightning-stake.md) | ?? DMG |
 | [Mist Bubble](../../mechanics/auras/mist-bubble.md) | ?? DMG |
 
-Run for the **Mitachurl** behind you and let the other one come to you. That's where the **Thunderhelm Lawachurl** will spawn, and you want to kill the first wave close to there so you can start attacking it right away.
+Run for the **Mitachurl** in front of you \(![](../../.gitbook/assets/pyro_small.png)aura\) and let the other one come to you. Try to finish both **Mitachurls** close to there as the **Thunderhelm Lawachurl** will spawn in that location.
 
-Try to make sure you clear this side quickly so you can have more time for **Side 2**.
+When going for 3★, focus the **Thunderhelm Lawachurl** and try to kill the **Hydro Abyss Mage** with **AoE DMG**. However, if you have issues with the **Mist Bubble** aura, then focus the **Abyss Mage** first to stop it from spawning.
+
+Clear this side quickly so you can have more time for **Side 2**.
 
 ### Side 2
 

@@ -22,6 +22,7 @@
 |  | Adding F12 Mob Info | AegisD |
 | 3rd | Adding Tips for F12 | Prad/Sonarchy/Syphex/Donuts |
 | 4th | Adding Tips for F11 | ChiliLion/Aias/AegisD |
+| 5th | Adding Tips for F10 | Hypder/Aias/AegisD |
 
 
 
