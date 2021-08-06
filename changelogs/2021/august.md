@@ -7,6 +7,8 @@
 * Adding [Floor 10](../../floors/spire/floor-10.md) for v2.0
 * Adding [Floor 11](../../floors/spire/floor-11.md) for v2.0
 * Adding [Floor 12](../../floors/spire/floor-12.md) for v2.0
+* Adding new monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
+* Adding new monster guide for [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)
 
 ## Full Changelogs
 
@@ -24,6 +26,8 @@
 | 4th | Adding Tips for F11 | ChiliLion/Aias/AegisD |
 | 5th | Adding Tips for F10 | Hypder/Aias/AegisD |
 |  | Adding Tips for F9 | Sonarchy/Aias/AegisD |
+| 6th | Adding Hydro Samachurl | Hyper/AegisD |
+|  | Adding Electro Samachurl | Yumi/AegisD |
 
 
 

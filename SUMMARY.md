@@ -53,6 +53,8 @@
 * [Samurai](monsters/untitled/README.md)
   * [Kairagi](monsters/untitled/kairagi.md)
 * [Hilichurls](monsters/hilichurls/README.md)
+  * [Hydro Samachurl](monsters/hilichurls/hydro-samachurl.md)
+  * [Electro Samachurl](monsters/hilichurls/electro-samachurl.md)
   * [Stonehide Lawachurl](monsters/hilichurls/stonehide-lawachurl.md)
   * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
   * [Thunderhelm Lawachurl](monsters/hilichurls/thunderhelm-lawachurl.md)
