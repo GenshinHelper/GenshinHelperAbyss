@@ -12,7 +12,7 @@
 
 **Weak Point** - None
 
-The **Pyro Hypostasis** is continually infused with![](../../.gitbook/assets/pyro_small.png)while **Extinguished**. It is only vulnerable to attacks during this state.
+While it is **Extinguished**, the **Pyro Hypostasis** will be infused with![](../../.gitbook/assets/pyro_small.png)during and after some attacks. It is only vulnerable to attacks while infused with![](../../.gitbook/assets/pyro_small.png).
 
 ![](../../.gitbook/assets/hydro_small.png) **DMG** is the most effective against the **Pyro Hypostasis**, as you will always be able to trigger **Vaporize** on your attacks, giving **2x** on your attacks at a minimum.
 
@@ -40,7 +40,7 @@ The **Pyro Hypostasis** **shield** has **28U** of strength. This means it takes 
 
 ### Flame Dive
 
-{% embed url="https://gfycat.com/glisteningdentalgnu" caption="Goes underground, and follows up with a leaping attack" %}
+{% embed url="https://gfycat.com/glisteningdentalgnu" caption="Goes underground, follows up with a leaping attack, followed by an explosion" %}
 
 ### Cobra Strike
 
@@ -72,11 +72,15 @@ If it is about to explode, use a **Burst** to i-frame the explosion if necessary
 
 The pillars have a minimum range. Standing close to the **Pyro Hypostasis** can avoid this attack.
 
+The **Hypostasis** is vulnerable for the duration of the attack.
+
+After this attack, the **Hypostasis** will use **Tinders**.
+
 ### Missiles
 
 {% embed url="https://gfycat.com/shockingspecificboa" caption="Shoots homing missiles at the player" %}
 
-The cube can be damage while in the air if you have ranged attacks.
+The **Hypostasis** can be damaged while in the air if you have ranged attacks.
 
 ### Tinders \(Reshield\)
 
