@@ -17,7 +17,7 @@ For more detailed info, check out the guide below:
 
 ### What level should my characters be?
 
-Always focus on levelling your **Main carry/DPS** first. The characters and their weapons should be **maxed out for your WL**. If your main carry is more than 10 levels below the mobs on the floor, it may be challenging to beat it.
+Always focus on leveling your **Main carry/DPS** first. The characters and their weapons should be **maxed out for your WL**. If your main carry is more than 10 levels below the mobs on the floor, it may be challenging to beat it.
 
 **Support** characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their **60/70 ascension** \(meaning ascending from lvl 60, but not levelling them to 70\). This unlocks their last passive talent.
 

@@ -169,7 +169,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 * This core is centered around the **Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
 
-### Ganyu + Hydro
+### Ganyu/Ayaka + Hydro
 
 **Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/hydro_small.png)
 
@@ -177,9 +177,9 @@ These supports boost the damage of your core unit in some way, either by:
 | :---: | :---: | :---: |
 | ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  |
 
-* This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** to deal damage to **frozen** enemies.
+* This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** or **Ayaka's Attacks** to deal damage to **frozen** enemies.
 * You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
-* **Xingqiu** can work, but is not ideal for this as you have to weave in regular attacks in between charged attacks.
+* **Xingqiu** can work for Ayaka but is not as ideal with Ganyu as it is hard to weave normal attacks into a charge attack sequence.
 
 ### Kaeya/Rosaria + Chongyun
 

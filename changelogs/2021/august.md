@@ -28,6 +28,7 @@
 |  | Adding Tips for F9 | Sonarchy/Aias/AegisD |
 | 6th | Adding Hydro Samachurl | Hyper/AegisD |
 |  | Adding Electro Samachurl | Yumi/AegisD |
+| 12th | Added Feedback/Suggestion Form | Prad |
 
 
 
