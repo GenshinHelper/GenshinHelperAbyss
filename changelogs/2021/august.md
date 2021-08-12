@@ -29,6 +29,7 @@
 | 6th | Adding Hydro Samachurl | Hyper/AegisD |
 |  | Adding Electro Samachurl | Yumi/AegisD |
 | 12th | Added Feedback/Suggestion Form | Prad |
+|  | Added Ayaka to Build Compositions | Prad |
 
 
 
