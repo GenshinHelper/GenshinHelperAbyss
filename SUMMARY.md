@@ -107,6 +107,7 @@
 * [About Us](about-us.md)
 * [Credits](credits.md)
 * [Resources](resources.md)
+* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdnLSeAA72X_3wN0wzVfXKqzUSo1p57xz63JuTwqf7ZBY7cCg/viewform?usp=sf_link)
 
 ## Archive
 
