@@ -24,12 +24,14 @@
 |  | Adding F12 Mob Info | AegisD |
 | 3rd | Adding Tips for F12 | Prad/Sonarchy/Syphex/Donuts |
 | 4th | Adding Tips for F11 | ChiliLion/Aias/AegisD |
-| 5th | Adding Tips for F10 | Hypder/Aias/AegisD |
+| 5th | Adding Tips for F10 | Hyper/Aias/AegisD |
 |  | Adding Tips for F9 | Sonarchy/Aias/AegisD |
 | 6th | Adding Hydro Samachurl | Hyper/AegisD |
 |  | Adding Electro Samachurl | Yumi/AegisD |
 | 12th | Added Feedback/Suggestion Form | Prad |
 |  | Added Ayaka to Build Compositions | Prad |
+| 13th | Added Yoimiya to Build Compositions | Prad |
+|  | Added Monopyro Build Compositions | Prad |
 
 
 
