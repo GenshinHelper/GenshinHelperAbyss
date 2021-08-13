@@ -32,7 +32,7 @@
 |  | Adding Ayaka/Yoimiya Build Compositions | Prad |
 | 13th | Added Monopyro to Build Compositions | Prad |
 |  | Updating Build Compositions' Supports | Prad |
-|  |  |  |
+|  | Added Build Composition's FAQ | Prad |
 |  |  |  |
 
 
