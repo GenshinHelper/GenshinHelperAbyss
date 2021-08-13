@@ -29,9 +29,11 @@
 | 6th | Adding Hydro Samachurl | Hyper/AegisD |
 |  | Adding Electro Samachurl | Yumi/AegisD |
 | 12th | Added Feedback/Suggestion Form | Prad |
-|  | Added Ayaka to Build Compositions | Prad |
-| 13th | Added Yoimiya to Build Compositions | Prad |
-|  | Added Monopyro Build Compositions | Prad |
+|  | Adding Ayaka/Yoimiya Build Compositions | Prad |
+| 13th | Added Monopyro to Build Compositions | Prad |
+|  | Updating Build Compositions' Supports | Prad |
+|  |  |  |
+|  |  |  |
 
 
 
