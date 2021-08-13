@@ -110,7 +110,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_hutao.png)![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_yanfei.png) | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
+| ![](../.gitbook/assets/ui_avataricon_hutao.png)![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_yanfei.png)![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
 
 * This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
 
@@ -167,7 +167,7 @@ These supports boost the damage of your core unit in some way, either by:
 | :---: | :---: |
 | ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_xiangling.png)  |
 
-* This core is centered around the **Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
+* This core is centered around the **Reverse Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
 
 ### Ganyu/Ayaka + Hydro
 
@@ -175,11 +175,11 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  |
+| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../.gitbook/assets/image-5-.jpg)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_diona.jpg)  |
 
 * This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** or **Ayaka's Attacks** to deal damage to **frozen** enemies.
 * You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
-* **Xingqiu** can work for Ayaka but is not as ideal with Ganyu as it is hard to weave normal attacks into a charge attack sequence.
+* **Xingqiu** can work for Ayaka but is not as ideal with Ganyu as it is hard to weave normal attacks into a charge attack sequence. In the same way, Mona is not as effective for hydro application if you are doing a lot of normal attacks with Ayaka.
 
 ### Kaeya/Rosaria + Chongyun
 
