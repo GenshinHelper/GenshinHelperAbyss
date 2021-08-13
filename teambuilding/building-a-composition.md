@@ -103,16 +103,59 @@ These supports boost the damage of your core unit in some way, either by:
 
 * This core is centered around the **Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Chongyun's Elemental Skill** to have **Bennett's** attacks apply ****![](../.gitbook/assets/cryo_small.png) to an enemy before hitting it with **Bennett's Elemental Skill/Burst.**
 * Even without a dedicated support build, **Bennett's Elemental Burst** should be enough healing to cover this team. You should not need a second healer.
+* _Note: This comp no longer becomes functional with Bennett's C6._
 
 ### Pyro DPS + Hydro
 
 **Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
 
+<table>
+  <thead>
+    <tr>
+      <th style="text-align:center">DPS</th>
+      <th style="text-align:center">Best Supports</th>
+      <th style="text-align:center">Other Supports</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="text-align:center">
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_hutao.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_diluc.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_klee.png" alt/>
+        </p>
+        <p>
+          <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_yoimiya.jpg" alt/>
+        </p>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/ui_avataricon_xingqiu.png" alt/>
+      </td>
+      <td style="text-align:center">
+        <img src="../.gitbook/assets/ui_avataricon_mona.png" alt/>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
+* This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction which multiplies Pyro Damage by 1.5. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
+* **Xingqui works better with Normal Attack focused carries** while Mona works better with Burst focused carries.
+
+### Mono-Pyro
+
+**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png)
+
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_hutao.png)![](../.gitbook/assets/ui_avataricon_diluc.png) ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_yanfei.png)![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  |
+| ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/image%20%289%29.png) ![](../.gitbook/assets/image%20%288%29.png)![](../.gitbook/assets/ui_avataricon_kazuha.jpg)  | ![](../.gitbook/assets/image%20%285%29.png)  |
 
-* This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
+* This core around **Pure Pyro Damage and Swirl Amplification** \(![](../.gitbook/assets/pyro_small.png)+ ****![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983&alt=media)\). Apply ![](../.gitbook/assets/pyro_small.png)to enemies and swirl those attacks to proc **Viridescent Venerer's 4pc.**
+* Strength in this team comes especially from **Bennett's C6 and Xiangling's C6** \(as well as Sucrose's C6 if you are using her\) as these all buff Pyro damage even further. 
+* Monopyro beats Vaporize with **Main DPS characters who cannot efficiently proc Vaporize**.
+* Using multiple Pyro characters allows **Supports to be built on damage over ER**.
 
 ### Childe + Xiangling
 
@@ -163,11 +206,13 @@ These supports boost the damage of your core unit in some way, either by:
 
 **Primary Damage Type -** ![](../.gitbook/assets/cryo_small.png) ![](../.gitbook/assets/pyro_small.png)
 
-| DPS | Support |
-| :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_xiangling.png)  |
+| DPS | Main Support | Other Supports |
+| :---: | :---: | :---: |
+| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../.gitbook/assets/ui_avataricon_kazuha.jpg) ![](../.gitbook/assets/ui_avataricon_zhongli%20%281%29.png)  |
 
 * This core is centered around the **Reverse Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
+* **Kazuha** works as well to buff both the Cryo and Pyro Damage Components.
+* **Zhongli** or other shielders help keep Ganyu alive while doing charge shots.
 
 ### Ganyu/Ayaka + Hydro
 
@@ -225,7 +270,21 @@ These supports boost the damage of your core unit in some way, either by:
 
 * This core works by combining the high damage scaling of both **Jean** and **Venti's Elemental Skills/Bursts**, the **cooldown reduction** from ![](../.gitbook/assets/anemo_small.png)**resonance**, and general high **energy generation** to continually output damage with their talents.
 
+### 
 
+### 
+
+### FAQs
+
+**Is there a "best" team composition?** 
+
+As stated at the beginning, the characters who work best depend largely on the enemies you are facing. One composition does not work in every situation. It also depends on who you have available in your roster and how well they are built. With that said, melt and vaporize teams generally deal more DPS. Freeze and Physical Comps allow much greater consistency and control.
+
+**I followed this guide but my teams are still not good enough. Why is that the case?**
+
+Most likely, you are either lacking DPS or have not optimized your rotations. See:
+
+[https://genshinhelper.gitbook.io/abyss/teambuilding/character-investment](https://genshinhelper.gitbook.io/abyss/teambuilding/character-investment)
 
 
 
