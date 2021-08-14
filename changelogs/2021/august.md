@@ -10,6 +10,8 @@
 * Adding new monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
 * Adding new monster guide for [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)
 * Adding new monster guide for [Nobushi](../../monsters/untitled/nobushi.md)
+* Adding new monster guide for [Ruin Cruiser](../../monsters/ruin-constructs/ruin-cruiser.md)
+* Adding new monster guide for [Ruin Defender](../../monsters/ruin-constructs/ruin-defender.md)
 
 ## Full Changelogs
 
@@ -36,6 +38,7 @@
 |  | Added Build Composition's FAQ | Prad |
 |  | Adding Nobushi pages | Kicc/AegisD |
 | 14th | Adding Ruin Cruiser | Miko/AegisD |
+|  | Adding Ruin Defender | Miko/AegisD |
 
 
 
