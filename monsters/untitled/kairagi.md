@@ -1,8 +1,8 @@
 # Kairagi
 
-![](../../.gitbook/assets/kairagi-pyro-.png)
+![Fiery Might](../../.gitbook/assets/kairagi-pyro-.png)
 
-![](../../.gitbook/assets/kairagi-electro-.png)
+![Dancing Thunder](../../.gitbook/assets/kairagi-electro-.png)
 
 ## Resistances
 
@@ -14,7 +14,9 @@
 
 **Weak Point** - Face
 
+**Kairagi** are more deadly when founds in pairs. When there are two, killing one will trigger their **Heal** attack and also empower the remaining **Kairagi**, adding extra combo attacks when **infused**. In these places, it's best to try to kill them both at the same time, use **Freeze** to delay the heal, or to focus one down first so the other does not heal anything.
 
+**Kairagi** are immune to CC from![](../../.gitbook/assets/anemo_small.png)skills, which make them particularly difficult to group. They also move a lot during their attacks, making them split apart easily. Using **Freeze** is a good way to keep them together longer.
 
 ## Abilities
 

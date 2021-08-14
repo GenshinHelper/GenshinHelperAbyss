@@ -9,6 +9,7 @@
 * Adding [Floor 12](../../floors/spire/floor-12.md) for v2.0
 * Adding new monster guide for [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)
 * Adding new monster guide for [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)
+* Adding new monster guide for [Nobushi](../../monsters/untitled/nobushi.md)
 
 ## Full Changelogs
 
@@ -33,7 +34,7 @@
 | 13th | Added Monopyro to Build Compositions | Prad |
 |  | Updating Build Compositions' Supports | Prad |
 |  | Added Build Composition's FAQ | Prad |
-|  |  |  |
+|  | Adding Nobushi pages | Kicc/AegisD |
 
 
 

@@ -51,6 +51,7 @@
   * [Mirror Maiden](monsters/fatui/mirror-maiden.md)
   * [Pyro Agent](monsters/fatui/pyro-agent.md)
 * [Samurai](monsters/untitled/README.md)
+  * [Nobushi](monsters/untitled/nobushi.md)
   * [Kairagi](monsters/untitled/kairagi.md)
 * [Hilichurls](monsters/hilichurls/README.md)
   * [Hydro Samachurl](monsters/hilichurls/hydro-samachurl.md)
