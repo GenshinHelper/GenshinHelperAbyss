@@ -141,7 +141,7 @@ These supports boost the damage of your core unit in some way, either by:
   </tbody>
 </table>
 
-* This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction which multiplies Pyro Damage by 1.5. Apply![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
+* This core is centered around the **Vaporize** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/hydro_small.png)\) reaction which multiplies Pyro Damage by 1.5. Apply![](../.gitbook/assets/hydro_small.png)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
 * **Xingqui works better with Normal Attack focused carries** while Mona works better with Burst focused carries.
 
 ### Mono-Pyro
@@ -150,7 +150,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/image%20%289%29.png) ![](../.gitbook/assets/image%20%288%29.png)![](../.gitbook/assets/ui_avataricon_kazuha.jpg)  | ![](../.gitbook/assets/image%20%285%29.png)  |
+| ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_kazuha.png)  | ![](../.gitbook/assets/ui_avataricon_sucrose.png)  |
 
 * This core around **Pure Pyro Damage and Swirl Amplification** \(![](../.gitbook/assets/pyro_small.png)+ ****![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983&alt=media)\). Apply ![](../.gitbook/assets/pyro_small.png)to enemies and swirl those attacks to proc **Viridescent Venerer's 4pc.**
 * Strength in this team comes especially from **Bennett's C6 and Xiangling's C6** \(as well as Sucrose's C6 if you are using her\) as these all buff Pyro damage even further. 
@@ -208,7 +208,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Main Support | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../.gitbook/assets/ui_avataricon_kazuha.jpg) ![](../.gitbook/assets/ui_avataricon_zhongli%20%281%29.png)  |
+| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  | ![](../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../.gitbook/assets/ui_avataricon_kazuha.png) ![](../.gitbook/assets/ui_avataricon_zhongli.png)  |
 
 * This core is centered around the **Reverse Melt** \( ![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
 * **Kazuha** works as well to buff both the Cryo and Pyro Damage Components.
@@ -220,7 +220,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../.gitbook/assets/image-5-.jpg)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_diona.jpg)  |
+| ![](../.gitbook/assets/ui_avataricon_ganyu.png)  ![](../.gitbook/assets/ui_avataricon_ayaka.png)  | ![](../.gitbook/assets/ui_avataricon_mona.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_diona.png)  |
 
 * This core is centered around the **Freeze** \( ![](../.gitbook/assets/hydro_small.png)+![](../.gitbook/assets/cryo_small.png)\) reaction. Apply  ![](../.gitbook/assets/hydro_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** or **Ayaka's Attacks** to deal damage to **frozen** enemies.
 * You will often want to run another ![](../.gitbook/assets/cryo_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
