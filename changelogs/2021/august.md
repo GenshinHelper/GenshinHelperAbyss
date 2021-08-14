@@ -35,6 +35,7 @@
 |  | Updating Build Compositions' Supports | Prad |
 |  | Added Build Composition's FAQ | Prad |
 |  | Adding Nobushi pages | Kicc/AegisD |
+| 14th | Adding Ruin Cruiser | Miko/AegisD |
 
 
 
