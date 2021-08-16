@@ -39,6 +39,7 @@
 |  | Adding Nobushi pages | Kicc/AegisD |
 | 14th | Adding Ruin Cruiser | Miko/AegisD |
 |  | Adding Ruin Defender | Miko/AegisD |
+| 16th | Updating blessing | AegisD |
 
 
 
