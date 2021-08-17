@@ -12,6 +12,8 @@
 * Adding new monster guide for [Nobushi](../../monsters/untitled/nobushi.md)
 * Adding new monster guide for [Ruin Cruiser](../../monsters/ruin-constructs/ruin-cruiser.md)
 * Adding new monster guide for [Ruin Defender](../../monsters/ruin-constructs/ruin-defender.md)
+* Adding new monster guide for [Ruin Destroyer](../../monsters/ruin-constructs/ruin-destroyer.md)
+* Adding new monster guide for [Ruin Scout](../../monsters/ruin-constructs/ruin-scout.md)
 
 ## Full Changelogs
 
@@ -40,6 +42,8 @@
 | 14th | Adding Ruin Cruiser | Miko/AegisD |
 |  | Adding Ruin Defender | Miko/AegisD |
 | 16th | Updating blessing | AegisD |
+|  | Adding Ruin Scout | Miko/AegisD |
+|  | Adding Ruin Destroyer | Miko/AegisD |
 
 
 

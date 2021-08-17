@@ -10,9 +10,37 @@
 
 ## Tips and Mechanics
 
-**Weak Point** - Eye Core
+**Weak Point** - Neck Core
 
-{% hint style="info" %}
-This page is under construction.
-{% endhint %}
+**Ruin Destroyers** most attack from a range unless they choose to use **vacuum**, but there is no consistent way to trigger it. Focus **Ruin Cruisers** first, but move towards **Destroyers** next.
+
+## Abilities
+
+### Spin
+
+{% embed url="https://gfycat.com/warpedshamefulbluet" caption="Sweeping attack." %}
+
+This attack is only used in **melee** range.
+
+### Volley
+
+{% embed url="https://gfycat.com/neatevilblacknorwegianelkhound" caption="Fires 6 shots at the player." %}
+
+### Drill
+
+{% embed url="https://gfycat.com/gargantuanphysicalbichonfrise" caption="Fires a beam into the ground which causes a damaging AoE where the player is." %}
+
+The **core** is **exposed** while the drill is active. Hit the weak point during to stun it.
+
+{% embed url="https://gfycat.com/hoarsespitefulargali" %}
+
+### Vacuum
+
+{% embed url="https://gfycat.com/inferiorconsciousasianpiedstarling" caption="Digs close to the player and performs a vacuum attack, following up with a slam." %}
+
+The **core** is **exposed** while the vacuum is active. Hit the weak point during to stun it.
+
+
+
+
 
