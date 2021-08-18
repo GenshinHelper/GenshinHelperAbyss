@@ -25,8 +25,8 @@ During **Low Tide** is the ideal time to use **Elemental Bursts** to deal massiv
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)or![](../../.gitbook/assets/cryo_small.png) |
-| **Preferred Damage** | ![](../../.gitbook/assets/physical_small.png) \(C1 & C2\) |  |
-| **Avoid Damage** | ![](../../.gitbook/assets/physical_small.png)\(C3\) | ![](../../.gitbook/assets/physical_small.png) |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/physical_small.png) \(C1 & C2\) |  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/physical_small.png)\(C3\) | ![](../../.gitbook/assets/physical_small.png) |
 
 ## Chamber 1
 

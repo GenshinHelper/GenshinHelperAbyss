@@ -16,8 +16,8 @@ Bring a **Bow** user in order to stun the **Ruin Guard** in the third chamber.
 |  |  |
 | :--- | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)  |
-| **Preferred Damage** |  |
-| **Avoid Damage** | ![](../../.gitbook/assets/physical_small.png) **** |
+| **Preferred DPS Elements** |  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/physical_small.png) **** |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_sucrose.png)  |
 | 5★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_lumine.png) ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_venti.png)   |
 

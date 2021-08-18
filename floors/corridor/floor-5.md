@@ -16,8 +16,8 @@ Keeping your **Main Carry** above **95% HP** is important to maximize damage on 
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  |
-| **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png)  |  |
-| **Avoid Damage** | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/pyro_small.png)  |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/pyro_small.png)  |  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/pyro_small.png)  |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png) ![](../../.gitbook/assets/ui_avataricon_noelle.png) | ![](../../.gitbook/assets/ui_avataricon_barbara.png)![](../../.gitbook/assets/ui_avataricon_noelle.png)![](../../.gitbook/assets/ui_avataricon_xingqiu.png) |
 | **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) | ![](../../.gitbook/assets/ui_avataricon_albedo.png)![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
 

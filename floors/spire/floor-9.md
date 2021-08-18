@@ -39,8 +39,8 @@ The lightning does **459**![](../../.gitbook/assets/electro_small.png)**DMG** pe
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png) | ![](../../.gitbook/assets/cryo_small.png) |
-| **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png) |  |
-| **Avoid Damage** | ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png) |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/pyro_small.png) |  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png) |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) |
 | **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) | ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) |
 

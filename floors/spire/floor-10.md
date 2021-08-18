@@ -17,8 +17,8 @@ Focus on the **Attendants** first. Enemies can be fairly spread out so character
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) |
-| **Preferred Damage** |  |  |
-| **Avoid Damage** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/electro_small.png) |
+| **Preferred DPS Elements** |  |  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/electro_small.png) |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) |
 | **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) | ![](../../.gitbook/assets/ui_avataricon_ganyu.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
 

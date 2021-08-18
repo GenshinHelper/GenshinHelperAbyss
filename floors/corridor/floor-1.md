@@ -10,8 +10,8 @@
 |  |  |
 | :--- | :---: |
 | **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)  |
-| **Preferred Damage** | ![](../../.gitbook/assets/pyro_small.png)  |
-| **Avoid Damage** | ![](../../.gitbook/assets/electro_small.png)  |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/pyro_small.png)  |
+| **Avoid DPS Elements** | ![](../../.gitbook/assets/electro_small.png)  |
 | **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_amber.png) ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png) |
 | **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_venti.png) |
 
