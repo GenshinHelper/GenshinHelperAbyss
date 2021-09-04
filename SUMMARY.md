@@ -54,6 +54,7 @@
   * [Nobushi](monsters/untitled/nobushi.md)
   * [Kairagi](monsters/untitled/kairagi.md)
 * [Hilichurls](monsters/hilichurls/README.md)
+  * [Classic Hilichurls](monsters/hilichurls/classic-hilichurls.md)
   * [Hydro Samachurl](monsters/hilichurls/hydro-samachurl.md)
   * [Electro Samachurl](monsters/hilichurls/electro-samachurl.md)
   * [Stonehide Lawachurl](monsters/hilichurls/stonehide-lawachurl.md)
