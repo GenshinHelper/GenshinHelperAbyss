@@ -128,15 +128,35 @@ These shields **block all damage** from the direction the shield is facing.
 * Some **Charged Attacks** and **Plunging Attacks** can bypass enemy shields.
 * Enemies will still take damage from **Elemental Reactions**
 
-#### Enemies that use Physical Shields
+Shields can come in different types
+
+#### Wooden Shields
+
+* Use![](../.gitbook/assets/pyro_small.png)to apply **Burning** which applies a **DoT** to these shields.
+* Repeated application of![](../.gitbook/assets/pyro_small.png)will not make the shield HP go down faster.
 
 |  |  |  |
-| :--- | :--- | :--- |
-|  | Wooden Shield Hilichurl |  |
+| :---: | :--- | :--- |
+| ![](../.gitbook/assets/wooden-shield-hilichurl.jpg)  | [Wooden Shield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |  |
 |  | Wooden Shield Mitachurl |  |
-|  | Rockshield Hilichurl |  |
+
+#### Geo Shields
+
+* Similar to other ![](../.gitbook/assets/geo_small.png)shields \(see above section\)
+
+|  |  |  |
+| :---: | :--- | :--- |
+| ![](../.gitbook/assets/rockshield-hilichurl.jpg)  | [Rockshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |  |
 |  | Rockshield Mitachurl |  |
-|  | Iceshield Hilichurl |  |
+
+#### Cryo Shields
+
+* ![](../.gitbook/assets/pyro_small.png)is the most effective way of breaking through these shields.
+* These shields will regenerate their HP over time
+
+|  |  |  |
+| :---: | :--- | :--- |
+| ![](../.gitbook/assets/iceshield-hilichurl.jpg)  | [Iceshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |  |
 |  | Iceshield Mitachurl |  |
 
 ## Resources

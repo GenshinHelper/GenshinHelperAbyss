@@ -117,6 +117,7 @@ Once you reach **AR35 or AR40** and unlock **Level 70 or 80** characters/weapons
 | ![](../.gitbook/assets/instructor_flower.png) | Instructor | 4 | Upon triggering an Elemental Reaction, increases all party members' Elemental Mastery by 120 for 8s |
 | ![](../.gitbook/assets/no_flower.png) | Noblesse Oblige | 4 | Using an Elemental Burst increases all party members' ATK by 20% for 12s. This effect cannot stack |
 | ![](../.gitbook/assets/vv_flower.png) | Viridescent Venerer | 4 | Increases Swirl DMG by 60%. Decreases opponent's Elemental RES to the element infused in the Swirl by 40% for 10s |
+| ![](../.gitbook/assets/tom_flower.png)  | Tenacity of the Millelith | 4 | When an Elemental Skill hits an opponent, the ATK of all nearby party members is increased by 20% and their Shield Strength is increased by 30% for 3s. This effect can be triggered once every 0.5s. This effect can still be triggered even when the character who is using this artifact set is not on the field. |
 
 ### Benchmarks
 

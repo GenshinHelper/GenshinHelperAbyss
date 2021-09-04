@@ -128,7 +128,7 @@ These supports boost the damage of your core unit in some way, either by:
         <p>
           <img src="../.gitbook/assets/ui_avataricon_bennett.png" alt/>
           <img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt/>
-          <img src="../.gitbook/assets/ui_avataricon_yoimiya.jpg" alt/>
+          <img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt/>
         </p>
       </td>
       <td style="text-align:center">
@@ -150,7 +150,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Best Supports | Other Supports |
 | :---: | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yoimiya.jpg)  | ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_kazuha.png)  | ![](../.gitbook/assets/ui_avataricon_sucrose.png)  |
+| ![](../.gitbook/assets/ui_avataricon_klee.png) ![](../.gitbook/assets/ui_avataricon_yoimiya.png)  | ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_kazuha.png)  | ![](../.gitbook/assets/ui_avataricon_sucrose.png)  |
 
 * This core around **Pure Pyro Damage and Swirl Amplification** \(![](../.gitbook/assets/pyro_small.png)+ ****![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983&alt=media)\). Apply ![](../.gitbook/assets/pyro_small.png)to enemies and swirl those attacks to proc **Viridescent Venerer's 4pc.**
 * Strength in this team comes especially from **Bennett's C6 and Xiangling's C6** \(as well as Sucrose's C6 if you are using her\) as these all buff Pyro damage even further. 
