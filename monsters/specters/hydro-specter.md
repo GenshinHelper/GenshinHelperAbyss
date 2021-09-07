@@ -6,7 +6,7 @@
 
 ## Tips and Mechanics
 
-**Weak Point** - Done
+**Weak Point** - None
 
 Focusing these first as they can heal allies.
 

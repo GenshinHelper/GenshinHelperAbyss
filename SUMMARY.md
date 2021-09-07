@@ -70,6 +70,7 @@
   * [Kairagi](monsters/untitled/kairagi.md)
 * [Specters](monsters/specters/README.md)
   * [Hydro Specter](monsters/specters/hydro-specter.md)
+  * [Anemo Specter](monsters/specters/anemo-specter.md)
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)

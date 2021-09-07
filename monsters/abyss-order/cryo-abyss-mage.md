@@ -1,8 +1,6 @@
 # Cryo Abyss Mage
 
-{% hint style="info" %}
-This page is under construction! Come back later!
-{% endhint %}
+![](../../.gitbook/assets/abyss-mage-cryo-.jpg)
 
 ## Resistances
 
@@ -13,6 +11,10 @@ This page is under construction! Come back later!
 ## Tips and Mechanics
 
 **Weak Point** - ****Face
+
+You can use the **Teleport** to reposition **Abyss Mages** to your advantage at the start of some abyss chambers.
+
+Once you drop the shield, make sure to focus the **Abyss Mage** so that they stay staggered. The **Dance** attacks deal a lot of damage, and it can be hard to get close to them while they are active.
 
 ## Shield
 
@@ -27,4 +29,38 @@ After the shield is broken, the **Abyss Mage** will be briefly stunned.
 {% hint style="info" %}
 The **Cryo Abyss Mage** **shield** has **12U** of strength. This means it takes anywhere between **3~6** applications of![](../../.gitbook/assets/pyro_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro_small.png)is slightly less effectively, requiring about **6~12** applications, and![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png)are even less effective, requiring **12~24** applications.
 {% endhint %}
+
+## Abilities
+
+### Basic Attack
+
+{% embed url="https://gfycat.com/capitalinfamousivorybackedwoodswallow" caption="Fires a projectile at the player" %}
+
+### Icicle
+
+{% embed url="https://gfycat.com/mediumshockedallosaurus" caption="Calls 3 icicles down at the player, leaving behind a damaging mist" %}
+
+### Teleport <a id="icicle"></a>
+
+{% embed url="https://gfycat.com/wealthygrippingbonobo" caption="Teleports close to the player, dealing Cryo damage" %}
+
+Moving a distance away from the **Abyss Mage** will trigger this ability.
+
+The **Abyss Mage** will appear where the player is facing. You can use this to reposition them to your advantage.
+
+### Dance <a id="icicle"></a>
+
+{% embed url="https://gfycat.com/quarrelsomeenragedbluejay" caption="Spawns icicles that circle the Abyss Mage" %}
+
+The **Abyss Mage** will start this attack after some time being stunned.
+
+You can interrupt this attack by stunning/staggering the **Abyss Mage** with certain attacks.
+
+### Shield
+
+{% embed url="https://gfycat.com/gloriousaggressivefowl" %}
+
+After about **8 seconds** of the **Dance** attack, the **Abyss Mage** will reshield.
+
+Make sure to stagger the **Abyss Mage** in some way if you see it using **Dance** to prevent this from happening.
 
