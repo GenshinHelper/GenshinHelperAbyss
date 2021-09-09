@@ -15,9 +15,9 @@
 | 3rd | Added Classic Hilichurls to Monster Pages | Prad/Sonarchy |
 |  | Added Gifs to Classic Hilichurls | Syphex |
 |  | Adding ToM to support investments | Yumi |
-| 4th | Added Hydro Specter | Koshu/AegisD |
-| 6th | Added Cryo Abyss Mage | Syphex/AegisD |
-|  | Added Anemo Specter | Koshu/AegisD |
+| 4th | Added Hydro Specter to Monster Pages | Koshu/AegisD |
+| 6th | Added Cryo Abyss Mage to Monster Pages | Syphex/AegisD |
+|  | Added Anemo Specter to Monster Pages | Koshu/AegisD |
 
 
 

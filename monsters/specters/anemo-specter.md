@@ -8,6 +8,8 @@
 
 **Weak Point** - None
 
+Use ranged attacks or burst them down quickly to prevent losing time to healing.
+
 ## Rage
 
 Specters have a **Fury Gauge** which builds up when hit by attacks that take a large portion of the Specter's HP.
