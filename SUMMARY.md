@@ -75,6 +75,7 @@
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
+  * [Mechanical Array](monsters/elites/mechanical-array.md)
 
 ## Mechanics
 
