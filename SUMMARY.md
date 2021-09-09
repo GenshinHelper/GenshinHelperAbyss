@@ -54,6 +54,8 @@
   * [Classic Hilichurls](monsters/hilichurls/classic-hilichurls.md)
   * [Hydro Samachurl](monsters/hilichurls/hydro-samachurl.md)
   * [Electro Samachurl](monsters/hilichurls/electro-samachurl.md)
+  * [Anemo Samachurl](monsters/hilichurls/anemo-samachurl.md)
+  * [Geo Samachurl](monsters/hilichurls/geo-samachurl.md)
   * [Stonehide Lawachurl](monsters/hilichurls/stonehide-lawachurl.md)
   * [Frostarm Lawachurl](monsters/hilichurls/frostarm-lawachurl.md)
   * [Thunderhelm Lawachurl](monsters/hilichurls/thunderhelm-lawachurl.md)
