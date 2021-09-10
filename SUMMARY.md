@@ -76,6 +76,7 @@
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
+  * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
   * [Mechanical Array](monsters/elites/mechanical-array.md)
 
