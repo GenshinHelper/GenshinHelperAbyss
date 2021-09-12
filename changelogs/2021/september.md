@@ -20,6 +20,7 @@
 | 6th | Added Cryo Abyss Mage to Monster Pages | Syphex/AegisD |
 |  | Added Anemo Specter to Monster Pages | Koshu/AegisD |
 | 9th | Added Thunder Manifestation Page | Beatus/AegisD |
+| 12th | Added Raiden to Build Compositions | Prad |
 
 
 
