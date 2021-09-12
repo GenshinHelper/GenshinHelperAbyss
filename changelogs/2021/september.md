@@ -13,7 +13,7 @@
 | Date | Change | Author |
 | :--- | :--- | :--- |
 | 1st | Updated blessings on landing page | AegisD |
-| 3rd | Added Classic Hilichurls to Monster Pages | Prad/Sonarchy |
+| 3rd | Added Classic Hilichurls to Monster Pages | Sonarchy/Prad |
 |  | Added Gifs to Classic Hilichurls | Syphex |
 |  | Adding ToM to support investments | Yumi |
 | 4th | Added Hydro Specter to Monster Pages | Koshu/AegisD |
@@ -21,7 +21,8 @@
 |  | Added Anemo Specter to Monster Pages | Koshu/AegisD |
 | 9th | Added Thunder Manifestation Page | Beatus/AegisD |
 | 12th | Added Raiden to Build Compositions | Prad |
-|  | Added Eye of the Storm Page  | Prad/Syphex |
+|  | Added Eye of the Storm Page  | Syphex/Prad |
+|  | Added Primo Geovishap Page | Sonarchy/Prad |
 
 
 
