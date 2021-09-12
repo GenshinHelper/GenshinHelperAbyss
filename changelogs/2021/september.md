@@ -21,6 +21,7 @@
 |  | Added Anemo Specter to Monster Pages | Koshu/AegisD |
 | 9th | Added Thunder Manifestation Page | Beatus/AegisD |
 | 12th | Added Raiden to Build Compositions | Prad |
+|  | Added Eye of the Storm Page  | Prad/Syphex |
 
 
 
