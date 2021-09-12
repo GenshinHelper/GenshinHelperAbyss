@@ -75,11 +75,12 @@
   * [Hydro Specter](monsters/specters/hydro-specter.md)
   * [Anemo Specter](monsters/specters/anemo-specter.md)
 * [World Bosses](monsters/elites/README.md)
+  * [Primo Geovishap](monsters/elites/primo-geovishap.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
-  * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
   * [Mechanical Array](monsters/elites/mechanical-array.md)
+  * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
 
 ## Mechanics
 
