@@ -77,6 +77,7 @@
 * [Specters](monsters/specters/README.md)
   * [Hydro Specter](monsters/specters/hydro-specter.md)
   * [Anemo Specter](monsters/specters/anemo-specter.md)
+  * [Geo Specter](monsters/specters/geo-specter.md)
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Regisvine](monsters/elites/cryo-regisvine.md)
   * [Primo Geovishap](monsters/elites/primo-geovishap.md)
