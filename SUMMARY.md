@@ -48,6 +48,8 @@
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
   * [Cryogunner Legionnaire](monsters/fatui/cryogunner-legionnaire.md)
   * [Hydrogunner Legionnaire](monsters/fatui/hydrogunner-legionnaire.md)
+  * [Pyroslinger](monsters/fatui/pyroslinger.md)
+  * [Geochanter](monsters/fatui/geochanter.md)
   * [Electro Cicin Mage](monsters/fatui/electro-cicin-mage.md)
   * [Cryo Cicin Mage](monsters/fatui/cryo-cicin-mage.md)
   * [Mirror Maiden](monsters/fatui/mirror-maiden.md)
