@@ -42,6 +42,7 @@
   * [Electro Whopperflower](monsters/animals/electro-whopperflower.md)
   * [Geovishap Hatchling](monsters/animals/geovishap-hatchling.md)
   * [Geovishap](monsters/animals/geovishap.md)
+  * [Eye of the Storm](monsters/animals/eye-of-the-storm.md)
 * [Fatui](monsters/fatui/README.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
   * [Cryogunner Legionnaire](monsters/fatui/cryogunner-legionnaire.md)
