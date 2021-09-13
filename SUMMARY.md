@@ -111,8 +111,9 @@
 
 ## Changelogs
 
+* [Versions](changelogs/versions/README.md)
+  * [v2.1](changelogs/versions/september.md)
 * [2021](changelogs/2021/README.md)
-  * [September](changelogs/2021/september.md)
   * [August](changelogs/2021/august.md)
   * [July](changelogs/2021/july.md)
   * [June](changelogs/2021/june.md)

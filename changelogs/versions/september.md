@@ -1,4 +1,4 @@
-# September
+# v2.1
 
 ## Major Updates
 
@@ -7,8 +7,12 @@
 * Added monster guide for [Cryo Abyss Mage](../../monsters/abyss-order/cryo-abyss-mage.md)
 * Added monster guide for [Anemo Specter](../../monsters/specters/anemo-specter.md)
 * Added monster guide for [Thunder Manifestation](../../monsters/elites/thunder-manifestation.md)
+* Added monster guide for [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md)
+* Added monster guide for [Primo Geovishap](../../monsters/elites/primo-geovishap.md)
 
 ## Full Changelogs
+
+### September
 
 | Date | Change | Author |
 | :--- | :--- | :--- |
