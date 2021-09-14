@@ -80,6 +80,7 @@
   * [Geo Specter](monsters/specters/geo-specter.md)
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Regisvine](monsters/elites/cryo-regisvine.md)
+  * [Pyro Regisvine](monsters/elites/pyro-regisvine.md)
   * [Primo Geovishap](monsters/elites/primo-geovishap.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
