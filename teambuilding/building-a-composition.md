@@ -87,7 +87,7 @@ These supports boost the damage of your core unit in some way, either by:
 
 | DPS | Supports |
 | :---: | :---: |
-| ![](../.gitbook/assets/ui_avataricon_eula.png)![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_fischl.png) ![](../.gitbook/assets/ui_avataricon_shougun-1-.png)  |
+| ![](../.gitbook/assets/ui_avataricon_eula.png)![](../.gitbook/assets/ui_avataricon_rosaria.png) ![](../.gitbook/assets/ui_avataricon_kaeya.png) | ![](../.gitbook/assets/ui_avataricon_beidou.png)![](../.gitbook/assets/ui_avataricon_fischl.png)![](../.gitbook/assets/ui_avataricon_shougun-1-.png)  |
 
 * Make sure to regularly trigger **Superconduct** \( ![](../.gitbook/assets/cryo_small.png) + ![](../.gitbook/assets/electro_small.png)\) to reduce enemy ![](../.gitbook/assets/physical_small.png) **RES** for damage. The debuff lasts **8 seconds**.
 * Adding a ![](../.gitbook/assets/hydro_small.png)support is a nice way to add **Freeze** on this team for extra **Crowd Control**.
@@ -107,11 +107,11 @@ These supports boost the damage of your core unit in some way, either by:
 
 ### Raiden National
 
-**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/image%20%281%29.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
+**Primary Damage Type -** ![](../.gitbook/assets/pyro_small.png) ![](../.gitbook/assets/electro_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397&alt=media)
 
 | DPS | Support |
 | :---: | :---: |
-|  ![](../.gitbook/assets/ui_avataricon_shougun-1-.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)  | ![](../.gitbook/assets/ui_avataricon_xingqiu.png) ![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_sucrose.png)  |
+|  ![](../.gitbook/assets/ui_avataricon_shougun-1-.png)![](../.gitbook/assets/ui_avataricon_xiangling.png) | ![](../.gitbook/assets/ui_avataricon_xingqiu.png)![](../.gitbook/assets/ui_avataricon_bennett.png)![](../.gitbook/assets/ui_avataricon_sucrose.png) |
 
 * This core is centered around the **several reactions**. The majority of damage on this team comes from Xiangling's burst and Raiden's burst.
 * Because Raiden's burst recharges quickly, the DPS is centered around her burst window. Use **Bennet E and Xiangling E** for ult recharge, and have all your ults ready for Raiden burst window. Drop all bursts then Raiden's then auto attack with her in that time.
@@ -280,10 +280,6 @@ These supports boost the damage of your core unit in some way, either by:
 | ![](../.gitbook/assets/ui_avataricon_jean.png)![](../.gitbook/assets/ui_avataricon_venti.png) |
 
 * This core works by combining the high damage scaling of both **Jean** and **Venti's Elemental Skills/Bursts**, the **cooldown reduction** from ![](../.gitbook/assets/anemo_small.png)**resonance**, and general high **energy generation** to continually output damage with their talents.
-
-### 
-
-### 
 
 ### FAQs
 

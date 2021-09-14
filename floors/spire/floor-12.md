@@ -40,8 +40,8 @@ During **Low Tide** is the ideal time to use **Elemental Bursts** to deal massiv
 | :--- | :--- |
 | [Kairagi](../../monsters/untitled/kairagi.md) | ~500K HP |
 
-{% hint style="warning" %}
-The **Samurai** enemies in this chamber **cannot be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**.
+{% hint style="info" %}
+The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**, but must be staggered first with other abilities.
 {% endhint %}
 
 Having **AoE DMG** in this chamber is essential. Build your compositions with this in mind.
