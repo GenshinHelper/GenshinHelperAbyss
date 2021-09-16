@@ -19,8 +19,6 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
-  * [Floor 11 \(v2.0\)](floors/spire/floor-11-v20.md)
-  * [Floor 12 \(v2.0\)](floors/spire/floor-12-v20.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -134,6 +132,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 11 \(v2.0\)](archive/previous-floors/floor-11-v20.md)
+  * [Floor 12 \(v2.0\)](archive/previous-floors/floor-12-v20.md)
   * [Floor 9 \(v1.6\)](archive/previous-floors/floor-9-v16.md)
   * [Floor 10 \(v1.6\)](archive/previous-floors/floor-10-v16.md)
   * [Floor 11 \(v1.6\)](archive/previous-floors/floor-11-v16.md)

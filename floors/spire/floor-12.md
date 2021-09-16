@@ -22,7 +22,7 @@ No Divergence
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Kairagi](../../monsters/untitled/kairagi.md) | ~500K HP |
+| [Nobushi](../../monsters/untitled/nobushi.md) | ~225K HP |
 
 {% hint style="info" %}
 The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**, but must be staggered first with other abilities.
@@ -38,9 +38,10 @@ The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitb
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Pyro Agent](../../monsters/fatui/pyro-agent.md) | ~350K HP |
-| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) | ~350K HP |
-| [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | ~650K HP |
+| [Stonehide Lawachurl](../../monsters/hilichurls/stonehide-lawachurl.md) | ~600K HP |
+| [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md) | ~350K HP |
+| [Anemo Specter](../../monsters/specters/anemo-specter.md) | ~225K HP |
+| [Geo Specter](../../monsters/specters/geo-specter.md) | ~225K HP |
 
 
 
@@ -70,11 +71,8 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md) | ~700K HP |
-| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md) |  |
-| Smoldering Flame/Engulfing Storm \([Debuffs](../../mechanics/debuffs/)\) |  |
-| [Lightning Stake](../../mechanics/auras/lightning-stake.md) | ?? DMG |
-| [Mist Bubble](../../mechanics/auras/mist-bubble.md) | ?? DMG |
+| [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | ~750K HP |
+| [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md) | ~400K HP |
 
 
 
