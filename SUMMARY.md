@@ -19,6 +19,8 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
+  * [Floor 11 \(v2.0\)](floors/spire/floor-11-v20.md)
+  * [Floor 12 \(v2.0\)](floors/spire/floor-12-v20.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -86,7 +88,7 @@
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Hydro Hypostasis](monsters/elites/hydro-hypostasis.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
-  * [Mechanical Array](monsters/elites/mechanical-array.md)
+  * [Perpetual Mechanical Array](monsters/elites/perpetual-mechanical-array.md)
   * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
 
 ## Mechanics
