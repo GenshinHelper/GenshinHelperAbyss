@@ -86,7 +86,7 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-|  |  |
+| [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | ~650K HP |
 
 
 
@@ -94,8 +94,7 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | ~650K HP |
-|  |  |
+| [Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md) | ~2200K HP |
 
 
 
