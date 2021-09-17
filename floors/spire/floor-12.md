@@ -20,6 +20,8 @@ No Divergence
 
 ### Side 1
 
+![](../../.gitbook/assets/12-1-1v21.png)
+
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 | [Nobushi](../../monsters/untitled/nobushi.md) | ~225K HP |
@@ -35,6 +37,8 @@ The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitb
 |  |
 
 ### Side 2
+
+![](../../.gitbook/assets/12-1-2v21.png)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
@@ -69,6 +73,8 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 ### Side 2
 
+![](../../.gitbook/assets/12-2-2v21.png)
+
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 | [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | ~750K HP |
@@ -82,6 +88,8 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 ### Side 1
 
+![](../../.gitbook/assets/12-3-1v21.jpg)
+
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 | [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | ~650K HP |
@@ -89,6 +97,8 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 
 ### Side 2
+
+![](../../.gitbook/assets/perpetual-mechanical-arrray.jpg)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |

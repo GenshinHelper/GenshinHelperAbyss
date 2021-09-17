@@ -15,15 +15,15 @@
 
 ### Side 1
 
+![](../../.gitbook/assets/11-1-1v21.png)
+
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 |  |  |
 
-
-
 ### Side 2
 
-
+![](../../.gitbook/assets/11-1-2v21.png)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
@@ -35,13 +35,15 @@
 
 ### Side 1
 
+![](../../.gitbook/assets/11-2-1v21.png)
+
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
 |  |  |
 
-
-
 ### Side 2
+
+![](../../.gitbook/assets/11-2-2v21.png)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
@@ -55,7 +57,7 @@
 
 ### Side 1
 
-
+![](../../.gitbook/assets/11-3-1v21.png)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
@@ -64,6 +66,8 @@
 
 
 ### Side 2
+
+![](../../.gitbook/assets/11-3-2v21.png)
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
