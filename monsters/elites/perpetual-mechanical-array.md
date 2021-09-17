@@ -18,6 +18,8 @@ When **divided**, make sure to focus the right construct. You should try focus i
 
 While they are invulnerable, the other constructs are still able to be **stunned** using their normal means. If you're having issues with this phase, keep an eye on the attacks of the other constructs and stun them where possible.
 
+The **Perpetual Mechanical Array** has reduced defenses when stunned. Use the **divide** phase to charge bursts and wait until it is **stunned** to unleash your damage.
+
 ## Abilities
 
 ### Rocket
@@ -82,6 +84,8 @@ The spawned construct will have an **aura** around it too.
 ![](../../.gitbook/assets/pma_highlight.png)
 
 This is the weak construct, and **killing this will end the Divide phase immediately**, and cause the **Perpetual Mechanical Array** to become disabled for **20 seconds**. The other constructs can be stunned, but are invulnerable to damage and cannot be destroyed.
+
+While **stunned**, it will have **-50% RES**, making it much more vulnerable to damage.
 
 ### Reconstruct
 

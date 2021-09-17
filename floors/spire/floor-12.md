@@ -130,7 +130,7 @@ Try to kill both **Ruin Guards** before they go for a **Spin Attack** \(roughly 
 
 If you're not familiar with this boss, make sure to check out the **In Depth Guide** page \([Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md)\) for tips. It is important to know which enemy to aim when it **Divides**.
 
-You should also use the **Divide** phase to charge up your bursts and save them for when the **Perpetual Mechanical Array** is stunned. This is the best window to do damage.
+The **Perpetual Mechanical Array** has reduced defenses when stunned. Use the **divide** phase to charge bursts and wait until it is **stunned** to unleash your damage.
 
 You should try to stay close to it throughout the fight, as this limits the attack patterns.
 
