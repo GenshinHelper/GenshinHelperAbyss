@@ -4,8 +4,6 @@
 
 No Divergence
 
-## General Tips
-
 ## Chamber 1
 
 **Monster Level - 96**
