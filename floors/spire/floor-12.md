@@ -24,7 +24,8 @@ No Divergence
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Nobushi](../../monsters/untitled/nobushi.md) | ~225K HP |
+| [Nobushi](../../monsters/untitled/nobushi.md) | 227K HP |
+| Treasure Hoarders | 111K - 139K HP |
 
 {% hint style="info" %}
 The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**, but must be staggered first with other abilities.
@@ -40,10 +41,10 @@ If you're struggling to get stars with a team built for the later chambers, you 
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Stonehide Lawachurl](../../monsters/hilichurls/stonehide-lawachurl.md) | ~600K HP |
-| [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md) | ~350K HP |
-| [Anemo Specter](../../monsters/specters/anemo-specter.md) | ~225K HP |
-| [Geo Specter](../../monsters/specters/geo-specter.md) | ~225K HP |
+| [Stonehide Lawachurl](../../monsters/hilichurls/stonehide-lawachurl.md) | 624K HP |
+| [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md) | 347K HP |
+| [Anemo Specter](../../monsters/specters/anemo-specter.md) | 227K HP |
+| [Geo Specter](../../monsters/specters/geo-specter.md) | 227K HP |
 
 Run towards the **Eye of the Storm/Stonehide Lawachurl** in each wave to start. They have the higher HP pool, and the **Specters** will naturally move towards you.
 
@@ -71,7 +72,7 @@ The waves will not end until the death animation of **Specters** completes. Keep
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | ~1300K HP |
+| [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | 1.5M HP |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 
@@ -85,8 +86,8 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | ~750K HP |
-| [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md) | ~400K HP |
+| [Mirror Maiden](../../monsters/fatui/mirror-maiden.md) | 772K HP |
+| [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md) | 383K HP |
 
 While the **Mirror Maiden** has more HP, go for the **Cryo Cicin Mage** first, which spawns behind you. There is a high chance for the **Mirror Maiden** to teleport to you and group naturally, where the **Cryo Cicin Mage** will not teleport. This also gives you an opportunity to stagger her before she summons her Cicins which let her shield.
 
@@ -112,7 +113,7 @@ Try your best to avoid **Mirror Maiden's** AoE attacks as long as possible, as t
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | ~650K HP |
+| [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | 643K HP |
 
 Run towards the **Ruin Guards** immediately. Staying at range will cause them to use **Missiles**, which delays their grouping.
 
@@ -126,7 +127,9 @@ Try to kill both **Ruin Guards** before they go for a **Spin Attack** \(roughly 
 
 | **In Depth Guide** | Other Info |
 | :--- | :--- |
-| [Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md) | ~2200K HP |
+| [Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md) | 2.2M HP |
+| [Ruin Cruiser](../../monsters/ruin-constructs/ruin-cruiser.md) / [Ruin Destroyer](../../monsters/ruin-constructs/ruin-destroyer.md) | 416K HP |
+| [Ruin Scout](../../monsters/ruin-constructs/ruin-scout.md) / [Ruin Defender](../../monsters/ruin-constructs/ruin-defender.md) | 582K HP |
 
 If you're not familiar with this boss, make sure to check out the **In Depth Guide** page \([Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md)\) for tips. It is important to know which enemy to aim when it **Divides**.
 
