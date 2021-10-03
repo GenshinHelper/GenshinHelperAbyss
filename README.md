@@ -8,11 +8,11 @@ description: by the Genshin Helper Team
 
 ## Current Blessing
 
-**Duration:** September 16th - 30th
+**Duration:** October 1st - 15th
 
-After a character uses an Elemental Burst, all party members' **ATK** is increased by **6.5% for 15s**. Maximum **7 stacks**.
+For **10s** after a character uses an **Elemental Burst**, that character's **Normal and Charged Attacks** will unleash a **shockwave** at the position of the opponent they hit at the cost of **1% of the character's HP**, dealing **AoE DMG** \(max one per second\). This effect will be cleared when this character leaves the field. 
 
-When 7 stacks are reached, the active character's **Normal Attacks** will unleash a **shockwave** at the position of the opponent it hits, dealing **AoE DMG** \(max one every **2s**\)
+Active characters can go down as a result of this HP loss.
 
 ### Characters Buffed by Blessing
 
@@ -28,24 +28,20 @@ Any character can benefit from this blessing.
   </thead>
   <tbody>
     <tr>
-      <td style="text-align:left">September 1st - 15th</td>
+      <td style="text-align:left">September 16th - 30th</td>
       <td style="text-align:center">|</td>
-      <td style="text-align:left">October 1st - 15th</td>
+      <td style="text-align:left">October 16th - 31st</td>
     </tr>
     <tr>
       <td style="text-align:left">
-        <p>After unleashing an Elemental Burst, increase all character&apos;s <b>ATK</b> by <b>20%</b> for <b>10 seconds</b> (max <b>3 stacks</b>).</p>
-        <p>Each stack has an independent duration.</p>
+        <p>After a character uses an Elemental Burst, all party members&apos; <b>ATK</b> is
+          increased by <b>6.5% for 15s</b>. Maximum <b>7 stacks</b>.</p>
+        <p>When 7 stacks are reached, the active character&apos;s <b>Normal Attacks</b> will
+          unleash a <b>shockwave </b>at the position of the opponent it hits, dealing <b>AoE DMG </b>(max
+          one every <b>2s</b>)</p>
       </td>
       <td style="text-align:center">|</td>
-      <td style="text-align:left">
-        <p>For <b>10s</b> after a character uses an <b>Elemental Burst</b>, that character&apos;s <b>Normal and Charged Attacks</b> will
-          unleash a <b>shockwave </b>at the position of the opponent they hit at the
-          cost of <b>1% of the character&apos;s HP</b>, dealing <b>AoE DMG </b>(max
-          one per second). This effect will be cleared when this character leaves
-          the field.</p>
-        <p>Active characters can go down as a result of this HP loss.</p>
-      </td>
+      <td style="text-align:left">???</td>
     </tr>
   </tbody>
 </table>

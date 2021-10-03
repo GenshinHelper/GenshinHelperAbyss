@@ -109,12 +109,14 @@ Off-field characters will never die from **Corrosion**, so you if you can make s
       <td style="text-align:left"><b>5&#x2605; Supports</b>
       </td>
       <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_kokomi.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_kazuha.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_venti.png" alt/>
       </td>
       <td style="text-align:center">
+        <img src="../../.gitbook/assets/ui_avataricon_kokomi.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_mona.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_qiqi.png" alt/>
         <img src="../../.gitbook/assets/ui_avataricon_jean.png" alt/>
