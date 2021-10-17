@@ -4,7 +4,7 @@
 
 A **Plasma Field** will be generated at the edge of the challenge area once the challenge begins. 
 
-While within the field, characters will be hit by a **lightning strike** once every **5s** and take ![](../../.gitbook/assets/electro_small.png)**DMG**. 
+While within the field, characters will be hit by a **lightning strike **once every **5s** and take ![](../../.gitbook/assets/electro_small.png)**DMG**. 
 
 The area covered by the field will gradually expand as the challenge proceeds.
 
@@ -24,11 +24,11 @@ High priority enemies tend to spawn outside the safe area. Focus on those first 
 
 The safe area is the towards the **middle** of the arena. After defeating a wave of enemies, the safe area **shrinks** by a set amount.
 
-| **Plasma Field** |  |
-| :--- | :---: |
-| 1st Wave |  |
-| 2nd Wave | ![](../../.gitbook/assets/plasmafield_2.png)  |
-| 3rd Wave | ![](../../.gitbook/assets/plasmafield_3.png)  |
+| **Plasma Field** |                                                |
+| ---------------- | :--------------------------------------------: |
+| 1st Wave         |                                                |
+| 2nd Wave         | ![](../../.gitbook/assets/plasmafield\_2.png)  |
+| 3rd Wave         | ![](../../.gitbook/assets/plasmafield\_3.png)  |
 
 {% embed url="https://gfycat.com/skeletalspotlessdassie" %}
 
@@ -36,13 +36,13 @@ The lightning does **459**![](../../.gitbook/assets/electro_small.png)**DMG** pe
 
 ## Team Recommendations
 
-|  | Side 1 | Side 2 |
-| :--- | :---: | :---: |
-| **Shieldbreakers** | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png) | ![](../../.gitbook/assets/cryo_small.png) |
-| **Preferred DPS Elements** | ![](../../.gitbook/assets/pyro_small.png) |  |
-| **Avoid DPS Elements** | ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png) |
-| **4**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) |
-| **5**★ **Supports** | ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) | ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) |
+|                            |                                                                                 Side 1                                                                                 |                                                                         Side 2                                                                         |
+| -------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Shieldbreakers**         | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png) |                                                        ![](../../.gitbook/assets/cryo_small.png)                                                       |
+| **Preferred DPS Elements** |                                                                ![](../../.gitbook/assets/pyro_small.png)                                                               |                                                                                                                                                        |
+| **Avoid DPS Elements**     |                     ![](../../.gitbook/assets/physical_small.png)![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/geo_small.png)                     |                                  ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png)                                 |
+| **4**★ **Supports**        |       ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)       |                         ![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)                        |
+| **5**★ **Supports**        |                                  ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png)                                 | ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) |
 
 ## Chamber 1
 
@@ -62,10 +62,10 @@ Try not to take any damage from the **Hydro Slimes**. Getting![](../../.gitbook/
 
 ![](../../.gitbook/assets/9-1-2v20.png)
 
-| **In Depth Guide** | Other Info |
-| :--- | :--- |
-| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md) |  |
-| [Mist Bubble](../../mechanics/auras/mist-bubble.md) | ?? DMG |
+| **In Depth Guide**                                                 | Other Info |
+| ------------------------------------------------------------------ | ---------- |
+| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md) |            |
+| [Mist Bubble](../../mechanics/auras/mist-bubble.md)                | ?? DMG     |
 
 In the second wave, prioritize the **Electro Samachurls** first.
 
@@ -81,11 +81,11 @@ Try to get the **Hydro Abyss Mage** to teleport and end up inside the safe zone.
 
 
 
-| **In Depth Guide** | Other Info |
-| :--- | :--- |
-| [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md) |  |
-| [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |  |
-| [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md) |  |
+| **In Depth Guide**                                                         | Other Info |
+| -------------------------------------------------------------------------- | ---------- |
+| [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md)   |            |
+| [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |            |
+| [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md)   |            |
 
 Try to group the Fatui together with CC and deal **AoE DMG** to them. Otherwise, focus on the **Hydrogunner** first as he will heal allies.
 
@@ -105,9 +105,9 @@ The **Potioneers** and **Archers** spawn outside the safe zone. Focus on one of 
 
 ![](../../.gitbook/assets/9-3-1v20.png)
 
-| **In Depth Guide** | Other Info |
-| :--- | :--- |
-| [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md) |  |
+| **In Depth Guide**                                                    | Other Info |
+| --------------------------------------------------------------------- | ---------- |
+| [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md) |            |
 
 Good **single target** damage is preferred here.
 
@@ -119,14 +119,13 @@ Some of the attacks can knock you out of the safe area. Make sure to dodge their
 
 ![](../../.gitbook/assets/9-3-2v20.png)
 
-| **In Depth Guide** | Other Info |
-| :--- | :--- |
-| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |  |
-| [Pyro Agent](../../monsters/fatui/pyro-agent.md) |  |
+| **In Depth Guide**                                               | Other Info |
+| ---------------------------------------------------------------- | ---------- |
+| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |            |
+| [Pyro Agent](../../monsters/fatui/pyro-agent.md)                 |            |
 
 If your main damage is![](../../.gitbook/assets/pyro_small.png)or![](../../.gitbook/assets/electro_small.png)based, make sure to bring ![](../../.gitbook/assets/anemo_small.png)with **4pc Viridescent Venerer** in order to reduce the enemy resists.
 
 **Jean** even at low investments can be effective at dealing with the enemies by using her **Elemental Skill** to cause fall damage.
 
 The enemies spawn close by at the start. Try to group them together right away and use **AoE DMG** to hit both at once.
-

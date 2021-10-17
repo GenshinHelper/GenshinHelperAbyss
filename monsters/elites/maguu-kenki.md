@@ -5,8 +5,8 @@
 ## Resistances
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% | 10% | 10% | 10% | 10% |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
 
@@ -22,7 +22,9 @@ The attacks are fairly telegraphed and easy to avoid, particularly at range. How
 
 ### Block
 
-{% embed url="https://gfycat.com/easygoingbothcapybara" caption="Shields itself from ranged attacks" %}
+{% embed url="https://gfycat.com/easygoingbothcapybara" %}
+Shields itself from ranged attacks
+{% endembed %}
 
 Attacks at **melee** range will not trigger the shield.
 
@@ -30,25 +32,35 @@ Attacks at **melee** range will not trigger the shield.
 
 ### Dash
 
-{% embed url="https://gfycat.com/preciousneatcardinal" caption="Moves rapidly towards the player" %}
+{% embed url="https://gfycat.com/preciousneatcardinal" %}
+Moves rapidly towards the player
+{% endembed %}
 
 ### Exploding Mask
 
-{% embed url="https://gfycat.com/weepydrearyivorybilledwoodpecker" caption="Creates a Cryo AoE explosion at the players location" %}
+{% embed url="https://gfycat.com/weepydrearyivorybilledwoodpecker" %}
+Creates a Cryo AoE explosion at the players location
+{% endembed %}
 
 The attack will follow the player for a short duration. Dodge out of the way once it stops moving.
 
 ### **Pushing Mask**
 
-{% embed url="https://gfycat.com/completeenchantingcrossbill" caption="Sends the mask out, dealing damage in a line" %}
+{% embed url="https://gfycat.com/completeenchantingcrossbill" %}
+Sends the mask out, dealing damage in a line
+{% endembed %}
 
 ### **Triple Strike**
 
-{% embed url="https://gfycat.com/graciousdecimalindigowingedparrot" caption="Slashes at the player three times" %}
+{% embed url="https://gfycat.com/graciousdecimalindigowingedparrot" %}
+Slashes at the player three times
+{% endembed %}
 
 ### Ground Strike
 
-{% embed url="https://gfycat.com/failingyellowkodiakbear" caption="Summons a second sword and deals Anemo + Cryo damage in a large AoE" %}
+{% embed url="https://gfycat.com/failingyellowkodiakbear" %}
+Summons a second sword and deals Anemo + Cryo damage in a large AoE
+{% endembed %}
 
 **Maguu Kenki** will use this attack when you first drop it below **75% HP**, after which it will infuse itself with ![](../../.gitbook/assets/anemo_small.png) begin to use **Phantom** attacks which deal ![](../../.gitbook/assets/cryo_small.png) .
 
@@ -56,13 +68,17 @@ You can **dodge** the attack with the right timing, or use a **Burst** to i-fram
 
 ### Rush
 
-{% embed url="https://gfycat.com/deadlydeargoa" caption="Sheaths its sword then quickly rushes at the player and slashes" %}
+{% embed url="https://gfycat.com/deadlydeargoa" %}
+Sheaths its sword then quickly rushes at the player and slashes
+{% endembed %}
 
 Dodge to the side with the right timing to avoid this attack. You can use the glow from the sword hilt as an indicator for the right timing.
 
 #### Phantom: Rush Combo
 
-{% embed url="https://gfycat.com/ripeelectricarmadillo" caption="Performs an attack combo along with the Phantom" %}
+{% embed url="https://gfycat.com/ripeelectricarmadillo" %}
+Performs an attack combo along with the Phantom
+{% endembed %}
 
 **Maguu Kenki** will perform:
 
@@ -74,23 +90,29 @@ Dodge to the side to avoid the **Rush** and **Pushing Mask** attacks as normal. 
 
 ### Whirlwind Slash
 
-{% embed url="https://gfycat.com/aptthankfulbullmastiff" caption="Pulls the player in and performs a slash in an AoE around Maguu Kenki" %}
+{% embed url="https://gfycat.com/aptthankfulbullmastiff" %}
+Pulls the player in and performs a slash in an AoE around Maguu Kenki
+{% endembed %}
 
 #### Phantom: Whirlwind Slash
 
-{% embed url="https://gfycat.com/slipperytinybass" caption="Variant 1: Performs a Whirlwind Slash, followed up by a larger Phantom Whirlwind Slash" %}
+{% embed url="https://gfycat.com/slipperytinybass" %}
+Variant 1: Performs a Whirlwind Slash, followed up by a larger Phantom Whirlwind Slash
+{% endembed %}
 
-{% embed url="https://gfycat.com/backsoupyamurstarfish" caption="Variant 2: Splits off a Phantom and simultaneously performs a Whirlwind Slash" %}
+{% embed url="https://gfycat.com/backsoupyamurstarfish" %}
+Variant 2: Splits off a Phantom and simultaneously performs a Whirlwind Slash
+{% endembed %}
 
 ### Phantom: Ranged Slash
 
-{% embed url="https://gfycat.com/femininelittleacornwoodpecker" caption="Splits off a Phantom and fires a series of slicing projectiles at the player" %}
+{% embed url="https://gfycat.com/femininelittleacornwoodpecker" %}
+Splits off a Phantom and fires a series of slicing projectiles at the player
+{% endembed %}
 
 **Maguu Kenki** will turn and continue aiming at the player for the duration of this attack. Make sure to be constantly running to the side to avoid this attack.
 
-Getting caught by the initial slice\(s\) can be deadly, as they can stagger you if you take enough damage, leaving you vulnerable to the followup attacks. Make sure to dodge and/or save a **Burst** to avoid this attack if possible.
-
-
+Getting caught by the initial slice(s) can be deadly, as they can stagger you if you take enough damage, leaving you vulnerable to the followup attacks. Make sure to dodge and/or save a **Burst** to avoid this attack if possible.
 
 
 

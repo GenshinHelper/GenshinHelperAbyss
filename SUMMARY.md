@@ -5,7 +5,7 @@
 
 ## Floors
 
-* [Abyssal Corridor \(F1-8\)](floors/corridor/README.md)
+* [Abyssal Corridor (F1-8)](floors/corridor/README.md)
   * [Floor 1](floors/corridor/floor-1.md)
   * [Floor 2](floors/corridor/floor-2.md)
   * [Floor 3](floors/corridor/floor-3.md)
@@ -14,7 +14,7 @@
   * [Floor 6](floors/corridor/floor-6.md)
   * [Floor 7](floors/corridor/floor-7.md)
   * [Floor 8](floors/corridor/floor-8.md)
-* [Abyssal Moon Spire \(F9-12\)](floors/spire/README.md)
+* [Abyssal Moon Spire (F9-12)](floors/spire/README.md)
   * [Floor 9](floors/spire/floor-9.md)
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
@@ -122,26 +122,27 @@
   * [April](changelogs/2021/april.md)
   * [March](changelogs/2021/march-2021.md)
 
----
+***
 
 * [About Us](about-us.md)
 * [Credits](credits.md)
 * [Resources](resources.md)
-* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdnLSeAA72X_3wN0wzVfXKqzUSo1p57xz63JuTwqf7ZBY7cCg/viewform?usp=sf_link)
+* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdnLSeAA72X\_3wN0wzVfXKqzUSo1p57xz63JuTwqf7ZBY7cCg/viewform?usp=sf_link)
 
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
-  * [Floor 11 \(v2.0\)](archive/previous-floors/floor-11-v20.md)
-  * [Floor 12 \(v2.0\)](archive/previous-floors/floor-12-v20.md)
-  * [Floor 9 \(v1.6\)](archive/previous-floors/floor-9-v16.md)
-  * [Floor 10 \(v1.6\)](archive/previous-floors/floor-10-v16.md)
-  * [Floor 11 \(v1.6\)](archive/previous-floors/floor-11-v16.md)
-  * [Floor 12 \(v1.6\)](archive/previous-floors/floor-12-v16.md)
-  * [Floor 9 \(v1.2 - v1.5\)](archive/previous-floors/floor-9-v15.md)
-  * [Floor 10 \(v1.2 - v1.5\)](archive/previous-floors/floor-10-v15.md)
-  * [Floor 11 \(v1.4 - v1.5\)](archive/previous-floors/floor-11-v15.md)
-  * [Floor 12 \(v1.4 - v1.5\)](archive/previous-floors/floor-12-v15.md)
-  * [Floor 11 \(v1.2 - 1.4\)](archive/previous-floors/floor-11-v14.md)
-  * [Floor 12 \(v1.3 - 1.4\)](archive/previous-floors/floor-12-v14.md)
-
+  * [Floor 12 (v2.1)](archive/previous-floors/floor-12.md)
+  * [Floor 11 (v2.1)](archive/previous-floors/floor-11.md)
+  * [Floor 11 (v2.0)](archive/previous-floors/floor-11-v20.md)
+  * [Floor 12 (v2.0)](archive/previous-floors/floor-12-v20.md)
+  * [Floor 9 (v1.6)](archive/previous-floors/floor-9-v16.md)
+  * [Floor 10 (v1.6)](archive/previous-floors/floor-10-v16.md)
+  * [Floor 11 (v1.6)](archive/previous-floors/floor-11-v16.md)
+  * [Floor 12 (v1.6)](archive/previous-floors/floor-12-v16.md)
+  * [Floor 9 (v1.2 - v1.5)](archive/previous-floors/floor-9-v15.md)
+  * [Floor 10 (v1.2 - v1.5)](archive/previous-floors/floor-10-v15.md)
+  * [Floor 11 (v1.4 - v1.5)](archive/previous-floors/floor-11-v15.md)
+  * [Floor 12 (v1.4 - v1.5)](archive/previous-floors/floor-12-v15.md)
+  * [Floor 11 (v1.2 - 1.4)](archive/previous-floors/floor-11-v14.md)
+  * [Floor 12 (v1.3 - 1.4)](archive/previous-floors/floor-12-v14.md)

@@ -3,18 +3,18 @@
 ![](../../.gitbook/assets/ruin-guard.jpg)
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% | 10% | 10% | 10% | **70%** |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **70%**                    |
 
 ## Tips and Mechanics
 
-Ruin Guards have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based carry. If you do, always bring **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) ****to reduce their resistance by **40%.**
+Ruin Guards have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) )** **to reduce their resistance by **40%.**
 
 ### Weak Point
 
-The **Ruin Guard** has two **weak points** - one on the **front** \(eye\) and another on the **back** in a similar location.
+The **Ruin Guard** has two **weak points** - one on the **front** (eye) and another on the **back** in a similar location.
 
-You must hit a weak point **two times in a row** to stun the **Ruin Guard**. If you miss the second shot, both **weak points** will become invulnerable for a short duration \(**~10s**\)
+You must hit a weak point **two times in a row** to stun the **Ruin Guard**. If you miss the second shot, both **weak points** will become invulnerable for a short duration (**\~10s**)
 
 ![Stunning the Ruin Guard with two shots to the front weak point](../../.gitbook/assets/ruinguard_stun.gif)
 
@@ -42,9 +42,8 @@ The **back weak point** is most exposed during the missile attack. Hit it and fo
 
 ### Spin
 
-![Spins rapidly, damaging everything around it \(2x speed\)](../../.gitbook/assets/ruinguard_spin.gif)
+![Spins rapidly, damaging everything around it (2x speed)](../../.gitbook/assets/ruinguard_spin.gif)
 
 ![](../../.gitbook/assets/ruinguard_spin_stun.gif)
 
 Hitting either **weak point** will interrupt the spin, but it can be difficult to time. **Freeze** can be an effective way of landing a **weak point** shot during a spin.
-

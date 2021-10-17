@@ -2,25 +2,25 @@
 
 ## Mechanics
 
-Removing a debuff \(**cleansing**\) can only be done by applying an element to a character and triggering an **Elemental Reaction** with the debuff element. 
+Removing a debuff (**cleansing**) can only be done by applying an element to a character and triggering an **Elemental Reaction** with the debuff element. 
 
 ### Strong/Weak Cleanses
 
 Abilities that apply elements that are **strong** against the debuff element work the best. Using an element that is **weak** against the debuff may only **partially cleanse** the element, and require multiple applications/reactions before fulling removing the debuff.
 
-| Debuff | Strong | Neutral | Weak | Not Effective |
-| :---: | :---: | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  |  ![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/cryo_small.png) | - |
-| ![](../../.gitbook/assets/hydro_small.png) | - | ![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) |
-| ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png) | ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png) | ![](../../.gitbook/assets/electro_small.png) | - |
-| ![](../../.gitbook/assets/electro_small.png) | ![](../../.gitbook/assets/cryo_small.png) | ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png) | - | ![](../../.gitbook/assets/hydro_small.png) |
+|                    Debuff                    |                    Strong                   |                                         Neutral                                         |                     Weak                     |                                     Not Effective                                     |
+| :------------------------------------------: | :-----------------------------------------: | :-------------------------------------------------------------------------------------: | :------------------------------------------: | :-----------------------------------------------------------------------------------: |
+|  ![](../../.gitbook/assets/pyro_small.png)   | ![](../../.gitbook/assets/hydro_small.png)  |  ![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/anemo_small.png) |   ![](../../.gitbook/assets/cryo_small.png)  |                                           -                                           |
+|  ![](../../.gitbook/assets/hydro_small.png)  |                      -                      |                        ![](../../.gitbook/assets/anemo_small.png)                       |   ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)![](../../.gitbook/assets/electro_small.png) |
+|   ![](../../.gitbook/assets/cryo_small.png)  |  ![](../../.gitbook/assets/pyro_small.png)  |   ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/electro_small.png) |                                           -                                           |
+| ![](../../.gitbook/assets/electro_small.png) |  ![](../../.gitbook/assets/cryo_small.png)  |   ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/anemo_small.png)   |                       -                      |                       ![](../../.gitbook/assets/hydro_small.png)                      |
 
 The weaker the cleanse, the more applications of the element it will take to remove the debuff. Table below shows the number of reactions that need to be triggered.
 
-| Type | Strong | Neutral | Weak |
-| :--- | :---: | :---: | :---: |
-| Stage Debuff | 1 | 2 | 4 |
-| Aura Debuff | 1 | 1 | 2 |
+| Type         | Strong | Neutral | Weak |
+| ------------ | :----: | :-----: | :--: |
+| Stage Debuff |    1   |    2    |   4  |
+| Aura Debuff  |    1   |    1    |   2  |
 
 ### **Stage Debuff**
 
@@ -48,10 +48,10 @@ Aura debuffs apply a fixed amount of element to your active character. However, 
 
 ![](../../.gitbook/assets/cleanse_noeffect.gif)
 
-The example above shows attempting to cleanse![](../../.gitbook/assets/hydro_small.png)with ![](../../.gitbook/assets/pyro_small.png)\(**weak cleanse**\) from a shield. In order to clear the debuff, we need **2 applications** of ![](../../.gitbook/assets/pyro_small.png). However, in order to do this we have to switch characters, which causes the debuff to refresh. The end result is that Xinyan's skill cannot cleanse the  ![](../../.gitbook/assets/hydro_small.png) debuff!
+The example above shows attempting to cleanse![](../../.gitbook/assets/hydro_small.png)with ![](../../.gitbook/assets/pyro_small.png)(**weak cleanse**) from a shield. In order to clear the debuff, we need **2 applications** of ![](../../.gitbook/assets/pyro_small.png). However, in order to do this we have to switch characters, which causes the debuff to refresh. The end result is that Xinyan's skill cannot cleanse the  ![](../../.gitbook/assets/hydro_small.png) debuff!
 
 {% hint style="info" %}
-Aura debuffs apply **1 Unit** of **Elemental Gauge**.
+Aura debuffs apply **1 Unit **of **Elemental Gauge**.
 {% endhint %}
 
 ### Reaction Trigger
@@ -76,11 +76,11 @@ These talents will periodically apply elements to the active character **every f
 
 For weaker cleanses, you may need to wait for multiple ticks before the element is removed.
 
-| Character | Applied Element | Talent | Timer |
-| :---: | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_bennett.png)  | ![](../../.gitbook/assets/pyro_small.png)  | Burst | 1s |
-| ![](../../.gitbook/assets/ui_avataricon_barbara.png)  | ![](../../.gitbook/assets/hydro_small.png)  | Skill | 5s |
-| ![](../../.gitbook/assets/ui_avataricon_jean.png)  | ![](../../.gitbook/assets/anemo_small.png)  | Burst | 1s |
+|                       Character                       |               Applied Element               | Talent | Timer |
+| :---------------------------------------------------: | :-----------------------------------------: | :----: | :---: |
+| ![](../../.gitbook/assets/ui_avataricon_bennett.png)  |  ![](../../.gitbook/assets/pyro_small.png)  |  Burst |   1s  |
+| ![](../../.gitbook/assets/ui_avataricon_barbara.png)  | ![](../../.gitbook/assets/hydro_small.png)  |  Skill |   5s  |
+|   ![](../../.gitbook/assets/ui_avataricon_jean.png)   | ![](../../.gitbook/assets/anemo_small.png)  |  Burst |   1s  |
 
 ### Shields
 
@@ -88,18 +88,17 @@ Shields apply their element **when used**, but again whenever you **switch chara
 
 For weaker cleanses, you may need to switch multiple times before the element is removed.
 
-| Character | Applied Element | Talent |
-| :---: | :---: | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_diona.png)  | ![](../../.gitbook/assets/cryo_small.png)  | Skill |
-| ![](../../.gitbook/assets/ui_avataricon_xinyan.png)  | ![](../../.gitbook/assets/pyro_small.png)  | Skill |
+|                       Character                      |               Applied Element              | Talent |
+| :--------------------------------------------------: | :----------------------------------------: | :----: |
+|  ![](../../.gitbook/assets/ui_avataricon_diona.png)  | ![](../../.gitbook/assets/cryo_small.png)  |  Skill |
+| ![](../../.gitbook/assets/ui_avataricon_xinyan.png)  | ![](../../.gitbook/assets/pyro_small.png)  |  Skill |
 
 ## Self Cleansers
 
 These talents will only apply the element to themselves. They are not useful for clearing **stage debuffs** from your team, but can be effective at clearing **aura debuffs.**
 
-| Character | Applied Element | Talent | Timer |
-| :---: | :---: | :---: | :---: |
-| ![](../../.gitbook/assets/ui_avataricon_beidou.png) | ![](../../.gitbook/assets/electro_small.png) | Skill | - |
-| ![](../../.gitbook/assets/ui_avataricon_razor.png)  | ![](../../.gitbook/assets/electro_small.png)  | Burst | 2s |
-| ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  | ![](../../.gitbook/assets/hydro_small.png)  | Skill | - |
-
+|                       Character                       |                Applied Element                | Talent | Timer |
+| :---------------------------------------------------: | :-------------------------------------------: | :----: | :---: |
+|  ![](../../.gitbook/assets/ui_avataricon_beidou.png)  |  ![](../../.gitbook/assets/electro_small.png) |  Skill |   -   |
+|  ![](../../.gitbook/assets/ui_avataricon_razor.png)   | ![](../../.gitbook/assets/electro_small.png)  |  Burst |   2s  |
+| ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)  |  ![](../../.gitbook/assets/hydro_small.png)   |  Skill |   -   |

@@ -3,14 +3,14 @@
 ![](../../.gitbook/assets/perpetual-mechanical-arrray.jpg)
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% | 10% | 10% | 10% | **70%** |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **70%**                    |
 
 ## Tips and Mechanics
 
 **Weak Point** - None
 
-The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based DPS. If you do, always bring **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) ****to reduce their resistance by **40%.**
+The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based DPS. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) )** **to reduce their resistance by **40%.**
 
 Most of the **Perpetual Mechanical Array's** attacks can be dodged easily at the right time. Learn the attack timings so you can focus on dealing damage.
 
@@ -24,37 +24,49 @@ The **Perpetual Mechanical Array** has reduced defenses when stunned. Use the **
 
 ### Rocket
 
-{% embed url="https://gfycat.com/pastelslightibadanmalimbe" caption="Transforms into a rocket, flying into the air and landing on the player for Physical DMG" %}
+{% embed url="https://gfycat.com/pastelslightibadanmalimbe" %}
+Transforms into a rocket, flying into the air and landing on the player for Physical DMG
+{% endembed %}
 
 Simply dodge out when the AoE indicator appears to avoid the attack.
 
 ### Laser
 
-{% embed url="https://gfycat.com/smugdeterminedlcont" caption="Charges up and fires a laser beam that follows the player, dealing Physical DMG" %}
+{% embed url="https://gfycat.com/smugdeterminedlcont" %}
+Charges up and fires a laser beam that follows the player, dealing Physical DMG
+{% endembed %}
 
 The Laser has a minimum range. If you get close to the **Perpetual Mechanical Array** it will interrupt this attack early.
 
 ### Orbital Strike
 
-{% embed url="https://gfycat.com/uniquedeficientalligator" caption=" Beam tracks the player for a while, before firing in an AoE for Physical DMG" %}
+{% embed url="https://gfycat.com/uniquedeficientalligator" %}
+ Beam tracks the player for a while, before firing in an AoE for Physical DMG
+{% endembed %}
 
 Dodge out of the way when you see the AoE indicator to avoid the attack.
 
 ### Blade Spin
 
-{% embed url="https://gfycat.com/majormenacinghaddock" caption="Turns into a sawblade and rushes at the player" %}
+{% embed url="https://gfycat.com/majormenacinghaddock" %}
+Turns into a sawblade and rushes at the player
+{% endembed %}
 
 Only used when player is close to the **Perpetual Mechanical Array**.
 
 ### Sword Slam
 
-{% embed url="https://gfycat.com/impossiblepointlessinvisiblerail" caption="Turns into a sword and slashes down at the player" %}
+{% embed url="https://gfycat.com/impossiblepointlessinvisiblerail" %}
+Turns into a sword and slashes down at the player
+{% endembed %}
 
 Only used when player is close to the **Perpetual Mechanical Array**.
 
 ### Dice Roll
 
-{% embed url="https://gfycat.com/masculinecheapimago" caption="Turns into a cube, and rushes at the player" %}
+{% embed url="https://gfycat.com/masculinecheapimago" %}
+Turns into a cube, and rushes at the player
+{% endembed %}
 
 Once it reaches a player, performs an AoE slam after a delay.
 
@@ -62,7 +74,9 @@ This ability is only used when the player is far from the **Perpetual Mechanical
 
 ### Divide
 
-{% embed url="https://gfycat.com/dearestdeficientchital" caption="Splits off into four Ruin constructs " %}
+{% embed url="https://gfycat.com/dearestdeficientchital" %}
+Splits off into four Ruin constructs 
+{% endembed %}
 
 This ability is used after **40 seconds**, or if the **Perpetual Mechanical Array** is brought below a certain threshold of HP.
 
@@ -89,11 +103,11 @@ While **stunned**, it will have **-50% RES**, making it much more vulnerable to 
 
 ### Reconstruct
 
-{% embed url="https://gfycat.com/classicloathsomegoral" caption="Reforms into a single cube" %}
+{% embed url="https://gfycat.com/classicloathsomegoral" %}
+Reforms into a single cube
+{% endembed %}
 
 After **20 seconds** of being stunned, it will reform into the cube and use it's regular moveset.
-
-
 
 
 

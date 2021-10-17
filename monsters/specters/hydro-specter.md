@@ -1,8 +1,8 @@
 # Hydro Specter
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% |  **∞%** | 10% | 10% | 10% | 10% | 10% | 10% |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                    **∞%**                   |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
 
@@ -24,13 +24,17 @@ When **enraged**, they will change their attack patterns, deal more damage, and 
 
 ### Homing Missile
 
-{% embed url="https://gfycat.com/pleasantboldbirdofparadise" caption="Fires a missile that follows the player" %}
+{% embed url="https://gfycat.com/pleasantboldbirdofparadise" %}
+Fires a missile that follows the player
+{% endembed %}
 
 This attack can be difficult to avoid. Try dashing through it or using a shield to block the damage.
 
 ### Healing Blast
 
-{% embed url="https://gfycat.com/organicdrearygecko" caption="Creates a ripple under the player, which explodes after a delay" %}
+{% embed url="https://gfycat.com/organicdrearygecko" %}
+Creates a ripple under the player, which explodes after a delay
+{% endembed %}
 
 The blast deals![](../../.gitbook/assets/hydro_small.png)**DMG** to enemies, but heals allies for **33% HP**.
 
@@ -38,21 +42,23 @@ The ability can also heal itself.
 
 {% embed url="https://gfycat.com/legaltallbuck" %}
 
-### Splash \(Enraged\)
+### Splash (Enraged)
 
-{% embed url="https://gfycat.com/spiritedboilingivorybackedwoodswallow" caption="Deals Hydro DMG in an AoE" %}
+{% embed url="https://gfycat.com/spiritedboilingivorybackedwoodswallow" %}
+Deals Hydro DMG in an AoE
+{% endembed %}
 
 This ability is only used while **enraged**, and is the only attack performed in this state.
 
 ### Detonate
 
-{% embed url="https://gfycat.com/kindlyacclaimedcrab" caption="Explodes in a small AoE once killed" %}
+{% embed url="https://gfycat.com/kindlyacclaimedcrab" %}
+Explodes in a small AoE once killed
+{% endembed %}
 
 If **enraged**, the **DMG** and **AoE** are larger.
 
 {% embed url="https://gfycat.com/costlygravechimpanzee" %}
-
-
 
 
 

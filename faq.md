@@ -4,7 +4,7 @@
 
 ### What teams should I use for Abyss
 
-While you could try to use a single team for all floors, Abyss teams tend to change per floor based on the Divergence \(floor buff\) and mobs on each floor. Here's a simple approach you can use:
+While you could try to use a single team for all floors, Abyss teams tend to change per floor based on the Divergence (floor buff) and mobs on each floor. Here's a simple approach you can use:
 
 1. Pick a **Main carry/DPS** to use. Check the build docs for recommendations on who can fit this role.
 2. Pick a **Healer** for the team. If possible, pick a character that synergizes with your main by providing buffs, reactions, or resonance.
@@ -13,21 +13,25 @@ While you could try to use a single team for all floors, Abyss teams tend to cha
 
 For more detailed info, check out the guide below:
 
-{% page-ref page="teambuilding/building-a-composition.md" %}
+{% content-ref url="teambuilding/building-a-composition.md" %}
+[building-a-composition.md](teambuilding/building-a-composition.md)
+{% endcontent-ref %}
 
 ### What level should my characters be?
 
 Always focus on leveling your **Main carry/DPS** first. The characters and their weapons should be **maxed out for your WL**. If your main carry is more than 10 levels below the mobs on the floor, it may be challenging to beat it.
 
-**Support** characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their **60/70 ascension** \(meaning ascending from lvl 60, but not levelling them to 70\). This unlocks their last passive talent.
+**Support **characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their **60/70 ascension **(meaning ascending from lvl 60, but not levelling them to 70). This unlocks their last passive talent.
 
-Characters only used for **shield breaking** do not need any levels at all. Their skills are equally effective at level 1 \(as long as you can keep them alive!\).
+Characters only used for** shield breaking** do not need any levels at all. Their skills are equally effective at level 1 (as long as you can keep them alive!).
 
 It is not recommended you level characters past 80/90 as there is very little benefit for the cost. Put these resources into Supports and Sub DPS characters.
 
 For more detailed info, check out the guide below:
 
-{% page-ref page="teambuilding/character-investment.md" %}
+{% content-ref url="teambuilding/character-investment.md" %}
+[character-investment.md](teambuilding/character-investment.md)
+{% endcontent-ref %}
 
 ## Spiral Abyss Reset
 
@@ -67,7 +71,7 @@ This also means you don't have to 9★ a floor in one run! You can build a team 
 
 ### I cleared 8-3 but I didn't get the 2400 Primogems shown in the Event?
 
-![Moment of Syzygy &quot;Event&quot; Banner](.gitbook/assets/moment_of_syzygy.jpg)
+![Moment of Syzygy "Event" Banner](.gitbook/assets/moment_of_syzygy.jpg)
 
 The rewards advertised in the **Moment of Syzygy** banner are **not a separate reward!** It's simply a summary of all the rewards you would normally get from **clearing and 9**★-**ing Floors 1-8**. There is no bonus after completing 8-3.
 
@@ -95,7 +99,9 @@ In general, just choose offensive buff cards and ignore any defensive ones.
 
 Check out the detailed section on buff cards below:
 
-{% page-ref page="mechanics/buff-cards.md" %}
+{% content-ref url="mechanics/buff-cards.md" %}
+[buff-cards.md](mechanics/buff-cards.md)
+{% endcontent-ref %}
 
 ### Does the 25% heal card revive dead characters?
 
@@ -117,13 +123,15 @@ Check out the infographics on the floor if you need a hint on which enemies will
 
 Anemo characters need to be **within 20 levels** of an enemy to properly CC them. This means for example, on Floor 12-3 with level 100 mobs, your Anemo characters need to be at least level 80.
 
-### What characters can get rid of this elemental debuff \(cleanse\)?
+### What characters can get rid of this elemental debuff (cleanse)?
 
-{% page-ref page="mechanics/debuffs/removing-debuffs.md" %}
+{% content-ref url="mechanics/debuffs/removing-debuffs.md" %}
+[removing-debuffs.md](mechanics/debuffs/removing-debuffs.md)
+{% endcontent-ref %}
 
 ### I keep dying to this Ice Cage/Vortex/Fireball and I don't know where it's coming from
 
-Some enemies come with additional abilities that will activate periodically as long as they're alive \(usually referred to as **auras**\). You can tell these enemies part because they will have a swirly circle indicator below them. Killing the enemy is the only way to stop these abilities from happening.
+Some enemies come with additional abilities that will activate periodically as long as they're alive (usually referred to as **auras**). You can tell these enemies part because they will have a swirly circle indicator below them. Killing the enemy is the only way to stop these abilities from happening.
 
 See [Auras](mechanics/auras/) for details on each individual effect.
 
@@ -136,4 +144,3 @@ This is a bug that can happen after co-op. Leave for now and restart the game. T
 Fatui gain massive damage resistance until their shield is broken with the right element.
 
 See [Shields](mechanics/shields.md) for more details on how shields work, as well as [Fatui](monsters/fatui/) in the monsters section for tips on each one.
-

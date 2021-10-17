@@ -3,14 +3,14 @@
 ![](../../.gitbook/assets/ruin-hunter.png)
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% | 10% | 10% | 10% | **50%** |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **50%**                    |
 
 ## Tips and Mechanics
 
 **Weak Point** - Eye
 
-Ruin Guards have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based carry. If you do, always bring **Superconduct** \( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) \) ****to reduce their resistance by **40%.**
+Ruin Guards have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) )** **to reduce their resistance by **40%.**
 
 It takes a while for the **Ruin Hunter** to go into **Aerial Mode**. Try to do enough damage to destroy it before it lifts up. If you're not able to, make sure you bring a **Bow** character to disabled it when it flies.
 
@@ -18,9 +18,9 @@ It takes a while for the **Ruin Hunter** to go into **Aerial Mode**. Try to do e
 
 While slow, the attacks hit hard. If you're not skilled at dodging them, consider bringing a **shield** character to prevent being staggered by it's attacks.
 
-Avoid using skills that put your character into the air \(for example **Xiao's** **Burst**\). If you are unable to be hit by the ground attacks, this will immediately trigger **Aerial Mode**. If you have a **Bow** character, you could also do this intentionally in order to stun it faster.
+Avoid using skills that put your character into the air (for example **Xiao's** **Burst**). If you are unable to be hit by the ground attacks, this will immediately trigger **Aerial Mode**. If you have a **Bow** character, you could also do this intentionally in order to stun it faster.
 
-## Abilities \(Ground\)
+## Abilities (Ground)
 
 ### Slash
 
@@ -44,7 +44,7 @@ The **Ruin Hunter** will change modes after performing a few attacks on the grou
 
 This can also be initiated if the player gets themselves out of reach of the ground attacks - for example by jumping into the air with **Xiao**.
 
-## Abilities \(Air\)
+## Abilities (Air)
 
 ### Missile Barrage
 
@@ -61,4 +61,3 @@ This can also be initiated if the player gets themselves out of reach of the gro
 ### Stunned
 
 ![Hitting the eye while in the air will stun the Ruin Hunter briefly](../../.gitbook/assets/ruinhunter_disable.gif)
-

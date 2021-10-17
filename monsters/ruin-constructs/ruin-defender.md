@@ -5,8 +5,8 @@
 ## Resistances
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% | 10% | 10% | 10% | **50%** |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **50%**                    |
 
 ## Tips and Mechanics
 
@@ -20,9 +20,11 @@ The **Ruin Defender** is not particularly threatening, but the **Shield** can ma
 
 ### Shield
 
-{% embed url="https://gfycat.com/granularimmediateboto" caption="Activates a shield, protecting from attacks on the front." %}
+{% embed url="https://gfycat.com/granularimmediateboto" %}
+Activates a shield, protecting from attacks on the front.
+{% endembed %}
 
-This works similarly to other **physical shields** \(see [Shields](../../mechanics/shields.md)\). Simply attack it from behind, or use **Freeze** to bypass the shield entirely.
+This works similarly to other **physical shields** (see [Shields](../../mechanics/shields.md)). Simply attack it from behind, or use **Freeze** to bypass the shield entirely.
 
 The **Ruin Defender** turns slower than other enemies with physical shields, making it possible to continually run behind it for attacks.
 
@@ -32,23 +34,30 @@ This ability lasts about **15 seconds**.
 
 ### Shield Smash
 
-{% embed url="https://gfycat.com/hoarseajarkite" caption="Thrusts the shield forward at the player." %}
+{% embed url="https://gfycat.com/hoarseajarkite" %}
+Thrusts the shield forward at the player.
+{% endembed %}
 
-This attack is only used when **Shield** is active, and only if you enter **melee** range. There's about a **10 second** cooldown before this ability can be used again.
+This attack is only used when **Shield** is active, and only if you enter **melee **range. There's about a **10 second** cooldown before this ability can be used again.
 
 ### Stab
 
-{% embed url="https://gfycat.com/cluelessillustriouskinglet" caption="A forward thrusting attack." %}
+{% embed url="https://gfycat.com/cluelessillustriouskinglet" %}
+A forward thrusting attack.
+{% endembed %}
 
 ### Leap
 
-{% embed url="https://gfycat.com/nervousmediocrebantamrooster" caption="Jumps into the air and lands, dealing damage in an AoE." %}
+{% embed url="https://gfycat.com/nervousmediocrebantamrooster" %}
+Jumps into the air and lands, dealing damage in an AoE.
+{% endembed %}
 
 ### Cannon
 
-{% embed url="https://gfycat.com/exhaustedsomeaustraliancattledog" caption="Charges up, then releases an energy blast at the player." %}
+{% embed url="https://gfycat.com/exhaustedsomeaustraliancattledog" %}
+Charges up, then releases an energy blast at the player.
+{% endembed %}
 
 The **core** is **exposed** while this attack is charging. Hit the weak point during to stun it.
 
 {% embed url="https://gfycat.com/antiqueselfassuredlamb" %}
-

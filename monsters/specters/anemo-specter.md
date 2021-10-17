@@ -3,8 +3,8 @@
 ![](../../.gitbook/assets/specter-anemo-.jpg)
 
 | ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
-| :---: | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| 10% | 10% | 10% | 10% |  **∞%** | 10% | 10% | 10% |
+| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                    **∞%**                   |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
 
@@ -22,25 +22,31 @@ When **enraged**, they will change their attack patterns, deal more damage, and 
 
 ### Homing Missile
 
-{% embed url="https://gfycat.com/bigheartedrapidamericancrocodile" caption="Shoots two missiles that slightly curve towards the player" %}
+{% embed url="https://gfycat.com/bigheartedrapidamericancrocodile" %}
+Shoots two missiles that slightly curve towards the player
+{% endembed %}
 
 ### Swirl
 
-{% embed url="https://gfycat.com/generousoilygavial" caption="After a brief delay, deals AoE Anemo damage" %}
+{% embed url="https://gfycat.com/generousoilygavial" %}
+After a brief delay, deals AoE Anemo damage
+{% endembed %}
 
 This attack is only used if you get into melee range
 
-### Triple Shot \(Enraged\)
+### Triple Shot (Enraged)
 
-{% embed url="https://gfycat.com/insecurealarmedindigobunting" caption="Fires 3 quick shots in a cone" %}
+{% embed url="https://gfycat.com/insecurealarmedindigobunting" %}
+Fires 3 quick shots in a cone
+{% endembed %}
 
 ### Detonate
 
-{% embed url="https://gfycat.com/glumtartaxolotl" caption="Explodes in a small AoE once killed" %}
+{% embed url="https://gfycat.com/glumtartaxolotl" %}
+Explodes in a small AoE once killed
+{% endembed %}
 
 If **enraged**, the **DMG** and **AoE** are larger, and it leaves behind a vortex which deals damage over time.
 
 {% embed url="https://gfycat.com/lavishexaltedkakapo" %}
-
-
 
