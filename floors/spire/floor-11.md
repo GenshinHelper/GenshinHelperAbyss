@@ -93,7 +93,7 @@ You can either run to the side between them to group them, or stay on one of the
 
 ### Side 1
 
-![](../../.gitbook/assets/hypostasis-pyro.png)
+![](../../.gitbook/assets/hypostasis-hydro.png)
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
@@ -103,7 +103,7 @@ See the In Depth Guide for tips.
 
 ### Side 2
 
-![](../../.gitbook/assets/hypostasis-pyro.png)
+![](../../.gitbook/assets/hypostasis-pyro-.png)
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
