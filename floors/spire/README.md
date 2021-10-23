@@ -10,11 +10,11 @@ Your progress in the Abyssal Moon Spire **resets twice a month**, once on the **
 [floor-10.md](floor-10.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archive/previous-floors/floor-11.md" %}
-[floor-11.md](../../archive/previous-floors/floor-11.md)
+{% content-ref url="floor-11.md" %}
+[floor-11.md](floor-11.md)
 {% endcontent-ref %}
 
-{% content-ref url="../../archive/previous-floors/floor-12.md" %}
-[floor-12.md](../../archive/previous-floors/floor-12.md)
+{% content-ref url="floor-12.md" %}
+[floor-12.md](floor-12.md)
 {% endcontent-ref %}
 

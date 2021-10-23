@@ -1,22 +1,26 @@
 # Floor 11
 
-## Pyro/Hydro Buff
+## Divergence
 
-The Pyro and Hydro buff of 60% for both elemental damage types is** **really strong. There is not much else to be said about this buff other than that Pyro is heavily favored on side 1 and Hydro is heavily favored on side 2.
+![](../../.gitbook/assets/pyro\_small.png)**DMG **dealt by all party members increased by **60%.**
+
+![](../../.gitbook/assets/hydro\_small.png)**DMG** dealt by all party members increased by **60%.**
 
 ## General Tips
 
-Having the correct elements for each side is crucial here. Some elements are very strong on some sides and some elements awful due to immunities. 
+Try to build teams to take advantage of the divergence buffs. In particular,![](../../.gitbook/assets/pyro\_small.png)is very favored Side 1 and![](../../.gitbook/assets/hydro\_small.png)is very favored Side 2.
+
+Having the correct elements for each side is crucial here, as there are immune enemies for each side. Do not bring![](../../.gitbook/assets/hydro\_small.png)Side 1 and do not bring![](../../.gitbook/assets/pyro\_small.png)Side 2.
 
 ## Team Recommendations
 
-|                            |                                                                                                                                                                                  Side 1                                                                                                                                                                                  |                                                                            Side 2                                                                           |
-| -------------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Shieldbreakers**         |                                                                                                                                            ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)                                                                                                                                            |                                                          ![](../../.gitbook/assets/hydro_small.png)                                                         |
-| **Preferred DPS Elements** |                                                                                                                                                                 ![](../../.gitbook/assets/pyro_small.png)                                                                                                                                                                |                                     ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)                                     |
-| **Avoid DPS Elements**     |                                                                                                                                                                ![](../../.gitbook/assets/hydro_small.png)                                                                                                                                                                |                                                          ![](../../.gitbook/assets/pyro_small.png)                                                          |
-| **4**★ **Supports**        | ![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png)![](../../.gitbook/assets/ui_avataricon_amber.png) | ![](../../.gitbook/assets/ui_avataricon_xingqiu.png)![](../../.gitbook/assets/ui_avataricon_barbara.png)![](../../.gitbook/assets/ui_avataricon_noelle.png) |
-| **5**★ **Supports**        |                                                                                                          ![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_jean.png)                                                                                                          |   ![](../../.gitbook/assets/ui_avataricon_mona.png)![](../../.gitbook/assets/ui_avataricon_kokomi.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png)  |
+|                            |                                                                                                                                                                                         Side 1                                                                                                                                                                                         |                                                                               Side 2                                                                              |
+| -------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Shieldbreakers**         |                                                                                                                                                  ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                                                                                                  |                                                            ![](../../.gitbook/assets/hydro\_small.png)                                                            |
+| **Preferred DPS Elements** |                                                                                                                                                                       ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                                                                       |                                       ![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                       |
+| **Avoid DPS Elements**     |                                                                                                                                                                       ![](../../.gitbook/assets/hydro\_small.png)                                                                                                                                                                      |                                                             ![](../../.gitbook/assets/pyro\_small.png)                                                            |
+| **4**★ **Supports**        | ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_amber.png) | ![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../../.gitbook/assets/ui\_avataricon\_barbara.png)![](../../.gitbook/assets/ui\_avataricon\_noelle.png) |
+| **5**★ **Supports**        |                                                                                                              ![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)                                                                                                              |   ![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)  |
 
 ## Chamber 1
 
@@ -24,17 +28,29 @@ Having the correct elements for each side is crucial here. Some elements are ver
 
 ### Side 1
 
-![](../../.gitbook/assets/10-1-1v20.png)
+![](../../.gitbook/assets/11-1-1v22.png)
 
-| **In Depth Guide**                                                     | Other Info               |
-| ---------------------------------------------------------------------- | ------------------------ |
-| [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md) | INFOGRAPHIC NOT UPDATED. |
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
+| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     |            |
 
-**Bringing a crowd controller** can help beat the slimes and whopper flowers faster. **Target the hydro abyss mage first** in order to stop the bubbles disorder.
+**Bringing a crowd controller** can help beat the slimes and whopper flowers faster, however enemies here will naturally group no matter who you focus.
+
+Target the **Hydro Abyss Mage** first in order to stop the **Mist Bubbles** Aura.
 
 ### Side 2
 
-![](../../.gitbook/assets/10-1-2v20.png)
+![](../../.gitbook/assets/11-1-2v22.png)
+
+****
+
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
+| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     |            |
 
 **Bringing a hydro unit** is needed to break the pyro abyss mage shield.** **Also **target the pyro abyss mage first **in order to stop the pyro disorder.
 
@@ -44,13 +60,13 @@ Having the correct elements for each side is crucial here. Some elements are ver
 
 ### Side 1
 
-![](../../.gitbook/assets/10-2-1v20.png)
+![](../../.gitbook/assets/11-1-1v22.png)
 
-| **In Depth Guide**                                                         | Other Info |
-| -------------------------------------------------------------------------- | ---------- |
-| [Pyro Agent](../../monsters/fatui/pyro-agent.md)                           |            |
-| [Hydrogunner Legionnaire](../../monsters/fatui/hydrogunner-legionnaire.md) |            |
-| [Cryogunner Legionnaire](../../monsters/fatui/cryogunner-legionnaire.md)   |            |
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
+| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")                                                                                                         |            |
 
 **Crowd control **is strong to keep the cicins together.
 
