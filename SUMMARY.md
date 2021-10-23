@@ -113,6 +113,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [v2.2](changelogs/versions/v22.md)
   * [v2.1](changelogs/versions/v21.md)
   * [v2.0](changelogs/versions/v20.md)
 * [2021](changelogs/2021/README.md)
@@ -127,7 +128,7 @@
 * [About Us](about-us.md)
 * [Credits](credits.md)
 * [Resources](resources.md)
-* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdnLSeAA72X\_3wN0wzVfXKqzUSo1p57xz63JuTwqf7ZBY7cCg/viewform?usp=sf_link)
+* [Feedback/Suggestions](https://docs.google.com/forms/d/e/1FAIpQLSdnLSeAA72X\_3wN0wzVfXKqzUSo1p57xz63JuTwqf7ZBY7cCg/viewform?usp=sf\_link)
 
 ## Archive
 
