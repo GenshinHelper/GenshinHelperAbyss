@@ -2,7 +2,7 @@
 
 ## Divergence
 
-![](../../.gitbook/assets/pyro\_small.png)**DMG **dealt by all party members increased by **60%.**
+![](../../.gitbook/assets/pyro\_small.png)**DMG** dealt by all party members increased by **60%.**
 
 ![](../../.gitbook/assets/hydro\_small.png)**DMG** dealt by all party members increased by **60%.**
 
@@ -48,11 +48,10 @@ Target the **Hydro Abyss Mage** first in order to stop the **Mist Bubbles** Aura
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
-| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
-| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     |            |
+| [pyro-whopperflower.md](../../monsters/animals/pyro-whopperflower.md "mention")                                                                                                       |            |
+| <p><a data-mention href="../../monsters/abyss-order/pyro-abyss-mage.md">pyro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/pursuing-fireball.md">pursuing-fireball.md</a></p> |            |
 
-**Bringing a hydro unit** is needed to break the pyro abyss mage shield.** **Also **target the pyro abyss mage first **in order to stop the pyro disorder.
+Target the **Pyro Abyss Mage** first in order to stop the **Pursuing Fireball** Aura.
 
 ## Chamber 2
 
@@ -60,26 +59,33 @@ Target the **Hydro Abyss Mage** first in order to stop the **Mist Bubbles** Aura
 
 ### Side 1
 
-![](../../.gitbook/assets/11-1-1v22.png)
+![](../../.gitbook/assets/11-2-1v22.png)
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
-| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
-| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")                                                                                                         |            |
+| [anemoboxer.md](../../monsters/fatui/anemoboxer "mention")                                                                                                       |            |
+| [cryogunner-legionnaire.md](../../monsters/fatui/cryogunner-legionnaire "mention")                                                                                                       |            |
+| [electro-cicin-mage.md](../../monsters/fatui/electro-cicin-mage "mention")                                                                                                       |            |
+| [cryo-cicin-mage.md](../../monsters/fatui/cryo-cicin-mage "mention")                                                                                                       |            |
 
-**Crowd control **is strong to keep the cicins together.
+Target the **Cryogunner Legionnaires** first, trying to take them out before they shield up. The **Anemoboxers** will run towards you.
+
+Using Crowd Control that can disable the Cicin Mages is very effective and can save a lot of time.
+
+Aim for the **Cryo Cicin Mage** first and try to stagger her before she summons cicins. The **Electro Cicin Mage** will usually come towards you.
 
 ### Side 2
 
-![](../../.gitbook/assets/10-2-2v20.png)
+![](../../.gitbook/assets/11-2-2v22.png)
 
-| **In Depth Guide**                                                       | Other Info |
-| ------------------------------------------------------------------------ | ---------- |
-| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md)         |            |
-| [Electrohammer Vanguard](../../monsters/fatui/electrohammer-vanguard.md) |            |
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [nobushi.md](../../monsters/fatui/nobushi "mention")                                                                                                       |            |
+| <p><a data-mention href="../../monsters/abyss-order/kairagi.md">kairagi.md</a></p><p>> <a data-mention href="../../mechanics/auras/pursuing-fireball.md">pursuing-fireball.md</a></p><p>> <a data-mention href="../../mechanics/auras/lightning-stake.md">lightning-stake.md</a></p> |            |                                                                                                    |            |
 
-**Ensure the 2 Kaigiri's are together **before killing to prevent regeneration.
+Killing one of the **Kairagis** causes the other to heal and become resistant to CC. Try your best to group them and kill them at the same time.
+
+You can either run to the side between them to group them, or stay on one of the **Kairagi** and let the other come to you.
 
 ## Chamber 3
 
@@ -87,18 +93,20 @@ Target the **Hydro Abyss Mage** first in order to stop the **Mist Bubbles** Aura
 
 ### Side 1
 
-![](../../.gitbook/assets/10-3-1v20.png)
+![](../../.gitbook/assets/hypostasis-pyro.png)
 
-| **In Depth Guide**                                         | Other Info |
-| ---------------------------------------------------------- | ---------- |
-| [Abyss Lector](../../monsters/abyss-order/abyss-lector.md) |            |
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [hydro-hypostasis.md](../../monsters/animals/hydro-hypostasis.md "mention")                                                                                                       |            |
 
-Ensure that you **kill the healing slimes.**
+See the In Depth Guide for tips.
 
 ### Side 2
 
-![](../../.gitbook/assets/10-3-2v20.png)
+![](../../.gitbook/assets/hypostasis-pyro.png)
 
-| **In Depth Guide**                                         | Other Info |
-| ---------------------------------------------------------- | ---------- |
-| [Abyss Herald](../../monsters/abyss-order/abyss-herald.md) |            |
+| In Depth Guide                                                                                                                                                                              | Other Info |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| [pyro-hypostasis.md](../../monsters/animals/pyro-hypostasis.md "mention")                                                                                                       |            |
+
+See the In Depth Guide for tips.
