@@ -32,9 +32,9 @@ Having the correct elements for each side is crucial here, as there are immune e
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
-| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
-| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     |            |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       | 130K HP    |
+| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> | 87K HP     |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     | 87K HP     |
 
 **Bringing a crowd controller** can help beat the slimes and whopper flowers faster, however enemies here will naturally group no matter who you focus.
 
@@ -48,9 +48,9 @@ Target the **Hydro Abyss Mage** first in order to stop the **Mist Bubbles** Aura
 
 | In Depth Guide                                                                                                                                                                              | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       |            |
-| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> |            |
-| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     |            |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention")                                                                                                       | 130K HP    |
+| <p><a data-mention href="../../monsters/abyss-order/hydro-abyss-mage.md">hydro-abyss-mage.md</a></p><p>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p> | 87K HP     |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")****                                                                                                     | 87K HP     |
 
 Target the **Pyro Abyss Mage** first in order to stop the **Pursuing Fireball** Aura.
 
@@ -64,10 +64,10 @@ Target the **Pyro Abyss Mage** first in order to stop the **Pursuing Fireball** 
 
 | In Depth Guide                                                                        | Other Info |
 | ------------------------------------------------------------------------------------- | ---------- |
-| [cryogunner-legionnaire.md](../../monsters/fatui/cryogunner-legionnaire.md "mention") |            |
-| [anemoboxer.md](../../monsters/fatui/anemoboxer.md "mention")                         |            |
-| [cryo-cicin-mage.md](../../monsters/fatui/cryo-cicin-mage.md "mention")               |            |
-| [electro-cicin-mage.md](../../monsters/fatui/electro-cicin-mage.md "mention")         |            |
+| [cryogunner-legionnaire.md](../../monsters/fatui/cryogunner-legionnaire.md "mention") | 195K HP    |
+| [anemoboxer.md](../../monsters/fatui/anemoboxer.md "mention")                         | 146K HP    |
+| [cryo-cicin-mage.md](../../monsters/fatui/cryo-cicin-mage.md "mention")               | 244K HP    |
+| [electro-cicin-mage.md](../../monsters/fatui/electro-cicin-mage.md "mention")         | 244K HP    |
 
 Aim for the **Cryo Cicin Mage** first and try to stagger her before she summons cicins. The **Electro Cicin Mage** will usually come towards you.
 
@@ -79,8 +79,8 @@ Using CC to keep the Cicins grouped can save time, as it prevents them from tele
 
 | In Depth Guide                                                                                                                                                                                                                                                                    | Other Info |
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
-| [nobushi.md](../../monsters/untitled/nobushi.md "mention")                                                                                                                                                                                                                        |            |
-| <p><a data-mention href="../../monsters/untitled/kairagi.md">kairagi.md</a></p><p>> <a data-mention href="../../mechanics/auras/pursuing-fireball.md">pursuing-fireball.md</a></p><p>> <a data-mention href="../../mechanics/auras/lightning-stake.md">lightning-stake.md</a></p> |            |
+| [nobushi.md](../../monsters/untitled/nobushi.md "mention")                                                                                                                                                                                                                        | 148K HP    |
+| <p><a data-mention href="../../monsters/untitled/kairagi.md">kairagi.md</a></p><p>> <a data-mention href="../../mechanics/auras/pursuing-fireball.md">pursuing-fireball.md</a></p><p>> <a data-mention href="../../mechanics/auras/lightning-stake.md">lightning-stake.md</a></p> | 356K HP    |
 
 Killing one of the **Kairagis** causes the other to heal and become resistant to CC. Try your best to group them and kill them at the same time.
 
