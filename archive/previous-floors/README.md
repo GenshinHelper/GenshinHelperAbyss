@@ -8,15 +8,14 @@ Below is a rough estimate for the amount of DPS required for 3\* on F12-3 for di
 
 **High DPS** refers to the requirement if you have sub-optimal grouping/rotations, where you are hitting enemies individually.
 
-| Description | **Version** | **Low DPS** | High DPS |
-| :--- | :--- | :--- | :--- |
-| Cryo F12 | 1.0 | 8K | 17K |
-| Geo F12 | 1.2 | 8K | 13K |
-| Ruin Grader F12 | 1.3 | 8K | 16K |
-| Lector F12 | 1.5 | 6K | 16K |
-| Herald/Lector F12 | 1.6 | 8K | 12K |
-| Ruin Construct F12 | 2.0 | 13K | 23K |
-| PMA F12 | 2.1 | 18K | 23K |
-
-
-
+|                    |             |             |          |
+| ------------------ | ----------- | ----------- | -------- |
+| Description        | **Version** | **Low DPS** | High DPS |
+| Cryo F12           | 1.0         | 8K          | 17K      |
+| Geo F12            | 1.2         | 8K          | 13K      |
+| Ruin Grader F12    | 1.3         | 8K          | 16K      |
+| Lector F12         | 1.5         | 6K          | 16K      |
+| Herald/Lector F12  | 1.6         | 8K          | 12K      |
+| Ruin Construct F12 | 2.0         | 13K         | 23K      |
+| PMA F12            | 2.1         | 18K         | 23K      |
+| Ruin Machine F12   | 2.2         | 15K         | 30K      |

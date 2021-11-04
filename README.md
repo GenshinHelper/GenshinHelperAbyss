@@ -14,6 +14,12 @@ When a character's **Elemental Energy is 100%**, they will gain 1 stack of **Aus
 
 When this character unleashes their **Elemental Burst**, all **Auspice **stacks will be cleared, and the **DMG **dealt by this character will be increased by **5%/stack** for **10s**. They cannot gain any more stacks during this time.
 
+### Notes
+
+* **Auspice** will stack even when characters are off-field
+* The DMG bonus will apply to the DMG of the Burst used to trigger the buff
+* Stacks will only be gained while the chamber timer has started
+
 ### Future blessings
 
 | Dates                | Blessing                                                                                                                                                                                                                                                                                                      |

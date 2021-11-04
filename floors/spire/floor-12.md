@@ -14,11 +14,11 @@ Most chambers don't have any strict element requirements. As usual, it's best to
 
 **Monster Level - 90**
 
-|                            |                     Side 1                     |                   Side 2                   |
-| -------------------------- | :--------------------------------------------: | :----------------------------------------: |
-| **Shieldbreakers**         |   ![](../../.gitbook/assets/hydro\_small.png)  |                                            |
-| **Preferred DPS Elements** | ![](../../.gitbook/assets/physical\_small.png) | ![](../../.gitbook/assets/pyro\_small.png) |
-| **Avoid DPS Elements**     |   ![](../../.gitbook/assets/pyro\_small.png)   | ![](../../.gitbook/assets/cryo\_small.png) |
+|                            |                     Side 1                     |                    Side 2                   |
+| -------------------------- | :--------------------------------------------: | :-----------------------------------------: |
+| **Shieldbreakers**         |   ![](../../.gitbook/assets/hydro\_small.png)  |                                             |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/physical\_small.png) |  ![](../../.gitbook/assets/pyro\_small.png) |
+| **Avoid DPS Elements**     |   ![](../../.gitbook/assets/pyro\_small.png)   | ![](../../.gitbook/assets/hydro\_small.png) |
 
 ### Side 1
 
@@ -120,11 +120,13 @@ Try to make sure enemies are grouped and you're hitting at least 2 targets at th
 
 For each wave, attack the small **Ruin Machine**s first and let the large one come to you.
 
-The **Ruin Destroyers** on the first wave will sometimes start with a tunneling attack, which quickly groups them together, but this is random. It may be worth resetting this chamber until you get a good attack pattern for grouping.
-
-The **Ruin Cruisers** on the second wave usually stay at range, and are harder to group. Occasionally they will perform a backwards dash, so try to line it up so that one Cruiser is behind the one you're attacking.
-
 The **Rumbling Stone** Aura deals a significant amount of damage, so having Shields or strong healers are recommended.
+
+#### Grouping Guide
+
+On the **First Wave**, move towards one of the **Ruin Destroyers** first, and see if the other one tunnels towards you. If it does not, you should simply reset the chamber and try again. Whether or not the other one tunnels and groups makes a huge difference in clear time.
+
+On the **Second Wave**, run behind one of the **Ruin Cruisers**, and make sure you line up the other one directly behind the one you're facing, and start attacking. This should trigger the **Orb Dash** ability, sending the **Ruin Cruiser** backwards and hopefully into the other one. Follow it, and start attacking.
 
 ### Side 2
 
@@ -139,8 +141,14 @@ The **Rumbling Stone** Aura deals a significant amount of damage, so having Shie
 | <p><a data-mention href="../../monsters/ruin-constructs/ruin-grader.md">ruin-grader.md</a></p><p>> <a data-mention href="../../mechanics/auras/rumbling-stone.md">rumbling-stone.md</a></p> | <p>827K HP</p><p>> 3349 <img src="../../.gitbook/assets/geo_small.png" alt="">DMG / Wave</p> |
 | [ruin-defender.md](../../monsters/ruin-constructs/ruin-defender.md "mention")                                                                                                               | 582K HP                                                                                      |
 
-The **Ruin Cruisers** on the first wave usually stay at range, and are harder to group. Occasionally they will perform a backwards dash, so try to line it up so that one Cruiser is behind the one you're attacking.
-
-Rush for the **Ruin Grader** in the second wave. The **Ruin Defenders** will move towards you, and staying close to the Grader prevents it using the Charge attack and splitting away from the rest of the enemies.
+Try to make sure enemies are grouped and you're hitting at least 2 targets at the same time. Only hitting one enemy at a time makes this a much harder DPS check for 3★.
 
 The **Rumbling Stone** Aura deals a significant amount of damage, so having Shields or strong healers are recommended.
+
+#### Grouping Guide
+
+On the **First Wave**, run behind one of the **Ruin Cruisers** and make sure you line up the other one directly behind the one you're facing, and start attacking. This should trigger the **Orb Dash** ability, sending the **Ruin Cruiser** backwards towards the center.
+
+The enemies here are more spread out than in the first side, so in order to fully group you will have to repeat this for the other **Ruin Cruiser** and also send it to the middle with the first one.
+
+On the **Second Wave**, rush for the **Ruin Grader** first. This prevents it from using it's **Charge** attack which loses you time and splits up the enemies. The **Ruin Defenders** will usually group up on you by themselves, but be aware of their shields blocking damage.
