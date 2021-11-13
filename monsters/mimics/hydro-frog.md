@@ -11,7 +11,7 @@
 
 **Weak Point** - Head
 
-Like all mimics, these enemies are immune to hydro. Their quick and sudden attacks make them annoying to deal with. **Freezing these enemies** via Cryo application is a great way control them and make them easier to kill. Be wary of the death explosion as it is difficult to dodge and deals high damage.
+Like all mimics, these enemies are immune to hydro. Their quick and sudden attacks make them annoying to deal with. **Freezing these enemies** via Cryo application is a great way control them and make them easier to kill. Their **specific pyro weakness** makes them easy targets for vaporize/melt reactions. Be wary of the death explosion as it is difficult to dodge and deals high damage.
 
 ### Wave Slash
 
