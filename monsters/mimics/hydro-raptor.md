@@ -1,4 +1,4 @@
-# Hydro Crane
+# Hydro Raptor
 
 ## Resistances
 
@@ -11,21 +11,10 @@
 
 **Weak Point** - Head
 
-Like all mimics, these enemies are immune to hydro. Their quick and sudden attacks make them annoying to deal with. **Freezing these enemies** via Cryo application is a great way control them and make them easier to kill. These enemies are generally stationary and only hop around occasionally, so they are not priority kills as long as you dodge their attacks.&#x20;
+Like all mimics, these enemies are immune to hydro. Their quick and sudden attacks make them annoying to deal with. **Freezing these enemies** via Cryo application is a great way control them and make them easier to kill. Because they are airborne, p**lan to use either a catalyst or bow character** to kill them. You can also use pillars and geo constructs to reach them if needed. They generally have low HP making them easier to deal with, but if left alone, can make fighting difficult.
 
-### Wave Attack
+### Swipe Attack
 
-{% embed url="https://gfycat.com/adolescentofficialbrahmancow" %}
-Sends a wave splash attack forward
+{% embed url="https://gfycat.com/diligentwillingdegu" %}
+Comes down from the sky to swipe character
 {% endembed %}
-
-### **Hop Back**
-
-{% embed url="https://gfycat.com/nervousvioletfreshwatereel" %}
-Hops away when character gets close
-{% endembed %}
-
-
-
-
-
