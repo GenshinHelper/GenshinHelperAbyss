@@ -97,6 +97,7 @@
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Hydro Hypostasis](monsters/elites/hydro-hypostasis.md)
+  * [Oceanid](monsters/elites/oceanid.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki.md)
   * [Perpetual Mechanical Array](monsters/elites/perpetual-mechanical-array.md)
   * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
