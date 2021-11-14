@@ -2,15 +2,16 @@
 
 ## Resistances
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                     10%                     |                     10%                    |                     **∞%**                    |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
 
 **Weak Point** - Face
 
-The **Thunder Manifestation** will continually be infused with![](../../.gitbook/assets/electro_small.png). ![](../../.gitbook/assets/pyro_small.png)and![](../../.gitbook/assets/cryo_small.png)work particularly well as their reactions will deal damage to it.
+The **Thunder Manifestation** will continually be infused with![](../../.gitbook/assets/electro\_small.png). ![](../../.gitbook/assets/pyro\_small.png)and![](../../.gitbook/assets/cryo\_small.png)work particularly well as their reactions will deal damage to it.
 
 There is no way to avoid the **Enraged** state, and it happens at a fairly low HP threshold. It is best to just continually attack it and get it down below **75% HP** rather than avoiding it's first set of moves.
 
@@ -32,7 +33,7 @@ The **Thunder Manifestation** will cycle through these abilities one by one in o
 Sends out five lightning probes in a circle
 {% endembed %}
 
-The probes will periodically activate, causing ![](../../.gitbook/assets/electro_small.png)**DMG** and building **Fury**.
+The probes will periodically activate, causing ![](../../.gitbook/assets/electro\_small.png)**DMG** and building **Fury**.
 
 ### Lightning Strikes
 
@@ -110,6 +111,6 @@ This attack can be easily avoided by dodging through one of the walls.
 After a brief delay, summons a prison of lightning which follows the player
 {% endembed %}
 
-Characters caught inside will continuously take![](../../.gitbook/assets/electro_small.png)**DMG**.
+Characters caught inside will continuously take![](../../.gitbook/assets/electro\_small.png)**DMG**.
 
 The **Thunder Manifestation** will continue to perform attacks while the prison is active.

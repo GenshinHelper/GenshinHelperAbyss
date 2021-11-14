@@ -22,11 +22,11 @@ During **Low Tide** is the ideal time to use **Elemental Bursts** to deal massiv
 
 ## Team Recommendations
 
-|                            |                          Side 1                         |                                        Side 2                                        |
-| -------------------------- | :-----------------------------------------------------: | :----------------------------------------------------------------------------------: |
-| **Shieldbreakers**         |        ![](../../.gitbook/assets/cryo_small.png)        | ![](../../.gitbook/assets/pyro_small.png)or![](../../.gitbook/assets/cryo_small.png) |
-| **Preferred DPS Elements** | ![](../../.gitbook/assets/physical_small.png) (C1 & C2) |                                                                                      |
-| **Avoid DPS Elements**     |    ![](../../.gitbook/assets/physical_small.png)(C3)    |                     ![](../../.gitbook/assets/physical_small.png)                    |
+|                            |                          Side 1                          |                                         Side 2                                         |
+| -------------------------- | :------------------------------------------------------: | :------------------------------------------------------------------------------------: |
+| **Shieldbreakers**         |        ![](../../.gitbook/assets/cryo\_small.png)        | ![](../../.gitbook/assets/pyro\_small.png)or![](../../.gitbook/assets/cryo\_small.png) |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/physical\_small.png) (C1 & C2) |                                                                                        |
+| **Avoid DPS Elements**     |    ![](../../.gitbook/assets/physical\_small.png)(C3)    |                     ![](../../.gitbook/assets/physical\_small.png)                     |
 
 ## Chamber 1
 
@@ -36,17 +36,18 @@ During **Low Tide** is the ideal time to use **Elemental Bursts** to deal massiv
 
 ![](../../.gitbook/assets/12-1-1v20.png)
 
-| **In Depth Guide**                            | Other Info |
+|                                               |            |
 | --------------------------------------------- | ---------- |
+| **In Depth Guide**                            | Other Info |
 | [Kairagi](../../monsters/untitled/kairagi.md) | \~500K HP  |
 
 {% hint style="info" %}
-The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**, but must be staggered first with other abilities.
+The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo\_small.png)**skills**, but must be staggered first with other abilities.
 {% endhint %}
 
 Having **AoE DMG** in this chamber is essential. Build your compositions with this in mind.
 
-These enemies frequently use **Dash** attacks, making it difficult to keep them together. Using **Freeze** and **Petrify **(**Zhong Li's Elemental Burst**) are effective ways to lock them in place and keep them together.
+These enemies frequently use **Dash** attacks, making it difficult to keep them together. Using **Freeze** and \*\*Petrify \*\*(**Zhong Li's Elemental Burst**) are effective ways to lock them in place and keep them together.
 
 One effective strategy is to fight near the edge of the arena, facing inwards. This ensures that **Dash** attacks will stop at the same location, naturally grouping the enemies together.
 
@@ -54,16 +55,18 @@ If you kill one of the **Kairagi**, it will cause the other to use the **Heal** 
 
 After using **Heal**, the **Kairagi** will be immune to **Freeze** and **Petrify**.
 
-|                                                                                                                           **Recommended**                                                                                                                           |
-| :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| ![](../../.gitbook/assets/ui_avataricon_hutao.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_tartaglia.png)![](../../.gitbook/assets/ui_avataricon_eula.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
+|                                                                                                                                                                                                                                                                               |
+| :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+|                                                                                                                                **Recommended**                                                                                                                                |
+| ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_eula.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png) |
 
 ### Side 2
 
 ![](../../.gitbook/assets/12-1-2v20.png)
 
-| **In Depth Guide**                                               | Other Info |
+|                                                                  |            |
 | ---------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                               | Other Info |
 | [Pyro Agent](../../monsters/fatui/pyro-agent.md)                 | \~350K HP  |
 | [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) | \~350K HP  |
 | [Mirror Maiden](../../monsters/fatui/mirror-maiden.md)           | \~650K HP  |
@@ -72,9 +75,10 @@ After defeating the **Pyro Agents**, focus the **Mirror Maiden**. She has more H
 
 Try to avoid the **Mirror Maiden's Water Wheel** attack. This will apply a buff to the **Mirror Maiden** that will make them immune to being staggered and affected by CC, making them much harder to deal with.
 
-|                                        **Highly Recommended**                                       |
-| :-------------------------------------------------------------------------------------------------: |
-| ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_venti.png) |
+|                                                                                                         |
+| :-----------------------------------------------------------------------------------------------------: |
+|                                          **Highly Recommended**                                         |
+| ![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png) |
 
 ## Chamber 2
 
@@ -82,19 +86,18 @@ Try to avoid the **Mirror Maiden's Water Wheel** attack. This will apply a buff 
 
 ### Side 1
 
-
-
 ![](../../.gitbook/assets/12-2-1v20.png)
 
-| **In Depth Guide**                                                          | Other Info |
+|                                                                             |            |
 | --------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                          | Other Info |
 | [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md) | \~700K HP  |
 | [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)          |            |
 | Smoldering Flame/Engulfing Storm ([Debuffs](../../mechanics/debuffs/))      |            |
 | [Lightning Stake](../../mechanics/auras/lightning-stake.md)                 | ?? DMG     |
 | [Mist Bubble](../../mechanics/auras/mist-bubble.md)                         | ?? DMG     |
 
-Run for the **Mitachurl** in front of you (![](../../.gitbook/assets/pyro_small.png)aura) and let the other one come to you. Try to finish both **Mitachurls** close to there as the **Thunderhelm Lawachurl** will spawn in that location.
+Run for the **Mitachurl** in front of you (![](../../.gitbook/assets/pyro\_small.png)aura) and let the other one come to you. Try to finish both **Mitachurls** close to there as the **Thunderhelm Lawachurl** will spawn in that location.
 
 When going for 3★, focus the **Thunderhelm Lawachurl** and try to kill the **Hydro Abyss Mage** with **AoE DMG**. However, if you have issues with the **Mist Bubble** aura, then focus the **Abyss Mage** first to stop it from spawning.
 
@@ -104,13 +107,14 @@ Clear this side quickly so you can have more time for **Side 2**.
 
 ![](../../.gitbook/assets/maguu-kenki.png)
 
-| **In Depth Guide**                                  | Other Info |
+|                                                     |            |
 | --------------------------------------------------- | ---------- |
+| **In Depth Guide**                                  | Other Info |
 | [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | \~1300K HP |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 
-Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an **AoE **attack. Make sure not to waste your damage on it during this time.
+Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an \*\*AoE \*\*attack. Make sure not to waste your damage on it during this time.
 
 This is mostly a DPS check, so bring your most invested composition on this side when going for 3★.
 
@@ -122,8 +126,9 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 ![](../../.gitbook/assets/12-3-1v20.png)
 
-| **In Depth Guide**                                               | Other Info |
+|                                                                  |            |
 | ---------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                               | Other Info |
 | [Ruin Hunter](../../monsters/ruin-constructs/ruin-hunter.md)     | \~550K HP  |
 | [Ruin Scout](../../monsters/ruin-constructs/ruin-scout.md)       | \~580K HP  |
 | [Ruin Defender](../../monsters/ruin-constructs/ruin-defender.md) | \~580K HP  |
@@ -137,8 +142,9 @@ As usual, **Ruin Constructs** have higher **Phys RES** than other enemies. Avoid
 
 ![](../../.gitbook/assets/12-3-2v20.png)
 
-| **In Depth Guide**                                                 | Other Info |
+|                                                                    |            |
 | ------------------------------------------------------------------ | ---------- |
+| **In Depth Guide**                                                 | Other Info |
 | [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md)         | \~650K HP  |
 | [Ruin Scout](../../monsters/ruin-constructs/ruin-scout.md)         | \~580K HP  |
 | [Ruin Destroyer](../../monsters/ruin-constructs/ruin-destroyer.md) | \~400K HP  |

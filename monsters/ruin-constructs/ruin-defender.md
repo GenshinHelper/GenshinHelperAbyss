@@ -4,8 +4,9 @@
 
 ## Resistances
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **50%**                    |
 
 ## Tips and Mechanics
@@ -38,7 +39,7 @@ This ability lasts about **15 seconds**.
 Thrusts the shield forward at the player.
 {% endembed %}
 
-This attack is only used when **Shield** is active, and only if you enter **melee **range. There's about a **10 second** cooldown before this ability can be used again.
+This attack is only used when **Shield** is active, and only if you enter \*\*melee \*\*range. There's about a **10 second** cooldown before this ability can be used again.
 
 ### Stab
 

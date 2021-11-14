@@ -4,8 +4,9 @@
 
 ## Resistances
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **30%**                    |
 
 ## Tips and Mechanics
@@ -47,6 +48,3 @@ Digs close to the player and performs a vacuum attack, following up with a slam.
 {% endembed %}
 
 The **core** is **exposed** while the vacuum is active. Hit the weak point during to stun it.
-
-
-

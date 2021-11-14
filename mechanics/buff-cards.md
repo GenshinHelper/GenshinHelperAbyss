@@ -13,7 +13,7 @@ At the beginning of each chamber, you will be given a choice of 3 buff cards (**
 
 ### Reset
 
-The cards you get change **every daily reset** for each Chamber, and will be **different for everyone**. 
+The cards you get change **every daily reset** for each Chamber, and will be **different for everyone**.
 
 {% hint style="info" %}
 The cards are completely random, so it is possible to sometimes get the same choices multiple days in a row.
@@ -60,13 +60,14 @@ These buff cards may only be good for certain team comps and/or will only apply 
 
 You'll have to use your own judgement if these would be useful or not for your team.
 
-| **Buff Card**                                                                                                                                                        | Approx. Damage Boost |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
-| \[Chamber] Character Normal Attack SPD +25%                                                                                                                          |          25%         |
-| \[Floor] Character Physical DMG +25%                                                                                                                                 |          15%         |
-| <p>[Floor] Character Elemental Burst DMG +20%</p><p>[Floor] Character Elemental Skill DMG +20%</p><p>[Floor] Character Normal and Charged Attack DMG +20%</p><p></p> |          12%         |
-| \[Floor] Character Elemental Mastery +80                                                                                                                             |          9%          |
-| \[Floor] Character DMG within 8s of sprint +20%. Can occur only once every 15s.                                                                                      |       6% (12%)       |
+|                                                                                                                                                               |                      |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------- | :------------------: |
+| **Buff Card**                                                                                                                                                 | Approx. Damage Boost |
+| \[Chamber] Character Normal Attack SPD +25%                                                                                                                   |          25%         |
+| \[Floor] Character Physical DMG +25%                                                                                                                          |          15%         |
+| <p>[Floor] Character Elemental Burst DMG +20%</p><p>[Floor] Character Elemental Skill DMG +20%</p><p>[Floor] Character Normal and Charged Attack DMG +20%</p> |          12%         |
+| \[Floor] Character Elemental Mastery +80                                                                                                                      |          9%          |
+| \[Floor] Character DMG within 8s of sprint +20%. Can occur only once every 15s.                                                                               |       6% (12%)       |
 
 #### Niche cards
 
@@ -140,4 +141,3 @@ Some characters scale off of stats like **DEF** and **HP**, however these rarely
 | When Character HP is greater than 50%; ATK +30%                            |
 | When Character HP is greater than 50%; DEF +40%                            |
 | When Character HP is less than 50%; ATK +60%                               |
-

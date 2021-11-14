@@ -66,7 +66,7 @@
 * [Mimics](monsters/mimics/README.md)
   * [Hydro Bird](monsters/mimics/hydro-bird.md)
   * [Hydro Boar](monsters/mimics/hydro-boar.md)
-  * [Hydro Chick](monsters/mimics/hydro-chick.md)
+  * [Hydro Finch](monsters/mimics/hydro-finch.md)
   * [Hydro Crab](monsters/mimics/hydro-crab.md)
   * [Hydro Crane](monsters/mimics/hydro-crane.md)
   * [Hydro Duck](monsters/mimics/hydro-duck.md)

@@ -10,28 +10,29 @@ No Divergence
 
 ### Team Recommendations
 
-|                            |                                                                             Side 1                                                                             |                                       Side 2                                       |
-| -------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------: |
-| **Shieldbreakers**         |                                                                                                                                                                |                      ![](../../.gitbook/assets/geo_small.png)                      |
-| **Preferred DPS Elements** |                                                          ![](../../.gitbook/assets/physical_small.png)                                                         |                                                                                    |
-| **Avoid DPS Elements**     |                                                                                                                                                                | ![](../../.gitbook/assets/anemo_small.png)![](../../.gitbook/assets/geo_small.png) |
-| **Recommended 4**★         |                                                      ![](../../.gitbook/assets/ui_avataricon_sucrose.png)                                                      |                                                                                    |
-| **Recommended 5**★         | ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png) |                ![](../../.gitbook/assets/ui_avataricon_yoimiya.png)                |
+|                            |                                                                                 Side 1                                                                                |                                        Side 2                                        |
+| -------------------------- | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------: |
+| **Shieldbreakers**         |                                                                                                                                                                       |                       ![](../../.gitbook/assets/geo\_small.png)                      |
+| **Preferred DPS Elements** |                                                             ![](../../.gitbook/assets/physical\_small.png)                                                            |                                                                                      |
+| **Avoid DPS Elements**     |                                                                                                                                                                       | ![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png) |
+| **Recommended 4**★         |                                                         ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)                                                        |                                                                                      |
+| **Recommended 5**★         | ![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png) |                ![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png)                |
 
 ### Side 1
 
 ![](../../.gitbook/assets/12-1-1v21.png)
 
-| **In Depth Guide**                            | Other Info     |
+|                                               |                |
 | --------------------------------------------- | -------------- |
+| **In Depth Guide**                            | Other Info     |
 | [Nobushi](../../monsters/untitled/nobushi.md) | 227K HP        |
 | Treasure Hoarders                             | 111K - 139K HP |
 
 {% hint style="info" %}
-The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo_small.png)**skills**, but must be staggered first with other abilities.
+The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo\_small.png)**skills**, but must be staggered first with other abilities.
 {% endhint %}
 
-![](../../.gitbook/assets/anemo_small.png)is highly recommended to group the enemies on this side. If you do, then this chamber is not challenging.
+![](../../.gitbook/assets/anemo\_small.png)is highly recommended to group the enemies on this side. If you do, then this chamber is not challenging.
 
 If you're struggling to get stars with a team built for the later chambers, you should just aim for a clear first and come back later with a team specifically built for this side.
 
@@ -39,8 +40,9 @@ If you're struggling to get stars with a team built for the later chambers, you 
 
 ![](../../.gitbook/assets/12-1-2v21.png)
 
-| **In Depth Guide**                                                      | Other Info |
+|                                                                         |            |
 | ----------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                      | Other Info |
 | [Stonehide Lawachurl](../../monsters/hilichurls/stonehide-lawachurl.md) | 624K HP    |
 | [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md)          | 347K HP    |
 | [Anemo Specter](../../monsters/specters/anemo-specter.md)               | 227K HP    |
@@ -58,25 +60,26 @@ The waves will not end until the death animation of **Specters** completes. Keep
 
 ### Team Recommendations
 
-|                            |                                                 Side 1                                                 |                                                                          Side 2                                                                         |
-| -------------------------- | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Shieldbreakers**         |                                                                                                        |                                                        ![](../../.gitbook/assets/pyro_small.png)                                                        |
-| **Preferred DPS Elements** |                                                                                                        |                                                      ![](../../.gitbook/assets/physical_small.png)                                                      |
-| **Avoid DPS Elements**     |                                                                                                        |                                   ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)                                   |
-| **Recommended 4**★         |                                                                                                        |                        ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png)                       |
-| **Recommended 5**★         | ![](../../.gitbook/assets/ui_avataricon_hutao.png)![](../../.gitbook/assets/ui_avataricon_yoimiya.png) | ![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_venti.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) |
+|                            |                                                   Side 1                                                   |                                                                             Side 2                                                                            |
+| -------------------------- | :--------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Shieldbreakers**         |                                                                                                            |                                                           ![](../../.gitbook/assets/pyro\_small.png)                                                          |
+| **Preferred DPS Elements** |                                                                                                            |                                                         ![](../../.gitbook/assets/physical\_small.png)                                                        |
+| **Avoid DPS Elements**     |                                                                                                            |                                     ![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                     |
+| **Recommended 4**★         |                                                                                                            |                         ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)                        |
+| **Recommended 5**★         | ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png) | ![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png) |
 
 ### Side 1
 
 ![](../../.gitbook/assets/maguu-kenki.png)
 
-| **In Depth Guide**                                  | Other Info |
+|                                                     |            |
 | --------------------------------------------------- | ---------- |
+| **In Depth Guide**                                  | Other Info |
 | [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | 1.5M HP    |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 
-Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an **AoE **attack. Make sure not to waste your damage on it during this time.
+Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an \*\*AoE \*\*attack. Make sure not to waste your damage on it during this time.
 
 This is mostly a DPS check, so bring your most invested composition on this side when going for 3★.
 
@@ -84,8 +87,9 @@ This is mostly a DPS check, so bring your most invested composition on this side
 
 ![](../../.gitbook/assets/12-2-2v21.png)
 
-| **In Depth Guide**                                         | Other Info |
+|                                                            |            |
 | ---------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                         | Other Info |
 | [Mirror Maiden](../../monsters/fatui/mirror-maiden.md)     | 772K HP    |
 | [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md) | 383K HP    |
 
@@ -99,11 +103,11 @@ Try your best to avoid **Mirror Maiden's** AoE attacks as long as possible, as t
 
 ### Team Recommendations
 
-|                        |                                                                            Side 1                                                                            |                                                 Side 2                                                 |
-| ---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
-| **Avoid DPS Elements** |                                                         ![](../../.gitbook/assets/physical_small.png)                                                        |                              ![](../../.gitbook/assets/physical_small.png)                             |
-| **Recommended 4**★     |                           ![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_beidou.png)                          |                                                                                                        |
-| **Recommended 5**★     | ![](../../.gitbook/assets/ui_avataricon_ayaka.png)![](../../.gitbook/assets/ui_avataricon_tartaglia.png)![](../../.gitbook/assets/ui_avataricon_zhongli.png) | ![](../../.gitbook/assets/ui_avataricon_hutao.png)![](../../.gitbook/assets/ui_avataricon_yoimiya.png) |
+|                        |                                                                               Side 1                                                                               |                                                   Side 2                                                   |
+| ---------------------- | :----------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------: |
+| **Avoid DPS Elements** |                                                           ![](../../.gitbook/assets/physical\_small.png)                                                           |                               ![](../../.gitbook/assets/physical\_small.png)                               |
+| **Recommended 4**★     |                            ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)                           |                                                                                                            |
+| **Recommended 5**★     | ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_tartaglia.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png) | ![](../../.gitbook/assets/ui\_avataricon\_hutao.png)![](../../.gitbook/assets/ui\_avataricon\_yoimiya.png) |
 
 **Monster Level - 100**
 
@@ -111,8 +115,9 @@ Try your best to avoid **Mirror Maiden's** AoE attacks as long as possible, as t
 
 ![](../../.gitbook/assets/12-3-1v21.jpg)
 
-| **In Depth Guide**                                         | Other Info |
+|                                                            |            |
 | ---------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                         | Other Info |
 | [Ruin Guard](../../monsters/ruin-constructs/ruin-guard.md) | 643K HP    |
 
 Run towards the **Ruin Guards** immediately. Staying at range will cause them to use **Missiles**, which delays their grouping.
@@ -125,8 +130,9 @@ Try to kill both **Ruin Guards** before they go for a **Spin Attack** (roughly *
 
 ![](../../.gitbook/assets/perpetual-mechanical-arrray.jpg)
 
-| **In Depth Guide**                                                                                                                  | Other Info |
+|                                                                                                                                     |            |
 | ----------------------------------------------------------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                                                                                  | Other Info |
 | [Perpetual Mechanical Array](../../monsters/elites/perpetual-mechanical-array.md)                                                   | 2.2M HP    |
 | [Ruin Cruiser](../../monsters/ruin-constructs/ruin-cruiser.md) / [Ruin Destroyer](../../monsters/ruin-constructs/ruin-destroyer.md) | 416K HP    |
 | [Ruin Scout](../../monsters/ruin-constructs/ruin-scout.md) / [Ruin Defender](../../monsters/ruin-constructs/ruin-defender.md)       | 582K HP    |
@@ -137,4 +143,4 @@ The **Perpetual Mechanical Array** has reduced defenses when stunned. Use the **
 
 You should try to stay close to it throughout the fight, as this limits the attack patterns.
 
-Due to the high HP pool,![](../../.gitbook/assets/physical_small.png)**DMG** is highly discouraged. It will be very hard to get stars on this floor with a **PHYS** based DPS. Bring your best **Elemental** based team.
+Due to the high HP pool,![](../../.gitbook/assets/physical\_small.png)**DMG** is highly discouraged. It will be very hard to get stars on this floor with a **PHYS** based DPS. Bring your best **Elemental** based team.

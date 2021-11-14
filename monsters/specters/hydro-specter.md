@@ -1,7 +1,8 @@
 # Hydro Specter
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                    **∞%**                   |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
@@ -36,7 +37,7 @@ This attack can be difficult to avoid. Try dashing through it or using a shield 
 Creates a ripple under the player, which explodes after a delay
 {% endembed %}
 
-The blast deals![](../../.gitbook/assets/hydro_small.png)**DMG** to enemies, but heals allies for **33% HP**.
+The blast deals![](../../.gitbook/assets/hydro\_small.png)**DMG** to enemies, but heals allies for **33% HP**.
 
 The ability can also heal itself.
 
@@ -59,8 +60,3 @@ Explodes in a small AoE once killed
 If **enraged**, the **DMG** and **AoE** are larger.
 
 {% embed url="https://gfycat.com/costlygravechimpanzee" %}
-
-
-
-
-

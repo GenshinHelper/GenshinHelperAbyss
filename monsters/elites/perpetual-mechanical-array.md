@@ -2,15 +2,16 @@
 
 ![](../../.gitbook/assets/perpetual-mechanical-arrray.jpg)
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                     **70%**                    |
 
 ## Tips and Mechanics
 
 **Weak Point** - None
 
-The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical_small.png)based DPS. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo_small.png)+![](../../.gitbook/assets/electro_small.png) )** **to reduce their resistance by **40%.**
+The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based DPS. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) )\*\* \*\*to reduce their resistance by **40%.**
 
 Most of the **Perpetual Mechanical Array's** attacks can be dodged easily at the right time. Learn the attack timings so you can focus on dealing damage.
 
@@ -41,7 +42,7 @@ The Laser has a minimum range. If you get close to the **Perpetual Mechanical Ar
 ### Orbital Strike
 
 {% embed url="https://gfycat.com/uniquedeficientalligator" %}
- Beam tracks the player for a while, before firing in an AoE for Physical DMG
+Beam tracks the player for a while, before firing in an AoE for Physical DMG
 {% endembed %}
 
 Dodge out of the way when you see the AoE indicator to avoid the attack.
@@ -75,7 +76,7 @@ This ability is only used when the player is far from the **Perpetual Mechanical
 ### Divide
 
 {% embed url="https://gfycat.com/dearestdeficientchital" %}
-Splits off into four Ruin constructs 
+Splits off into four Ruin constructs
 {% endembed %}
 
 This ability is used after **40 seconds**, or if the **Perpetual Mechanical Array** is brought below a certain threshold of HP.
@@ -91,11 +92,11 @@ One of each of the following are spawned:
 
 One cube will be **highlighted**.
 
-![](../../.gitbook/assets/pma_cubehighlight.png)
+![](../../.gitbook/assets/pma\_cubehighlight.png)
 
 The spawned construct will have an **aura** around it too.
 
-![](../../.gitbook/assets/pma_highlight.png)
+![](../../.gitbook/assets/pma\_highlight.png)
 
 This is the weak construct, and **killing this will end the Divide phase immediately**, and cause the **Perpetual Mechanical Array** to become disabled for **20 seconds**. The other constructs can be stunned, but are invulnerable to damage and cannot be destroyed.
 
@@ -108,6 +109,3 @@ Reforms into a single cube
 {% endembed %}
 
 After **20 seconds** of being stunned, it will reform into the cube and use it's regular moveset.
-
-
-

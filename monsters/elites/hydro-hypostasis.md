@@ -2,19 +2,20 @@
 
 ## Resistances
 
-| ![](../../.gitbook/assets/pyro_small.png)  | ![](../../.gitbook/assets/hydro_small.png)  | ![](../../.gitbook/assets/cryo_small.png)  | ![](../../.gitbook/assets/electro_small.png)  | ![](../../.gitbook/assets/anemo_small.png)  | ![](../../.gitbook/assets/geo_small.png)  | ![](../../.gitbook/assets/dendro_small.png)  | ![](../../.gitbook/assets/physical_small.png)  |
+|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
 | :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
+| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
 |                     10%                    |                    **∞%**                   |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
 
 ## Tips and Mechanics
 
 **Weak Point** - None
 
-While it is vulnerable, the **Hydro Hypostasis** will be infused with![](../../.gitbook/assets/hydro_small.png)during and after some attacks. It is only vulnerable to attacks while infused with![](../../.gitbook/assets/hydro_small.png).
+While it is vulnerable, the **Hydro Hypostasis** will be infused with![](../../.gitbook/assets/hydro\_small.png)during and after some attacks. It is only vulnerable to attacks while infused with![](../../.gitbook/assets/hydro\_small.png).
 
-![](../../.gitbook/assets/pyro_small.png)**DMG** is the most effective against the **Hydro Hypostasis**, as you will always be able to trigger **Vaporize **on your attacks, giving **1.5x** on your attacks at a minimum.![](../../.gitbook/assets/electro_small.png)can also be used to trigger **Electrocharged**, but is less recommended than![](../../.gitbook/assets/pyro_small.png).
+![](../../.gitbook/assets/pyro\_small.png)**DMG** is the most effective against the **Hydro Hypostasis**, as you will always be able to trigger \*\*Vaporize \*\*on your attacks, giving **1.5x** on your attacks at a minimum.![](../../.gitbook/assets/electro\_small.png)can also be used to trigger **Electrocharged**, but is less recommended than![](../../.gitbook/assets/pyro\_small.png).
 
-![](../../.gitbook/assets/cryo_small.png)**DMG** cannot freeze the **Hydro Hypostasis**, but it is effective at freezing the minions it produces and make it easier to prevent revival.
+![](../../.gitbook/assets/cryo\_small.png)**DMG** cannot freeze the **Hydro Hypostasis**, but it is effective at freezing the minions it produces and make it easier to prevent revival.
 
 ## Abilities
 
@@ -54,7 +55,7 @@ The Hypostasis will **not** be vulnerable after this attack.
 Summons dolphins that dive up underneath the player
 {% endembed %}
 
-The Hypostasis is **vulnerable **for the duration of this attack. Run into the circle and continue attacking throughout this attack.
+The Hypostasis is \*\*vulnerable \*\*for the duration of this attack. Run into the circle and continue attacking throughout this attack.
 
 ### Fin Slam
 
@@ -88,4 +89,4 @@ Sends out three Water Droplets that will recombine with and heal the Hypostasis
 
 Destroy the **Water Droplets** before they reach the Hypostasis. Any droplet that returns will cause the Hypostasis to revive and heal some HP.
 
-![](../../.gitbook/assets/cryo_small.png)is effective at stopping the **Water Droplets**, but you will still need to kill them quickly as they come from different directions.
+![](../../.gitbook/assets/cryo\_small.png)is effective at stopping the **Water Droplets**, but you will still need to kill them quickly as they come from different directions.

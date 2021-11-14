@@ -42,11 +42,11 @@ Off-field characters will never die from **Corrosion**, so you if you can make s
 
 |                            |                                                                                                                                                                                                                                                                     Side 1                                                                                                                                                                                                                                                                     |                                                                                                                                                                                                                                                                     Side 2                                                                                                                                                                                                                                                                     |
 | -------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Shieldbreakers**         |                                                                                                                                                                                                                               ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/hydro_small.png)                                                                                                                                                                                                                              |                                                                                                                                                                                                                                                   ![](../../.gitbook/assets/hydro_small.png)                                                                                                                                                                                                                                                   |
-| **Preferred DPS Elements** |                                                                                                                                                                                                                                                  ![](../../.gitbook/assets/physical_small.png)                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                               ![](../../.gitbook/assets/hydro_small.png)![](../../.gitbook/assets/cryo_small.png)                                                                                                                                                                                                                              |
-| **Avoid DPS Elements**     |                                                                                                                                                                                                                                                    ![](../../.gitbook/assets/pyro_small.png)                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                    ![](../../.gitbook/assets/pyro_small.png)                                                                                                                                                                                                                                                   |
+| **Shieldbreakers**         |                                                                                                                                                                                                                              ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/hydro\_small.png)                                                                                                                                                                                                                             |                                                                                                                                                                                                                                                   ![](../../.gitbook/assets/hydro\_small.png)                                                                                                                                                                                                                                                  |
+| **Preferred DPS Elements** |                                                                                                                                                                                                                                                 ![](../../.gitbook/assets/physical\_small.png)                                                                                                                                                                                                                                                 |                                                                                                                                                                                                                              ![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                                                                                                                                                                             |
+| **Avoid DPS Elements**     |                                                                                                                                                                                                                                                   ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                                                                                                                                                   |                                                                                                                                                                                                                                                   ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                                                                                                                                                   |
 | **4**★ **Supports**        | <p><img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt=""><img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt=""><img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt=""></p><p><img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2F-Mjm0CePos8cEafW8zqs%2F-MijIm9U88XaoHKE6Quo%2FUI_AvatarIcon_Sayu.png?alt=media&#x26;token=c05c46e0-c654-47d8-84d8-83f1d54586b2" alt=""><img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt=""></p> | <p><img src="../../.gitbook/assets/ui_avataricon_bennett.png" alt=""><img src="../../.gitbook/assets/ui_avataricon_barbara.png" alt=""><img src="../../.gitbook/assets/ui_avataricon_noelle.png" alt=""></p><p><img src="https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2F-Mjm0CePos8cEafW8zqs%2F-MijIm9U88XaoHKE6Quo%2FUI_AvatarIcon_Sayu.png?alt=media&#x26;token=c05c46e0-c654-47d8-84d8-83f1d54586b2" alt=""><img src="../../.gitbook/assets/ui_avataricon_sucrose.png" alt=""></p> |
-| **5★ Supports**            |                                                                                                                                           ![](../../.gitbook/assets/ui_avataricon_kokomi.png)![](../../.gitbook/assets/ui_avataricon_qiqi.png)![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)![](../../.gitbook/assets/ui_avataricon_venti.png)                                                                                                                                           |                                                                                                                                            ![](../../.gitbook/assets/ui_avataricon_kokomi.png)![](../../.gitbook/assets/ui_avataricon_mona.png)![](../../.gitbook/assets/ui_avataricon_qiqi.png)![](../../.gitbook/assets/ui_avataricon_jean.png)![](../../.gitbook/assets/ui_avataricon_kazuha.png)                                                                                                                                           |
+| **5★ Supports**            |                                                                                                                                      ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)                                                                                                                                      |                                                                                                                                       ![](../../.gitbook/assets/ui\_avataricon\_kokomi.png)![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_qiqi.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)                                                                                                                                      |
 
 ## Chamber 1
 
@@ -56,9 +56,10 @@ Off-field characters will never die from **Corrosion**, so you if you can make s
 
 ![](../../.gitbook/assets/11-1-1v21.png)
 
-| **In Depth Guide**                                     | Other Info                                             |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 684![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                        |                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| **In Depth Guide**                                     | Other Info                                              |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 684![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back > Front > Left side of the arena, in that order.
 
@@ -68,16 +69,17 @@ Focus the **Blazing Axe Mitachurl** first and try to get it down before **Smolde
 
 ![](../../.gitbook/assets/11-1-2v21.png)
 
-| **In Depth Guide**                                               | Other Info |                                                        |
-| ---------------------------------------------------------------- | ---------- | ------------------------------------------------------ |
-| [Pyro Abyss Mage](../../monsters/abyss-order/pyro-abyss-mage.md) |            |                                                        |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/))           |            | 684![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                                  |            |                                                         |
+| ---------------------------------------------------------------- | ---------- | ------------------------------------------------------- |
+| **In Depth Guide**                                               | Other Info |                                                         |
+| [Pyro Abyss Mage](../../monsters/abyss-order/pyro-abyss-mage.md) |            |                                                         |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/))           |            | 684![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back > Front side of the arena, in that order.
 
-It can be difficult to kill the **Pyro Abyss Mage** before it emits it's aura, so having a **cleanse** for **Smoldering Flames** is helpful here (see [Removing Debuffs](../../mechanics/debuffs/removing-debuffs.md)). 
+It can be difficult to kill the **Pyro Abyss Mage** before it emits it's aura, so having a **cleanse** for **Smoldering Flames** is helpful here (see [Removing Debuffs](../../mechanics/debuffs/removing-debuffs.md)).
 
-The **Dendro Samachurl** here is particularly dangerous, so try to take it out first. Not only will it block your path with thorns, but if it applies![](../../.gitbook/assets/dendro_small.png)on you, all the remaining enemies can cause **Burning**, adding yet another DoT onto your active character.
+The **Dendro Samachurl** here is particularly dangerous, so try to take it out first. Not only will it block your path with thorns, but if it applies![](../../.gitbook/assets/dendro\_small.png)on you, all the remaining enemies can cause **Burning**, adding yet another DoT onto your active character.
 
 ## Chamber 2
 
@@ -87,23 +89,25 @@ The **Dendro Samachurl** here is particularly dangerous, so try to take it out f
 
 ![](../../.gitbook/assets/11-2-1v21.png)
 
-| **In Depth Guide**                                     | Other Info |                                                        |
-| ------------------------------------------------------ | ---------- | ------------------------------------------------------ |
-| [Pyroslinger](../../monsters/fatui/pyroslinger.md)     |            |                                                        |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) |            | 721![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                        |            |                                                         |
+| ------------------------------------------------------ | ---------- | ------------------------------------------------------- |
+| **In Depth Guide**                                     | Other Info |                                                         |
+| [Pyroslinger](../../monsters/fatui/pyroslinger.md)     |            |                                                         |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) |            | 721![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back > Front side of the arena, in that order.
 
-Focus the **Pyroslinger** first. If you can stagger him effectively, you will not need to bring![](../../.gitbook/assets/hydro_small.png)for shieldbreaking on this team either.
+Focus the **Pyroslinger** first. If you can stagger him effectively, you will not need to bring![](../../.gitbook/assets/hydro\_small.png)for shieldbreaking on this team either.
 
 ### Side 2
 
 ![](../../.gitbook/assets/11-2-2v21.png)
 
-| **In Depth Guide**                                     | Other Info                                             |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| [Kairagi](../../monsters/untitled/kairagi.md)          |                                                        |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 721![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                        |                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| **In Depth Guide**                                     | Other Info                                              |
+| [Kairagi](../../monsters/untitled/kairagi.md)          |                                                         |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 721![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back > Front side of the arena, in that order.
 
@@ -119,30 +123,32 @@ You can either go for the **Kairagi** first to make the fight easier, or go for 
 
 ![](../../.gitbook/assets/11-3-1v21.png)
 
-| **In Depth Guide**                                               | Other Info                                             |
-| ---------------------------------------------------------------- | ------------------------------------------------------ |
-| [Pyro Agent](../../monsters/fatui/pyro-agent.md)                 |                                                        |
-| [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md)       |                                                        |
-| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |                                                        |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/))           | 758![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                                  |                                                         |
+| ---------------------------------------------------------------- | ------------------------------------------------------- |
+| **In Depth Guide**                                               | Other Info                                              |
+| [Pyro Agent](../../monsters/fatui/pyro-agent.md)                 |                                                         |
+| [Cryo Cicin Mage](../../monsters/fatui/cryo-cicin-mage.md)       |                                                         |
+| [Electro Cicin Mage](../../monsters/fatui/electro-cicin-mage.md) |                                                         |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/))           | 758![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back side of the arena, in that order.
 
 The **Cicin** flies spawned by both the **Cryo/Electro Cicin Mages** will add to your **Corrosion** stacks. While you cannot prevent the **Electro Cicin Mage** from summoning flies, if you can stagger the **Cryo Cicin Mage** immediately it will prevent her from summoning flies.
 
-**Crowd Control** effects are extremely effective here, as it prevents the **Cicin Mages** from teleporting and hurting your clear time. If you have access to![](../../.gitbook/assets/anemo_small.png)units like **Venti**, make sure they are on this side. You can also try to use **Freeze** teams around characters like **Ayaka** to keep them locked in place.
+**Crowd Control** effects are extremely effective here, as it prevents the **Cicin Mages** from teleporting and hurting your clear time. If you have access to![](../../.gitbook/assets/anemo\_small.png)units like **Venti**, make sure they are on this side. You can also try to use **Freeze** teams around characters like **Ayaka** to keep them locked in place.
 
 ### Side 2
 
 ![](../../.gitbook/assets/11-3-2v21.png)
 
-| **In Depth Guide**                                     | Other Info                                             |
-| ------------------------------------------------------ | ------------------------------------------------------ |
-| [Geovishap](../../monsters/animals/geovishap.md)       |                                                        |
-| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 758![](../../.gitbook/assets/pyro_small.png)DMG / Tick |
+|                                                        |                                                         |
+| ------------------------------------------------------ | ------------------------------------------------------- |
+| **In Depth Guide**                                     | Other Info                                              |
+| [Geovishap](../../monsters/animals/geovishap.md)       |                                                         |
+| Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 758![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back side of the arena, in that order.
 
 The enemies will naturally group in this chamber. When trying to go for stars, it's best to aim for the **Geovishap** as it has more HP and let the **Slimes** come to you. It also avoids **Corrosion** the longest.
 
-Since enemies on this chamber are![](../../.gitbook/assets/pyro_small.png)infused, using ![](../../.gitbook/assets/hydro_small.png)/![](../../.gitbook/assets/cryo_small.png)DPS is extremely effective.
+Since enemies on this chamber are![](../../.gitbook/assets/pyro\_small.png)infused, using ![](../../.gitbook/assets/hydro\_small.png)/![](../../.gitbook/assets/cryo\_small.png)DPS is extremely effective.
