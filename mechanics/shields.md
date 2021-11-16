@@ -8,15 +8,15 @@ You will encounter many enemies in Abyss that have some form of shield ability. 
 
 Elements have different levels of effectiveness against certain shields. Knowing these interactions is important when choosing which characters to bring for a particular floor/chamber where shields are present.
 
-|                   Shield                  |              Most Effective             |                                      Medium                                     |                                                                        Least Effective                                                                       |                                 Not Effective                                 |
-| :---------------------------------------: | :-------------------------------------: | :-----------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------: |
-|   ![](../.gitbook/assets/pyro_small.png)  | ![](../.gitbook/assets/hydro_small.png) |                    ![](../.gitbook/assets/electro_small.png)                    |                      ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png)                      |                     ![](../.gitbook/assets/pyro_small.png)                    |
-|  ![](../.gitbook/assets/hydro_small.png)  |                                         | ![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |                      ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png)                      |                    ![](../.gitbook/assets/hydro_small.png)                    |
-|   ![](../.gitbook/assets/cryo_small.png)  |  ![](../.gitbook/assets/pyro_small.png) |                    ![](../.gitbook/assets/electro_small.png)                    |                                         ![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png)                                         | ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png) |
-| ![](../.gitbook/assets/electro_small.png) |  ![](../.gitbook/assets/cryo_small.png) |                      ![](../.gitbook/assets/pyro_small.png)                     |                      ![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png)                     |                   ![](../.gitbook/assets/electro_small.png)                   |
-|  ![](../.gitbook/assets/anemo_small.png)  |                                         |                                                                                 | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |  ![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png) |
-|   ![](../.gitbook/assets/geo_small.png)   |  ![](../.gitbook/assets/geo_small.png)  |                                                                                 | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |                    ![](../.gitbook/assets/anemo_small.png)                    |
-|  ![](../.gitbook/assets/dendro_small.png) |  ![](../.gitbook/assets/pyro_small.png) |                                                                                 |                                                                                                                                                              |                 All non![](../.gitbook/assets/pyro_small.png)                 |
+|                   Shield                   |              Most Effective              |                                       Medium                                      |                                                                          Least Effective                                                                         |                                  Not Effective                                  |
+| :----------------------------------------: | :--------------------------------------: | :-------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------: |
+|   ![](../.gitbook/assets/pyro\_small.png)  | ![](../.gitbook/assets/hydro\_small.png) |                     ![](../.gitbook/assets/electro\_small.png)                    |                       ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/anemo\_small.png)![](../.gitbook/assets/geo\_small.png)                      |                     ![](../.gitbook/assets/pyro\_small.png)                     |
+|  ![](../.gitbook/assets/hydro\_small.png)  |                                          | ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/electro\_small.png) |                       ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/anemo\_small.png)![](../.gitbook/assets/geo\_small.png)                      |                     ![](../.gitbook/assets/hydro\_small.png)                    |
+|   ![](../.gitbook/assets/cryo\_small.png)  |  ![](../.gitbook/assets/pyro\_small.png) |                     ![](../.gitbook/assets/electro\_small.png)                    |                                          ![](../.gitbook/assets/anemo\_small.png)![](../.gitbook/assets/geo\_small.png)                                          | ![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png) |
+| ![](../.gitbook/assets/electro\_small.png) |  ![](../.gitbook/assets/cryo\_small.png) |                      ![](../.gitbook/assets/pyro\_small.png)                      |                      ![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/anemo\_small.png)![](../.gitbook/assets/geo\_small.png)                      |                    ![](../.gitbook/assets/electro\_small.png)                   |
+|  ![](../.gitbook/assets/anemo\_small.png)  |                                          |                                                                                   | ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/electro\_small.png) |  ![](../.gitbook/assets/anemo\_small.png)![](../.gitbook/assets/geo\_small.png) |
+|   ![](../.gitbook/assets/geo\_small.png)   |  ![](../.gitbook/assets/geo\_small.png)  |                                                                                   | ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/electro\_small.png) |                     ![](../.gitbook/assets/anemo\_small.png)                    |
+|  ![](../.gitbook/assets/dendro\_small.png) |  ![](../.gitbook/assets/pyro\_small.png) |                                                                                   |                                                                                                                                                                  |                  All non![](../.gitbook/assets/pyro\_small.png)                 |
 
 ### Elemental Gauge
 
@@ -33,7 +33,7 @@ For **Elemental Armor** and **Physical Shields**, damage does not factor into sh
 This means that a completely un-invested character will be as effective as a fully invested character when it comes to shieldbreaking ability. As long as you can keep them alive, don't be afraid to bring your un-invested characters along to help with shields in specific chambers.
 
 {% hint style="info" %}
-For more in depth information on **Elemental Gauges**, please see the **Resources** section at the bottom of this page. 
+For more in depth information on **Elemental Gauges**, please see the **Resources** section at the bottom of this page.
 {% endhint %}
 
 {% hint style="info" %}
@@ -42,16 +42,14 @@ For more in depth information on **Elemental Gauges**, please see the **Resource
 You can get around this restriction by swapping characters between attacks (which resets ICD), or using **Charged/Plunging Attacks**, which do not have an ICD.=
 {% endhint %}
 
-
-
 ### Geo Shields
 
-Unlike other shields, ![](../.gitbook/assets/geo_small.png) can also be broken without using elemental reactions. You can use:
+Unlike other shields, ![](../.gitbook/assets/geo\_small.png) can also be broken without using elemental reactions. You can use:
 
 * **Crystallize** reactions
-* ![](../.gitbook/assets/geo_small.png)damage
+* ![](../.gitbook/assets/geo\_small.png)damage
 * **Claymore** attacks
-* **Overload **(![](../.gitbook/assets/pyro_small.png)+![](../.gitbook/assets/electro_small.png))
+* \*\*Overload \*\*(![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/electro\_small.png))
 * Other **explosive** attacks (**Klee**)
 
 ## Shield Types
@@ -69,21 +67,21 @@ These shields **block all damage** until the shield is destroyed.
 
 #### Enemies that use Elemental Shields
 
-|                                                  | Enemy                                                               | Shield HP (U) |
-| :----------------------------------------------: | ------------------------------------------------------------------- | :-----------: |
-|   ![](../.gitbook/assets/abyss-mage-pyro-.jpg)   | [Pyro Abyss Mage](../monsters/abyss-order/pyro-abyss-mage.md)       |       12      |
-|  ![](../.gitbook/assets/abyss-mage-hydro-.jpg)   | [Hydro Abyss Mage](../monsters/abyss-order/hydro-abyss-mage.md)     |       12      |
-|                                                  | [Cryo Abyss Mage](../monsters/abyss-order/cryo-abyss-mage.md)       |       12      |
-|                                                  | [Electro Abyss Mage](../monsters/abyss-order/electro-abyss-mage.md) |               |
-|     ![](../.gitbook/assets/abyss-herald.jpg)     | [Abyss Herald](../monsters/abyss-order/abyss-herald.md)             |       36      |
-|     ![](../.gitbook/assets/abyss-lector.jpg)     | [Abyss Lector](../monsters/abyss-order/abyss-lector.md)             |       36      |
-| ![](../.gitbook/assets/cicin-mage-electro-.jpg)  | [Electro Cicin Mage](../monsters/fatui/electro-cicin-mage.md)       |       8       |
-|   ![](../.gitbook/assets/cicin-mage-cryo-.jpg)   | [Cryo Cicin Mage](../monsters/fatui/cryo-cicin-mage.md)             |     4 - 12    |
-|                                                  | Cryo Slime                                                          |       8       |
-|                                                  | Geo Slime                                                           |               |
+|                                                 | Enemy                                                               | Shield HP (U) |
+| :---------------------------------------------: | ------------------------------------------------------------------- | :-----------: |
+|   ![](../.gitbook/assets/abyss-mage-pyro-.jpg)  | [Pyro Abyss Mage](../monsters/abyss-order/pyro-abyss-mage.md)       |       12      |
+|  ![](../.gitbook/assets/abyss-mage-hydro-.jpg)  | [Hydro Abyss Mage](../monsters/abyss-order/hydro-abyss-mage.md)     |       12      |
+|                                                 | [Cryo Abyss Mage](../monsters/abyss-order/cryo-abyss-mage.md)       |       12      |
+|                                                 | [Electro Abyss Mage](../monsters/abyss-order/electro-abyss-mage.md) |               |
+|     ![](../.gitbook/assets/abyss-herald.jpg)    | [Abyss Herald](../monsters/abyss-order/abyss-herald.md)             |       36      |
+|     ![](../.gitbook/assets/abyss-lector.jpg)    | [Abyss Lector](../monsters/abyss-order/abyss-lector.md)             |       36      |
+| ![](../.gitbook/assets/cicin-mage-electro-.jpg) | [Electro Cicin Mage](../monsters/fatui/electro-cicin-mage.md)       |       8       |
+|   ![](../.gitbook/assets/cicin-mage-cryo-.jpg)  | [Cryo Cicin Mage](../monsters/fatui/cryo-cicin-mage.md)             |     4 - 12    |
+|                                                 | Cryo Slime                                                          |       8       |
+|                                                 | Geo Slime                                                           |               |
 
 {% hint style="warning" %}
-Note that **Abyss Lector** shields do not obey the **Elemental Effectiveness** table. ![](../.gitbook/assets/cryo_small.png) and ![](../.gitbook/assets/pyro_small.png) are both equally effective.
+Note that **Abyss Lector** shields do not obey the **Elemental Effectiveness** table. ![](../.gitbook/assets/cryo\_small.png) and ![](../.gitbook/assets/pyro\_small.png) are both equally effective.
 {% endhint %}
 
 ### Elemental Armor
@@ -97,23 +95,23 @@ These shields **reduce damage** until the shield is destroyed.
 
 #### Enemies that use Elemental Armor
 
-|                                                  | Enemy                                                                   | Shield HP (U) | Shield Effect |
-| :----------------------------------------------: | ----------------------------------------------------------------------- | :-----------: | :-----------: |
-|  ![](../.gitbook/assets/fatui-electrohammer.jpg) | [Electrohammer Vanguard](../monsters/fatui/electrohammer-vanguard.md)   |       4       | +100% ALL RES |
-|   ![](../.gitbook/assets/fatui-cryogunner.jpg)   | [Cryogunner Legionnaire](../monsters/fatui/cryogunner-legionnaire.md)   |       4       | +100% ALL RES |
-|  ![](../.gitbook/assets/fatui-hydrogunner.png)   | [Hydrogunner Legionnaire](../monsters/fatui/hydrogunner-legionnaire.md) |       4       | +100% ALL RES |
-|                                                  | Pyrogunner                                                              |       4       | +100% ALL RES |
-|                                                  | Geochanter                                                              |       4       | +100% ALL RES |
-|                                                  | Stonehide Lawachurl                                                     |               |      None     |
-|  ![](../.gitbook/assets/frostarm_lawachurl.png)  | [Frostarm Lawachurl](../monsters/hilichurls/frostarm-lawachurl.md)      |       30      |    -80% DMG   |
-| ![](../.gitbook/assets/whopperflower-pyro-.jpg)  | [Pyro Whopperflower](../monsters/animals/pyro-whopperflower.md)         |       2       |      None     |
-| ![](../.gitbook/assets/whopperflower-cryo-.png)  | [Cryo Whopperflower](../monsters/animals/cryo-whopperflower.md)         |       2       |      None     |
-|                                                  | [Electro Whopperflower](../monsters/animals/electro-whopperflower.md)   |       2       |      None     |
+|                                                 | Enemy                                                                         | Shield HP (U) | Shield Effect |
+| :---------------------------------------------: | ----------------------------------------------------------------------------- | :-----------: | :-----------: |
+| ![](../.gitbook/assets/fatui-electrohammer.jpg) | [Electrohammer Vanguard](../monsters/fatui/electrohammer-vanguard.md)         |       4       | +100% ALL RES |
+|   ![](../.gitbook/assets/fatui-cryogunner.jpg)  | [Cryogunner Legionnaire](../monsters/fatui/cryogunner-legionnaire.md)         |       4       | +100% ALL RES |
+|  ![](../.gitbook/assets/fatui-hydrogunner.png)  | [Hydrogunner Legionnaire](../monsters/fatui/hydrogunner-legionnaire.md)       |       4       | +100% ALL RES |
+|                                                 | Pyrogunner                                                                    |       4       | +100% ALL RES |
+|                                                 | Geochanter                                                                    |       4       | +100% ALL RES |
+|                                                 | Stonehide Lawachurl                                                           |               |      None     |
+| ![](../.gitbook/assets/frostarm\_lawachurl.png) | [Frostarm Lawachurl](../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) |       30      |    -80% DMG   |
+| ![](../.gitbook/assets/whopperflower-pyro-.jpg) | [Pyro Whopperflower](../monsters/animals/pyro-whopperflower.md)               |       2       |      None     |
+| ![](../.gitbook/assets/whopperflower-cryo-.png) | [Cryo Whopperflower](../monsters/animals/cryo-whopperflower.md)               |       2       |      None     |
+|                                                 | [Electro Whopperflower](../monsters/animals/electro-whopperflower.md)         |       2       |      None     |
 
 {% hint style="warning" %}
 Note that **Fatui** shields do not obey the **Elemental Effectiveness** table. They will only take damage from elements that are **most effective** against their shield. All other elements have greatly reduced effectiveness.\
 \
-The **Hydrogunner** is a special case since there is not an effective element against ![](../.gitbook/assets/hydro_small.png) shields. Their shields are weak to![](../.gitbook/assets/electro_small.png).
+The **Hydrogunner** is a special case since there is not an effective element against ![](../.gitbook/assets/hydro\_small.png) shields. Their shields are weak to![](../.gitbook/assets/electro\_small.png).
 {% endhint %}
 
 ### Physical Shields
@@ -132,32 +130,32 @@ Shields can come in different types
 
 #### Wooden Shields
 
-* Use![](../.gitbook/assets/pyro_small.png)to apply **Burning** which applies a **DoT** to these shields.
-* Repeated application of![](../.gitbook/assets/pyro_small.png)will not make the shield HP go down faster.
+* Use![](../.gitbook/assets/pyro\_small.png)to apply **Burning** which applies a **DoT** to these shields.
+* Repeated application of![](../.gitbook/assets/pyro\_small.png)will not make the shield HP go down faster.
 
-|                                                      |                                                                         |   |
-| :--------------------------------------------------: | ----------------------------------------------------------------------- | - |
-| ![](../.gitbook/assets/wooden-shield-hilichurl.jpg)  | [Wooden Shield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
-|                                                      | Wooden Shield Mitachurl                                                 |   |
+|                                                     |                                                                         |   |
+| :-------------------------------------------------: | ----------------------------------------------------------------------- | - |
+| ![](../.gitbook/assets/wooden-shield-hilichurl.jpg) | [Wooden Shield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
+|                                                     | Wooden Shield Mitachurl                                                 |   |
 
 #### Geo Shields
 
-* Similar to other ![](../.gitbook/assets/geo_small.png)shields (see above section)
+* Similar to other ![](../.gitbook/assets/geo\_small.png)shields (see above section)
 
-|                                                   |                                                                      |   |
-| :-----------------------------------------------: | -------------------------------------------------------------------- | - |
-| ![](../.gitbook/assets/rockshield-hilichurl.jpg)  | [Rockshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
-|                                                   | Rockshield Mitachurl                                                 |   |
+|                                                  |                                                                      |   |
+| :----------------------------------------------: | -------------------------------------------------------------------- | - |
+| ![](../.gitbook/assets/rockshield-hilichurl.jpg) | [Rockshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
+|                                                  | Rockshield Mitachurl                                                 |   |
 
 #### Cryo Shields
 
-* ![](../.gitbook/assets/pyro_small.png)is the most effective way of breaking through these shields.
+* ![](../.gitbook/assets/pyro\_small.png)is the most effective way of breaking through these shields.
 * These shields will regenerate their HP over time
 
-|                                                  |                                                                     |   |
-| :----------------------------------------------: | ------------------------------------------------------------------- | - |
-| ![](../.gitbook/assets/iceshield-hilichurl.jpg)  | [Iceshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
-|                                                  | Iceshield Mitachurl                                                 |   |
+|                                                 |                                                                     |   |
+| :---------------------------------------------: | ------------------------------------------------------------------- | - |
+| ![](../.gitbook/assets/iceshield-hilichurl.jpg) | [Iceshield Hilichurl](../monsters/hilichurls/classic-hilichurls.md) |   |
+|                                                 | Iceshield Mitachurl                                                 |   |
 
 ## Resources
 
@@ -165,6 +163,6 @@ For more in depth reading on shields, please check out these additional resource
 
 [**Enemy Shields and Armor** - KQM Theorycrafting Library](https://library.keqingmains.com/mechanics/enemies/enemy-shields-armor)
 
-****[**Elemental Gauges **(list of all Character Talents and strength)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
+\*\*\*\*[\*\*Elemental Gauges \*\*(list of all Character Talents and strength)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
 
-****[**Shield Damage in Genshin Impact **(in depth mechanics of shields)](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit)
+\*\*\*\*[\*\*Shield Damage in Genshin Impact \*\*(in depth mechanics of shields)](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit)

@@ -40,13 +40,13 @@ If you're struggling to get stars with a team built for the later chambers, you 
 
 ![](../../.gitbook/assets/12-1-2v21.png)
 
-|                                                                         |            |
-| ----------------------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                                      | Other Info |
-| [Stonehide Lawachurl](../../monsters/hilichurls/stonehide-lawachurl.md) | 624K HP    |
-| [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md)          | 347K HP    |
-| [Anemo Specter](../../monsters/specters/anemo-specter.md)               | 227K HP    |
-| [Geo Specter](../../monsters/specters/geo-specter.md)                   | 227K HP    |
+|                                                                                    |            |
+| ---------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                                 | Other Info |
+| [Stonehide Lawachurl](../../monsters/hilichurls/lawachurls/stonehide-lawachurl.md) | 624K HP    |
+| [Eye of the Storm](../../monsters/animals/eye-of-the-storm.md)                     | 347K HP    |
+| [Anemo Specter](../../monsters/specters/anemo-specter.md)                          | 227K HP    |
+| [Geo Specter](../../monsters/specters/geo-specter.md)                              | 227K HP    |
 
 Run towards the **Eye of the Storm/Stonehide Lawachurl** in each wave to start. They have the higher HP pool, and the **Specters** will naturally move towards you.
 

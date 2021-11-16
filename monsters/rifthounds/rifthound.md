@@ -1,7 +1,7 @@
 # Rifthound
 
-| Element      | Resist |
-| ------------ | ------ |
+|      Element | Resist |
+| -----------: | ------ |
 | ALL ELEMENTS | 25%    |
 
 ## Mechanics

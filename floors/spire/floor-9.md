@@ -106,10 +106,10 @@ The **Potioneers** and **Archers** spawn outside the safe zone. Focus on one of 
 
 ![](../../.gitbook/assets/9-3-1v20.png)
 
-|                                                                       |            |
-| --------------------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                                    | Other Info |
-| [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md) |            |
+|                                                                                  |            |
+| -------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                               | Other Info |
+| [Frostarm Lawachurl](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) |            |
 
 Good **single target** damage is preferred here.
 

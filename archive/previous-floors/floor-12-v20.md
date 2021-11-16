@@ -88,14 +88,14 @@ Try to avoid the **Mirror Maiden's Water Wheel** attack. This will apply a buff 
 
 ![](../../.gitbook/assets/12-2-1v20.png)
 
-|                                                                             |            |
-| --------------------------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                                          | Other Info |
-| [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md) | \~700K HP  |
-| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)          |            |
-| Smoldering Flame/Engulfing Storm ([Debuffs](../../mechanics/debuffs/))      |            |
-| [Lightning Stake](../../mechanics/auras/lightning-stake.md)                 | ?? DMG     |
-| [Mist Bubble](../../mechanics/auras/mist-bubble.md)                         | ?? DMG     |
+|                                                                                        |            |
+| -------------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                                     | Other Info |
+| [Thunderhelm Lawachurl](../../monsters/hilichurls/lawachurls/thunderhelm-lawachurl.md) | \~700K HP  |
+| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)                     |            |
+| Smoldering Flame/Engulfing Storm ([Debuffs](../../mechanics/debuffs/))                 |            |
+| [Lightning Stake](../../mechanics/auras/lightning-stake.md)                            | ?? DMG     |
+| [Mist Bubble](../../mechanics/auras/mist-bubble.md)                                    | ?? DMG     |
 
 Run for the **Mitachurl** in front of you (![](../../.gitbook/assets/pyro\_small.png)aura) and let the other one come to you. Try to finish both **Mitachurls** close to there as the **Thunderhelm Lawachurl** will spawn in that location.
 

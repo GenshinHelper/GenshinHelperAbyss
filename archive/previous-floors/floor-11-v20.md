@@ -44,13 +44,13 @@ Try to avoid taking damage from the **Hydro Slimes** or you will have to deal wi
 
 ![](../../.gitbook/assets/11-1-2v20.png)
 
-|                                                                             |            |
-| --------------------------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                                          | Other Info |
-| [Thunderhelm Lawachurl](../../monsters/hilichurls/thunderhelm-lawachurl.md) |            |
-| [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)      |            |
-| [Lightning Stake](../../mechanics/auras/lightning-stake.md)                 | ?? DMG     |
-| Engulfing Storm ([Debuffs](../../mechanics/debuffs/))                       |            |
+|                                                                                        |            |
+| -------------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                                     | Other Info |
+| [Thunderhelm Lawachurl](../../monsters/hilichurls/lawachurls/thunderhelm-lawachurl.md) |            |
+| [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md)                 |            |
+| [Lightning Stake](../../mechanics/auras/lightning-stake.md)                            | ?? DMG     |
+| Engulfing Storm ([Debuffs](../../mechanics/debuffs/))                                  |            |
 
 Go to the **Thunderhelm Lawachurl** first and let the **Electro Abyss Mage** teleport to you.
 
@@ -66,15 +66,15 @@ If the **Engulfing Storm** debuff is a problem, you can focus the **Abyss Mage**
 
 ![](../../.gitbook/assets/11-2-1v20.png)
 
-|                                                                       |            |
-| --------------------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                                    | Other Info |
-| [Cryo Abyss Mage](../../monsters/abyss-order/cryo-abyss-mage.md)      |            |
-| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)    |            |
-| [Frostarm Lawachurl](../../monsters/hilichurls/frostarm-lawachurl.md) |            |
-| [Ice Cage](../../mechanics/auras/ice-cage.md)                         | ?? DMG     |
-| Slowing Waters ([Debuffs](../../mechanics/debuffs/))                  |            |
-| [Elemental Blast](../../mechanics/auras/elemental-blast.md)           | ?? DMG     |
+|                                                                                  |            |
+| -------------------------------------------------------------------------------- | ---------- |
+| **In Depth Guide**                                                               | Other Info |
+| [Cryo Abyss Mage](../../monsters/abyss-order/cryo-abyss-mage.md)                 |            |
+| [Hydro Abyss Mage](../../monsters/abyss-order/hydro-abyss-mage.md)               |            |
+| [Frostarm Lawachurl](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) |            |
+| [Ice Cage](../../mechanics/auras/ice-cage.md)                                    | ?? DMG     |
+| Slowing Waters ([Debuffs](../../mechanics/debuffs/))                             |            |
+| [Elemental Blast](../../mechanics/auras/elemental-blast.md)                      | ?? DMG     |
 
 Run towards the **Hydro Abyss Mage** and start damaging the shield, as it tends to be much harder to remove than **Cryo Abyss Mage** shield. The **Cryo Abyss Mage** will teleport to you shortly.
 

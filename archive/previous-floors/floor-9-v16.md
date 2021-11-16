@@ -11,13 +11,13 @@ Fighting near the braziers is the best strategy, so **Sheer Cold** shouldn't be 
 
 ## Team Recommendations
 
-|                      |                                                                                                                                Side 1                                                                                                                               |                                                                                                                                                                                  Side 2                                                                                                                                                                                 |
-| -------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Shieldbreakers**   |                                                                                                              ![](../../.gitbook/assets/pyro_small.png)                                                                                                              |                                                                                                                      ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png)![](../../.gitbook/assets/geo_small.png)                                                                                                                      |
-| **Preferred Damage** |                                                                                        ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png)                                                                                        |                                                                                                                                          ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/electro_small.png)                                                                                                                                          |
-| **Avoid Damage**     |                                                                                                              ![](../../.gitbook/assets/cryo_small.png)                                                                                                              |                                                                                                                                                                ![](../../.gitbook/assets/cryo_small.png)                                                                                                                                                                |
-| **4**★ **Supports**  | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_beidou.png)![](../../.gitbook/assets/ui_avataricon_fischl.png) |
-| **5**★ **Supports**  |                                                                                                          ![](../../.gitbook/assets/ui_avataricon_venti.png)                                                                                                         |                                                                                                                                                                                                                                                                                                                                                                         |
+|                      |                                                                                                                                     Side 1                                                                                                                                    |                                                                                                                                                                                         Side 2                                                                                                                                                                                        |
+| -------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Shieldbreakers**   |                                                                                                                   ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                  |                                                                                                                            ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/electro\_small.png)![](../../.gitbook/assets/geo\_small.png)                                                                                                                           |
+| **Preferred Damage** |                                                                                            ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/electro\_small.png)                                                                                            |                                                                                                                                                ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/electro\_small.png)                                                                                                                                                |
+| **Avoid Damage**     |                                                                                                                   ![](../../.gitbook/assets/cryo\_small.png)                                                                                                                  |                                                                                                                                                                       ![](../../.gitbook/assets/cryo\_small.png)                                                                                                                                                                      |
+| **4**★ **Supports**  | ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png) | ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png)![](../../.gitbook/assets/ui\_avataricon\_fischl.png) |
+| **5**★ **Supports**  |                                                                                                              ![](../../.gitbook/assets/ui\_avataricon\_venti.png)                                                                                                             |                                                                                                                                                                                                                                                                                                                                                                                       |
 
 ## Chamber 1
 
@@ -27,19 +27,19 @@ Fighting near the braziers is the best strategy, so **Sheer Cold** shouldn't be 
 
 ![](<../../.gitbook/assets/9-1-1 (1).png>)
 
-Fight near the **Hilichurls **targeting the **brazier** and the enemies will group together.
+Fight near the \*\*Hilichurls \*\*targeting the **brazier** and the enemies will group together.
 
-Use ![](../../.gitbook/assets/pyro_small.png) against the shields.
+Use ![](../../.gitbook/assets/pyro\_small.png) against the shields.
 
 ### Side 2
 
 ![](<../../.gitbook/assets/9-1-2 (1).png>)
 
-| Aura                                                      | DMG                                           |
-| --------------------------------------------------------- | --------------------------------------------- |
-| ****[**Ice Cage**](../../mechanics/auras/ice-cage.md)**** | 3061![](../../.gitbook/assets/cryo_small.png) |
+| Aura                                              | DMG                                            |
+| ------------------------------------------------- | ---------------------------------------------- |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 3061![](../../.gitbook/assets/cryo\_small.png) |
 
-Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice Cage Aura**. Killing both waves of **Samachurls **and **Archers **before the **Cryo Abyss Mage** will make it easier to clear the floor.
+Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice Cage Aura**. Killing both waves of \*\*Samachurls \*\*and \*\*Archers \*\*before the **Cryo Abyss Mage** will make it easier to clear the floor.
 
 ## Chamber 2
 
@@ -49,26 +49,24 @@ Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice
 
 ![](<../../.gitbook/assets/9-2-1 (1).png>)
 
-Fight near the **Ice Shield Hilichurls** targetting the **brazier** and let the **Whopperflowers** come to you. 
+Fight near the **Ice Shield Hilichurls** targetting the **brazier** and let the **Whopperflowers** come to you.
 
 Make sure you kill the **Grenadiers** as well, since the next wave will not spawn if they are alive.
 
-Use ![](../../.gitbook/assets/pyro_small.png) against the shields.
+Use ![](../../.gitbook/assets/pyro\_small.png) against the shields.
 
 ### Side 2
 
 ![](<../../.gitbook/assets/9-2-2 (1).png>)
 
+| Monster                                                                              | HP |
+| ------------------------------------------------------------------------------------ | -- |
+| [**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)       | ?? |
+| [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ?? |
 
-
-| Monster                                                                                | HP |
-| -------------------------------------------------------------------------------------- | -- |
-| ****[**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)**** | ?? |
-| [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)****       | ?? |
-
-| Aura                                                      | DMG                                           |
-| --------------------------------------------------------- | --------------------------------------------- |
-| ****[**Ice Cage**](../../mechanics/auras/ice-cage.md)**** | 3213![](../../.gitbook/assets/cryo_small.png) |
+| Aura                                              | DMG                                            |
+| ------------------------------------------------- | ---------------------------------------------- |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 3213![](../../.gitbook/assets/cryo\_small.png) |
 
 Aim for the **Hydrogunner** first as it will heal the other enemies.
 
@@ -82,9 +80,9 @@ The **Anemoboxer** will target the **brazier**, but will occasionally come in to
 
 ![](<../../.gitbook/assets/9-3-1 (1).png>)
 
-| Monster                                                                       | HP |
-| ----------------------------------------------------------------------------- | -- |
-| [**Frostarm Lawachurl**](../../monsters/hilichurls/frostarm-lawachurl.md)**** | ?? |
+| Monster                                                                                      | HP |
+| -------------------------------------------------------------------------------------------- | -- |
+| [**Frostarm Lawachurl**](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md)\*\*\*\* | ?? |
 
 The **archers** and **samachurl** spawn behind you. Turn around and attack them first. The **lawachurl** will follow.
 
@@ -92,9 +90,9 @@ The **archers** and **samachurl** spawn behind you. Turn around and attack them 
 
 ![](<../../.gitbook/assets/9-3-2 (1).png>)
 
-| Aura                                                                    | DMG                                           |
-| ----------------------------------------------------------------------- | --------------------------------------------- |
-| ****[**Elemental Blast**](../../mechanics/auras/elemental-blast.md)**** | 3417![](../../.gitbook/assets/cryo_small.png) |
+| Aura                                                            | DMG                                            |
+| --------------------------------------------------------------- | ---------------------------------------------- |
+| [**Elemental Blast**](../../mechanics/auras/elemental-blast.md) | 3417![](../../.gitbook/assets/cryo\_small.png) |
 
 Aim for the **mitachurl** first, otherwise it may charge and split away from the other enemies.
 

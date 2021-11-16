@@ -11,19 +11,19 @@
 
 Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the mobs fast enough, you will want to try and lure enemies near the **Warming Seelie** if possible and fight near them.
 
-Using ![](../../.gitbook/assets/pyro_small.png)**DPS **is highly recommended on the first team. 
+Using ![](../../.gitbook/assets/pyro\_small.png)\*\*DPS \*\*is highly recommended on the first team.
 
 The second team can be any damage type as long as you have effective ways of dealing with both the **Abyss Lector** and **Abyss Herald** shields.
 
 ## Team Recommendations
 
-|                      |                                                                                                                                Side 1                                                                                                                               |                                                                                                                                                                                                            Side 2                                                                                                                                                                                                            |
-| -------------------- | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **Shieldbreakers**   |                                                                                                              ![](../../.gitbook/assets/pyro_small.png)                                                                                                              |                                                                                                                                                                      ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)                                                                                                                                                                      |
-| **Preferred Damage** |                                                                                                              ![](../../.gitbook/assets/pyro_small.png)                                                                                                              |                                                                                                                                                                      ![](../../.gitbook/assets/pyro_small.png)![](../../.gitbook/assets/cryo_small.png)                                                                                                                                                                      |
-| **Avoid Damage**     |                                                                                                              ![](../../.gitbook/assets/cryo_small.png)                                                                                                              |                                                                                                                                                                                          ![](../../.gitbook/assets/hydro_small.png)                                                                                                                                                                                          |
-| **4**★ **Supports**  | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png)![](../../.gitbook/assets/ui_avataricon_sucrose.png) | ![](../../.gitbook/assets/ui_avataricon_amber.png)![](../../.gitbook/assets/ui_avataricon_bennett.png)![](../../.gitbook/assets/ui_avataricon_xiangling.png)![](../../.gitbook/assets/ui_avataricon_xinyan.png)![](../../.gitbook/assets/ui_avataricon_chongyun.png)![](../../.gitbook/assets/ui_avataricon_diona.png)![](../../.gitbook/assets/ui_avataricon_kaeya.png)![](../../.gitbook/assets/ui_avataricon_rosaria.png) |
-| **5**★ **Supports**  |                                                                             ![](../../.gitbook/assets/ui_avataricon_lumine_anemo.png)![](../../.gitbook/assets/ui_avataricon_venti.png)                                                                             |                                                                                                                                                                                     ![](../../.gitbook/assets/ui_avataricon_zhongli.png)                                                                                                                                                                                     |
+|                      |                                                                                                                                     Side 1                                                                                                                                    |                                                                                                                                                                                                                    Side 2                                                                                                                                                                                                                    |
+| -------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
+| **Shieldbreakers**   |                                                                                                                   ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                  |                                                                                                                                                                             ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                                                                                                                             |
+| **Preferred Damage** |                                                                                                                   ![](../../.gitbook/assets/pyro\_small.png)                                                                                                                  |                                                                                                                                                                             ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                                                                                                                             |
+| **Avoid Damage**     |                                                                                                                   ![](../../.gitbook/assets/cryo\_small.png)                                                                                                                  |                                                                                                                                                                                                  ![](../../.gitbook/assets/hydro\_small.png)                                                                                                                                                                                                 |
+| **4**★ **Supports**  | ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_sucrose.png) | ![](../../.gitbook/assets/ui\_avataricon\_amber.png)![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_xinyan.png)![](../../.gitbook/assets/ui\_avataricon\_chongyun.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_rosaria.png) |
+| **5**★ **Supports**  |                                                                                ![](../../.gitbook/assets/ui\_avataricon\_lumine\_anemo.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)                                                                               |                                                                                                                                                                                            ![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)                                                                                                                                                                                            |
 
 ## Chamber 1
 
@@ -33,13 +33,13 @@ The second team can be any damage type as long as you have effective ways of dea
 
 ![](<../../.gitbook/assets/10-1-1 (1).png>)
 
-| Monster                                                                        | HP |
-| ------------------------------------------------------------------------------ | -- |
-| ****[**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)**** | ?? |
+| Monster                                                                | HP |
+| ---------------------------------------------------------------------- | -- |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md) | ?? |
 
-| Aura                                                        | DMG                                            |
-| ----------------------------------------------------------- | ---------------------------------------------- |
-| [**Mist Bubble**](../../mechanics/auras/mist-bubble.md)**** | 3626![](../../.gitbook/assets/hydro_small.png) |
+| Aura                                                            | DMG                                             |
+| --------------------------------------------------------------- | ----------------------------------------------- |
+| [**Mist Bubble**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 3626![](../../.gitbook/assets/hydro\_small.png) |
 
 Fighting near the **Hilichurl Grenadiers** is the best way to group enemies.
 
@@ -49,15 +49,15 @@ Aim for the **Hydro Slimes** first before the **Cryo Slime**. Killing the **Cryo
 
 ![](<../../.gitbook/assets/10-1-2 (1).png>)
 
-| Monster                                                                | HP |
-| ---------------------------------------------------------------------- | -- |
-| ****[**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)**** | ?? |
+| Monster                                                        | HP |
+| -------------------------------------------------------------- | -- |
+| [**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md) | ?? |
 
-| Aura                                                  | DMG                                           |
-| ----------------------------------------------------- | --------------------------------------------- |
-| [**Ice Cage**](../../mechanics/auras/ice-cage.md)**** | 3785![](../../.gitbook/assets/cryo_small.png) |
+| Aura                                                      | DMG                                            |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 3785![](../../.gitbook/assets/cryo\_small.png) |
 
-Make sure you bring ![](../../.gitbook/assets/cryo_small.png)for the **Abyss Herald**
+Make sure you bring ![](../../.gitbook/assets/cryo\_small.png)for the **Abyss Herald**
 
 Focus the **Cryo Abyss Mage** first to prevent **Ice Cage** as well as being **Frozen** by combo attacks.
 
@@ -69,7 +69,7 @@ Focus the **Cryo Abyss Mage** first to prevent **Ice Cage** as well as being **F
 
 ![](<../../.gitbook/assets/10-2-1 (1).png>)
 
-![](../../.gitbook/assets/anemo_small.png) skills that can group enemies are particularly effective on this side.
+![](../../.gitbook/assets/anemo\_small.png) skills that can group enemies are particularly effective on this side.
 
 Fight near the **Hilichurl Grenadiers** and let the other mobs come to you.
 
@@ -79,17 +79,13 @@ Once the **Hydro Samachurl** spawns, make sure to focus it down immediately or i
 
 ![](<../../.gitbook/assets/10-2-2 (2) (1).png>)
 
-| Monster                                                                | HP |
-| ---------------------------------------------------------------------- | -- |
-| ****[**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)**** | ?? |
+| Monster                                                        | HP |
+| -------------------------------------------------------------- | -- |
+| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md) | ?? |
 
-| Aura                                                  | DMG                                           |
-| ----------------------------------------------------- | --------------------------------------------- |
-| [**Ice Cage**](../../mechanics/auras/ice-cage.md)**** | 3964![](../../.gitbook/assets/cryo_small.png) |
-
-
-
-
+| Aura                                                      | DMG                                            |
+| --------------------------------------------------------- | ---------------------------------------------- |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 3964![](../../.gitbook/assets/cryo\_small.png) |
 
 Focus the **Cryo Abyss Mage** first to prevent **Ice Cage**.
 
@@ -103,11 +99,11 @@ Using a **shield** is an effective way to prevent the **Abyss Lector** from drai
 
 ![](../../.gitbook/assets/hypostasis-cryo.png)
 
-| Monster                                                                 | HP |
-| ----------------------------------------------------------------------- | -- |
-| ****[**Cryo Hypostasis**](../../monsters/elites/cryo-hypostasis.md)**** | ?? |
+| Monster                                                         | HP |
+| --------------------------------------------------------------- | -- |
+| [**Cryo Hypostasis**](../../monsters/elites/cryo-hypostasis.md) | ?? |
 
-Using ![](../../.gitbook/assets/pyro_small.png)**DPS **is particularly effective as your attacks will **Melt**.
+Using ![](../../.gitbook/assets/pyro\_small.png)\*\*DPS \*\*is particularly effective as your attacks will **Melt**.
 
 The attacks it will use are completely random. Some patterns take longer than others, so you can potentially retry this chamber until it performs a favorable attack.
 
@@ -115,13 +111,13 @@ The attacks it will use are completely random. Some patterns take longer than ot
 
 ![](<../../.gitbook/assets/10-3-2 (1).png>)
 
-| Monster                                                                           | HP |
-| --------------------------------------------------------------------------------- | -- |
-| ****[**Frostarm Lawachurl**](../../monsters/hilichurls/frostarm-lawachurl.md)**** | ?? |
-| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)****        | ?? |
+| Monster                                                                              | HP |
+| ------------------------------------------------------------------------------------ | -- |
+| [**Frostarm Lawachurl**](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) | ?? |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\*       | ?? |
 
-| Aura                                                                    | DMG                                            |
-| ----------------------------------------------------------------------- | ---------------------------------------------- |
-| ****[**Elemental Blast**](../../mechanics/auras/elemental-blast.md)**** | 4266![](../../.gitbook/assets/hydro_small.png) |
+| Aura                                                            | DMG                                             |
+| --------------------------------------------------------------- | ----------------------------------------------- |
+| [**Elemental Blast**](../../mechanics/auras/elemental-blast.md) | 4266![](../../.gitbook/assets/hydro\_small.png) |
 
 Focus the **Hydro Abyss Mage** first to prevent **Mist Bubble** as well as being **Frozen** by combo attacks.

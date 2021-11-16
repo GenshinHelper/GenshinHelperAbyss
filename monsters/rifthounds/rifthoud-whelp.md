@@ -1,7 +1,7 @@
 # Rifthoud Whelp
 
-| Element      | Resist |
-| ------------ | ------ |
+|      Element | Resist |
+| -----------: | ------ |
 | ALL ELEMENTS | 20%    |
 
 ## Mechanics
