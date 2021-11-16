@@ -8,22 +8,19 @@ description: by the Genshin Helper Team
 
 ## Current Blessing
 
-**Duration:** November 1st - 15th
+**Duration:** November 16th - 30th
 
-When a character's **Elemental Energy is 100%**, they will gain 1 stack of **Auspice **every second. Max 10 stacks.
+When a character's **Elemental Energy** is **>= 50%**, they will continuously release shockwaves that deal **DMG** to opponents
 
-When this character unleashes their **Elemental Burst**, all **Auspice **stacks will be cleared, and the **DMG **dealt by this character will be increased by **5%/stack** for **10s**. They cannot gain any more stacks during this time.
+When their **Elemental Energy reaches 100%**, these shockwaves will deal even **greater DMG**.
 
 ### Notes
 
-* **Auspice** will stack even when characters are off-field
-* The DMG bonus will apply to the DMG of the Burst used to trigger the buff
-* Stacks will only be gained while the chamber timer has started
+* Shockwaves are **PHYS DMG** and their damage scales with the floor
 
 ### Future blessings
 
-| Dates                | Blessing                                                                                                                                                                                                                                                                                                      |
-| -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| November 16th - 30st | <p>When a character's <strong>Elemental Energy</strong> is <strong>>= 50%</strong>, they will continuously release shockwaves that deal <strong>DMG</strong> to opponents.</p><p>When their <strong>Elemental Energy reaches 100%</strong>, these shockwaves will deal even <strong>greater DMG</strong>.</p> |
-| December 1st - 15th  | ??? (v2.3 patch)                                                                                                                                                                                                                                                                                              |
-| December 16th - 31st | ??? (v2.3 patch)                                                                                                                                                                                                                                                                                              |
+| Dates                | Blessing         |
+| -------------------- | ---------------- |
+| December 1st - 15th  | ??? (v2.3 patch) |
+| December 16th - 31st | ??? (v2.3 patch) |
