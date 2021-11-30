@@ -22,11 +22,11 @@ No Divergence
 
 ![](../../.gitbook/assets/12-1-1v21.png)
 
-|                                               |                |
-| --------------------------------------------- | -------------- |
-| **In Depth Guide**                            | Other Info     |
-| [Nobushi](../../monsters/untitled/nobushi.md) | 227K HP        |
-| Treasure Hoarders                             | 111K - 139K HP |
+|                                              |                |
+| -------------------------------------------- | -------------- |
+| **In Depth Guide**                           | Other Info     |
+| [Nobushi](../../monsters/samurai/nobushi.md) | 227K HP        |
+| Treasure Hoarders                            | 111K - 139K HP |
 
 {% hint style="info" %}
 The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitbook/assets/anemo\_small.png)**skills**, but must be staggered first with other abilities.

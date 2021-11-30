@@ -106,7 +106,7 @@ Focus the **Pyroslinger** first. If you can stagger him effectively, you will no
 |                                                        |                                                         |
 | ------------------------------------------------------ | ------------------------------------------------------- |
 | **In Depth Guide**                                     | Other Info                                              |
-| [Kairagi](../../monsters/untitled/kairagi.md)          |                                                         |
+| [Kairagi](../../monsters/samurai/kairagi.md)           |                                                         |
 | Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 721![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back > Front side of the arena, in that order.

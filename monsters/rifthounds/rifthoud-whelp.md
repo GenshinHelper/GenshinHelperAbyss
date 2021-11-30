@@ -16,7 +16,7 @@ When hit by any attack, applies **Corrosion** to the entire party.
 
 ### Rage
 
-When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound Whelp** will become **Enraged**, increasing **DMG **but reducing **RES**.
+When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound Whelp** will become **Enraged**, increasing **DMG** but reducing **RES**.
 
 ## Tips
 

@@ -19,6 +19,8 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
+  * [Floor 11 (v2.2)](floors/spire/floor-11-v22.md)
+  * [Floor 12 (v2.2)](floors/spire/floor-12-v22.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -87,9 +89,9 @@
   * [Ruin Defender](monsters/ruin-constructs/ruin-defender.md)
   * [Ruin Destroyer](monsters/ruin-constructs/ruin-destroyer.md)
   * [Ruin Scout](monsters/ruin-constructs/ruin-scout.md)
-* [Samurai](monsters/untitled/README.md)
-  * [Nobushi](monsters/untitled/nobushi.md)
-  * [Kairagi](monsters/untitled/kairagi.md)
+* [Samurai](monsters/samurai/README.md)
+  * [Nobushi](monsters/samurai/nobushi.md)
+  * [Kairagi](monsters/samurai/kairagi.md)
 * [Specters](monsters/specters/README.md)
   * [Hydro Specter](monsters/specters/hydro-specter.md)
   * [Anemo Specter](monsters/specters/anemo-specter.md)
@@ -150,8 +152,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
-  * [Floor 12 (v2.1)](archive/previous-floors/floor-12.md)
-  * [Floor 11 (v2.1)](archive/previous-floors/floor-11.md)
+  * [Floor 12 (v2.1)](archive/previous-floors/floor-12-v21.md)
+  * [Floor 11 (v2.1)](archive/previous-floors/floor-11-v21.md)
   * [Floor 11 (v2.0)](archive/previous-floors/floor-11-v20.md)
   * [Floor 12 (v2.0)](archive/previous-floors/floor-12-v20.md)
   * [Floor 9 (v1.6)](archive/previous-floors/floor-9-v16.md)
