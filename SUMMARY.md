@@ -77,7 +77,7 @@
   * [Hydro Frog](monsters/mimics/hydro-frog.md)
   * [Hydro Raptor](monsters/mimics/hydro-raptor.md)
 * [Rifthounds](monsters/rifthounds/README.md)
-  * [Rifthoud Whelp](monsters/rifthounds/rifthoud-whelp.md)
+  * [Rifthound Whelp](monsters/rifthounds/rifthound-whelp.md)
   * [Rifthound](monsters/rifthounds/rifthound.md)
 * [Ruin Constructs](monsters/ruin-constructs/README.md)
   * [Ruin Guard](monsters/ruin-constructs/ruin-guard.md)

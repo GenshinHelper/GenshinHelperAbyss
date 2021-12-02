@@ -18,19 +18,19 @@ None
 
 ![](../../.gitbook/assets/12-1-1v23.png)
 
-| In Depth Guide                                                             | Other Info |
-| -------------------------------------------------------------------------- | ---------- |
-| [rifthoud-whelp.md](../../monsters/rifthounds/rifthoud-whelp.md "mention") | 273K HP    |
-| [rifthound.md](../../monsters/rifthounds/rifthound.md "mention")           | 795K HP    |
+| In Depth Guide                                                               | Other Info |
+| ---------------------------------------------------------------------------- | ---------- |
+| [rifthound-whelp.md](../../monsters/rifthounds/rifthound-whelp.md "mention") | 273K HP    |
+| [rifthound.md](../../monsters/rifthounds/rifthound.md "mention")             | 795K HP    |
 
 ### Side 2
 
 ![](../../.gitbook/assets/12-1-2v23.png)
 
-| In Depth Guide                                                             | Other Info |
-| -------------------------------------------------------------------------- | ---------- |
-| [rifthoud-whelp.md](../../monsters/rifthounds/rifthoud-whelp.md "mention") | 273K HP    |
-| [rifthound.md](../../monsters/rifthounds/rifthound.md "mention")           | 795K HP    |
+| In Depth Guide                                                               | Other Info |
+| ---------------------------------------------------------------------------- | ---------- |
+| [rifthound-whelp.md](../../monsters/rifthounds/rifthound-whelp.md "mention") | 273K HP    |
+| [rifthound.md](../../monsters/rifthounds/rifthound.md "mention")             | 795K HP    |
 
 ## Chamber 2
 
@@ -86,5 +86,5 @@ None
 | In Depth Guide                                                                                                                                                                     | Other Info                    |
 | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ----------------------------- |
 | <p><a data-mention href="../../monsters/rifthounds/rifthound.md">rifthound.md</a></p><p>> <a data-mention href="../../mechanics/auras/rumbling-stone.md">rumbling-stone.md</a></p> | <p>970K HP</p><p>> ?? DMG</p> |
-| [rifthoud-whelp.md](../../monsters/rifthounds/rifthoud-whelp.md "mention")                                                                                                         | 333K HP                       |
+| [rifthound-whelp.md](../../monsters/rifthounds/rifthound-whelp.md "mention")                                                                                                       | 333K HP                       |
 | [ruin-guard.md](../../monsters/ruin-constructs/ruin-guard.md "mention")                                                                                                            | 643K HP                       |

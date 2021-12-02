@@ -4,9 +4,18 @@
 
 ![Rockfond](<../../.gitbook/assets/Rockhound (Geo).png>)
 
+#### Normal Resistance
+
 |      Element | Resist |
 | -----------: | ------ |
 | ALL ELEMENTS | 25%    |
+
+#### Devourer State
+
+|               Element | Resist |
+| --------------------: | ------ |
+| Corresponding Element | -40%   |
+|    ALL OTHER ELEMENTS | 25%    |
 
 ## Mechanics
 
@@ -18,9 +27,9 @@ When hit by any attack, applies **Corrosion** to the entire party.
 
 **Corrosion** causes the character to lose a certain **%HP** every second. This loss bypasses any shields.
 
-### Rage
+### Devourer
 
-When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound** will become **Enraged**, increasing **DMG** but setting their resistance to their corresponding element to **-10% RES**.
+When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound** will enter the **Devourer** state, increasing **DMG** but setting their resistance to their corresponding element to **-40% RES**.
 
 ## Tips
 
