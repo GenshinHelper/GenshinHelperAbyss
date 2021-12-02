@@ -58,7 +58,7 @@ None
 
 | In Depth Guide                                                                                           | Other Info |
 | -------------------------------------------------------------------------------------------------------- | ---------- |
-| [maguu-kenki-split-version.md](../../monsters/elites/maguu-kenki/maguu-kenki-split-version.md "mention") | 123K HP    |
+| [maguu-kenki-split-version.md](../../monsters/elites/maguu-kenki/maguu-kenki-split-version.md "mention") | 1.2M HP    |
 
 ## Chamber 3
 
