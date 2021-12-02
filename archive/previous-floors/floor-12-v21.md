@@ -72,10 +72,10 @@ The waves will not end until the death animation of **Specters** completes. Keep
 
 ![](../../.gitbook/assets/maguu-kenki.png)
 
-|                                                     |            |
-| --------------------------------------------------- | ---------- |
-| **In Depth Guide**                                  | Other Info |
-| [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | 1.5M HP    |
+|                                                   |            |
+| ------------------------------------------------- | ---------- |
+| **In Depth Guide**                                | Other Info |
+| [Maguu Kenki](../../monsters/elites/maguu-kenki/) | 1.5M HP    |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 

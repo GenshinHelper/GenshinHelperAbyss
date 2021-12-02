@@ -107,10 +107,10 @@ Clear this side quickly so you can have more time for **Side 2**.
 
 ![](../../.gitbook/assets/maguu-kenki.png)
 
-|                                                     |            |
-| --------------------------------------------------- | ---------- |
-| **In Depth Guide**                                  | Other Info |
-| [Maguu Kenki](../../monsters/elites/maguu-kenki.md) | \~1300K HP |
+|                                                   |            |
+| ------------------------------------------------- | ---------- |
+| **In Depth Guide**                                | Other Info |
+| [Maguu Kenki](../../monsters/elites/maguu-kenki/) | \~1300K HP |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 

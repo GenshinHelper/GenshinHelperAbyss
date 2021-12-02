@@ -69,9 +69,9 @@ The mimics should go down fairly easily to AoE damage, however if you're struggl
 
 ![](../../.gitbook/assets/maguu-kenki.png)
 
-| In Depth Guide                                                   | Other Info |
-| ---------------------------------------------------------------- | ---------- |
-| [maguu-kenki.md](../../monsters/elites/maguu-kenki.md "mention") | 1.5M HP    |
+| In Depth Guide                                              | Other Info |
+| ----------------------------------------------------------- | ---------- |
+| [maguu-kenki](../../monsters/elites/maguu-kenki/ "mention") | 1.5M HP    |
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 

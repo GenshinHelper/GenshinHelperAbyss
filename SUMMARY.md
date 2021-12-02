@@ -19,8 +19,6 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
-  * [Floor 11 (v2.2)](floors/spire/floor-11-v22.md)
-  * [Floor 12 (v2.2)](floors/spire/floor-12-v22.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -104,7 +102,8 @@
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Hydro Hypostasis](monsters/elites/hydro-hypostasis.md)
   * [Oceanid](monsters/elites/oceanid.md)
-  * [Maguu Kenki](monsters/elites/maguu-kenki.md)
+  * [Maguu Kenki](monsters/elites/maguu-kenki/README.md)
+    * [Maguu Kenki (Split Version)](monsters/elites/maguu-kenki/maguu-kenki-split-version.md)
   * [Perpetual Mechanical Array](monsters/elites/perpetual-mechanical-array.md)
   * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
 
@@ -132,6 +131,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [v2.3](changelogs/versions/v23.md)
   * [v2.2](changelogs/versions/v22.md)
   * [v2.1](changelogs/versions/v21.md)
   * [v2.0](changelogs/versions/v20.md)
@@ -152,6 +152,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v2.2)](archive/previous-floors/floor-12-v22.md)
+  * [Floor 11 (v2.2)](archive/previous-floors/floor-11-v22.md)
   * [Floor 12 (v2.1)](archive/previous-floors/floor-12-v21.md)
   * [Floor 11 (v2.1)](archive/previous-floors/floor-11-v21.md)
   * [Floor 11 (v2.0)](archive/previous-floors/floor-11-v20.md)

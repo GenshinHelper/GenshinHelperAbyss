@@ -1,5 +1,9 @@
 # Rifthound
 
+![Thundercraven](<../../.gitbook/assets/Rockhound (Electro).png>)
+
+![Rockfond](<../../.gitbook/assets/Rockhound (Geo).png>)
+
 |      Element | Resist |
 | -----------: | ------ |
 | ALL ELEMENTS | 25%    |
@@ -16,7 +20,7 @@ When hit by any attack, applies **Corrosion** to the entire party.
 
 ### Rage
 
-When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound** will become **Enraged**, increasing **DMG** but reducing **RES**.
+When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound** will become **Enraged**, increasing **DMG** but setting their resistance to their corresponding element to **-10% RES**.
 
 ## Tips
 
@@ -60,7 +64,7 @@ The **Rifthound** only uses this attack if the player is far away.
 Empowers the Rifthound, but reduces RES
 {% endembed %}
 
-While **Enraged**, the **Rifthound's** attacks are powered up, but gets **-65% RES** to their corresponding element.
+While **Enraged**, the **Rifthound's** attacks are powered up, but has their resistance to that element set to **-40% RES**.
 
 Use teams that have the same type as the targeted **Rifthound** and trigger this as soon as possible. The defense reduction is significant, and you should be able to finish it off fairly quickly.
 

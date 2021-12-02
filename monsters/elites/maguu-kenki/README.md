@@ -1,19 +1,19 @@
 # Maguu Kenki
 
-![](../../.gitbook/assets/maguu-kenki.png)
+![](../../../.gitbook/assets/maguu-kenki.png)
 
 ## Resistances
 
-|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
-| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
-|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                    10%                    |                      10%                     |                       10%                      |
+|                                               |                                                |                                               |                                                  |                                                |                                              |                                                 |                                                   |
+| :-------------------------------------------: | :--------------------------------------------: | :-------------------------------------------: | :----------------------------------------------: | :--------------------------------------------: | :------------------------------------------: | :---------------------------------------------: | :-----------------------------------------------: |
+| ![](../../../.gitbook/assets/pyro\_small.png) | ![](../../../.gitbook/assets/hydro\_small.png) | ![](../../../.gitbook/assets/cryo\_small.png) | ![](../../../.gitbook/assets/electro\_small.png) | ![](../../../.gitbook/assets/anemo\_small.png) | ![](../../../.gitbook/assets/geo\_small.png) | ![](../../../.gitbook/assets/dendro\_small.png) | ![](../../../.gitbook/assets/physical\_small.png) |
+|                      10%                      |                       10%                      |                      10%                      |                        10%                       |                       10%                      |                      10%                     |                       10%                       |                        10%                        |
 
 ## Tips and Mechanics
 
 **Weak Point** - Face
 
-When the **Maguu Kenki** first drops below **75% HP**, it will perform a **Ground Strike** after which it will infuse attacks with![](../../.gitbook/assets/anemo\_small.png)**DMG**, and begin to use **Phantom** attacks. The color of the **Phantom** determines whether it will deal ![](../../.gitbook/assets/anemo\_small.png)or![](../../.gitbook/assets/cryo\_small.png)**DMG**. The **Maguu Kenki** is invulnerable to damage during this transition.
+When the **Maguu Kenki** first drops below **75% HP**, it will perform a **Ground Strike** after which it will infuse attacks with![](../../../.gitbook/assets/anemo\_small.png)**DMG**, and begin to use **Phantom** attacks. The color of the **Phantom** determines whether it will deal ![](../../../.gitbook/assets/anemo\_small.png)or![](../../../.gitbook/assets/cryo\_small.png)**DMG**. The **Maguu Kenki** is invulnerable to damage during this transition.
 
 It is recommended you use a **melee** character to avoid its **Block** ability.
 
@@ -63,7 +63,7 @@ Slashes at the player three times
 Summons a second sword and deals Anemo + Cryo damage in a large AoE
 {% endembed %}
 
-**Maguu Kenki** will use this attack when you first drop it below **75% HP**, after which it will infuse itself with ![](../../.gitbook/assets/anemo\_small.png) begin to use **Phantom** attacks which deal ![](../../.gitbook/assets/cryo\_small.png) .
+**Maguu Kenki** will use this attack when you first drop it below **75% HP**, after which it will infuse itself with ![](../../../.gitbook/assets/anemo\_small.png) begin to use **Phantom** attacks which deal ![](../../../.gitbook/assets/cryo\_small.png) .
 
 You can **dodge** the attack with the right timing, or use a **Burst** to i-frame through the damaging portion. Otherwise, avoid it by running outside of the AoE.
 

@@ -2,10 +2,10 @@
 
 ![](../../.gitbook/assets/specter-geo-.jpg)
 
-|                                            |                                             |                                            |                                               |                                             |                                           |                                              |                                                |
-| :----------------------------------------: | :-----------------------------------------: | :----------------------------------------: | :-------------------------------------------: | :-----------------------------------------: | :---------------------------------------: | :------------------------------------------: | :--------------------------------------------: |
-| ![](../../.gitbook/assets/pyro\_small.png) | ![](../../.gitbook/assets/hydro\_small.png) | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/electro\_small.png) | ![](../../.gitbook/assets/anemo\_small.png) | ![](../../.gitbook/assets/geo\_small.png) | ![](../../.gitbook/assets/dendro\_small.png) | ![](../../.gitbook/assets/physical\_small.png) |
-|                     10%                    |                     10%                     |                     10%                    |                      10%                      |                     10%                     |                   **∞%**                  |                      10%                     |                       10%                      |
+|                                   Element | Resist     |
+| ----------------------------------------: | ---------- |
+| ![](../../.gitbook/assets/geo\_small.png) | **IMMUNE** |
+|                        ALL OTHER ELEMENTS | 10%        |
 
 ## Tips and Mechanics
 

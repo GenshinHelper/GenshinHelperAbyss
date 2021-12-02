@@ -1,5 +1,9 @@
 # Rifthoud Whelp
 
+![Thundercraven](<../../.gitbook/assets/Rockhound Whelp (Electro).png>)
+
+![Rockfond](<../../.gitbook/assets/Rockhound Whelp (Geo).png>)
+
 |      Element | Resist |
 | -----------: | ------ |
 | ALL ELEMENTS | 20%    |
@@ -16,7 +20,7 @@ When hit by any attack, applies **Corrosion** to the entire party.
 
 ### Rage
 
-When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound Whelp** will become **Enraged**, increasing **DMG** but reducing **RES**.
+When hit by their **same element**, the **Rage** meter will increase. When it is full, the **Rifthound Whelp** will become **Enraged**, increasing **DMG** but setting their resistance to their corresponding element to **-10% RES**.
 
 ## Tips
 
@@ -52,6 +56,6 @@ Vanishes, then appears behind the player and performs swipe
 Empowers the Rifthound, but reduces RES
 {% endembed %}
 
-While **Enraged**, the **Rifthound Whelp's** attacks are powered up, but gets **-30% RES** to their corresponding element.
+While **Enraged**, the **Rifthound Whelp's** attacks are powered up, but has their resistance to that element set to **-10% RES**.
 
 Use teams that have the same type as the targeted **Rifthound Whelp** and trigger this as soon as possible. The defense reduction is significant, and you should be able to finish it off fairly quickly.
