@@ -6,7 +6,9 @@ None
 
 ## General Tips
 
-### FAQ - Do I use the matching element against Rifthounds? <a href="#rifthounds" id="rifthounds"></a>
+## Rifthound FAQ <a href="#rifthounds" id="rifthounds"></a>
+
+### Do I use the matching element against them?
 
 **Short answer** - opinions are mixed, but generally **not recommended** to use the matching element that enrages the Rifthounds.
 
@@ -31,7 +33,7 @@ For more details on this mechanic, check out [#devourer](../../monsters/rifthoun
 | [rifthound-whelp.md](../../monsters/rifthounds/rifthound-whelp.md "mention") | 273K HP    |
 | [rifthound.md](../../monsters/rifthounds/rifthound.md "mention")             | 795K HP    |
 
-See [#undefined](floor-12.md#undefined "mention")
+See [#rifthounds](floor-12.md#rifthounds "mention")
 
 ### Side 2
 
