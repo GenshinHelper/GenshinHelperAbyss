@@ -4,15 +4,23 @@
 
 None
 
+## General Tips
+
+### FAQ - Do I use the matching element against Rifthounds?
+
+**Short answer** - opinions are mixed, but generally **not recommended** to use the matching element that enrages the Rifthounds.
+
+**Long answer** - When Rifthounds are damaged by their matching element, it builds up their Rage and eventually triggers their **Devourer** state. This reduces their **RES** for that matching element, increases their **DMG**, but most importantly will also make them move around a lot more during their attacks.
+
+If your composition primarily deals the damage of the matching element, then the **RES** reduction may be worth it. In this case you may want to make a team that is able to repeatedly **stagger** the **Rifthounds** to prevent them from moving too much when they attack, or perhaps rely on a comp that can have high burst potential such as a well invested **Raiden**.
+
+However in all other cases, it's best to avoid the matching element entirely and to not build up Rage.
+
+For more details on this mechanic, check out [#devourer](../../monsters/rifthounds/rifthound.md#devourer "mention")
+
 ## Chamber 1
 
 **Monster Level - 90**
-
-|                            | Side 1 | Side 2 |
-| -------------------------- | :----: | :----: |
-| **Shieldbreakers**         |        |        |
-| **Preferred DPS Elements** |        |        |
-| **Avoid DPS Elements**     |        |        |
 
 ### Side 1
 
