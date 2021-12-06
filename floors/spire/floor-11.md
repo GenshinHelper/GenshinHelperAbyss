@@ -22,7 +22,7 @@ While ![](../../.gitbook/assets/geo\_small.png) / ![](../../.gitbook/assets/phys
 
 ## Chamber 1
 
-**Monster Level - 80**
+**Monster Level - 88**
 
 ### Side 1
 
@@ -70,7 +70,7 @@ For a kill order:
 
 ## Chamber 2
 
-**Monster Level - 82**
+**Monster Level - 90**
 
 ### Side 1
 
@@ -98,7 +98,7 @@ Killing one **Kairagi** will cause the other to heal if still alive (see [#tips-
 
 ## Chamber 3
 
-**Monster Level - 84**
+**Monster Level - 92**
 
 ### Side 1
 

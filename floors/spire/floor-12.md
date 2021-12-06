@@ -31,7 +31,7 @@ Try one or more of the following tips
 
 ## Chamber 1
 
-**Monster Level - 90**
+**Monster Level - 95**
 
 ### Side 1
 
@@ -65,7 +65,7 @@ See [#rifthounds](floor-12.md#rifthounds "mention")
 
 
 
-**Monster Level - 92**
+**Monster Level - 98**
 
 |                            |                                          Side 1                                         | Side 2 |
 | -------------------------- | :-------------------------------------------------------------------------------------: | :----: |
