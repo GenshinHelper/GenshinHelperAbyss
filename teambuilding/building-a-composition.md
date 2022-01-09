@@ -14,11 +14,17 @@ For Abyss, you will need at least 1 core for each team. When starting a floor, l
 If possible, try to use different types of damage between the two teams in order to avoid being heavily disadvantaged if a floor is bad for a specific element.
 {% endhint %}
 
-{% hint style="warning" %}
-The cores listed here are intentionally limited to only suggesting **2 character combinations**. This leaves the most room for flexibility for each abyss floor. This means there will be some compositions that require specific 3 or 4 characters that will not be included here.
-{% endhint %}
+**Core are generally chosen to facilitate a specific set of reactions to amplify specific types of damage.** This is not the case for all characters in every team (such as flex spots for floor-specific support). There are several different classes of cores. Here are some common examples:
 
-### Add supports
+1. **Melt/Vaporize** ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png)**:** These cores take advantage of the damage bonus that Pyro/Cryo/Hydro Damage gets when the opposing elements are applied to an ememy. For example, Pyro attacks deal 1.5x/2x damage to enemies inflicted with Hydro/Cryo Auras. Cryo/Hydro damage deals 1.5x/2x damage to enemies inflicted by Pyro. **This is currently seen as the core with the highest DPS threshold**, and can be a great core to build when you need to overcome a DPS deficiency.
+2. **Superconduct** ![](../.gitbook/assets/physical\_small.png)![](../.gitbook/assets/electro\_small.png)![](../.gitbook/assets/cryo\_small.png): These cores consisting of Electro/Cryo characters amplify physical damage by procing superconduct to decrease enemy physical res. This core can be great because it is accessible through many different characters and is not as locked behind 5\* characters as other cores. It is also strong situationally when fighting humanoid enemies. It does **generally fall behind other cores as higher floors tend to have enemies with higher physical resistance** and/or a high quantity of enemies resulting in inefficiency due to **lack of AOE scalability.**
+3. **Geo** ![](../.gitbook/assets/geo\_small.png): These cores are generally pure Geo teams. This relies on the incredible buffs of Geo resonance and the compatibility of buffs between existing Geo characters. Certain characters allow these teams to gain AOE capabilities but it is still lacking in that regard compared to other cores. **The biggest drawback with this core is that its power is locked behind certain 5\* characters like Zhongli and Albedo.**&#x20;
+4. **Freeze** ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png): Freeze teams make use of the comfortability of play due to the freeze reaction keeping enemies in place. It is made stronger with the blizzard strayer set and resonance allowing for low crit rate builds. These teams lead to **higher consistency of damage and more ease of play** but do not have the same DPS threshold of melt/vaporize teams.&#x20;
+5. **Mono-element**: Mono-element teams take advantage of character-specific buffs to damage of a specific type (Bennett C6, Xiangling C6, Beidou C6, Kujou Sara C6, etc.). They are further enabled with Swirl reactions that buff that element damage further. These teams are generally locked behind character constellations of 5\* characters and are best used when a specific character is not bestfit to proc reactions.
+
+There are other team types but most will fall under the above categories. Note can specific characters can enable the use of completely different team types (Overload with Yoimiya/Yanfei, and Anemo with Xiao).&#x20;
+
+### General Supports
 
 Which supports you choose for each team will vary depending on the specific requirements for the floor.
 
@@ -26,13 +32,31 @@ Which supports you choose for each team will vary depending on the specific requ
 The best supports will often fill in more than one of these categories. This is why pure healers like Barbara or Qiqi are not usually recommended over other more versatile supports like Bennett or Zhong Li.
 {% endhint %}
 
-#### Healer
+#### Healers/Shielders
 
-Each team should have a character than can heal.
+Each team should have a character than can heal or prevent the team from taking excessive damage over the match.
 
 {% hint style="info" %}
-While it's possible to run a strong shield character like Zhong Li instead of a healer, it's not recommended
+While it's possible to run a strong shield character like Zhong Li instead of a healer, it's not recommended.
 {% endhint %}
+
+#### Energy
+
+Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their \*\*Bursts \*\*up more often, helping you deal more damage.
+
+#### Crowd Control
+
+Characters that are able to disable enemies in various ways. This will often be a character than can enable \*\*Freeze \*\*to disable enemies, or an ![](../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
+
+#### Damage
+
+These supports boost the damage of your core unit in some way, either by:
+
+* Buffing your team (**Bennet**,\*\* \*\*character using **Noblesse Oblige** set)
+* Debuffing your enemies (**Zhong Li**, ![](../.gitbook/assets/anemo\_small.png)using **Viridescent Veneer** set)
+* Adding resonance
+
+### Floor-Specific Supports
 
 #### Shieldbreakers
 
@@ -51,22 +75,6 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 ![](../.gitbook/assets/anemo\_small.png) resonance is good on teams that will swap between **Elemental Skills** often.
 
 ![](../.gitbook/assets/electro\_small.png)/![](../.gitbook/assets/hydro\_small.png)resonances are the weakest and usually not worth going for specifically.
-
-#### Energy
-
-Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their \*\*Bursts \*\*up more often, helping you deal more damage.
-
-#### Crowd Control
-
-Characters that are able to disable enemies in various ways. This will often be a character than can enable \*\*Freeze \*\*to disable enemies, or an ![](../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
-
-#### Damage
-
-These supports boost the damage of your core unit in some way, either by:
-
-* Buffing your team (**Bennet**,\*\* \*\*character using **Noblesse Oblige** set)
-* Debuffing your enemies (**Zhong Li**, ![](../.gitbook/assets/anemo\_small.png)using **Viridescent Veneer** set)
-* Adding resonance
 
 ## Cores
 
