@@ -91,7 +91,10 @@
   * [Nobushi](monsters/samurai/nobushi.md)
   * [Kairagi](monsters/samurai/kairagi.md)
 * [Specters](monsters/specters/README.md)
+  * [Pyro Specter](monsters/specters/pyro-specter.md)
   * [Hydro Specter](monsters/specters/hydro-specter.md)
+  * [Cryo Specter](monsters/specters/cryo-specter.md)
+  * [Electro Specter](monsters/specters/electro-specter.md)
   * [Anemo Specter](monsters/specters/anemo-specter.md)
   * [Geo Specter](monsters/specters/geo-specter.md)
 * [World Bosses](monsters/elites/README.md)
@@ -132,6 +135,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [v2.4](changelogs/versions/v2.4.md)
   * [v2.3](changelogs/versions/v23.md)
   * [v2.2](changelogs/versions/v22.md)
   * [v2.1](changelogs/versions/v21.md)
