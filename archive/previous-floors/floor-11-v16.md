@@ -121,10 +121,10 @@ The second side is much harder, so try to aim for a clear under 1 minute to leav
 
 ![](<../../.gitbook/assets/11-3-2 (2).png>)
 
-| Monster                                                                | HP |
-| ---------------------------------------------------------------------- | -- |
-| [**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md)         | ?? |
-| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector-electro.md) | ?? |
+| Monster                                                        | HP |
+| -------------------------------------------------------------- | -- |
+| [**Abyss Herald**](../../monsters/abyss-order/abyss-herald.md) | ?? |
+| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md) | ?? |
 
 If possible, bring ![](../../.gitbook/assets/cryo\_small.png) as it is effective against both shields.
 

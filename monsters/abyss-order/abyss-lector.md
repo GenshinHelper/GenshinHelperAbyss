@@ -1,4 +1,4 @@
-# Abyss Lector
+# Abyss Lector (Electro)
 
 ![](../../.gitbook/assets/abyss-lector.jpg)
 

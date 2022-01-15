@@ -88,7 +88,7 @@ Using![](../../.gitbook/assets/pyro\_small.png)AoE skills will let you damage bo
 | ---------------------------------------------------------------------- | ---------- |
 | **In Depth Guide**                                                     | Other Info |
 | [Electro Abyss Mage](../../monsters/abyss-order/electro-abyss-mage.md) |            |
-| [Abyss Lector](../../monsters/abyss-order/abyss-lector-electro.md)     |            |
+| [Abyss Lector](../../monsters/abyss-order/abyss-lector.md)             |            |
 | [Pyro Abyss Mage](../../monsters/abyss-order/pyro-abyss-mage.md)       |            |
 | [Lightning Stake](../../mechanics/auras/lightning-stake.md)            | ??         |
 | [Pursuing Fireball](../../mechanics/auras/pursuing-fireball.md)        | ??         |

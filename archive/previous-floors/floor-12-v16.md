@@ -100,7 +100,7 @@ If you don't have access to a strong **Freeze** team, it's best to try to build 
 
 | Monster                                                                        | HP     |
 | ------------------------------------------------------------------------------ | ------ |
-| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector-electro.md)         | \~735K |
+| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)                 | \~735K |
 | [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* | ??     |
 | [**Pyro Abyss Mage**](../../monsters/abyss-order/pyro-abyss-mage.md)           | ??     |
 

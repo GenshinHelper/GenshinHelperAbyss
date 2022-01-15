@@ -74,7 +74,7 @@ These shields **block all damage** until the shield is destroyed.
 |                                                 | [Cryo Abyss Mage](../monsters/abyss-order/cryo-abyss-mage.md)       |       12      |
 |                                                 | [Electro Abyss Mage](../monsters/abyss-order/electro-abyss-mage.md) |               |
 |     ![](../.gitbook/assets/abyss-herald.jpg)    | [Abyss Herald](../monsters/abyss-order/abyss-herald.md)             |       36      |
-|     ![](../.gitbook/assets/abyss-lector.jpg)    | [Abyss Lector](../monsters/abyss-order/abyss-lector-electro.md)     |       36      |
+|     ![](../.gitbook/assets/abyss-lector.jpg)    | [Abyss Lector](../monsters/abyss-order/abyss-lector.md)             |       36      |
 | ![](../.gitbook/assets/cicin-mage-electro-.jpg) | [Electro Cicin Mage](../monsters/fatui/electro-cicin-mage.md)       |       8       |
 |   ![](../.gitbook/assets/cicin-mage-cryo-.jpg)  | [Cryo Cicin Mage](../monsters/fatui/cryo-cicin-mage.md)             |     4 - 12    |
 |                                                 | Cryo Slime                                                          |       8       |

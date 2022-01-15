@@ -124,9 +124,9 @@ In the second wave, run for the **Crane Hydro Mimics**. The other enemies will c
 
 ![](../../.gitbook/assets/12-3-1.png)
 
-| Monster                                                                | HP        |
-| ---------------------------------------------------------------------- | --------- |
-| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector-electro.md) | \~735K HP |
+| Monster                                                        | HP        |
+| -------------------------------------------------------------- | --------- |
+| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md) | \~735K HP |
 
 {% hint style="info" %}
 The **Abyss Lector shield** has **36U** of strength. This means it takes anywhere between **18\~36** applications of![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/hydro\_small.png)to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png)are half as effective, requiring **36\~72** applications.

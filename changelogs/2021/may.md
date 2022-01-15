@@ -7,7 +7,7 @@ description: Changelogs
 ## Major Updates
 
 * New monster guide for [Abyss Herald](../../monsters/abyss-order/abyss-herald.md)
-* New monster guide for [Abyss Lector](../../monsters/abyss-order/abyss-lector-electro.md)
+* New monster guide for [Abyss Lector](../../monsters/abyss-order/abyss-lector.md)
 * Guide for new [Floor 11](../../archive/previous-floors/floor-11-v15.md)
 * Guide for new [Floor 12](../../archive/previous-floors/floor-12-v15.md)
 
