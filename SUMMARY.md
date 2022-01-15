@@ -19,6 +19,8 @@
   * [Floor 10](floors/spire/floor-10.md)
   * [Floor 11](floors/spire/floor-11.md)
   * [Floor 12](floors/spire/floor-12.md)
+  * [Floor 11 (v2.3)](floors/spire/floor-11-v23.md)
+  * [Floor 12 (v2.3)](floors/spire/floor-12-v23.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -35,7 +37,8 @@
   * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)
   * [Electro Abyss Mage](monsters/abyss-order/electro-abyss-mage.md)
   * [Abyss Herald](monsters/abyss-order/abyss-herald.md)
-  * [Abyss Lector](monsters/abyss-order/abyss-lector.md)
+  * [Abyss Lector (Pyro)](monsters/abyss-order/abyss-lector-pyro.md)
+  * [Abyss Lector (Electro)](monsters/abyss-order/abyss-lector-electro.md)
 * [Animals](monsters/animals/README.md)
   * [Pyro Whopperflower](monsters/animals/pyro-whopperflower.md)
   * [Cryo Whopperflower](monsters/animals/cryo-whopperflower.md)

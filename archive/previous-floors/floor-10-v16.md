@@ -79,9 +79,9 @@ Once the **Hydro Samachurl** spawns, make sure to focus it down immediately or i
 
 ![](<../../.gitbook/assets/10-2-2 (2) (1).png>)
 
-| Monster                                                        | HP |
-| -------------------------------------------------------------- | -- |
-| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md) | ?? |
+| Monster                                                                | HP |
+| ---------------------------------------------------------------------- | -- |
+| [**Abyss Lector**](../../monsters/abyss-order/abyss-lector-electro.md) | ?? |
 
 | Aura                                                      | DMG                                            |
 | --------------------------------------------------------- | ---------------------------------------------- |

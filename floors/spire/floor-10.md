@@ -84,10 +84,10 @@ Having an​![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspo
 
 ![](../../.gitbook/assets/10-3-1v20.png)
 
-|                                                            |            |
-| ---------------------------------------------------------- | ---------- |
-| **In Depth Guide**                                         | Other Info |
-| [Abyss Lector](../../monsters/abyss-order/abyss-lector.md) |            |
+|                                                                    |            |
+| ------------------------------------------------------------------ | ---------- |
+| **In Depth Guide**                                                 | Other Info |
+| [Abyss Lector](../../monsters/abyss-order/abyss-lector-electro.md) |            |
 
 Fcous the **Hydro Samachurl** first, followed by the **Anemo Samachurl**.
 
