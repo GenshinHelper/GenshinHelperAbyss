@@ -1,5 +1,7 @@
 # Primo Geovishap
 
+![](../../.gitbook/assets/Geovishap=Primo.png)
+
 ## Resistances
 
 |                                   Element | Resist |

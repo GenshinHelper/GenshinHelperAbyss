@@ -1,5 +1,7 @@
 # Pyro Specter
 
+![](../../.gitbook/assets/Specter=Pyro.png)
+
 |                                    Element | Resist     |
 | -----------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/pyro\_small.png) | **IMMUNE** |

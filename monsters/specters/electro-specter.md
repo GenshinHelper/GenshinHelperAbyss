@@ -1,5 +1,7 @@
 # Electro Specter
 
+![](../../.gitbook/assets/Specter=Electro.png)
+
 |                                       Element | Resist     |
 | --------------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/electro\_small.png) | **IMMUNE** |

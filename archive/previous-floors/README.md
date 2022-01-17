@@ -19,3 +19,4 @@ Below is a rough estimate for the amount of DPS required for 3\* on F12-3 for di
 | PMA F12            | 2.1     | 18K     | 23K      |
 | Ruin Machine F12   | 2.2     | 15K     | 30K      |
 | Rifthounds F12     | 2.3     | 17K     | 32K      |
+| Primo Vishap F12   | 2.4     | 18K     | 27K      |
