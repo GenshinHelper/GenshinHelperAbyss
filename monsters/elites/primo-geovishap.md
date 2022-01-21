@@ -12,15 +12,21 @@
 
 In initial awakening state the Primo Geovishap gets +200% ALL RES.
 
+If you counter the [#primordial-shower](primo-geovishap.md#primordial-shower "mention"), the Primo Geovishap gets -50% ALL RES for 5 seconds.
+
 ## Tips and Mechanics
 
-**Weak Point** - None
+**Weak Point** - Head
+
+Make sure you do not use your damaging skills when it is first waking up, as it has greatly increased resistance. You can use this time to charge up energy though if you like.
 
 Primo Geovishaps are very tanky, bring **high single target dps to defeat them in a timely manner.**
 
 Their attacks deal high damage so **bringing a shield** and/or **consistently dodging correctly** is crucial (more info on this below). While bringing a healer is recommended, it is often not enough to counteract the high damage taken from attacks.
 
 Shields are particularly important as you can reflect their **Primordial Shower** attack for additional damage. You can use the shards dropped by the Primo Geovishap to do this, but it is a lot less reliable than using a character than can shield.
+
+Staying close to the Primo Geovishap is the best way to defeat it quickly, as long as you can avoid it's attacks by dodging or shielding.
 
 ## Abilities (Normal)
 
@@ -87,6 +93,13 @@ Sends out several stones in the arena which explode after some time, dealing DMG
 {% endembed %}
 
 Each element has a slight variation in the explosion, but they all will deal AoE DMG of the infused element.
+
+|                    Element                    | Description                             |
+| :-------------------------------------------: | --------------------------------------- |
+|   ![](../../.gitbook/assets/pyro\_small.png)  | Leaves circular pools of lava           |
+|  ![](../../.gitbook/assets/hydro\_small.png)  | Causes multiple eruptions               |
+|   ![](../../.gitbook/assets/cryo\_small.png)  | Causes a spike ring, slowing you if hit |
+| ![](../../.gitbook/assets/electro\_small.png) | Causes an X shaped explosion            |
 
 When low on health, the Primo Geovishap will use a powered up version of this attack, sending out more stones.
 
