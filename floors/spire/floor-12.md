@@ -73,7 +73,7 @@ After that, go for the [pyro-abyss-mage.md](../../monsters/abyss-order/pyro-abys
 
 ### Side 1
 
-![](../../.gitbook/assets/Geovishap=Primo.png)
+![](../../.gitbook/assets/12-2-1v24.png)
 
 | In Depth Guide                                                           | Other Info |
 | ------------------------------------------------------------------------ | ---------- |
