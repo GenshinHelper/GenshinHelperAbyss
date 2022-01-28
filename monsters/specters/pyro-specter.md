@@ -19,4 +19,28 @@ When **enraged**, they will change their attack patterns, deal more damage, and 
 
 ## Abilities <a href="#abilities" id="abilities"></a>
 
-### Homing Missile <a href="#homing-missile" id="homing-missile"></a>
+### Bullet
+
+{% embed url="https://gfycat.com/whoppingvacanthen" %}
+Fires a flaming bullet towards the player
+{% endembed %}
+
+### Blinking Blaze <a href="#homing-missile" id="homing-missile"></a>
+
+{% embed url="https://gfycat.com/respectfulsorrowfulcurassow" %}
+Teleports behind the player and lets out a burst of fire
+{% endembed %}
+
+### Flaming Turret (Enraged)
+
+{% embed url="https://gfycat.com/flippantpleasingeel" %}
+Follows the player, shooting out 6 bursts of fire
+{% endembed %}
+
+### Detonate
+
+{% embed url="https://gfycat.com/delightfulvalidiridescentshark" %}
+Explodes in a small AoE once killed
+{% endembed %}
+
+If **enraged**, it will leave behind a bomb that causes a secondary explosion in an AoE.

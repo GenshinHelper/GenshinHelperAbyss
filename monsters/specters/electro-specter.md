@@ -19,4 +19,28 @@ When **enraged**, they will change their attack patterns, deal more damage, and 
 
 ## Abilities <a href="#abilities" id="abilities"></a>
 
-### Homing Missile <a href="#homing-missile" id="homing-missile"></a>
+### Lightning
+
+{% embed url="https://gfycat.com/whitelimitedaustraliancurlew" %}
+Summons 3 lightning bolts, one centered on the player
+{% endembed %}
+
+### Spin <a href="#homing-missile" id="homing-missile"></a>
+
+{% embed url="https://gfycat.com/warmheartedvillainousgermanshorthairedpointer" %}
+Performs a spinning attack towards the player
+{% endembed %}
+
+### Plummet (Enraged)
+
+{% embed url="https://gfycat.com/grizzledesteemedgalah" %}
+After brief delay, slams down on top of the player
+{% endembed %}
+
+### Detonate
+
+{% embed url="https://gfycat.com/shrilldishonesthoneycreeper" %}
+Explodes in an AoE once killed
+{% endembed %}
+
+If **enraged**, the Electro Specter will follow the player briefly before detonating rather than staying in place.

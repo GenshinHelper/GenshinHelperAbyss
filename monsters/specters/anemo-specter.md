@@ -11,7 +11,7 @@
 
 **Weak Point** - None
 
-Use ranged attacks or burst them down quickly to prevent losing time to healing.
+While not dangerous by themselves, the vacuum they leave behind can combo with other enemies. Try to avoid enraging them if they are combined with other monsters with hard hitting attacks.
 
 ## Rage
 

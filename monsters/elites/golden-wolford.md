@@ -6,7 +6,7 @@
 
 ## Mechanics
 
-**Weak point** - Head.
+**Weak point** - None
 
 ### Corrosion
 
