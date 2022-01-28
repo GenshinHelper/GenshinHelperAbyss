@@ -11,7 +11,7 @@
 
 ## Tips and Mechanics
 
-**Weak Point** -\*\* \*\*Face
+**Weak Point** - Face
 
 You can use the **Teleport** to reposition **Abyss Mages** to your advantage at the start of some abyss chambers.
 
@@ -21,7 +21,7 @@ Once you drop the shield, make sure to focus the **Abyss Mage** so that they sta
 
 Prefer![](../../.gitbook/assets/pyro\_small.png)attacks to break through the shield.
 
-![](../../.gitbook/assets/electro\_small.png) attacks will also work, but are\*\* half as effective\*\* as![](../../.gitbook/assets/pyro\_small.png).
+![](../../.gitbook/assets/electro\_small.png) attacks will also work, but are **half as effective** as![](../../.gitbook/assets/pyro\_small.png).
 
 ![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png)will also damage the shield, but are **1/4 as effective** as![](../../.gitbook/assets/pyro\_small.png).
 
@@ -45,7 +45,7 @@ Fires a projectile at the player
 Calls 3 icicles down at the player, leaving behind a damaging mist
 {% endembed %}
 
-### Teleport <a href="icicle" id="icicle"></a>
+### Teleport <a href="#icicle" id="icicle"></a>
 
 {% embed url="https://gfycat.com/wealthygrippingbonobo" %}
 Teleports close to the player, dealing Cryo damage
@@ -55,7 +55,7 @@ Moving a distance away from the **Abyss Mage** will trigger this ability.
 
 The **Abyss Mage** will appear where the player is facing. You can use this to reposition them to your advantage.
 
-### Dance <a href="icicle" id="icicle"></a>
+### Dance <a href="#icicle" id="icicle"></a>
 
 {% embed url="https://gfycat.com/quarrelsomeenragedbluejay" %}
 Spawns icicles that circle the Abyss Mage

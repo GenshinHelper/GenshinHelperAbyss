@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/Specter=Electro.png)
 
+## Resistances
+
 |                                       Element | Resist     |
 | --------------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/electro\_small.png) | **IMMUNE** |

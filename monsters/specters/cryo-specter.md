@@ -1,6 +1,6 @@
 # Cryo Specter
 
-
+## Resistances
 
 |                                    Element | Resist     |
 | -----------------------------------------: | ---------- |

@@ -13,7 +13,7 @@ Note - below resistance values are not confirmed.
 
 ## Tips and Mechanics
 
-**Weak Point** -\*\* \*\*Face
+**Weak Point** - Face
 
 **Abyss Herald** attacks have a long windup, and most of them can be easily dodged by running behind him. Try to stay close to him.
 
@@ -24,6 +24,8 @@ Prefer![](../../.gitbook/assets/cryo\_small.png)to break the shield, as this wil
 ![](../../.gitbook/assets/electro\_small.png) attacks will also work, but are less effective than![](../../.gitbook/assets/cryo\_small.png)
 
 ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png)will also damage the shield, but are **half as effective**.
+
+See [Shields](../../mechanics/shields.md) for more information.
 
 {% hint style="info" %}
 The **Abyss Herald** **shield** has **36U** of strength. This means it takes anywhere between **18\~36** applications of![](../../.gitbook/assets/cryo\_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../../.gitbook/assets/electro\_small.png)is slightly less effectively, requiring about **45 ticks** of **Electrocharged**, and![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png)are half as effective, requiring **36\~72** applications.

@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/specter-anemo-.jpg)
 
+## Resistances
+
 |                                     Element | Resist     |
 | ------------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/anemo\_small.png) | **IMMUNE** |

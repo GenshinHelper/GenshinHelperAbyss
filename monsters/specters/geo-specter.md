@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/specter-geo-.jpg)
 
+## Resistances
+
 |                                   Element | Resist     |
 | ----------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/geo\_small.png) | **IMMUNE** |

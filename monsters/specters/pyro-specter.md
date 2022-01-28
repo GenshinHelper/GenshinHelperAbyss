@@ -2,6 +2,8 @@
 
 ![](../../.gitbook/assets/Specter=Pyro.png)
 
+## Resistances
+
 |                                    Element | Resist     |
 | -----------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/pyro\_small.png) | **IMMUNE** |

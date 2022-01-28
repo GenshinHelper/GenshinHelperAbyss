@@ -2,6 +2,8 @@
 
 ![](<../../.gitbook/assets/Spectre (Hydro).png>)
 
+## Resistances
+
 |                                     Element | Resist     |
 | ------------------------------------------: | ---------- |
 | ![](../../.gitbook/assets/hydro\_small.png) | **IMMUNE** |
