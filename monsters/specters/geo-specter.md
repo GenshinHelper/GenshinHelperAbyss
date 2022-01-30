@@ -18,3 +18,33 @@ Specters have a **Fury Gauge** which builds up when hit by attacks that take a l
 When **enraged**, they will change their attack patterns, deal more damage, and explode in a larger AoE when killed.
 
 ## Abilities
+
+### Triple Shot
+
+{% embed url="https://gfycat.com/eachdescriptivecrownofthornsstarfish" %}
+Fires three missiles that curve towards the player
+{% endembed %}
+
+The missiles do not follow the player directly, but will curve. They are fairly fast however, so you will need to be moving or dodging to avoid them.
+
+### Charge
+
+{% embed url="https://gfycat.com/elderlyoddaustralianfreshwatercrocodile" %}
+Rushes towards the player with a spinning attack
+{% endembed %}
+
+This will only be used when the player is close by.
+
+### Pulse (Enraged)
+
+{% embed url="https://gfycat.com/blandanimatedasianwaterbuffalo" %}
+Deals damage in an AoE
+{% endembed %}
+
+### Detonate
+
+{% embed url="https://gfycat.com/colossalclassickitty" %}
+Explodes in a small AoE once killed
+{% endembed %}
+
+If **enraged**, the **DMG** and **AoE** are larger.
