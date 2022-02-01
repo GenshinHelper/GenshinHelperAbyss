@@ -39,7 +39,7 @@ Try to save some burst damage for when the **Pyro Agent**s spawn. If you can hit
 
 | In Depth Guide                                                        | Other Info |
 | --------------------------------------------------------------------- | ---------- |
-| ****[geovishap.md](../../monsters/animals/geovishap.md "mention")**** | 555K HP    |
+| ****[geovishap.md](../../monsters/vishaps/geovishap.md "mention")**** | 555K HP    |
 | Hydro Mimic (Boar)                                                    | 111K HP    |
 | Hydro Mimic (Ferret)                                                  | 97K HP     |
 

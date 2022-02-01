@@ -32,7 +32,7 @@ Focus on the **Geovishap** to start, but you should switch to the **Whopperflowe
 
 | Monster                                                            | HP     |
 | ------------------------------------------------------------------ | ------ |
-| [Geovishap](../../monsters/animals/geovishap.md)                   | \~400K |
+| [Geovishap](../../monsters/vishaps/geovishap.md)                   | \~400K |
 | [Pyro Whopperflower](../../monsters/animals/pyro-whopperflower.md) | ??     |
 
 #### 3★ Tips

@@ -30,7 +30,7 @@ Attempting to dodge every attack will quickly drain your stamina. Focus on dodgi
 
 | Monster                                              | HP     |
 | ---------------------------------------------------- | ------ |
-| [**Geovishap**](../../monsters/animals/geovishap.md) | \~400K |
+| [**Geovishap**](../../monsters/vishaps/geovishap.md) | \~400K |
 
 ### Side 1
 

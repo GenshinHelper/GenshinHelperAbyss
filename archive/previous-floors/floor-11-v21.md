@@ -144,7 +144,7 @@ The **Cicin** flies spawned by both the **Cryo/Electro Cicin Mages** will add to
 |                                                        |                                                         |
 | ------------------------------------------------------ | ------------------------------------------------------- |
 | **In Depth Guide**                                     | Other Info                                              |
-| [Geovishap](../../monsters/animals/geovishap.md)       |                                                         |
+| [Geovishap](../../monsters/vishaps/geovishap.md)       |                                                         |
 | Smoldering Flame ([Debuffs](../../mechanics/debuffs/)) | 758![](../../.gitbook/assets/pyro\_small.png)DMG / Tick |
 
 Waves spawn in the Front > Back side of the arena, in that order.

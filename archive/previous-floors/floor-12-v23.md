@@ -78,7 +78,7 @@ See [#rifthounds](floor-12-v23.md#rifthounds "mention")
 
 | In Depth Guide                                                | Other Info |
 | ------------------------------------------------------------- | ---------- |
-| [geovishap.md](../../monsters/animals/geovishap.md "mention") | 613K HP    |
+| [geovishap.md](../../monsters/vishaps/geovishap.md "mention") | 613K HP    |
 
 After infusion, both **Geovishaps** are immune to **Freeze**. Avoid these compositions unless can beat them before they infuse.
 
