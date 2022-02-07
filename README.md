@@ -14,7 +14,7 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Jan 1st - 15th
+**Duration:** Feb 1t - 15th
 
 When the active character hits opponents with attacks that are considered **Normal Attack DMG**, there is a **50%** chance of unleashing a **shockwave** at the hit opponent's position, dealing **AoE True DMG**. One shockwave can be released in this way every **0.3s**.
 

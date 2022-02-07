@@ -113,6 +113,7 @@
   * [Perpetual Mechanical Array](monsters/elites/perpetual-mechanical-array.md)
   * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
   * [Golden Wolford](monsters/elites/golden-wolford.md)
+  * [Bathysmal Vishap Herd](monsters/elites/bathysmal-vishap-herd.md)
 
 ## Mechanics
 
