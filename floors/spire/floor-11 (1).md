@@ -130,3 +130,7 @@ You must bring![](../../.gitbook/assets/hydro\_small.png)on this side for the Py
 ![](../../.gitbook/assets/hydro\_small.png)can also be effective against the Electro Abyss Lector shields in a pinch, but preferably also have![](../../.gitbook/assets/pyro\_small.png)/![](../../.gitbook/assets/cryo\_small.png)for it as well.
 
 Lectors will not move much after they shield, so it is important to try and group them before they enter their shield phase. You can do this by running to the far side of the arena and letting one approach the other, or you can use attacks that stagger to push one back into the other one.
+
+You can use![](../../.gitbook/assets/anemo\_small.png)skills to infuse the element from one Lector shield and damage the other one.
+
+Focus on the Electro Abyss Lector first, as the energy drain can lower your effective damage.

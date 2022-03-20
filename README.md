@@ -14,14 +14,14 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** March 1st - 15th
+**Duration:** March 16th - 31st
 
-When opponents take **Electro-Charged DMG**, their **Electro RES decreases by 10%** for 10s. Max 4 stacks. Each stack's duration is independent. Each enemy can receive this effect once every 1.2s.
+When the active character's Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts hit an opponent affected by Electro, a shockwave is created at that opponent's position, dealing True DMG. A shockwave may be produced in this manner every 2s.
 
 ### Future blessings
 
-| Dates             | Blessing                                                                                                                                                                                                                                                                                                         |
-| ----------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| March 16th - 31st | <p>When the active character's Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts hit an opponent affected by <strong>Electro</strong>, a shockwave is created at that opponent's position, dealing True DMG.<br>A shockwave may be produced in this manner every 2s.</p> |
-| April 1st - 15th  | ??? (v2.6)                                                                                                                                                                                                                                                                                                       |
-| April 15th - 26th | ??? (v2.6)                                                                                                                                                                                                                                                                                                       |
+| Dates            | Blessing   |
+| ---------------- | ---------- |
+| April 1st - 15th | ??? (v2.6) |
+| April 15th -30th | ??? (v2.6) |
+| May 1st - 15th   | ??? (v2.6) |
