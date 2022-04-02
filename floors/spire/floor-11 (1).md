@@ -20,6 +20,8 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 
 **Monster Level - 88**
 
+![](../../.gitbook/assets/11-1-1v26.png)
+
 ### Side 1
 
 | In Depth Guide | Other Info |
@@ -28,6 +30,8 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 |                |            |
 
 ### Side 2
+
+![](../../.gitbook/assets/11-1-2v26.png)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -41,6 +45,8 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 
 ### Side 1
 
+![](../../.gitbook/assets/11-2-1v26.png)
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -49,6 +55,8 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 |                |            |
 
 ### Side 2
+
+![](../../.gitbook/assets/11-2-2v26.png)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -63,12 +71,16 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 
 ### Side 1
 
+![](../../.gitbook/assets/11-3-1v26.png)
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
 |                |            |
 
 ### Side 2
+
+![](../../.gitbook/assets/11-3-2v26.png)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
