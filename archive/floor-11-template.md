@@ -1,8 +1,6 @@
-# Floor 11
+# Floor 11 (Template)
 
 ## Divergence
-
-All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_small.png)**DMG**
 
 ## General Tips
 

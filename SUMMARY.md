@@ -139,6 +139,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [v2.6](changelogs/versions/v2.6.md)
   * [v2.5](changelogs/versions/v2.5.md)
   * [v2.4](changelogs/versions/v2.4.md)
   * [v2.3](changelogs/versions/v23.md)
@@ -162,6 +163,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v2.5)](archive/previous-floors/floor-12-v25.md)
+  * [Floor 11 (v2.5)](archive/previous-floors/floor-11-v25.md)
   * [Floor 12 (v2.4)](archive/previous-floors/floor-12-v24.md)
   * [Floor 11 (v2.4)](archive/previous-floors/floor-11-v24.md)
   * [Floor 12 (v2.3)](archive/previous-floors/floor-12-v23.md)
@@ -182,3 +185,5 @@
   * [Floor 12 (v1.4 - v1.5)](archive/previous-floors/floor-12-v15.md)
   * [Floor 11 (v1.2 - 1.4)](archive/previous-floors/floor-11-v14.md)
   * [Floor 12 (v1.3 - 1.4)](archive/previous-floors/floor-12-v14.md)
+* [Floor 11 (Template)](archive/floor-11-template.md)
+* [Floor 12 (Template)](archive/floor-12-template.md)

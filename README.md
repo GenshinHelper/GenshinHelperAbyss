@@ -14,14 +14,18 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** March 16th - 31st
+**Duration:** April 1st - 15th
 
-When the active character's Normal Attacks, Charged Attacks, Plunging Attacks, Elemental Skills, and Elemental Bursts hit an opponent affected by Electro, a shockwave is created at that opponent's position, dealing True DMG. A shockwave may be produced in this manner every 2s.
+After a character's **Normal Attack** hits an opponent, this opponent will be afflicted with a **Mark of Ending**.&#x20;
+
+After 10s, this Mark of Ending will be removed, dealing **True DMG** to this opponent.
+
+When a character's **Normal Attack** hits an opponent with a **Mark of Ending**, the DMG dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
 
 ### Future blessings
 
-| Dates            | Blessing   |
-| ---------------- | ---------- |
-| April 1st - 15th | ??? (v2.6) |
-| April 15th -30th | ??? (v2.6) |
-| May 1st - 15th   | ??? (v2.6) |
+| Dates            | Blessing                                                                                                                                                                                                                                                                                                                                                                                          |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| April 15th -30th | <p>After a character's <strong>Normal Attack</strong>s hit opponents, the DMG dealt by this character's <strong>Normal Attack</strong>s will increase by <strong>12% for 5s</strong>.</p><p>This effect can stack up to 5 times. Each stack is calculated independently. This effect can be triggered once every 0.1s.</p>                                                                        |
+| May 1st - 15th   | <p>After a character's <strong>Normal Attack</strong> deals DMG to an opponent, the <strong>Physical/Elemental RES</strong> of this opponent will decrease by <strong>6% for 5s</strong>, matching the <strong>type of DMG</strong> dealt. </p><p>This can stack up to 7 times. RES decreases of different types can co-exist, and their stacks and timers will be independent of each other.</p> |
+| May 16th - 31st  | ??? (v2.7)                                                                                                                                                                                                                                                                                                                                                                                        |

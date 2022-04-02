@@ -1,24 +1,20 @@
-# Floor 11
+# Floor 12 (Template)
 
-## Divergence
+## Divergence <a href="#general-tips" id="general-tips"></a>
 
-All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_small.png)**DMG**
+None
 
 ## General Tips
 
-## Team Recommendations
+## Chamber 1
+
+**Monster Level - 95**
 
 |                            | Side 1 | Side 2 |
 | -------------------------- | :----: | :----: |
 | **Shieldbreakers**         |        |        |
 | **Preferred DPS Elements** |        |        |
 | **Avoid DPS Elements**     |        |        |
-| **4**★ **Supports**        |        |        |
-| **5**★ **Supports**        |        |        |
-
-## Chamber 1
-
-**Monster Level - 88**
 
 ### Side 1
 
@@ -26,40 +22,53 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 | -------------- | ---------- |
 |                |            |
 |                |            |
+
+
 
 ### Side 2
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
-|                |            |
-|                |            |
-|                |            |
-
-## Chamber 2
-
-**Monster Level - 90**
-
-### Side 1
-
-| In Depth Guide | Other Info |
-| -------------- | ---------- |
-|                |            |
-|                |            |
 | ****           |            |
 |                |            |
 
-### Side 2
+
+
+## Chamber 2
+
+**Monster Level - 98**
+
+****
+
+|                            | Side 1 | Side 2 |
+| -------------------------- | :----: | :----: |
+| **Shieldbreakers**         |        |        |
+| **Preferred DPS Elements** |        |        |
+| **Avoid DPS Elements**     |        |        |
+
+### Side 1
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
-|                |            |
-|                |            |
+
+
+
+### Side 2
+
+| In Depth Guide | Other Info |
+| -------------- | ---------- |
 |                |            |
 
 ## Chamber 3
 
-**Monster Level - 92**
+**Monster Level - 100**
+
+|                            | Side 1 | Side 2 |
+| -------------------------- | :----: | :----: |
+| **Shieldbreakers**         |        |        |
+| **Preferred DPS Elements** |        |        |
+| **Avoid DPS Elements**     |        |        |
 
 ### Side 1
 
@@ -72,6 +81,5 @@ All characters in the party gain a **+75%** ![](../../.gitbook/assets/anemo\_sma
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
-|                |            |
 |                |            |
 
