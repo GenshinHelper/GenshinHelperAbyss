@@ -4,6 +4,8 @@ description: How to most effectively spend resources
 
 # Character Investment
 
+**Much of this doc is slightly outdated as it does not account for recent DPS hikes in the abyss. It is in the process of being updated. Most of the strategy on character investment is the same though!**
+
 A common reason that players will get stuck in the higher floors of Abyss is that they will suddenly be unable to output enough damage to clear a Chamber. Usually, the main reason for this is that they have spent their resources (primarily resin) inefficiently, either by investing in the wrong things, or trying to invest in too many characters at once.
 
 This guide will walk you through where to focus your resources to have the best chance at clearing Abyss as early as possible. The faster you reach Floors 9 - 12, the more Primogems you will have access to every reset!
@@ -12,7 +14,7 @@ This guide will walk you through where to focus your resources to have the best 
 
 #### Focus on investing on 2 Main DPS and 2-4 Supports (including 2 healers)
 
-Spreading out your resources is a common reason players aren't able to progress through Abyss. If your goal is to get through Abyss, it's best to prioritize just a few characters to start.
+Spreading out your resources is a common reason players aren't able to progress through Abyss. If your goal is to get through Abyss, it's best to prioritize just a few characters to start.&#x20;
 
 #### Save your Fragile Resin until AR45
 
@@ -111,19 +113,19 @@ If you have been saving your **Fragile Resin**, this is where you start spending
 
 #### DPS Breakdown by Piece
 
-|                                       Slot                                       | Recommended Level | Notes                                                                                                                                                                                                                                                                                   |
-| :------------------------------------------------------------------------------: | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    <p><img src="../.gitbook/assets/gladiator_flower.png" alt=""><br>Flower</p>   |  +12 / +16 / +20  | <ul><li>Least important piece for DPS</li><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                       |
-| <p><img src="../.gitbook/assets/gladiator_feather.png" alt=""></p><p>Feather</p> |     +16 / +20     | <ul><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                                                             |
-|   <p><img src="../.gitbook/assets/gladiator_sands.png" alt=""></p><p>Sands</p>   |        +20        | <ul><li>Difficult to get correct mainstat on-set</li><li>Level the first one you find on-set, ignoring substats</li></ul>                                                                                                                                                               |
-|    <p><img src="../.gitbook/assets/gladiator_cup.png" alt=""></p><p>Goblet</p>   |        +20        | <ul><li>Very difficult to get correct mainstat on-set</li><li>Level the first one you find with the correct element in any set, ignoring substats</li></ul>                                                                                                                             |
-| <p><img src="../.gitbook/assets/gladiator_circlet.png" alt=""></p><p>Circlet</p> |        +20        | <ul><li>You should always choose a <strong>CRIT</strong> mainstat for DPS</li><li>Very difficult to get CRIT on-set</li><li>Level the first one you find on-set, ignoring substats</li><li>Choose CRIT Rate or CRIT DMG depending on whichever gets you closer to a 1:2 ratio</li></ul> |
+|                                                  Slot                                                 | Recommended Level | Notes                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------: | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|              <p><img src="../.gitbook/assets/gladiator_flower.png" alt=""><br>Flower</p>              |  +12 / +16 / +20  | <ul><li>Least important piece for DPS</li><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                       |
+| <p><img src="../.gitbook/assets/gladiator_feather.png" alt="" data-size="original"></p><p>Feather</p> |     +16 / +20     | <ul><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                                                             |
+|   <p><img src="../.gitbook/assets/gladiator_sands.png" alt="" data-size="original"></p><p>Sands</p>   |        +20        | <ul><li>Difficult to get correct mainstat on-set</li><li>Level the first one you find on-set, ignoring substats</li></ul>                                                                                                                                                               |
+|    <p><img src="../.gitbook/assets/gladiator_cup.png" alt="" data-size="original"></p><p>Goblet</p>   |        +20        | <ul><li>Very difficult to get correct mainstat on-set</li><li>Level the first one you find with the correct element in any set, ignoring substats</li></ul>                                                                                                                             |
+| <p><img src="../.gitbook/assets/gladiator_circlet.png" alt="" data-size="original"></p><p>Circlet</p> |        +20        | <ul><li>You should always choose a <strong>CRIT</strong> mainstat for DPS</li><li>Very difficult to get CRIT on-set</li><li>Level the first one you find on-set, ignoring substats</li><li>Choose CRIT Rate or CRIT DMG depending on whichever gets you closer to a 1:2 ratio</li></ul> |
 
 #### Supports
 
 Artifacts for supports are much harder to generalize. Supports that have high damage abilities may be worth investing in early on, whereas supports that mostly heal or buff may not need much investment at all.
 
-Focus on your main DPS characters first, but once you have the correct mainstat pieces for those, don't neglect your supports!
+Focus on your main DPS characters first, but once you have the correct mainstat pieces for those, don't neglect your supports! When striving to reach 36\*s, having strong supports can make all the difference in shaving off those last few seconds.
 
 ### Benchmarks
 
@@ -134,26 +136,50 @@ Focus on your main DPS characters first, but once you have the correct mainstat 
 
 ## Building to 36★
 
+A common theme of reaching 36\* as fast as possible is choosing specific areas of investment that will yield the highest rewards for the lowest cost. **Eventually you will want to upgrade everything,** including supports/healers/supporting artifacts and weapons on the supports, but the order that you do them in is critical to reaching faster progress.
+
 Once you reach **AR50**, you will have access to another ascension level. You should pre-farm materials to be able to immediately ascend your main DPS **weapon** to **90/90** as soon as you reach **AR50**. This will give you a best damage boost for it's cost.
 
 {% hint style="danger" %}
-**Avoid levelling characters to 90/90!** Character ascensions and levels are much worse for damage than weapons for their cost. If you want to reach 36★ as quickly as possible, don't spend your resources here.
+**Avoid leveling characters to 90/90!** Character ascensions and levels are much worse for damage than weapons for their cost. If you want to reach 36★ as quickly as possible, don't spend your resources here. Note: this is not to say that you should never level those characters up, but if we're speaking on strict efficiency, then you should do this last.
 {% endhint %}
 
 Obtaining all 36★ in the Abyss is going to be a pure DPS check. To pass this you will need to start paying more attention to artifact **substats** to increase your damage further.
 
 You will also want to start investing in characters other than just your **main DPS**. Many characters you would think of as "support" do significant damage when equipped with proper artifacts. This can often be better than trying to maximize substats for a single character.
 
+### Overview
+
+You want to focus on a couple of areas most when striving to 36\*:
+
+1. Getting high Crit/Atk rolls on artifacts and leveling them to 20 for DPS and Supports.
+2. Getting Weapons to 90 if not done already on both DPS and high DPS supports
+3. Moving from pure healers to more nuanced and multi-dimensional characters if not done yet.
+4. _Learning how to best play your DPS characters (proper sequences and styles). This is often the most important, especially in today's Abyss._
+
 ### Artifacts
 
-* 5★ artifacts with the **correct mainstat** and **two CRIT substats** may be worth levelling even if they are an off-set. A well rolled piece can very easily be better than trying to maintain a set bonus.
+* 5★ artifacts with the **correct mainstat** and **two CRIT substats** may be worth levelling even if they are an off-set. A well rolled piece can very easily be better than trying to maintain a set bonus.&#x20;
+* Different characters will take well to different improvements in artifacts and substats (research your characters!!).
 
 ### Benchmarks
 
+Keep in mind that certain talents and certain weapons will mean significantly more to level up than others. For example Mona Q or Bennett Q is often better to crown (get to talent level 10) than a DPS chars talent due to sheer versatility. **Know what characters you're working with and how to best optimize them with the resources you have.** Refer to the help-strat doc as needed for this.
+
 |             |    Char Lvl   |    Weap Lvl   | Talent Lvl |                      Artifacts                      |
 | ----------- | :-----------: | :-----------: | :--------: | :-------------------------------------------------: |
-| **DPS**     | 80/80 - 90/90 |     90/90     |   8 - 10   | <p>+20 on 5★ with mainstat<br>and good substats</p> |
-| **Support** | 70/70 - 80/80 | 80/80 - 90/90 |    6 - 8   |            +16 or +20 on 5★ with mainstat           |
+| **DPS**     | 80/90 - 90/90 |     90/90     |   8 - 10   | <p>+20 on 5★ with mainstat<br>and good substats</p> |
+| **Support** | 70/80 - 80/90 | 80/80 - 90/90 |   6 - 10   |            +16 or +20 on 5★ with mainstat           |
+
+### Playing More Skillfully
+
+Probably the hardest, most nuanced part of striving towards 36\*s. In the past, good DPS and supports were enough to get you 36\*s but nowadays, unless you have extremely strong characters with refined weapons, you need more than just strength. For this its best to:
+
+1. Do research into your main dps characters and learn their best sequences (especially the case for characters like Eula).
+2. Practice iFrames and learning how to battery + other techniques.
+3. Watch Gameplays of 36\* stars to see how you can use your chars to clear.
+
+You could argue this is totally overkill, but there is indeed a massive community and following on how to optimize characters and clear abyss fastest. After all this is the area that you have the most control over in a Gacha game that is largely dictated by luck in chars/weapons/artifacts. Considering joining reputed character main servers as many already have resources for members on how to best play characters.
 
 ## FAQ
 
