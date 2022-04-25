@@ -22,7 +22,7 @@
 
 Geovishaps will infuse **35s** into the chamber.
 
-Once infused, \*\*Geovishaps \*\*will gain resistance to that element (30%).
+Once infused, **Geovishaps **will gain resistance to that element (30%).
 
 **Taunt** abilities are particularly effective here to give some time for you to recover stamina.
 
@@ -36,7 +36,7 @@ Attempting to dodge every attack will quickly drain your stamina. Focus on dodgi
 
 ![](<../../.gitbook/assets/12-1-1 (3).png>)
 
-![](../../.gitbook/assets/cryo\_small.png) \*\*Geovishap \*\*is immune to freeze
+![](../../.gitbook/assets/cryo\_small.png) **Geovishap **is immune to freeze
 
 #### 3★ Tips
 
@@ -48,9 +48,9 @@ Avoid ![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/electr
 
 ![](<../../.gitbook/assets/12-1-2 (3).png>)
 
-![](../../.gitbook/assets/cryo\_small.png) \*\*Geovishap \*\*is immune to freeze
+![](../../.gitbook/assets/cryo\_small.png) **Geovishap **is immune to freeze
 
-![](../../.gitbook/assets/hydro\_small.png) \*\*Geovishap \*\*can easily be frozen by ![](../../.gitbook/assets/cryo\_small.png) after infusion.
+![](../../.gitbook/assets/hydro\_small.png) **Geovishap **can easily be frozen by ![](../../.gitbook/assets/cryo\_small.png) after infusion.
 
 #### 3★ Tips
 
@@ -82,7 +82,7 @@ Once the first wave is about to ide, quickly run towards the **Cryo Cicin Mage**
 
 ![](<../../.gitbook/assets/12-2-2 (2).png>)
 
-Bring \*\*shields \*\*and/or **taunts** on this side if able.
+Bring **shields **and/or **taunts** on this side if able.
 
 **Geovishap Hatchlings** move around a lot and are hard to hit, which can cause large time losses. You can try using **Freeze** (![](../../.gitbook/assets/hydro\_small.png)+![](../../.gitbook/assets/cryo\_small.png)) to keep them locked down for longer if you are having trouble.
 
@@ -101,7 +101,7 @@ If you don't have access to a strong **Freeze** team, it's best to try to build 
 | Monster                                                                        | HP     |
 | ------------------------------------------------------------------------------ | ------ |
 | [**Abyss Lector**](../../monsters/abyss-order/abyss-lector.md)                 | \~735K |
-| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\* | ??     |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md) | ??     |
 | [**Pyro Abyss Mage**](../../monsters/abyss-order/pyro-abyss-mage.md)           | ??     |
 
 ![](../../.gitbook/assets/cryo\_small.png)works well for breaking shields on this side, as it is effective against both the **Abyss Lector** and the **Abyss Mage**.
@@ -131,7 +131,7 @@ If you run towards the **Pyro Abyss Mage** at the start, you can often get the *
 
 If you have an ![](../../.gitbook/assets/anemo\_small.png)unit on this side, you can choose not to bring ![](../../.gitbook/assets/pyro\_small.png)for breaking the **Cryo Abyss Mage** shields. Instead, you can use your ![](../../.gitbook/assets/anemo\_small.png)skill on the **Pyro Abyss Mage** in order to **infuse**![](../../.gitbook/assets/pyro\_small.png), and **Swirl** onto the ![](../../.gitbook/assets/cryo\_small.png)shield to break it.
 
-You can also use ![](../../.gitbook/assets/anemo\_small.png)to **Swirl** ![](../../.gitbook/assets/cryo\_small.png)from the **Cryo Abyss Mage** shield onto the \*\*Abyss Herald \*\*during its shield phase for additional damage. If you choose to do this, make sure to eliminate the **Pyro Abyss Mage** first and leave the **Cryo Abyss Mage** alive, before focusing the **Abyss Herald**.
+You can also use ![](../../.gitbook/assets/anemo\_small.png)to **Swirl** ![](../../.gitbook/assets/cryo\_small.png)from the **Cryo Abyss Mage** shield onto the **Abyss Herald **during its shield phase for additional damage. If you choose to do this, make sure to eliminate the **Pyro Abyss Mage** first and leave the **Cryo Abyss Mage** alive, before focusing the **Abyss Herald**.
 
 #### 3★ Tips
 

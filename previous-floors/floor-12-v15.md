@@ -13,8 +13,8 @@ Each Chamber/Side on this Floor has very different requirements. Focus on first 
 |  | Side 1 | Side 2 |
 | :--- | :---: | :---: |
 | **Shieldbreakers** | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png) | ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/hydro_small.png)![](../.gitbook/assets/cryo_small.png) |
-| **Preferred Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../.gitbook/assets/cryo_small.png) | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png)\*\*\*\* |
-| **Avoid Damage** | ![](../.gitbook/assets/electro_small.png)\*\*\*\* | ![](../.gitbook/assets/hydro_small.png)\*\*\*\* |
+| **Preferred Damage** | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../.gitbook/assets/cryo_small.png) | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961&alt=media)![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) |
+| **Avoid Damage** | ![](../.gitbook/assets/electro_small.png) | ![](../.gitbook/assets/hydro_small.png) |
 | **4**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_bennett.png) ![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_kaeya.png)![](../.gitbook/assets/ui_avataricon_xingqiu.png) | ![](../.gitbook/assets/ui_avataricon_xiangling.png)![](../.gitbook/assets/ui_avataricon_diona.png)![](../.gitbook/assets/ui_avataricon_kaeya.png) |
 | **5**★ **Supports** | ![](../.gitbook/assets/ui_avataricon_mona.png)![](../.gitbook/assets/ui_avataricon_ganyu.png)![](../.gitbook/assets/ui_avataricon_venti.png)  | ![](../.gitbook/assets/ui_avataricon_ganyu.png)![](../.gitbook/assets/ui_avataricon_jean.png)![](../.gitbook/assets/ui_avataricon_venti.png)![](../.gitbook/assets/ui_avataricon_zhongli.png) |
 
@@ -81,8 +81,8 @@ Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoar
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Bubbles**](../mechanics/auras/mist-bubble.md)\*\*\*\* | 4730![](../.gitbook/assets/hydro_small.png)DMG  |
-| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| [**Bubbles**](../mechanics/auras/mist-bubble.md) | 4730![](../.gitbook/assets/hydro_small.png)DMG  |
+| [**Fireball**](../mechanics/auras/pursuing-fireball.md) | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Each type of **Hydro Mimic** is weak to a different element \[[1](https://genshinhelper.gitbook.io/abyss/floors/spire/floor-12#references)\]. 
 
@@ -126,7 +126,7 @@ In the second wave, run for the **Crane Hydro Mimics**. The other enemies will c
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Abyss Lector**](../monsters/abyss-order/abyss-lector.md)\*\*\*\* | ~735K HP |
+| [**Abyss Lector**](../monsters/abyss-order/abyss-lector.md) | ~735K HP |
 
 
 
@@ -170,7 +170,7 @@ If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts*
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| [**Fireball**](../mechanics/auras/pursuing-fireball.md) | 2512![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Aim for the **Pyro Agent** first to get rid of the **Fireball** aura.
 

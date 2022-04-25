@@ -61,10 +61,10 @@ Leaves **6 Ice Mines** behind. These explode after **5 seconds** or if touched, 
 
 Combo consists of the following:
 
-* \*\*Leap \*\*attack at the player. This leaves a patch of ground which will deal ![](../../../.gitbook/assets/cryo\_small.png) **DMG over Time**. This area lasts about **10 seconds**.
-* \*\*Slam \*\*Attack
-* \*\*Charge \*\*Attack
-* \*\*Slam \*\*Attack
+* **Leap **attack at the player. This leaves a patch of ground which will deal ![](../../../.gitbook/assets/cryo\_small.png) **DMG over Time**. This area lasts about **10 seconds**.
+* **Slam **Attack
+* **Charge **Attack
+* **Slam **Attack
 
 ## Abilities (Unshielded)
 

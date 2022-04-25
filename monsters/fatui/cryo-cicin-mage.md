@@ -13,7 +13,7 @@
 
 **Weak Point** - Face
 
-Most of the \*\*Cryo Cicin Mage's \*\*attacks depend on the summoned **Cicin** flies. Focus on them first. The Cryo versions group together a lot more than the Electro ones and are easier to kill.
+Most of the **Cryo Cicin Mage's **attacks depend on the summoned **Cicin** flies. Focus on them first. The Cryo versions group together a lot more than the Electro ones and are easier to kill.
 
 Unlike the [Electro Cicin Mage](electro-cicin-mage.md), **Cryo Cicin Mages** can't use **Teleport** if no **Cicin** flies are active. This means it is possible to repeatedly stagger them and prevent them from summon new flies. Chain together effects like **Charged Attacks**, **Overload**, and ![](../../.gitbook/assets/anemo\_small.png) skills to keep them permanently staggered.
 
@@ -25,17 +25,17 @@ Unlike the [Electro Cicin Mage](electro-cicin-mage.md), **Cryo Cicin Mages** can
 
 ![Summons 3 Cicins](../../.gitbook/assets/cicin\_summon.gif)
 
-The **Cicin Mage** will not summon \*\*Cicins \*\*unless all of them are killed.
+The **Cicin Mage** will not summon **Cicins **unless all of them are killed.
 
-Once all \*\*Cicins \*\*are killed, there is about a **10 second** delay before the \*\*Cicin Mage \*\*summons new ones.
+Once all **Cicins **are killed, there is about a **10 second** delay before the **Cicin Mage **summons new ones.
 
 ### Shield
 
 ![Cicin Mage draws energy from Cicins and creates a shield](../../.gitbook/assets/cicin\_shield.gif)
 
-The \*\*strength \*\*of the shield is relative to the number of \*\*Cicins \*\*that are active.
+The **strength **of the shield is relative to the number of **Cicins **that are active.
 
-The **Cicin Mage** shields frequently while \*\*Cicins \*\*are alive. Prioritize killing the flies if your team isn't able to quickly break the shield.
+The **Cicin Mage** shields frequently while **Cicins **are alive. Prioritize killing the flies if your team isn't able to quickly break the shield.
 
 ![](../../.gitbook/assets/pyro\_small.png) is most effective at breaking the shield. ![](../../.gitbook/assets/electro\_small.png) ![](../../.gitbook/assets/geo\_small.png) ![](../../.gitbook/assets/anemo\_small.png)and **claymores** will also work.
 

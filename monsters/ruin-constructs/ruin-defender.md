@@ -39,7 +39,7 @@ This ability lasts about **15 seconds**.
 Thrusts the shield forward at the player.
 {% endembed %}
 
-This attack is only used when **Shield** is active, and only if you enter \*\*melee \*\*range. There's about a **10 second** cooldown before this ability can be used again.
+This attack is only used when **Shield** is active, and only if you enter **melee **range. There's about a **10 second** cooldown before this ability can be used again.
 
 ### Stab
 

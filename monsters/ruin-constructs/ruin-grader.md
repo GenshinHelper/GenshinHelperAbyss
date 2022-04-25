@@ -13,19 +13,19 @@
 
 **Weak Point** - Leg Core (x2), Eye Core (x1). Weak points are only exposed during attacks.
 
-Ruin Graders have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) )\*\* \*\*to reduce their resistance by **40%.**
+Ruin Graders have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) ) to reduce their resistance by **40%.**
 
 After hitting the **Eye twice**, it will break, preventing the Ruin Grader from making Eye based attacks (e.g. **Laser**). It will still make other attacks. This recovers after a set period of time (**\~20 seconds**).
 
-After hitting the **Legs twice**, it will break, causing the Ruin Grader to fall to it's knees. It will only perform **Tracking Laser** during this time, exposing the **Eye**. However, if you don't hit the \*\*Eye \*\*during this attack, it will stand back up.
+After hitting the **Legs twice**, it will break, causing the Ruin Grader to fall to it's knees. It will only perform **Tracking Laser** during this time, exposing the **Eye**. However, if you don't hit the **Eye **during this attack, it will stand back up.
 
 In order to fully stagger a Ruin Grader, you have to break both the **Eye and Legs at the same time**. Due to the recovery timing on the eye, you **cannot do this if you break the Eye first**. It will recover before you can stagger the legs.
 
-The **Spin Attack** lasts a long time and does a lot of damage. You can interrupt this attack by hitting a \*\*Leg \*\*at the right time (See below).
+The **Spin Attack** lasts a long time and does a lot of damage. You can interrupt this attack by hitting a **Leg **at the right time (See below).
 
-Completely staggering a Ruin Grader can be difficult. It is usually better to only hit it's **Leg** cores and use the kneeling time to keep doing damage rather than trying to go for the \*\*Eye \*\*for a full stagger.
+Completely staggering a Ruin Grader can be difficult. It is usually better to only hit it's **Leg** cores and use the kneeling time to keep doing damage rather than trying to go for the **Eye **for a full stagger.
 
-The \*\*Leg \*\*weak points allow \*\*melee \*\*based characters to stagger the Ruin Grader easily, making it very safe to stay close to Ruin Graders. Most of their attacks can also be easily dodged by stepping to their side/behind them.
+The **Leg **weak points allow **melee **based characters to stagger the Ruin Grader easily, making it very safe to stay close to Ruin Graders. Most of their attacks can also be easily dodged by stepping to their side/behind them.
 
 ## Abilities
 
@@ -35,7 +35,7 @@ The \*\*Leg \*\*weak points allow \*\*melee \*\*based characters to stagger the 
 
 Simply move to the side to avoid this attack
 
-\*\*Legs \*\*are exposed at the start and end of the charge attack
+**Legs **are exposed at the start and end of the charge attack
 
 ### Clap & Laser Sweep
 
@@ -43,25 +43,25 @@ Simply move to the side to avoid this attack
 
 Dodging to the side/behind will avoid this attack completely
 
-\*\*Eye \*\*is exposed during the Laser part of the attack
+**Eye **is exposed during the Laser part of the attack
 
 ### Energy Orbs
 
 ![Creates 3 orbs in a triangle around the player, which deals damage when touched](../../.gitbook/assets/ruin\_grader\_orb\_mines.gif)
 
-\*\*Eye \*\*is exposed during this attack
+**Eye **is exposed during this attack
 
 ### Stomp
 
 ![Stomp attack followed up by a shockwave](../../.gitbook/assets/ruin\_grader\_stomp.gif)
 
-\*\*Legs \*\*are exposed during the shockwave part of the attack
+**Legs **are exposed during the shockwave part of the attack
 
 ### Spin
 
 ![Spins and moves towards the player, dealing damage and knocking them back when hit](../../.gitbook/assets/ruin\_grader\_spin.gif)
 
-\*\*Legs \*\*are exposed at the start and end of the spin attack
+**Legs **are exposed at the start and end of the spin attack
 
 ![Hitting the weak point at the start of the attack will completely interrupt it!](../../.gitbook/assets/ruin\_grader\_spin\_weakpoint.gif)
 
@@ -69,9 +69,9 @@ Dodging to the side/behind will avoid this attack completely
 
 ![Fires a beak from the eye which follows the player](../../.gitbook/assets/ruin\_grader\_tracking\_laser\_full\_attack.gif)
 
-\*\*Eye \*\*is exposed during this attack
+**Eye **is exposed during this attack
 
-This attack will always follow after knocking a Ruin Grader to their knees. Hit the \*\*Eye \*\*in this window to stagger it completely.
+This attack will always follow after knocking a Ruin Grader to their knees. Hit the **Eye **in this window to stagger it completely.
 
 ![Moving close to the Ruin Grader can dodge the Laser attack](../../.gitbook/assets/ruin\_grader\_tracking\_laser.gif)
 
@@ -83,7 +83,7 @@ If you are close to the Ruin Grader, dodging/sprinting right up to it will take 
 
 This attack is only performed after the Ruin Grader recovers from being **fully stunned**
 
-\*\*Eye \*\*and \*\*Legs \*\*appear exposed, but **cannot be hit** during this attack
+**Eye **and **Legs **appear exposed, but **cannot be hit** during this attack
 
 ### Stunned
 

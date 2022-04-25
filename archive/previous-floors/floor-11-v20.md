@@ -2,7 +2,7 @@
 
 ## Divergence
 
-![](../../.gitbook/assets/pyro\_small.png)\*\*DMG \*\*dealt by all party members increased by **60%.**
+![](../../.gitbook/assets/pyro\_small.png)**DMG **dealt by all party members increased by **60%.**
 
 ![](../../.gitbook/assets/cryo\_small.png)**DMG** dealt by all party members increased by **60%.**
 
@@ -114,7 +114,7 @@ You can also use![](../../.gitbook/assets/anemo\_small.png)to **Swirl** one of t
 
 In general, the **Cryo Hypostasis** is easier to kill than the **Pyro Hypostasis**. Aim to spend less time on this side and leave more time for the other side.
 
-Using![](../../.gitbook/assets/pyro\_small.png)\*\*DPS \*\*on this side is highly recommended.
+Using![](../../.gitbook/assets/pyro\_small.png)**DPS **on this side is highly recommended.
 
 Make sure you're familiar with how to break the **Cryo Hypostasis** shields using the **Frostfruits**.
 

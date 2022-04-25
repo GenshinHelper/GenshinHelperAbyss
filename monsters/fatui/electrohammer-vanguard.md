@@ -26,13 +26,13 @@
 
 Unless you are able to take him down before he is able to shield, always bring![](../../.gitbook/assets/cryo\_small.png) against the **Electrohammer**. He is extremely resistant to all damage while shielded. Trying to defeat it while the shield is up will lose a lot of time.
 
-All of the \*\*Electrohammer \*\*attacks can easily be avoided by dodging **behind** him. Avoid attempting to dodge directly in front, as you may get hit by followup attacks.
+All of the **Electrohammer **attacks can easily be avoided by dodging **behind** him. Avoid attempting to dodge directly in front, as you may get hit by followup attacks.
 
 ## Shield
 
-While shielded, the \*\*Electrohammer \*\*gains **+100% RES** to all types of damage, making it extremely resistant.
+While shielded, the **Electrohammer **gains **+100% RES** to all types of damage, making it extremely resistant.
 
-While shielded, the \*\*Electrohammer's \*\*attacks will be infused with ![](../../.gitbook/assets/electro\_small.png)
+While shielded, the **Electrohammer's **attacks will be infused with ![](../../.gitbook/assets/electro\_small.png)
 
 ![](../../.gitbook/assets/cryo\_small.png)is the most effective against the shield.
 
@@ -48,7 +48,7 @@ The **Electrohammer Vanguard shield** has **4U** of strength. This means it take
 
 ![Swings hammer in three successive attacks](../../.gitbook/assets/electrohammer\_triple\_attack.gif)
 
-Once started, the\*\* Electrohammer \*\*will continue attacking in the same direction. Dodging **directly behind** during the first swing will avoid the next two swings completely.
+Once started, the** Electrohammer **will continue attacking in the same direction. Dodging **directly behind** during the first swing will avoid the next two swings completely.
 
 ### Charge Attack
 
@@ -64,6 +64,6 @@ This attack will only be used if the player is far enough away.
 
 ![Creates a shield that increases resistances and infuses attacks](../../.gitbook/assets/electrohammer\_infuse.gif)
 
-Once the shield is broken, the \*\*Electrohammer \*\*will be stunned for about **8 seconds**.
+Once the shield is broken, the **Electrohammer **will be stunned for about **8 seconds**.
 
 ![](../../.gitbook/assets/electrohammer\_break.gif)

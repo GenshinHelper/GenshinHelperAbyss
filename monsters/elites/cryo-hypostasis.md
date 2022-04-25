@@ -73,10 +73,10 @@ Using a **charged attack** on a fallen **Frostfruit** will launch it back at the
 
 Any **Frostfruits** left on the ground when a new volley is shot will disappear, so you need to be quick.
 
-The **Frostfruits** will be shot where the player is standing. This means standing closer to the \*\*Cryo Hypostasis \*\*will cluster the **Frostfruits** closer together, making it easier to run to the next one.
+The **Frostfruits** will be shot where the player is standing. This means standing closer to the **Cryo Hypostasis **will cluster the **Frostfruits** closer together, making it easier to run to the next one.
 
 ![](../../.gitbook/assets/cryohypo\_shield\_close.gif)
 
 ![](../../.gitbook/assets/pyro\_small.png) **DMG** is also effective against the shield. Note that 2 **Frostfruits** will bring the shield low, but not completely destroy it. It's more efficient to finish it off with![](../../.gitbook/assets/pyro\_small.png) for the remainder of the shield, rather than trying to use a 3rd **Frostfruit**.
 
-If you break the shield, the **Cryo Hypostasis** will be stunned for\*\* 15 seconds\*\*, during which the core is exposed and can be damaged.
+If you break the shield, the **Cryo Hypostasis** will be stunned for** 15 seconds**, during which the core is exposed and can be damaged.

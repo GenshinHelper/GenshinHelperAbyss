@@ -20,7 +20,7 @@ Using **environmental damage** from certain ![](../../.gitbook/assets/anemo\_sma
 
 If there are other enemies, it can often be better to focus those first and ignore the **Whopperflowers** until they **shield**, as they have higher resistances until stunned. They will also **Burrow** towards you frequently, so will often group up by themselves.
 
-Be careful with abilities that apply![](../../.gitbook/assets/pyro\_small.png)to your character (e.g. **Bennett**). This will cause you to get \*\*Overloaded \*\*when hit by any of the **Electro Whopperflower's** attacks, sending your character flying.
+Be careful with abilities that apply![](../../.gitbook/assets/pyro\_small.png)to your character (e.g. **Bennett**). This will cause you to get **Overloaded **when hit by any of the **Electro Whopperflower's** attacks, sending your character flying.
 
 ## Abilities
 
@@ -56,7 +56,7 @@ Puts up an Electro shield and charges the Laser attack
 
 In order to shield, the **Whopperflower** consumes a charge of crystal. If they have no crystals, they cannot use this attack.
 
-After **5 seconds** if the shield is not fully broken, the **Whopperflower** will perform a \*\*Laser \*\*attack.
+After **5 seconds** if the shield is not fully broken, the **Whopperflower** will perform a **Laser **attack.
 
 Breaking the shield will temporarily **stun** the **Whopperflower**, which also reduces all resitances by **25%**.
 

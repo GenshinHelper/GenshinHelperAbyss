@@ -2,7 +2,7 @@
 
 ## Divergence
 
-* ![](../../.gitbook/assets/pyro\_small.png) \*\*DMG \*\*dealt by all party members increased by **75%**
+* ![](../../.gitbook/assets/pyro\_small.png) **DMG **dealt by all party members increased by **75%**
 * **Overload DMG** increased by **100%**
 
 ## Team Recommendations
@@ -23,7 +23,7 @@
 
 **Mutant (Yellow) Electric Slimes** will cause **Purple slimes** to emit electric shocks. Prioritize killing them when they appear.
 
-Use![](../../.gitbook/assets/pyro\_small.png)to trigger \*\*Overload \*\*and deal a lot of damage to slimes.
+Use![](../../.gitbook/assets/pyro\_small.png)to trigger **Overload **and deal a lot of damage to slimes.
 
 ## **Chamber 2**
 

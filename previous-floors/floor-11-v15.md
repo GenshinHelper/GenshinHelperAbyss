@@ -93,12 +93,12 @@ Focus the **Hydrogunner** first as he is able to heal allies. He spawns in the b
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png)DMG / Tick _\(8 ticks per second\)_ |
+| [**Electro Triangle**](../mechanics/auras/lightning-stake.md) | 758![](../.gitbook/assets/electro_small.png)DMG / Tick _\(8 ticks per second\)_ |
 
 | Monster | HP |
 | :--- | :--- |
-| [**Electro Cicin Mage**](../monsters/fatui/electro-cicin-mage.md)\*\*\*\* | ~250K |
-| \*\*\*\*[**Cryo Cicin Mage**](../monsters/fatui/cryo-cicin-mage.md)\*\*\*\* | ~250K |
+| [**Electro Cicin Mage**](../monsters/fatui/electro-cicin-mage.md) | ~250K |
+| [**Cryo Cicin Mage**](../monsters/fatui/cryo-cicin-mage.md) | ~250K |
 
 #### 3★ Tips
 
@@ -116,7 +116,7 @@ Aim for **under 1 minute** on this side to leave yourself plenty of time for the
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Abyss Herald**](../monsters/abyss-order/abyss-herald.md)\*\*\*\* | ~410K HP |
+| [**Abyss Herald**](../monsters/abyss-order/abyss-herald.md) | ~410K HP |
 
 {% hint style="info" %}
 The **Abyss Herald** **shield** has **36U** of strength. This means it takes anywhere between **18~36** applications of![](../.gitbook/assets/cryo_small.png)![](../.gitbook/assets/electro_small.png) to break the shield, depending on how strong the ability is at applying the element. ![](../.gitbook/assets/pyro_small.png)![](../.gitbook/assets/anemo_small.png)![](../.gitbook/assets/geo_small.png)are half as effective, requiring **36~72** applications.

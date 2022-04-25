@@ -16,7 +16,7 @@ Spreading out your resources is a common reason players aren't able to progress 
 
 #### Save your Fragile Resin until AR45
 
-The highest level artifact domains **guarantee a 5**★\*\* artifact\*\* with every run, and these unlock at **AR45**. Artifacts are key to beating higher floors of Abyss, and having a large stock of **Fragile Resin** as soon as you're able to access the highest level domains is the best way to gear up quickly.
+The highest level artifact domains **guarantee a 5**★** artifact** with every run, and these unlock at **AR45**. Artifacts are key to beating higher floors of Abyss, and having a large stock of **Fragile Resin** as soon as you're able to access the highest level domains is the best way to gear up quickly.
 
 #### Prioritize weapon levels
 

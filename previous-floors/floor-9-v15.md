@@ -37,7 +37,7 @@ Fight near the **Hilichurls** targetting the **brazier** and the enemies will gr
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 3061![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 3061![](../.gitbook/assets/cryo_small.png) |
 
 Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice Cage Aura**. Killing both waves of **Samachurls** and **Archers** before the **Cryo Abyss Mage** will make it easier to clear the floor.
 
@@ -57,7 +57,7 @@ Fight near the **Ice Shield Hilichurls** targetting the **brazier** and let the 
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 3213![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 3213![](../.gitbook/assets/cryo_small.png) |
 
 The **Electrohammer** on the left will target a heat source and can be ignored until later. Focus the **Cryogunner** to get rid of **Ice Cage**, or the **Anemoboxer** to prevent him from reviving downed enemies.
 
@@ -77,7 +77,7 @@ Get rid of the two **Archers** first, then focus on the **Lawachurl.**
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 3417![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 3417![](../.gitbook/assets/cryo_small.png) |
 
 Focus the **Cyro Abyss Mage** first to get rid of **Ice Cage.**
 

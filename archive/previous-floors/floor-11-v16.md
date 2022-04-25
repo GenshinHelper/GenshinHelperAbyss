@@ -2,11 +2,11 @@
 
 ## Divergence
 
-* \*\*Swirl \*\*reaction \*\*DMG \*\*increased by **300%** and its \*\*AoE \*\*increased by **100%**
+* **Swirl **reaction **DMG **increased by **300%** and its **AoE **increased by **100%**
 
 ## General Tips
 
-The combination of the recent **Elemental Mastery** scaling buff for **Swirl** and the divergence makes \*\*Swirl \*\*damage incredibly good for this floor. It is possible to completely rely on **Swirl** damage alone for damage.
+The combination of the recent **Elemental Mastery** scaling buff for **Swirl** and the divergence makes **Swirl **damage incredibly good for this floor. It is possible to completely rely on **Swirl** damage alone for damage.
 
 **Swirl** damage scales with character level and **Elemental Mastery**. **4pc Viridescent Venerer** also provides bonus **Swirl** damage.
 
@@ -33,9 +33,9 @@ It is recommended you run at least one ![](../../.gitbook/assets/anemo\_small.pn
 Target the mobs in this order:
 
 * **Wooden Shield Hilichurls**
-* Both \*\*Hilichurl Archers \*\*(spawns another pair)
+* Both **Hilichurl Archers **(spawns another pair)
 * **Hilichurl Archer** right next to you
-* \*\*Hilichurl Beserkers. \*\*This will trigger the next wave of melee mobs to spawn
+* **Hilichurl Beserkers. **This will trigger the next wave of melee mobs to spawn
 * **Hilichurl Berserkers**
 * Remaining **Hilichurl Archer** (spawns another pair)
 * Both **Hilichurl Archers**
@@ -51,7 +51,7 @@ Target the mobs in this order:
 
 * **Cryo Hilichurl Bomber**
 * **Pyro Hilichurl Bombers**
-* \*\*Rock Shield Hilichurls. \*\*This will spawn the next wave of monsters
+* **Rock Shield Hilichurls. **This will spawn the next wave of monsters
 * **Cryo Hilichurl Bomber**
 * **Pyro Hilichurl Bombers**
 * **Rock Shield Hilichurls**
@@ -107,7 +107,7 @@ Using![](../../.gitbook/assets/anemo\_small.png) **Swirl** does a lot of damage,
 | Monster                                                                  | HP |
 | ------------------------------------------------------------------------ | -- |
 | [**Ruin Guard**](../../monsters/ruin-constructs/ruin-guard.md)           | ?? |
-| [**Ruin Hunter**](../../monsters/ruin-constructs/ruin-hunter.md)\*\*\*\* | ?? |
+| [**Ruin Hunter**](../../monsters/ruin-constructs/ruin-hunter.md) | ?? |
 
 #### 3★ Tips
 
@@ -128,7 +128,7 @@ The second side is much harder, so try to aim for a clear under 1 minute to leav
 
 If possible, bring ![](../../.gitbook/assets/cryo\_small.png) as it is effective against both shields.
 
-Focus the **Abyss Lector** first. The \*\*Abyss Herald \*\*will come to you and cause them to naturally group.
+Focus the **Abyss Lector** first. The **Abyss Herald **will come to you and cause them to naturally group.
 
 Use **shields** to protect yourself from the energy drain and cooldown increase abilities of both enemies.
 

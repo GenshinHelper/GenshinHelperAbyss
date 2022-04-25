@@ -16,7 +16,7 @@ description: Collection of guides for Floor 11 Chamber 2 of Abyss in 1.3
 
 {% embed url="https://youtu.be/qHS0W5qhqcg" %}
 
-\*\*\*\*
+
 
 
 

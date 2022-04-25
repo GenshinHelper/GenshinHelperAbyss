@@ -2,10 +2,10 @@
 
 ## Divergence
 
-* When **HP** is greater than **50%**, **ATK** and \*\*DEF \*\*are increased by **25%**
-* When \*\*HP \*\*is greater than **80**%, **Normal Attack SPD** is increased by **20%**
-* When \*\*HP \*\*is greater than **80%**, **Movement SPD** is increased by **20%**
-* When \*\*HP \*\*is greater than **95%**, **CRIT Rate** is increased by **10%** and **CRIT DMG** is increased by **20%**
+* When **HP** is greater than **50%**, **ATK** and **DEF **are increased by **25%**
+* When **HP **is greater than **80**%, **Normal Attack SPD** is increased by **20%**
+* When **HP **is greater than **80%**, **Movement SPD** is increased by **20%**
+* When **HP **is greater than **95%**, **CRIT Rate** is increased by **10%** and **CRIT DMG** is increased by **20%**
 
 ## General Tips
 
@@ -50,9 +50,9 @@ Focus the **Large Cryo Slimes** as they are the most threatening followed by the
 | -------------------- | ------------------------------------------------------------ |
 | **Smoldering Flame** | 203![](../../.gitbook/assets/pyro\_small.png)/ Tick (?? DPS) |
 
-Focus the **Pyro Abyss Mage** on the left that has the \*\*Aura \*\*to prevent getting debuffed by **Smoldering Flames.**
+Focus the **Pyro Abyss Mage** on the left that has the **Aura **to prevent getting debuffed by **Smoldering Flames.**
 
-![](../../.gitbook/assets/hydro\_small.png)\*\* **is the most effective against** Pyro Abyss Mage\*\* shields. Kill the Abyss Mages before they can reshield.
+![](../../.gitbook/assets/hydro\_small.png)** **is the most effective against** Pyro Abyss Mage** shields. Kill the Abyss Mages before they can reshield.
 
 Staggering the Abyss Mage when their shields are down can prevent their attacks.
 
@@ -89,11 +89,11 @@ Fight near ranged enemies when possible and let the melee enemies come to you.
 | **Monster**                                                          |
 | [**Electro Cicin Mage**](../../monsters/fatui/electro-cicin-mage.md) |
 
-Avoid using ranged autoattacks (**Bow, Catalyst**) as **Cicin** \*\*Flies \*\*can easily draw autoaim.
+Avoid using ranged autoattacks (**Bow, Catalyst**) as **Cicin** **Flies **can easily draw autoaim.
 
-Focus the **Cicin Mage** and let the melee \*\*Hoarders \*\*come to you.
+Focus the **Cicin Mage** and let the melee **Hoarders **come to you.
 
-The Cicin's \*\*Aura \*\*will drain your energy, so use bursts when they are up.
+The Cicin's **Aura **will drain your energy, so use bursts when they are up.
 
 ### Side 2
 

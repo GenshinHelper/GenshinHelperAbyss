@@ -13,7 +13,7 @@
 
 While it is vulnerable, the **Hydro Hypostasis** will be infused with![](../../.gitbook/assets/hydro\_small.png)during and after some attacks. It is only vulnerable to attacks while infused with![](../../.gitbook/assets/hydro\_small.png).
 
-![](../../.gitbook/assets/pyro\_small.png)**DMG** is the most effective against the **Hydro Hypostasis**, as you will always be able to trigger \*\*Vaporize \*\*on your attacks, giving **1.5x** on your attacks at a minimum.![](../../.gitbook/assets/electro\_small.png)can also be used to trigger **Electrocharged**, but is less recommended than![](../../.gitbook/assets/pyro\_small.png).
+![](../../.gitbook/assets/pyro\_small.png)**DMG** is the most effective against the **Hydro Hypostasis**, as you will always be able to trigger **Vaporize **on your attacks, giving **1.5x** on your attacks at a minimum.![](../../.gitbook/assets/electro\_small.png)can also be used to trigger **Electrocharged**, but is less recommended than![](../../.gitbook/assets/pyro\_small.png).
 
 ![](../../.gitbook/assets/cryo\_small.png)**DMG** cannot freeze the **Hydro Hypostasis**, but it is effective at freezing the minions it produces and make it easier to prevent revival.
 
@@ -55,7 +55,7 @@ The Hypostasis will **not** be vulnerable after this attack.
 Summons dolphins that dive up underneath the player
 {% endembed %}
 
-The Hypostasis is \*\*vulnerable \*\*for the duration of this attack. Run into the circle and continue attacking throughout this attack.
+The Hypostasis is **vulnerable **for the duration of this attack. Run into the circle and continue attacking throughout this attack.
 
 ### Fin Slam
 

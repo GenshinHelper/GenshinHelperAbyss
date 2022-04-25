@@ -49,7 +49,7 @@ Unlike other shields, ![](../.gitbook/assets/geo\_small.png) can also be broken 
 * **Crystallize** reactions
 * ![](../.gitbook/assets/geo\_small.png)damage
 * **Claymore** attacks
-* \*\*Overload \*\*(![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/electro\_small.png))
+* **Overload **(![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/electro\_small.png))
 * Other **explosive** attacks (**Klee**)
 
 ## Shield Types
@@ -163,6 +163,6 @@ For more in depth reading on shields, please check out these additional resource
 
 [**Enemy Shields and Armor** - KQM Theorycrafting Library](https://library.keqingmains.com/mechanics/enemies/enemy-shields-armor)
 
-\*\*\*\*[\*\*Elemental Gauges \*\*(list of all Character Talents and strength)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
+[**Elemental Gauges **(list of all Character Talents and strength)](https://docs.google.com/spreadsheets/d/1uiJje5yqv7v2UKrWoBAgBMrHrrNemtkooo8JqAGJpP8/edit?usp=sharing)
 
-\*\*\*\*[\*\*Shield Damage in Genshin Impact \*\*(in depth mechanics of shields)](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit)
+[**Shield Damage in Genshin Impact **(in depth mechanics of shields)](https://docs.google.com/document/d/1SUc9A7O5C7CX0qYHmCqB44uhpHYY-Txgv6rdibM8Jw4/edit)

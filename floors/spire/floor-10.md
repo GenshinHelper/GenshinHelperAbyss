@@ -2,15 +2,15 @@
 
 ## Divergence
 
-There will be a \*\*Leader \*\*amongst the opponents present in each challenge on this floor. Its \*\*Attendants \*\*will also be present to provide it with enhancements and protection.
+There will be a **Leader **amongst the opponents present in each challenge on this floor. Its **Attendants **will also be present to provide it with enhancements and protection.
 
-Each \*\*Attendant \*\*will increase the **Leader's All RES** by **10%**. The \*\*Attendants \*\*will **restore the Leader's HP** every **12s**, with each \*\*Attendant \*\*restoring **5% HP**.
+Each **Attendant **will increase the **Leader's All RES** by **10%**. The **Attendants **will **restore the Leader's HP** every **12s**, with each **Attendant **restoring **5% HP**.
 
 When there are no Attendants, the Leader will not have any of the above enhancement and restoration effects.
 
 ## General Tips
 
-Focus on the **Attendants** first. Enemies can be fairly spread out so characters with \*\*CC \*\*and/or **AoE Damage** are highly preferred.
+Focus on the **Attendants** first. Enemies can be fairly spread out so characters with **CC **and/or **AoE Damage** are highly preferred.
 
 ## Team Recommendations
 

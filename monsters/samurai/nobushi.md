@@ -17,7 +17,7 @@
 
 **Weak Point** - Face
 
-\*\*Nobushi \*\*are immune to CC from![](../../.gitbook/assets/anemo\_small.png)skills, which make them particularly difficult to group. They also move a lot during their attacks, making them split apart easily. Using **Freeze** is a good way to keep them together longer.
+**Nobushi **are immune to CC from![](../../.gitbook/assets/anemo\_small.png)skills, which make them particularly difficult to group. They also move a lot during their attacks, making them split apart easily. Using **Freeze** is a good way to keep them together longer.
 
 ## Abilities (All)
 

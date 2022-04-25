@@ -4,7 +4,7 @@
 
 ![](../../.gitbook/assets/cryo_explosion_med.png)
 
-| \*\*\*\* | \*\*\*\* |
+|  |  |
 | :--- | :---: |
 | **Damage Type** | Variable |
 | **Timer** | 15.75s |

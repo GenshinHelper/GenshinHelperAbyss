@@ -35,7 +35,7 @@ Avoid **Barbara, Xingqiu** as they will cause **Electrocharged** on your charact
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Bubbles**](../mechanics/auras/mist-bubble.md)\*\*\*\* | 3424![](../.gitbook/assets/hydro_small.png) |
+| [**Bubbles**](../mechanics/auras/mist-bubble.md) | 3424![](../.gitbook/assets/hydro_small.png) |
 
 Getting hit by ![](../.gitbook/assets/hydro_small.png) causes **Electrocharged** which can stagger your character. Do your best to avoid these attacks.
 
@@ -110,7 +110,7 @@ The stage will occasionally be struck by **Electro Storms**. These appear as AoE
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 758![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
+| [**Electro Triangle**](../mechanics/auras/lightning-stake.md) | 758![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 Focus the **Hydrogunner** in the second half as he can heal the others.
 

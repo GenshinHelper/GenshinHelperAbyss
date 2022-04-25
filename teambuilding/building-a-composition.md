@@ -42,17 +42,17 @@ While it's possible to run a strong shield character like Zhong Li instead of a 
 
 #### Energy
 
-Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their \*\*Bursts \*\*up more often, helping you deal more damage.
+Commonly referred to as a **battery**, these supports are the same element as a core character and are good at generating energy to keep their **Bursts **up more often, helping you deal more damage.
 
 #### Crowd Control
 
-Characters that are able to disable enemies in various ways. This will often be a character than can enable \*\*Freeze \*\*to disable enemies, or an ![](../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
+Characters that are able to disable enemies in various ways. This will often be a character than can enable **Freeze **to disable enemies, or an ![](../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
 
 #### Damage
 
 These supports boost the damage of your core unit in some way, either by:
 
-* Buffing your team (**Bennet**,\*\* \*\*character using **Noblesse Oblige** set)
+* Buffing your team (**Bennet**, character using **Noblesse Oblige** set)
 * Debuffing your enemies (**Zhong Li**, ![](../.gitbook/assets/anemo\_small.png)using **Viridescent Veneer** set)
 * Adding resonance
 
@@ -80,146 +80,146 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 
 ### Razor/Keqing + Cryo
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/physical\_small.png) ![](../.gitbook/assets/electro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/physical\_small.png) ![](../.gitbook/assets/electro\_small.png)
 
 |                                                  DPS                                                 |                                            Best Supports                                           |                                                                     Other Supports                                                                    |
 | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_razor.png) ![](../.gitbook/assets/ui\_avataricon\_keqing.png) | ![](../.gitbook/assets/ui\_avataricon\_diona.png)![](../.gitbook/assets/ui\_avataricon\_kaeya.png) | ![](../.gitbook/assets/ui\_avataricon\_rosaria.png) ![](../.gitbook/assets/ui\_avataricon\_qiqi.png)![](../.gitbook/assets/ui\_avataricon\_ganyu.png) |
 
-* Make sure to regularly trigger \*\*Superconduct \*\*( ![](../.gitbook/assets/cryo\_small.png) + ![](../.gitbook/assets/electro\_small.png)) to reduce enemy ![](../.gitbook/assets/physical\_small.png) **RES** for damage. The debuff lasts **12 seconds**.
+* Make sure to regularly trigger **Superconduct **( ![](../.gitbook/assets/cryo\_small.png) + ![](../.gitbook/assets/electro\_small.png)) to reduce enemy ![](../.gitbook/assets/physical\_small.png) **RES** for damage. The debuff lasts **12 seconds**.
 * **Diona** and **Qiqi** are the preferred supports as they also fill in for you as a **healer**.
 
 ### Eula/Rosaria/Kaeya + Electro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/physical\_small.png) ![](../.gitbook/assets/cryo\_small.png) ![](../.gitbook/assets/electro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/physical\_small.png) ![](../.gitbook/assets/cryo\_small.png) ![](../.gitbook/assets/electro\_small.png)
 
 |                                                                          DPS                                                                          |                                                                          Supports                                                                          |
 | :---------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_eula.png)![](../.gitbook/assets/ui\_avataricon\_rosaria.png) ![](../.gitbook/assets/ui\_avataricon\_kaeya.png) | ![](../.gitbook/assets/ui\_avataricon\_beidou.png)![](../.gitbook/assets/ui\_avataricon\_fischl.png)![](../.gitbook/assets/ui\_avataricon\_shougun-1-.png) |
 
-* Make sure to regularly trigger \*\*Superconduct \*\*( ![](../.gitbook/assets/cryo\_small.png) + ![](../.gitbook/assets/electro\_small.png)) to reduce enemy ![](../.gitbook/assets/physical\_small.png) **RES** for damage. The debuff lasts **8 seconds**.
+* Make sure to regularly trigger **Superconduct **( ![](../.gitbook/assets/cryo\_small.png) + ![](../.gitbook/assets/electro\_small.png)) to reduce enemy ![](../.gitbook/assets/physical\_small.png) **RES** for damage. The debuff lasts **8 seconds**.
 * Adding a ![](../.gitbook/assets/hydro\_small.png)support is a nice way to add **Freeze** on this team for extra **Crowd Control**.
 * When using **Eula**, it is highly recommended to bring a **Battery** in another slot (e.g. **Diona**) due to her damage being very **Burst** dependent.
 
 ### Bennet + Chongyun
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/cryo\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/cryo\_small.png)
 
 |                         DPS                         |                        Support                       |
 | :-------------------------------------------------: | :--------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_bennett.png) | ![](../.gitbook/assets/ui\_avataricon\_chongyun.png) |
 
-* This core is centered around the \*\*Melt \*\*( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Use **Chongyun's Elemental Skill** to have \*\*Bennett's **attacks apply** \*\*![](../.gitbook/assets/cryo\_small.png) to an enemy before hitting it with **Bennett's Elemental Skill/Burst.**
+* This core is centered around the **Melt **( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Use **Chongyun's Elemental Skill** to have **Bennett's **attacks apply** **![](../.gitbook/assets/cryo\_small.png) to an enemy before hitting it with **Bennett's Elemental Skill/Burst.**
 * Even without a dedicated support build, **Bennett's Elemental Burst** should be enough healing to cover this team. You should not need a second healer.
 * _Note: This comp no longer becomes functional with Bennett's C6._
 
 ### Raiden + Xiangling (National)
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/electro\_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
+**Primary Damage Type - **![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/electro\_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
 
 |                                                     DPS                                                     |                                                                          Support                                                                          |
 | :---------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_shougun-1-.png)![](../.gitbook/assets/ui\_avataricon\_xiangling.png) | ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png)![](../.gitbook/assets/ui\_avataricon\_bennett.png)![](../.gitbook/assets/ui\_avataricon\_sucrose.png) |
 
 * This core is centered around the **several reactions**. The majority of damage on this team comes from Xiangling's burst and Raiden's burst.
-* Because Raiden's burst recharges quickly, the DPS is centered around her burst window. Use \*\*Bennet E and Xiangling E \*\*for ult recharge, and have all your ults ready for Raiden burst window. Drop all bursts then Raiden's then auto attack with her in that time.
+* Because Raiden's burst recharges quickly, the DPS is centered around her burst window. Use **Bennet E and Xiangling E **for ult recharge, and have all your ults ready for Raiden burst window. Drop all bursts then Raiden's then auto attack with her in that time.
 
 ### Pyro DPS + Hydro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/pyro\_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
+**Primary Damage Type - **![](../.gitbook/assets/pyro\_small.png) ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
 
 |                                                                                                                                                                                                DPS                                                                                                                                                                                               |                    Best Supports                    |                  Other Supports                  |
 | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------: |
 | <p><img src="../.gitbook/assets/ui_avataricon_hutao.png" alt=""><img src="../.gitbook/assets/ui_avataricon_diluc.png" alt=""><img src="../.gitbook/assets/ui_avataricon_klee.png" alt=""></p><p><img src="../.gitbook/assets/ui_avataricon_bennett.png" alt=""><img src="../.gitbook/assets/ui_avataricon_yanfei.png" alt=""><img src="../.gitbook/assets/ui_avataricon_yoimiya.png" alt=""></p> | ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png) | ![](../.gitbook/assets/ui\_avataricon\_mona.png) |
 
-* This core is centered around the \*\*Vaporize \*\*( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/hydro\_small.png)) reaction which multiplies Pyro Damage by 1.5. Apply![](../.gitbook/assets/hydro\_small.png)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
+* This core is centered around the **Vaporize **( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/hydro\_small.png)) reaction which multiplies Pyro Damage by 1.5. Apply![](../.gitbook/assets/hydro\_small.png)to enemies and use a combination of skills and attacks from your DPS to trigger the reaction.
 * **Xingqui works better with Normal Attack focused carries** while Mona works better with Burst focused carries.
 
 ### Mono-Pyro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/pyro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/pyro\_small.png)
 
 |                                                  DPS                                                 |                                                                        Best Supports                                                                        |                    Other Supports                   |
 | :--------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_klee.png) ![](../.gitbook/assets/ui\_avataricon\_yoimiya.png) | ![](../.gitbook/assets/ui\_avataricon\_bennett.png) ![](../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../.gitbook/assets/ui\_avataricon\_kazuha.png) | ![](../.gitbook/assets/ui\_avataricon\_sucrose.png) |
 
-* This core around \*\*Pure Pyro Damage and Swirl Amplification **(**![](../.gitbook/assets/pyro\_small.png)**+** \*\*![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983\&alt=media)). Apply ![](../.gitbook/assets/pyro\_small.png)to enemies and swirl those attacks to proc **Viridescent Venerer's 4pc.**
+* This core around **Pure Pyro Damage and Swirl Amplification **(**![](../.gitbook/assets/pyro\_small.png)**+** **![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F68e4777d7c38eb974be29d8260b1f52709a44a26.png?generation=1615182625284983\&alt=media)). Apply ![](../.gitbook/assets/pyro\_small.png)to enemies and swirl those attacks to proc **Viridescent Venerer's 4pc.**
 * Strength in this team comes especially from **Bennett's C6 and Xiangling's C6** (as well as Sucrose's C6 if you are using her) as these all buff Pyro damage even further.
 * Monopyro beats Vaporize with **Main DPS characters who cannot efficiently proc Vaporize**.
 * Using multiple Pyro characters allows **Supports to be built on damage over ER**.
 
 ### Childe + Xiangling
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/hydro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/pyro\_small.png) ![](../.gitbook/assets/hydro\_small.png)
 
 |                          DPS                          |                    Best Support/DPS                   |                                            Other Supports                                            |
 | :---------------------------------------------------: | :---------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_xiangling.png) | ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) | ![](../.gitbook/assets/ui\_avataricon\_mona.png) ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png) |
 
-* This core is centered around the \*\*Vaporize \*\*( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/hydro\_small.png)) reaction. Utilizes **Xiangling's Elemental Skill/Burst** hitting enemies affected by ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media).
+* This core is centered around the **Vaporize **( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/hydro\_small.png)) reaction. Utilizes **Xiangling's Elemental Skill/Burst** hitting enemies affected by ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media).
 * **Tartaglia** is the ideal character for this as his **Elemental Skill Melee Stance** is great at applying![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)on top of doing a good amount of damage.
-* Unlike the other ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)core, \*\*Xiangling's \*\*basic attack is not![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media). In order to property utilize this, she needs sufficient **energy recharge** to make sure her **Elemental Burst** is ready as much as possible. This often means running a second ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)in a flex slot for resonance.
+* Unlike the other ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)core, **Xiangling's **basic attack is not![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media). In order to property utilize this, she needs sufficient **energy recharge** to make sure her **Elemental Burst** is ready as much as possible. This often means running a second ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)in a flex slot for resonance.
 
 ### Childe + Cryo
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/hydro\_small.png) ![](../.gitbook/assets/cryo\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/hydro\_small.png) ![](../.gitbook/assets/cryo\_small.png)
 
 |                          DPS                          |                                                                       Best Support                                                                      |                                           Other Supports                                           |
 | :---------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) | ![](../.gitbook/assets/ui\_avataricon\_ganyu.png) ![](../.gitbook/assets/ui\_avataricon\_diona.png) ![](../.gitbook/assets/ui\_avataricon\_rosaria.png) | ![](../.gitbook/assets/ui\_avataricon\_qiqi.png) ![](../.gitbook/assets/ui\_avataricon\_kaeya.png) |
 
-* This core is centered around the \*\*Freeze \*\*( ![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Apply ![](../.gitbook/assets/cryo\_small.png)to enemies and then use **Childe's** **Elemental Skill Melee Stance** to deal damage to enemies while frozen.
+* This core is centered around the **Freeze **( ![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Apply ![](../.gitbook/assets/cryo\_small.png)to enemies and then use **Childe's** **Elemental Skill Melee Stance** to deal damage to enemies while frozen.
 * You will often want to run another ![](../.gitbook/assets/cryo\_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo\_small.png)**resonance**.
 
 ### Fischl/Beidou + Hydro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/electro\_small.png) ![](../.gitbook/assets/hydro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/electro\_small.png) ![](../.gitbook/assets/hydro\_small.png)
 
 |                                                  DPS                                                 |                                             Best Support/DPS                                             |                                            Other Supports                                            |
 | :--------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_beidou.png)![](../.gitbook/assets/ui\_avataricon\_fischl.png) | ![](../.gitbook/assets/ui\_avataricon\_tartaglia.png) ![](../.gitbook/assets/ui\_avataricon\_kokomi.png) | ![](../.gitbook/assets/ui\_avataricon\_mona.png) ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png) |
 
-* This core is centered around the \*\*Electrocharged \*\*(![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/electro\_small.png)) reaction. Use a combination of talents that apply both elements to enemies for damage.
+* This core is centered around the **Electrocharged **(![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/electro\_small.png)) reaction. Use a combination of talents that apply both elements to enemies for damage.
 * Your![](../.gitbook/assets/electro\_small.png) characters will give most of the damage while **off-field** and another character is attacking and applying ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media).
-* **Tartaglia** is the ideal character for this as his **Elemental Skill Melee Stance** is great at applying![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)on top of doing a good amount of damage. \*\*Kokomi \*\*works as well and allows easy gameplay.
+* **Tartaglia** is the ideal character for this as his **Elemental Skill Melee Stance** is great at applying![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)on top of doing a good amount of damage. **Kokomi **works as well and allows easy gameplay.
 
 ### Keqing + Hydro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/electro\_small.png)![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
+**Primary Damage Type - **![](../.gitbook/assets/electro\_small.png)![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F1a9d730812988c6cd8678f117630d179f689cee0.png?generation=1615182626544397\&alt=media)
 
 |                         DPS                        |                     Best Support                    |                   Good Supports                  |
 | :------------------------------------------------: | :-------------------------------------------------: | :----------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_keqing.png) | ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png) | ![](../.gitbook/assets/ui\_avataricon\_mona.png) |
 
-* This core is centered around the \*\*Electrocharged \*\*(![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/electro\_small.png)) reaction. Utilizes **Keqing's** ![](../.gitbook/assets/electro\_small.png) \*\*infusion \*\*and strong **Charged Attack.**
+* This core is centered around the **Electrocharged **(![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/electro\_small.png)) reaction. Utilizes **Keqing's** ![](../.gitbook/assets/electro\_small.png) **infusion **and strong **Charged Attack.**
 
 ### Ganyu + Xiangling
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/cryo\_small.png) ![](../.gitbook/assets/pyro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/cryo\_small.png) ![](../.gitbook/assets/pyro\_small.png)
 
 |                        DPS                        |                      Main Support                     |                                             Other Supports                                             |
 | :-----------------------------------------------: | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_ganyu.png) | ![](../.gitbook/assets/ui\_avataricon\_xiangling.png) | ![](../.gitbook/assets/ui\_avataricon\_kazuha.png) ![](../.gitbook/assets/ui\_avataricon\_zhongli.png) |
 
-* This core is centered around the \*\*Reverse Melt \*\*( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro\_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
-* \*\*Kazuha \*\*works as well to buff both the Cryo and Pyro Damage Components.
-* \*\*Zhongli \*\*or other shielders help keep Ganyu alive while doing charge shots.
+* This core is centered around the **Reverse Melt **( ![](../.gitbook/assets/pyro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Use **Xiangling's Elemental Skill/Burst** to apply ![](../.gitbook/assets/pyro\_small.png)to an enemy and then hit them with a **Full Charge Attack** from **Ganyu**.
+* **Kazuha **works as well to buff both the Cryo and Pyro Damage Components.
+* **Zhongli **or other shielders help keep Ganyu alive while doing charge shots.
 
 ### Ganyu/Ayaka + Hydro
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png)
 
 |                                                 DPS                                                 |                                            Best Supports                                            |                                             Other Supports                                            |
 | :-------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------: | :---------------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_ganyu.png) ![](../.gitbook/assets/ui\_avataricon\_ayaka.png) | ![](../.gitbook/assets/ui\_avataricon\_mona.png) ![](../.gitbook/assets/ui\_avataricon\_kokomi.png) | ![](../.gitbook/assets/ui\_avataricon\_xingqiu.png) ![](../.gitbook/assets/ui\_avataricon\_diona.png) |
 
-* This core is centered around the \*\*Freeze \*\*( ![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Apply ![](../.gitbook/assets/hydro\_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** or \*\*Ayaka's Attacks \*\*to deal damage to **frozen** enemies.
+* This core is centered around the **Freeze **( ![](../.gitbook/assets/hydro\_small.png)+![](../.gitbook/assets/cryo\_small.png)) reaction. Apply ![](../.gitbook/assets/hydro\_small.png)to enemies and then use a combination of **Ganyu's Charged Attacks** and **Elemental Burst** or **Ayaka's Attacks **to deal damage to **frozen** enemies.
 * You will often want to run another ![](../.gitbook/assets/cryo\_small.png)character in a flex slot to have ![](../.gitbook/assets/cryo\_small.png)**resonance**. **Diona** in particular is an excellent choice as she also provides shields/heals and plenty of energy.
-* **Xingqiu** can work for Ayaka but is not as ideal with Ganyu as it is hard to weave normal attacks into a charge attack sequence. In the same way, \*\*Mona \*\*is not as effective for hydro application if you are doing a lot of normal attacks with Ayaka. \*\*Kokomi \*\*adds comfort to the team and makes it easier to play.
+* **Xingqiu** can work for Ayaka but is not as ideal with Ganyu as it is hard to weave normal attacks into a charge attack sequence. In the same way, **Mona **is not as effective for hydro application if you are doing a lot of normal attacks with Ayaka. **Kokomi **adds comfort to the team and makes it easier to play.
 
 ### Kaeya/Rosaria + Chongyun
 
-\*\*Primary Damage Type - \*\* ![](../.gitbook/assets/cryo\_small.png)
+**Primary Damage Type - ** ![](../.gitbook/assets/cryo\_small.png)
 
 |                                                  DPS                                                 |                        Support                       |
 | :--------------------------------------------------------------------------------------------------: | :--------------------------------------------------: |
@@ -230,7 +230,7 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 
 ### Ningguang + Geo
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/geo\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/geo\_small.png)
 
 |                          DPS                          |                                              Best Supports                                             |                                              Other Supports                                              |
 | :---------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
@@ -244,7 +244,7 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 
 ### Noelle/Itto + Geo
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/geo\_small.png)****
+**Primary Damage Type - **![](../.gitbook/assets/geo\_small.png)****
 
 |                                                 DPS                                                |                                              Best Supports                                             |                   Other Supports                  |
 | :------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
@@ -257,7 +257,7 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 
 ### Xiao + Anemo
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/anemo\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/anemo\_small.png)
 
 |                        DPS                       |                                             Best Supports                                            |                   Other Supports                  |
 | :----------------------------------------------: | :--------------------------------------------------------------------------------------------------: | :-----------------------------------------------: |
@@ -268,17 +268,17 @@ Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add dam
 
 ### Venti + Jean
 
-\*\*Primary Damage Type - \*\*![](../.gitbook/assets/anemo\_small.png)
+**Primary Damage Type - **![](../.gitbook/assets/anemo\_small.png)
 
 |                                                DPS                                                |
 | :-----------------------------------------------------------------------------------------------: |
 | ![](../.gitbook/assets/ui\_avataricon\_jean.png)![](../.gitbook/assets/ui\_avataricon\_venti.png) |
 
-* This core works by combining the high damage scaling of both \*\*Jean \*\*and **Venti's Elemental Skills/Bursts**, the **cooldown reduction** from ![](../.gitbook/assets/anemo\_small.png)**resonance**, and general high **energy generation** to continually output damage with their talents.
+* This core works by combining the high damage scaling of both **Jean **and **Venti's Elemental Skills/Bursts**, the **cooldown reduction** from ![](../.gitbook/assets/anemo\_small.png)**resonance**, and general high **energy generation** to continually output damage with their talents.
 
 ### FAQs
 
-\*\*Is there a "best" team composition? \*\*
+**Is there a "best" team composition? **
 
 As stated at the beginning, the characters who work best depend largely on the enemies you are facing. One composition does not work in every situation. It also depends on who you have available in your roster and how well they are built. With that said, melt and vaporize teams generally deal more DPS. Freeze and Physical Comps allow much greater consistency and control.
 

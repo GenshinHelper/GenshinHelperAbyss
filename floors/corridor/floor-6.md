@@ -2,7 +2,7 @@
 
 ## Divergence
 
-* Using an\*\* Elemental Burst\*\* increases all party members' \*\*ATK \*\*and **DEF by 6%**. Max 10 stacks. At **5 stacks** and above, increases character **Normal Attack SPD** and **Movement SPD** by an additional **30%**
+* Using an** Elemental Burst** increases all party members' **ATK **and **DEF by 6%**. Max 10 stacks. At **5 stacks** and above, increases character **Normal Attack SPD** and **Movement SPD** by an additional **30%**
 
 ## General Tips
 
@@ -28,11 +28,11 @@ Outfitting these chars with **4pc Exile** is a great way to provide energy to le
 
 ![](../../.gitbook/assets/6-1-1.png)
 
-Prioritize attacking\*\* Whopperflowers\*\* when they have their shield up to prevent their attacks. ![](../../.gitbook/assets/pyro\_small.png) is the most effective against their shields, but other elements and claymores will damage it as well.
+Prioritize attacking** Whopperflowers** when they have their shield up to prevent their attacks. ![](../../.gitbook/assets/pyro\_small.png) is the most effective against their shields, but other elements and claymores will damage it as well.
 
-\*\*Whopperflowers \*\*become stunned if you break their shields. They take more damage while stunned, so make sure to focus them when this happens.
+**Whopperflowers **become stunned if you break their shields. They take more damage while stunned, so make sure to focus them when this happens.
 
-Fighting near the \*\*archers \*\*can help group enemies together.
+Fighting near the **archers **can help group enemies together.
 
 ### Side 2
 
@@ -43,11 +43,11 @@ Fighting near the \*\*archers \*\*can help group enemies together.
 | **Monster**                                                            |
 | [**Pyro Whopperflower**](../../monsters/animals/pyro-whopperflower.md) |
 
-Prioritize attacking\*\* Whopperflowers\*\* when they have their shield up to prevent their attacks. ![](../../.gitbook/assets/hydro\_small.png) is the most effective against their shields, but other elements and claymores will damage it as well.
+Prioritize attacking** Whopperflowers** when they have their shield up to prevent their attacks. ![](../../.gitbook/assets/hydro\_small.png) is the most effective against their shields, but other elements and claymores will damage it as well.
 
-\*\*Whopperflowers \*\*become stunned if you break their shields. They take more damage while stunned, so make sure to focus them when this happens.
+**Whopperflowers **become stunned if you break their shields. They take more damage while stunned, so make sure to focus them when this happens.
 
-\*\*Samachurls \*\*can be annoying to deal with, so focus them first when they spawn.
+**Samachurls **can be annoying to deal with, so focus them first when they spawn.
 
 ## **Chamber 2**
 
@@ -59,7 +59,7 @@ Prioritize attacking\*\* Whopperflowers\*\* when they have their shield up to pr
 
 Fight near ranged units to group enemies easier.
 
-Focus **Hydro** \*\*Samachurls \*\*when they spawn, as they can heal other enemies.
+Focus **Hydro** **Samachurls **when they spawn, as they can heal other enemies.
 
 ### Side 2
 
@@ -71,7 +71,7 @@ Focus **Hydro** \*\*Samachurls \*\*when they spawn, as they can heal other enemi
 
 Fight near ranged units to group enemies easier.
 
-Focus \*\*Samachurls \*\*when they spawn, as they can be annoying to deal with.
+Focus **Samachurls **when they spawn, as they can be annoying to deal with.
 
 ## **Chamber 3**
 

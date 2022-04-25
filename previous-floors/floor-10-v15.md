@@ -39,7 +39,7 @@ Fight near the **Grenadiers** and let the **Slimes** come to you
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 3785![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 3785![](../.gitbook/assets/cryo_small.png) |
 
 Focus the **Hydro Samachurls** and quickly burst them down before they can heal. If get **Frozen** too much, try breaking **Cryo Abyss Mage** shield before switching to the **Hydro Samachurls** to make it easier.
 
@@ -71,7 +71,7 @@ Killing off **Potioneers** will make it easier to deal with the **Cryo Cicin**.
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 4194![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 4194![](../.gitbook/assets/cryo_small.png) |
 
 Focus the **Cryo Cicin** to get rid of **Ice Cage**. The **Pyro Fatui** will come towards you anyway, letting you group them easily.
 
@@ -83,7 +83,7 @@ Focus the **Cryo Cicin** to get rid of **Ice Cage**. The **Pyro Fatui** will com
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 4266![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 4266![](../.gitbook/assets/cryo_small.png) |
 
 Use ![](../.gitbook/assets/pyro_small.png) to break through the shield. After doing this, the **Lawachurl** will be vulnerable to staggering, making the fight easier.
 

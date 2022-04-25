@@ -20,11 +20,11 @@ Once **infused**, they will always carry their element (like **Slimes**). Use th
 
 While **infused**, Geovishaps are more resistant to **staggering.**
 
-![](../../.gitbook/assets/cryo\_small.png) \*\*infused \*\*Geovishaps can't be **frozen.**
+![](../../.gitbook/assets/cryo\_small.png) **infused **Geovishaps can't be **frozen.**
 
-Even though they are resistant to ![](../../.gitbook/assets/geo\_small.png)\*\* \*\*DMG, bringing a **Geo Support** can trigger \*\*Crystallize \*\*once they infuse, giving you shields against their attacks.
+Even though they are resistant to ![](../../.gitbook/assets/geo\_small.png) DMG, bringing a **Geo Support** can trigger **Crystallize **once they infuse, giving you shields against their attacks.
 
-Having a \*\*shield \*\*active when they roll into you will cause them to be stunned briefly.
+Having a **shield **active when they roll into you will cause them to be stunned briefly.
 
 ## Abilities
 
@@ -48,7 +48,7 @@ Dodge out of the way before it lands. The best timing is to dodge just as the re
 
 Dodge to the side of the roll, then dodge again when it slams down.
 
-If you are \*\*shielded \*\*when they roll into you, it will stagger them briefly.
+If you are **shielded **when they roll into you, it will stagger them briefly.
 
 Dodging the roll can be difficult. If you are low on stamina, focus on dodging the **jump** portion of the attack, as it does a lore more damage.
 

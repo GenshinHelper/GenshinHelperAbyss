@@ -11,7 +11,7 @@
 
 Keep an eye on your **Sheer Cold** gauge in this chamber. If you can't clear the mobs fast enough, you will want to try and lure enemies near the **Warming Seelie** if possible and fight near them.
 
-Using ![](../../.gitbook/assets/pyro\_small.png)\*\*DPS \*\*is highly recommended on the first team.
+Using ![](../../.gitbook/assets/pyro\_small.png)**DPS **is highly recommended on the first team.
 
 The second team can be any damage type as long as you have effective ways of dealing with both the **Abyss Lector** and **Abyss Herald** shields.
 
@@ -39,7 +39,7 @@ The second team can be any damage type as long as you have effective ways of dea
 
 | Aura                                                            | DMG                                             |
 | --------------------------------------------------------------- | ----------------------------------------------- |
-| [**Mist Bubble**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 3626![](../../.gitbook/assets/hydro\_small.png) |
+| [**Mist Bubble**](../../mechanics/auras/mist-bubble.md) | 3626![](../../.gitbook/assets/hydro\_small.png) |
 
 Fighting near the **Hilichurl Grenadiers** is the best way to group enemies.
 
@@ -55,7 +55,7 @@ Aim for the **Hydro Slimes** first before the **Cryo Slime**. Killing the **Cryo
 
 | Aura                                                      | DMG                                            |
 | --------------------------------------------------------- | ---------------------------------------------- |
-| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 3785![](../../.gitbook/assets/cryo\_small.png) |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 3785![](../../.gitbook/assets/cryo\_small.png) |
 
 Make sure you bring ![](../../.gitbook/assets/cryo\_small.png)for the **Abyss Herald**
 
@@ -85,7 +85,7 @@ Once the **Hydro Samachurl** spawns, make sure to focus it down immediately or i
 
 | Aura                                                      | DMG                                            |
 | --------------------------------------------------------- | ---------------------------------------------- |
-| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 3964![](../../.gitbook/assets/cryo\_small.png) |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 3964![](../../.gitbook/assets/cryo\_small.png) |
 
 Focus the **Cryo Abyss Mage** first to prevent **Ice Cage**.
 
@@ -103,7 +103,7 @@ Using a **shield** is an effective way to prevent the **Abyss Lector** from drai
 | --------------------------------------------------------------- | -- |
 | [**Cryo Hypostasis**](../../monsters/elites/cryo-hypostasis.md) | ?? |
 
-Using ![](../../.gitbook/assets/pyro\_small.png)\*\*DPS \*\*is particularly effective as your attacks will **Melt**.
+Using ![](../../.gitbook/assets/pyro\_small.png)**DPS **is particularly effective as your attacks will **Melt**.
 
 The attacks it will use are completely random. Some patterns take longer than others, so you can potentially retry this chamber until it performs a favorable attack.
 
@@ -114,7 +114,7 @@ The attacks it will use are completely random. Some patterns take longer than ot
 | Monster                                                                              | HP |
 | ------------------------------------------------------------------------------------ | -- |
 | [**Frostarm Lawachurl**](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) | ?? |
-| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)\*\*\*\*       | ?? |
+| [**Hydro Abyss Mage**](../../monsters/abyss-order/hydro-abyss-mage.md)       | ?? |
 
 | Aura                                                            | DMG                                             |
 | --------------------------------------------------------------- | ----------------------------------------------- |

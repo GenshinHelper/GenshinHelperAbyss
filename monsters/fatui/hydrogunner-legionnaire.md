@@ -26,7 +26,7 @@
 
 Unless you are able to take him down before he is able to shield, always bring![](../../.gitbook/assets/electro\_small.png) against the **Hydrogunner**. He is extremely resistant to all damage while shielded. Trying to defeat it while the shield is up will lose a lot of time.
 
-Since he can heal allies, you should prioritize the **Hydrogunner** if he is present. The \*\*Shield \*\*is also particularly tough to get down compared to other Fatui. Bursting him down before he is able to shield can save a lot of time.
+Since he can heal allies, you should prioritize the **Hydrogunner** if he is present. The **Shield **is also particularly tough to get down compared to other Fatui. Bursting him down before he is able to shield can save a lot of time.
 
 ## Shield
 
@@ -64,6 +64,6 @@ The healing occurs over time, and lasts about **5 seconds**.
 
 ![](../../.gitbook/assets/hydrogunner\_shield.gif)
 
-Once the shield is broken, the \*\*Hydrogunner \*\*will be stunned for about **8 seconds**.
+Once the shield is broken, the **Hydrogunner **will be stunned for about **8 seconds**.
 
 ![](../../.gitbook/assets/hydrogunner\_shield\_break.gif)

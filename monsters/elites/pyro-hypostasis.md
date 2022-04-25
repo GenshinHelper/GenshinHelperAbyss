@@ -15,9 +15,9 @@
 
 While it is **Extinguished**, the **Pyro Hypostasis** will be infused with![](../../.gitbook/assets/pyro\_small.png)during and after some attacks. It is only vulnerable to attacks while infused with![](../../.gitbook/assets/pyro\_small.png).
 
-![](../../.gitbook/assets/hydro\_small.png) **DMG** is the most effective against the **Pyro Hypostasis**, as you will always be able to trigger \*\*Vaporize \*\*on your attacks, giving **2x** on your attacks at a minimum.
+![](../../.gitbook/assets/hydro\_small.png) **DMG** is the most effective against the **Pyro Hypostasis**, as you will always be able to trigger **Vaporize **on your attacks, giving **2x** on your attacks at a minimum.
 
-![](../../.gitbook/assets/cryo\_small.png) **DMG** is also effective against the **Pyro Hypostasis**, as you will always be able to trigger \*\*Melt \*\*on your attacks, giving **1.5x** on your attacks at a minimum, however note that![](../../.gitbook/assets/cryo\_small.png)**should not be used for shieldbreaking**.
+![](../../.gitbook/assets/cryo\_small.png) **DMG** is also effective against the **Pyro Hypostasis**, as you will always be able to trigger **Melt **on your attacks, giving **1.5x** on your attacks at a minimum, however note that![](../../.gitbook/assets/cryo\_small.png)**should not be used for shieldbreaking**.
 
 The **Pyro Hypostasis** is very dangerous while **Ignited**. Make sure you bring![](../../.gitbook/assets/hydro\_small.png)to get the shield down as quickly as possible.
 
@@ -25,7 +25,7 @@ The **Pyro Hypostasis** is very dangerous while **Ignited**. Make sure you bring
 
 Prefer![](../../.gitbook/assets/hydro\_small.png)attacks to break through the shield.
 
-![](../../.gitbook/assets/electro\_small.png) attacks will also work, but are\*\* half as effective\*\* as![](../../.gitbook/assets/hydro\_small.png).
+![](../../.gitbook/assets/electro\_small.png) attacks will also work, but are** half as effective** as![](../../.gitbook/assets/hydro\_small.png).
 
 ![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/anemo\_small.png)![](../../.gitbook/assets/geo\_small.png)will also damage the shield, but are **1/4 as effective** as![](../../.gitbook/assets/hydro\_small.png).
 
@@ -95,7 +95,7 @@ After this attack, the **Hypostasis** will use **Tinders**.
 Shoots homing missiles at the player
 {% endembed %}
 
-The \*\*Hypostasis \*\*can be damaged while in the air if you have ranged attacks.
+The **Hypostasis **can be damaged while in the air if you have ranged attacks.
 
 ### Tinders (Reshield)
 
@@ -103,7 +103,7 @@ The \*\*Hypostasis \*\*can be damaged while in the air if you have ranged attack
 Summons 3 Tinders, which recharge the shield unless destroyed
 {% endembed %}
 
-The **shield** needs a total of **6 charges** to fully recharge. The \*\*Pyro Hypostasis \*\*will gain **1 charge** from finishing this ability, and an additional **2 charges** for every **Tinder** that is not destroyed.
+The **shield** needs a total of **6 charges** to fully recharge. The **Pyro Hypostasis **will gain **1 charge** from finishing this ability, and an additional **2 charges** for every **Tinder** that is not destroyed.
 
 Once the cube reaches 6 charges, it will **Reignite**
 

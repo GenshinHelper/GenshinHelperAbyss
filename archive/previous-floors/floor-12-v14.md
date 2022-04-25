@@ -12,11 +12,11 @@ The time requirements to 3★ Chambers 1 & 2 on Floor 12 were changed in v1.3!
 Both Chamber 1 & 2 must now be done in **420 seconds** in order to 3★.
 {% endhint %}
 
-Avoid **Physical** based damage on this floor (e.g. **Razor**) and instead rely on **Elemental** damage. Both **Ruin Guards** and **Geovishaps** have high ![](../../.gitbook/assets/physical\_small.png) **RES**. If you need to use physical, make sure you bring \*\*Superconduct \*\*(![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png)).
+Avoid **Physical** based damage on this floor (e.g. **Razor**) and instead rely on **Elemental** damage. Both **Ruin Guards** and **Geovishaps** have high ![](../../.gitbook/assets/physical\_small.png) **RES**. If you need to use physical, make sure you bring **Superconduct **(![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png)).
 
 You may want a **Bow** user on each team in order to stun the **Ruin Gard/Ruin Grader** in Chamber 3.
 
-While **Geovishaps** are resistant to\*\* \*\*![](../../.gitbook/assets/geo\_small.png), bringing a **Geo Support** is a great way to survive against them by triggering **Crystallize** on their elements once they infuse.
+While **Geovishaps** are resistant to ![](../../.gitbook/assets/geo\_small.png), bringing a **Geo Support** is a great way to survive against them by triggering **Crystallize** on their elements once they infuse.
 
 ## Team Recommendations
 
@@ -34,7 +34,7 @@ While **Geovishaps** are resistant to\*\* \*\*![](../../.gitbook/assets/geo\_sma
 
 Geovishaps will infuse **35s** into the chamber.
 
-Once infused, \*\*Geovishaps \*\*will gain resistance to that element (30%).
+Once infused, **Geovishaps **will gain resistance to that element (30%).
 
 **Taunt** abilities are particularly effective here to give some time for you to recover stamina.
 
@@ -88,7 +88,7 @@ Consider using an **EM Sands** as if you are using ![](../../.gitbook/assets/pyr
 | ---------------------------------------------------------------- | -------------------------------------------------------------------------------- |
 | [**Electro Triangle**](../../mechanics/auras/lightning-stake.md) | 946![](../../.gitbook/assets/electro\_small.png) / Tick\_ (8 ticks per second)\_ |
 
-It's fairly difficult to keep the \*\*Cicins \*\*grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
+It's fairly difficult to keep the **Cicins **grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
 
 Aim the **Electro Cicin** first to get rid of the **Electro Triangle**. The **Cryo Cicin** will mostly ignore you during this time.
 
@@ -124,9 +124,9 @@ Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
 | Aura                                                             | DMG                                                  |
 | ---------------------------------------------------------------- | ---------------------------------------------------- |
-| [**Shockwave**](../../mechanics/auras/rumbling-stone.md)\*\*\*\* | 3349![](../../.gitbook/assets/geo\_small.png) / Wave |
+| [**Shockwave**](../../mechanics/auras/rumbling-stone.md) | 3349![](../../.gitbook/assets/geo\_small.png) / Wave |
 
-The \*\*Shockwave \*\*aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
+The **Shockwave **aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
 
 Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier.
 
@@ -136,7 +136,7 @@ Shoot a Ruin Guard twice in the Eye to disable it, making the fight much easier.
 
 #### 3★ Tips
 
-Any \*\*Elemental \*\*based team will be effective against Ruin Guards.
+Any **Elemental **based team will be effective against Ruin Guards.
 
 One way to group the Ruin Guards quickly is to stay in the middle and let them come to you, but this is RNG dependent. Moving closer to either Ruin Guard may cause the other to stop and fire a Missile Attack, which makes them group together slower. You might however miss out on some damage standing in the middle too. Pick the strategy that best suits your comp.
 
@@ -148,9 +148,9 @@ Trying to avoid the **Earthquake** aura can be a big time loss due to how often 
 
 | Aura                                                      | DMG                                            |
 | --------------------------------------------------------- | ---------------------------------------------- |
-| [**Ice Cage**](../../mechanics/auras/ice-cage.md)\*\*\*\* | 6699![](../../.gitbook/assets/cryo\_small.png) |
+| [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 6699![](../../.gitbook/assets/cryo\_small.png) |
 
-Getting caught in\*\* Ice Cage\*\* during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
+Getting caught in** Ice Cage** during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
 
 While it's possible to disable the **Ruin Grader** completely, it's difficult to do in practice and isn't actually that helpful. It's often more effective to just keep attacking them if you stagger them to their knees instead of using that time to shoot their eyes
 
@@ -160,7 +160,7 @@ While it's possible to disable the **Ruin Grader** completely, it's difficult to
 
 #### 3★ Tips
 
-Any \*\*Elemental \*\*based team will be effective against Ruin Graders.
+Any **Elemental **based team will be effective against Ruin Graders.
 
 The best way to group the Ruin Graders is to have one charge at you into the other, however this is purely RNG, and you may take some resets before it happens.
 

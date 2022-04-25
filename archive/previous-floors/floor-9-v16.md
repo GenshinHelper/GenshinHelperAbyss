@@ -27,7 +27,7 @@ Fighting near the braziers is the best strategy, so **Sheer Cold** shouldn't be 
 
 ![](<../../.gitbook/assets/9-1-1 (1).png>)
 
-Fight near the \*\*Hilichurls \*\*targeting the **brazier** and the enemies will group together.
+Fight near the **Hilichurls **targeting the **brazier** and the enemies will group together.
 
 Use ![](../../.gitbook/assets/pyro\_small.png) against the shields.
 
@@ -39,7 +39,7 @@ Use ![](../../.gitbook/assets/pyro\_small.png) against the shields.
 | ------------------------------------------------- | ---------------------------------------------- |
 | [**Ice Cage**](../../mechanics/auras/ice-cage.md) | 3061![](../../.gitbook/assets/cryo\_small.png) |
 
-Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice Cage Aura**. Killing both waves of \*\*Samachurls \*\*and \*\*Archers \*\*before the **Cryo Abyss Mage** will make it easier to clear the floor.
+Killing the **Cryo Abyss Mage** will immediately spawn another that has an **Ice Cage Aura**. Killing both waves of **Samachurls **and **Archers **before the **Cryo Abyss Mage** will make it easier to clear the floor.
 
 ## Chamber 2
 
@@ -62,7 +62,7 @@ Use ![](../../.gitbook/assets/pyro\_small.png) against the shields.
 | Monster                                                                              | HP |
 | ------------------------------------------------------------------------------------ | -- |
 | [**Hydrogunner Legionnaire**](../../monsters/fatui/hydrogunner-legionnaire.md)       | ?? |
-| [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md)\*\*\*\* | ?? |
+| [**Cryogunner Legionnaire**](../../monsters/fatui/cryogunner-legionnaire.md) | ?? |
 
 | Aura                                              | DMG                                            |
 | ------------------------------------------------- | ---------------------------------------------- |
@@ -82,7 +82,7 @@ The **Anemoboxer** will target the **brazier**, but will occasionally come in to
 
 | Monster                                                                                      | HP |
 | -------------------------------------------------------------------------------------------- | -- |
-| [**Frostarm Lawachurl**](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md)\*\*\*\* | ?? |
+| [**Frostarm Lawachurl**](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md) | ?? |
 
 The **archers** and **samachurl** spawn behind you. Turn around and attack them first. The **lawachurl** will follow.
 

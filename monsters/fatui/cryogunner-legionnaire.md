@@ -64,6 +64,6 @@ The powered up attack will also last much longer than the standard - about **12 
 
 ![Creates a shield that absorbs damage.](../../.gitbook/assets/cryogunner\_shield.gif)
 
-Once the shield is broken, the \*\*Cryogunner \*\*will be stunned for about **8 seconds**.
+Once the shield is broken, the **Cryogunner **will be stunned for about **8 seconds**.
 
 ![](../../.gitbook/assets/cryogunner\_shield\_break.gif)

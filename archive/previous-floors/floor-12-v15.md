@@ -13,8 +13,8 @@ Each Chamber/Side on this Floor has very different requirements. Focus on first 
 |                      |                                                                                                                                     Side 1                                                                                                                                    |                                                                                                                                                 Side 2                                                                                                                                                 |
 | -------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
 | **Shieldbreakers**   |                                                                        ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                        |                                                                                     ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png)                                                                                    |
-| **Preferred Damage** |               ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)![](../../.gitbook/assets/cryo\_small.png)               | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/electro\_small.png)\*\*\*\* |
-| **Avoid Damage**     |                                                                                                             ![](../../.gitbook/assets/electro\_small.png)\*\*\*\*                                                                                                             |                                                                                                                           ![](../../.gitbook/assets/hydro\_small.png)\*\*\*\*                                                                                                                          |
+| **Preferred Damage** |               ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)![](../../.gitbook/assets/cryo\_small.png)               | ![](https://firebasestorage.googleapis.com/v0/b/gitbook-28427.appspot.com/o/assets%2F-MVAGyyACcSzyzfmgy7f%2Fsync%2F485abc41b72e4fb75fd6cf1b2c21d83a5da9a05c.png?generation=1615182625871961\&alt=media)![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/electro\_small.png) |
+| **Avoid Damage**     |                                                                                                             ![](../../.gitbook/assets/electro\_small.png)                                                                                                             |                                                                                                                           ![](../../.gitbook/assets/hydro\_small.png)                                                                                                                          |
 | **4**★ **Supports**  | ![](../../.gitbook/assets/ui\_avataricon\_bennett.png) ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)![](../../.gitbook/assets/ui\_avataricon\_xingqiu.png) |                                                                    ![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_diona.png)![](../../.gitbook/assets/ui\_avataricon\_kaeya.png)                                                                    |
 | **5**★ **Supports**  |                                                          ![](../../.gitbook/assets/ui\_avataricon\_mona.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)                                                          |                                            ![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png)![](../../.gitbook/assets/ui\_avataricon\_zhongli.png)                                           |
 
@@ -37,7 +37,7 @@ Focus on the **Geovishap** to start, but you should switch to the **Whopperflowe
 
 #### 3★ Tips
 
-Use![](../../.gitbook/assets/hydro\_small.png)or![](../../.gitbook/assets/cryo\_small.png) \*\*DMG \*\*on this side, and avoid ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/electro\_small.png)![](../../.gitbook/assets/geo\_small.png) **DMG**
+Use![](../../.gitbook/assets/hydro\_small.png)or![](../../.gitbook/assets/cryo\_small.png) **DMG **on this side, and avoid ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/electro\_small.png)![](../../.gitbook/assets/geo\_small.png) **DMG**
 
 ### Side 2
 
@@ -47,7 +47,7 @@ Use![](../../.gitbook/assets/hydro\_small.png)or![](../../.gitbook/assets/cryo\_
 
 #### 3★ Tips
 
-Use![](../../.gitbook/assets/pyro\_small.png)or ![](../../.gitbook/assets/electro\_small.png) \*\*DMG \*\*on this side, and avoid ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/geo\_small.png) **DMG**
+Use![](../../.gitbook/assets/pyro\_small.png)or ![](../../.gitbook/assets/electro\_small.png) **DMG **on this side, and avoid ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/geo\_small.png) **DMG**
 
 ## Chamber 2
 
@@ -63,7 +63,7 @@ Enemies will periodically be buffed by an ![](../../.gitbook/assets/electro\_sma
 
 The combination of **potioneers** and **cicins** can trigger dangerous elemental reactions on your character. Try your best to avoid the ground effects created by **potioneers**.
 
-The **Hydro/Cryo Cicins** in the second wave can **freeze** you repeatedly. Be aware of this and try to aim the \*\*cicins \*\*first on that side.
+The **Hydro/Cryo Cicins** in the second wave can **freeze** you repeatedly. Be aware of this and try to aim the **cicins **first on that side.
 
 #### 3★ Tips
 
@@ -81,7 +81,7 @@ Even though **Cicins** aren't affected by **Crowd Control**, grouping the **hoar
 
 | Aura                                                        | DMG                                                       |
 | ----------------------------------------------------------- | --------------------------------------------------------- |
-| [**Bubbles**](../../mechanics/auras/mist-bubble.md)\*\*\*\* | 4730![](../../.gitbook/assets/hydro\_small.png)DMG        |
+| [**Bubbles**](../../mechanics/auras/mist-bubble.md) | 4730![](../../.gitbook/assets/hydro\_small.png)DMG        |
 | [**Fireball**](../../mechanics/auras/pursuing-fireball.md)  | 2512![](../../.gitbook/assets/pyro\_small.png)/ Explosion |
 
 Each type of **Hydro Mimic** is weak to a different element \[[1](https://genshinhelper.gitbook.io/abyss/floors/spire/floor-12#references)].
@@ -104,7 +104,7 @@ Be careful using **Bennet** on this side! He will apply ![](../../.gitbook/asset
 
 #### 3★ Tips
 
-Run straight for the **Hydro Abyss Mage** and apply a burst that can keep it \*\*Frozen \*\*(**Rosaria, Diona, Ganyu**). The rest of the mobs will then run towards you and group together.
+Run straight for the **Hydro Abyss Mage** and apply a burst that can keep it **Frozen **(**Rosaria, Diona, Ganyu**). The rest of the mobs will then run towards you and group together.
 
 ![](../../.gitbook/assets/pyro\_small.png)**AoE DMG** is particularly effective on the first side. Once the mobs have grouped, use these skills to try to take out the weaker **Squirrel and Duck Hydro Mimics** first.
 
@@ -154,7 +154,7 @@ Try using **Bennett** with **4pc Thundering Fury**. Every use of his **Elemental
 
 ![Bennett with 4pc Thundering Fury using Elemental Skill](../../.gitbook/assets/4tf\_benny.gif)
 
-If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts** together to trigger\*\* Swirl **(**![](../../.gitbook/assets/pyro\_small.png)**+**![](../../.gitbook/assets/anemo\_small.png)**). This causes** AOE\*\* ![](../../.gitbook/assets/pyro\_small.png)**DMG once per second** around you, which can also deal quick damage to shields.
+If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts** together to trigger** Swirl **(**![](../../.gitbook/assets/pyro\_small.png)**+**![](../../.gitbook/assets/anemo\_small.png)**). This causes** AOE** ![](../../.gitbook/assets/pyro\_small.png)**DMG once per second** around you, which can also deal quick damage to shields.
 
 ![Combining Bennett and Jean's Elemental Bursts](../../.gitbook/assets/bennett\_jean.gif)
 
@@ -170,7 +170,7 @@ If you have both **Bennett** and **Jean**, you can use their **Elemental Bursts*
 | ---------------------------------------------------------- | --------------------------------------------------------- |
 | [**Fireball**](../../mechanics/auras/pursuing-fireball.md) | 2512![](../../.gitbook/assets/pyro\_small.png)/ Explosion |
 
-Aim for the **Pyro Agent** first to get rid of the \*\*Fireball \*\*aura.
+Aim for the **Pyro Agent** first to get rid of the **Fireball **aura.
 
 Having some form of **Crowd Control** helps greatly on this side.
 

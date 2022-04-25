@@ -47,7 +47,7 @@ The **Samurai** enemies in this chamber **can be picked up with**![](../../.gitb
 
 Having **AoE DMG** in this chamber is essential. Build your compositions with this in mind.
 
-These enemies frequently use **Dash** attacks, making it difficult to keep them together. Using **Freeze** and \*\*Petrify \*\*(**Zhong Li's Elemental Burst**) are effective ways to lock them in place and keep them together.
+These enemies frequently use **Dash** attacks, making it difficult to keep them together. Using **Freeze** and **Petrify **(**Zhong Li's Elemental Burst**) are effective ways to lock them in place and keep them together.
 
 One effective strategy is to fight near the edge of the arena, facing inwards. This ensures that **Dash** attacks will stop at the same location, naturally grouping the enemies together.
 
@@ -114,7 +114,7 @@ Clear this side quickly so you can have more time for **Side 2**.
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 
-Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an \*\*AoE \*\*attack. Make sure not to waste your damage on it during this time.
+Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an **AoE **attack. Make sure not to waste your damage on it during this time.
 
 This is mostly a DPS check, so bring your most invested composition on this side when going for 3★.
 

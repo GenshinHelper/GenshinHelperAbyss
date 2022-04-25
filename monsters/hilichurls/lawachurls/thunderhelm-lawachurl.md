@@ -71,4 +71,4 @@ Sweeping punch followed by a slam
 
 {% embed url="https://gfycat.com/nearwetakitainu" %}
 
-After it reshields, the Lawachurl will follow up with a \*\*Jump +Dive \*\*attack.
+After it reshields, the Lawachurl will follow up with a **Jump +Dive **attack.

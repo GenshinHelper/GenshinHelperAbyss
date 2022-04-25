@@ -11,7 +11,7 @@
 
 **Weak Point** - Eye
 
-Ruin Guards have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) )\*\* \*\*to reduce their resistance by **40%.**
+Ruin Guards have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) ) to reduce their resistance by **40%.**
 
 It takes a while for the **Ruin Hunter** to go into **Aerial Mode**. Try to do enough damage to destroy it before it lifts up. If you're not able to, make sure you bring a **Bow** character to disabled it when it flies.
 

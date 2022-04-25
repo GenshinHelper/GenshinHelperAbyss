@@ -11,7 +11,7 @@
 
 **Weak Point** - None
 
-The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based DPS. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) )\*\* \*\*to reduce their resistance by **40%.**
+The **Perpetual Mechanical Array** have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based DPS. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) ) to reduce their resistance by **40%.**
 
 Most of the **Perpetual Mechanical Array's** attacks can be dodged easily at the right time. Learn the attack timings so you can focus on dealing damage.
 

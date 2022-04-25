@@ -79,7 +79,7 @@ The waves will not end until the death animation of **Specters** completes. Keep
 
 This is a difficult fight if you're not familiar with the attacks and dodge timings. Check the in depth guide page and practice on the overworld version a few times to get used to it's attacks.
 
-Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an \*\*AoE \*\*attack. Make sure not to waste your damage on it during this time.
+Remember once the **Maguu Kenki** reaches **75% HP** it will become **invulnerable** and perform an **AoE **attack. Make sure not to waste your damage on it during this time.
 
 This is mostly a DPS check, so bring your most invested composition on this side when going for 3★.
 

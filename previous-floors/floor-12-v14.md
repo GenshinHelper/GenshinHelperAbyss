@@ -42,7 +42,7 @@ Attempting to dodge every attack will quickly drain your stamina. Focus on dodgi
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Geovishap**](../monsters/animals/geovishap.md)\*\*\*\* | ~400K |
+| [**Geovishap**](../monsters/animals/geovishap.md) | ~400K |
 
 ### Side 1
 
@@ -86,7 +86,7 @@ Consider using an **EM Sands** as if you are using ![](../.gitbook/assets/pyro_s
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Electro Triangle**](../mechanics/auras/lightning-stake.md)\*\*\*\* | 946![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
+| [**Electro Triangle**](../mechanics/auras/lightning-stake.md) | 946![](../.gitbook/assets/electro_small.png) / Tick _\(8 ticks per second\)_ |
 
 It's fairly difficult to keep the **Cicins** grouped because of their teleport. You will mostly need to clear this chamber fighting one at a time.
 
@@ -105,7 +105,7 @@ Aim the **Electro Cicin** first to get rid of the **Electro Triangle**. The **Cr
 
 | Aura | DMG |
 | :--- | :--- |
-| \*\*\*\*[**Fireball**](../mechanics/auras/pursuing-fireball.md)\*\*\*\* | 2365 ![](../.gitbook/assets/pyro_small.png)/ Explosion |
+| [**Fireball**](../mechanics/auras/pursuing-fireball.md) | 2365 ![](../.gitbook/assets/pyro_small.png)/ Explosion |
 
 Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
@@ -124,7 +124,7 @@ Focus the **Pyro Agent** with the aura to stop the **Fireball**
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Shockwave**](../mechanics/auras/rumbling-stone.md)\*\*\*\* | 3349![](../.gitbook/assets/geo_small.png) / Wave |
+| [**Shockwave**](../mechanics/auras/rumbling-stone.md) | 3349![](../.gitbook/assets/geo_small.png) / Wave |
 
 The **Shockwave** aura deals a lot of damage. Prioritize the Ruin Guard with the Aura.
 
@@ -148,7 +148,7 @@ Trying to avoid the **Earthquake** aura can be a big time loss due to how often 
 
 | Aura | DMG |
 | :--- | :--- |
-| [**Ice Cage**](../mechanics/auras/ice-cage.md)\*\*\*\* | 6699![](../.gitbook/assets/cryo_small.png) |
+| [**Ice Cage**](../mechanics/auras/ice-cage.md) | 6699![](../.gitbook/assets/cryo_small.png) |
 
 Getting caught in **Ice Cage** during a **Ruin Grader** spin attack is lethal. Prioritize the Ruin Guard with the Aura
 
@@ -156,7 +156,7 @@ While it's possible to disable the **Ruin Grader** completely, it's difficult to
 
 | Monster | HP |
 | :--- | :--- |
-| \*\*\*\*[**Ruin Grader**](../monsters/ruin-constructs/ruin-grader.md)\*\*\*\* | ~800K |
+| [**Ruin Grader**](../monsters/ruin-constructs/ruin-grader.md) | ~800K |
 
 #### 3★ Tips
 

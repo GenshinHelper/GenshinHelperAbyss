@@ -9,7 +9,7 @@
 
 ## Tips and Mechanics
 
-Ruin Guards have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) )\*\* \*\*to reduce their resistance by **40%.**
+Ruin Guards have extremely high ![](../../.gitbook/assets/physical\_small.png) **RES**. Avoid using a![](../../.gitbook/assets/physical\_small.png)based carry. If you do, always bring **Superconduct** ( ![](../../.gitbook/assets/cryo\_small.png)+![](../../.gitbook/assets/electro\_small.png) ) to reduce their resistance by **40%.**
 
 ### Weak Point
 

@@ -4,7 +4,7 @@
 
 A **Plasma Field** will be generated at the edge of the challenge area once the challenge begins.
 
-While within the field, characters will be hit by a \*\*lightning strike \*\*once every **5s** and take ![](../../.gitbook/assets/electro\_small.png)**DMG**.
+While within the field, characters will be hit by a **lightning strike **once every **5s** and take ![](../../.gitbook/assets/electro\_small.png)**DMG**.
 
 The area covered by the field will gradually expand as the challenge proceeds.
 
