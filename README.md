@@ -14,15 +14,15 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** April 1st - 15th
+**Duration:** May 16th - 31st
 
-After a character's **Normal Attack** deals DMG to an opponent, the **Physical/Elemental RES** of this opponent will decrease by **6% for 5s**, matching the **type of DMG** dealt.
+After a character's **Normal Attack** hits an opponent, this opponent will be afflicted with a **Mark of Ending**. After 10s, this Mark of Ending will be removed, dealing **True DMG** to this opponent.
 
-This can stack up to 7 times. RES decreases of different types can co-exist, and their stacks and timers will be independent of each other.
+When a character's **Normal Attack** hits an opponent with a **Mark of Ending**, the **DMG** dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
 
 ### Future blessings
 
-| Dates           | Blessing |
-| --------------- | -------- |
-| May 16th - 31st | ???      |
-| June 1st - 15th | ???      |
+| Dates            | Blessing |
+| ---------------- | -------- |
+| June 1st - 15th  | ???      |
+| June 16th - 30th | ???      |
