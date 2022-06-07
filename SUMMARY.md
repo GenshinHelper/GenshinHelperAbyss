@@ -17,6 +17,8 @@
 * [Abyssal Moon Spire (F9-12)](floors/spire/README.md)
   * [Floor 9](floors/spire/floor-9.md)
   * [Floor 10](floors/spire/floor-10.md)
+  * [Floor 11](floors/spire/floor-11.md)
+  * [Floor 12](floors/spire/floor-12.md)
 * [Glossary](floors/glossary.md)
 
 ## Teambuilding
@@ -137,6 +139,7 @@
 ## Changelogs
 
 * [Versions](changelogs/versions/README.md)
+  * [v2.7](changelogs/versions/v2.7.md)
   * [v2.6](changelogs/versions/v2.6.md)
   * [v2.5](changelogs/versions/v2.5.md)
   * [v2.4](changelogs/versions/v2.4.md)
@@ -161,8 +164,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
-  * [Floor 12 (v2.6)](archive/previous-floors/floor-12.md)
-  * [Floor 11 (v2.6)](archive/previous-floors/floor-11.md)
+  * [Floor 12 (v2.6)](archive/previous-floors/floor-12-v26.md)
+  * [Floor 11 (v2.6)](archive/previous-floors/floor-11-v26.md)
   * [Floor 12 (v2.5)](archive/previous-floors/floor-12-v25.md)
   * [Floor 11 (v2.5)](archive/previous-floors/floor-11-v25.md)
   * [Floor 12 (v2.4)](archive/previous-floors/floor-12-v24.md)

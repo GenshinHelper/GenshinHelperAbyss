@@ -14,15 +14,14 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** May 16th - 31st
+**Duration:** June 1st - 15th
 
-After a character's **Normal Attack** hits an opponent, this opponent will be afflicted with a **Mark of Ending**. After 10s, this Mark of Ending will be removed, dealing **True DMG** to this opponent.
-
-When a character's **Normal Attack** hits an opponent with a **Mark of Ending**, the **DMG** dealt by the Mark of Ending's removal will be increased. This DMG can be increased 9 times.
+After the active character uses an **Elemental Skill**, **Normal Attack DMG** is increased by 16% for 8s. Max 3 stacks. Stacks are counted independently.
 
 ### Future blessings
 
-| Dates            | Blessing |
-| ---------------- | -------- |
-| June 1st - 15th  | ???      |
-| June 16th - 30th | ???      |
+| Dates            | Blessing                                                                                                                                                                                                                        |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| June 16th - 30th | After a character's **Elemental Skil**l hits an opponent, that opponent's **Physical** and A**ll Elemental RES** will be decreased by 12% for 8s. Max 3 stacks. Stacks are counted independently.                               |
+| July 1st - 15th  | After the active character uses an **Elemental Skill**, that character's next **Normal Attack** that hits an opponent will unleash a shockwave at that opponent's position, dealing DMG. This effect can occur once every 1.2s. |
+| July 16th - 31st | ??? (v2.8)                                                                                                                                                                                                                      |
