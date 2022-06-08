@@ -110,21 +110,44 @@ Be aware that some of his attacks will be cryo so bennett Q might accidentally k
 
 **Monster Level - 100**
 
-|                            | Side 1 | Side 2 |
-| -------------------------- | :----: | :----: |
-| **Shieldbreakers**         |        |        |
-| **Preferred DPS Elements** |        |        |
-| **Avoid DPS Elements**     |        |        |
+|                            |                   Side 1                   |                                          Side 2                                         |
+| -------------------------- | :----------------------------------------: | :-------------------------------------------------------------------------------------: |
+| **Shieldbreakers**         |                                            |                                                                                         |
+| **Preferred DPS Elements** |                                            |                                                                                         |
+| **Avoid DPS Elements**     | ![](../../.gitbook/assets/cryo\_small.png) | ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/geo\_small.png) |
 
 ### Side 1
 
-| In Depth Guide | Other Info |
-| -------------- | ---------- |
-|                |            |
-|                |            |
+| In Depth Guide                                                              | Other Info |
+| --------------------------------------------------------------------------- | ---------- |
+| [bathysmal-vishap.md](../../monsters/vishaps/bathysmal-vishap.md "mention") |            |
+
+**Character Recommendations - Any Non-Cryo character(s) that can deal high single target DPS**
+
+See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+
+\
+Spawns with two Primordial Bathysmal Vishap Hatchling
+
+They get knockbacked fairly easily so try to use AoE damage dealers to save time.
+
+They have slightly higher electro and physical resistance but its still only 30% so just use either 4 piece viridescent to bring this down or superconduct with Physical Characters.
 
 ### Side 2
 
-| In Depth Guide | Other Info |
-| -------------- | ---------- |
-|                |            |
+| In Depth Guide                                                                                 | Other Info |
+| ---------------------------------------------------------------------------------------------- | ---------- |
+| [perpetual-mechanical-array.md](../../monsters/elites/perpetual-mechanical-array.md "mention") |            |
+
+**Character Recommendations - Any Non-Physical character(s) that can deal high single target DPS**
+
+See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+
+\
+Perpetual Mechanical Array. High DPS check for a lot of players due its high hp so use your best damage dealing team here.
+
+Make sure to know about the Divide Phase and to attack the one with the circling around so it would be downed for 20 seconds after.
+
+You can also reset until the enemy in the divide phase is a Ruin Cruiser or Destroyer as they have a bit of lower HP.
+
+Avoid Physical as much possible as it has a 70% resistance to it.
