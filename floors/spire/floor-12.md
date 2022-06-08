@@ -53,8 +53,6 @@ If not using an anemo to group the whopperflowers, you can go to the edge of the
 
 See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
 
-
-
 Ruin Guard Spawns first and the Ruin Grader spawns once the Ruin Guard dies.
 
 The Chamber has a cryo monolith in the middle that infuses them with cryo so its recommended to use pyro to remove this cryo aura from the enemies.
@@ -63,25 +61,50 @@ A shielder is recommended due to the Geo Aura they have causing the character on
 
 **Monster Level - 98**
 
-***
+## Chamber 2
 
-|                            | Side 1 | Side 2 |
-| -------------------------- | :----: | :----: |
-| **Shieldbreakers**         |        |        |
-| **Preferred DPS Elements** |        |        |
-| **Avoid DPS Elements**     |        |        |
+|                            |                                          Side 1                                         |                    Side 2                   |
+| -------------------------- | :-------------------------------------------------------------------------------------: | :-----------------------------------------: |
+| **Shieldbreakers**         |                        ![](../../.gitbook/assets/pyro\_small.png)                       |                                             |
+| **Preferred DPS Elements** | ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/electro\_small.png) |                                             |
+| **Avoid DPS Elements**     |                        ![](../../.gitbook/assets/cryo\_small.png)                       | ![](../../.gitbook/assets/anemo\_small.png) |
 
 ### Side 1
 
-| In Depth Guide | Other Info |
-| -------------- | ---------- |
-|                |            |
+| In Depth Guide                                                                                | Other Info                                              |
+| --------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
+| [auras](../../mechanics/auras/ "mention")                                                     | Check Out Cryo Cage Auras to learn how to combat those. |
+| [frostarm-lawachurl.md](../../monsters/hilichurls/lawachurls/frostarm-lawachurl.md "mention") |                                                         |
+| [shields.md](../../mechanics/shields.md "mention")                                            | Check Out Breakable Cryo Shields                        |
+
+#### Character Recommendations
+
+| Character                                                                                                                                                                                                              | Function                                                                                                   |
+| ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------- |
+| ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)                                                                                                            | Grouping up enemies                                                                                        |
+| ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_xiangling.png)![](../../.gitbook/assets/ui\_avataricon\_klee.png)![](../../.gitbook/assets/ui\_avataricon\_beidou.png) | Shieldbreaking characters (any character that can break cryo shields quickly which includes Geo/Claymores) |
+
+Enemies spawn in two waves. First Wave is two Cryo Slimes and Three Cryo Mitachurls
+
+Second Wave is a Cryo Slime in Front which has an Ice Cage Aura which spawns the cage every 12 seconds and lasts for 2 seconds  and Frostarm Lawachurl at the back also has a cryo aura that will debuff you with condensed Ice.
+
+For the second wave, focus the the Cryo Slime first as the Ice Age wil prevent you from moving which might cause you to die.
 
 ### Side 2
 
-| In Depth Guide | Other Info |
-| -------------- | ---------- |
-|                |            |
+| In Depth Guide                                              | Other Info |
+| ----------------------------------------------------------- | ---------- |
+| [maguu-kenki](../../monsters/elites/maguu-kenki/ "mention") |            |
+
+#### Character Recommendations - Any character(s) that can deal high single target DPS
+
+See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+
+Maguu Kenki half, use your best damage dealer team here.
+
+Be aware that once he’s at \~70% health, he will stop taking damage and do a strong attack so either run away from this or iframe this using a dodge or a burst.
+
+Be aware that some of his attacks will be cryo so bennett Q might accidentally kill as these attacks will be stronger due to melt.
 
 ## Chamber 3
 
