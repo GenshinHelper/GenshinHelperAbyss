@@ -24,6 +24,8 @@ _\*For this chamber, while these elements suffer reduced damage, they may still 
 
 ### Side 1
 
+![](../../.gitbook/assets/12-1-1v27.png)
+
 | In Depth Guide                                                                                                                                                       | Other Info |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [geovishap.md](../../monsters/vishaps/geovishap.md "mention")                                                                                                        |            |
@@ -43,6 +45,8 @@ Enemies spawn in waves. First Wave is two Cryo and one Electro Whopperflower tha
 If not using an anemo to group the whopperflowers, you can go to the edge of the floor and they’ll teleport infront you, this prevents them from getting knockbacked too much.
 
 ## Side 2
+
+![](../../.gitbook/assets/12-1-2v27.png)
 
 | In Depth Guide                                                            | Other Info |
 | ------------------------------------------------------------------------- | ---------- |
@@ -71,6 +75,8 @@ A shielder is recommended due to the Geo Aura they have causing the character on
 
 ### Side 1
 
+![](../../.gitbook/assets/12-2-1v27.png)
+
 | In Depth Guide                                                                                | Other Info                                              |
 | --------------------------------------------------------------------------------------------- | ------------------------------------------------------- |
 | [auras](../../mechanics/auras/ "mention")                                                     | Check Out Cryo Cage Auras to learn how to combat those. |
@@ -91,6 +97,8 @@ Second Wave is a Cryo Slime in Front which has an Ice Cage Aura which spawns the
 For the second wave, focus the the Cryo Slime first as the Ice Age wil prevent you from moving which might cause you to die.
 
 ### Side 2
+
+![](../../.gitbook/assets/maguu-kenki.png)
 
 | In Depth Guide                                              | Other Info |
 | ----------------------------------------------------------- | ---------- |
@@ -118,6 +126,8 @@ Be aware that some of his attacks will be cryo so bennett Q might accidentally k
 
 ### Side 1
 
+![](../../.gitbook/assets/12-3-1v27.png)
+
 | In Depth Guide                                                              | Other Info |
 | --------------------------------------------------------------------------- | ---------- |
 | [bathysmal-vishap.md](../../monsters/vishaps/bathysmal-vishap.md "mention") |            |
@@ -134,6 +144,8 @@ They get knockbacked fairly easily so try to use AoE damage dealers to save time
 They have slightly higher electro and physical resistance but its still only 30% so just use either 4 piece viridescent to bring this down or superconduct with Physical Characters.
 
 ### Side 2
+
+![](../../.gitbook/assets/perpetual-mechanical-arrray.jpg)
 
 | In Depth Guide                                                                                 | Other Info |
 | ---------------------------------------------------------------------------------------------- | ---------- |
