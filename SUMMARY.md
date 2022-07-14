@@ -164,6 +164,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v2.7)](archive/previous-floors/floor-12-v2.7.md)
+  * [Floor 11 (v2.7)](archive/previous-floors/floor-11-v2.7.md)
   * [Floor 12 (v2.6)](archive/previous-floors/floor-12-v26.md)
   * [Floor 11 (v2.6)](archive/previous-floors/floor-11-v26.md)
   * [Floor 12 (v2.5)](archive/previous-floors/floor-12-v25.md)
