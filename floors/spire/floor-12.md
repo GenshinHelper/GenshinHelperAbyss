@@ -20,6 +20,8 @@ None
 
 ### Side 1
 
+![](../../.gitbook/assets/12-1-1v28.png)
+
 | In Depth Guide                                                                                                                                                       | Other Info |
 | -------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------- |
 | [geovishap.md](../../monsters/vishaps/geovishap.md "mention")                                                                                                        |            |
@@ -35,6 +37,8 @@ None
 
 
 ## Side 2
+
+![](../../.gitbook/assets/12-1-2v28.png)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -53,6 +57,8 @@ None
 
 ### Side 1
 
+![](../../.gitbook/assets/hypostasis-cryo.png)
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -67,6 +73,8 @@ None
 |           |          |
 
 ### Side 2
+
+![](../../.gitbook/assets/12-2-2v28.png)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -84,11 +92,15 @@ None
 
 ### Side 1
 
+![](../../.gitbook/assets/12-3-1v28.png)
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
 
 ### Side 2
+
+![](<../../.gitbook/assets/Ruin Serpent.png>)
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |

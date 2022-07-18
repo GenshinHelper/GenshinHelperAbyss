@@ -114,6 +114,7 @@
   * [Thunder Manifestation](monsters/elites/thunder-manifestation.md)
   * [Golden Wolford](monsters/elites/golden-wolford.md)
   * [Bathysmal Vishap Herd](monsters/elites/bathysmal-vishap-herd.md)
+  * [Ruin Serpent](monsters/elites/ruin-serpent.md)
 
 ## Mechanics
 
