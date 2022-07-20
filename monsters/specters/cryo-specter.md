@@ -15,6 +15,10 @@ As with most![](../../.gitbook/assets/cryo\_small.png)enemies, be careful when t
 
 This **Specter** is particularly annoying when **Enraged**. The **Barrage** hits several times, and the DoT leftover with **Detonate** can apply![](../../.gitbook/assets/cryo\_small.png)to you even after it's gone. Avoid triggering it if possible.
 
+{% hint style="info" %}
+As of v2.8, specters are now able to be pulled by![](../../.gitbook/assets/anemo\_small.png)skills when not Enraged, meaning it is much easier to group them
+{% endhint %}
+
 ## Rage
 
 Specters have a **Fury Gauge** which builds up when hit by attacks that take a large portion of the Specter's HP.

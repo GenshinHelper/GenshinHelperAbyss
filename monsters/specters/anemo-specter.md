@@ -15,6 +15,10 @@
 
 While not dangerous by themselves, the vacuum they leave behind can combo with other enemies. Try to avoid enraging them if they are combined with other monsters with hard hitting attacks.
 
+{% hint style="info" %}
+As of v2.8, specters are now able to be pulled by![](../../.gitbook/assets/anemo\_small.png)skills when not Enraged, meaning it is much easier to group them
+{% endhint %}
+
 ## Rage
 
 Specters have a **Fury Gauge** which builds up when hit by attacks that take a large portion of the Specter's HP.

@@ -13,6 +13,10 @@
 
 **Weak Point** - None
 
+{% hint style="info" %}
+As of v2.8, specters are now able to be pulled by![](../../.gitbook/assets/anemo\_small.png)skills when not Enraged, meaning it is much easier to group them
+{% endhint %}
+
 ## Rage <a href="#rage" id="rage"></a>
 
 Specters have a **Fury Gauge** which builds up when hit by attacks that take a large portion of the Specter's HP.

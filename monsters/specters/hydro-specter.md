@@ -19,6 +19,10 @@ Focusing these first as they can heal allies.
 
 While **enraged**, they will stop using their heal. You may want to intentionally fill their **Fury Gauge** to stop them from healing.
 
+{% hint style="info" %}
+As of v2.8, specters are now able to be pulled by![](../../.gitbook/assets/anemo\_small.png)skills when not Enraged, meaning it is much easier to group them
+{% endhint %}
+
 ## Rage
 
 Specters have a **Fury Gauge** which builds up when hit by attacks that take a large portion of the Specter's HP.
