@@ -139,6 +139,8 @@
 
 ## Changelogs
 
+* [2022](changelogs/2022/README.md)
+  * [July](changelogs/2022/july.md)
 * [Versions](changelogs/versions/README.md)
   * [v2.8](changelogs/versions/v2.8.md)
   * [v2.7](changelogs/versions/v2.7.md)
