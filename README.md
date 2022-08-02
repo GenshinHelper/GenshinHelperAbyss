@@ -14,17 +14,16 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** July 16th - 31st
+**Duration:** Aug 1st - 15th
 
-When a character takes the field, they will gain 1 Fortitude stack every 2s. This will increase their **ATK by 20%**. Max 3 stacks.&#x20;
+When a character triggers **Swirl** on an opponent, that opponent's **DEF is decreased by 12%** for 10s.
 
-When characters with 3 Fortitude stacks hit opponents with **Charged Attacks**, a shockwave will be unleashed at the opponents' position, dealing True DMG.
-
-A shockwave can be unleashed in this manner once every 2s. When the character leaves the field, all their Fortitude stacks will be cleared.
+Max 3 stacks. Each stack's duration is counted independently.
 
 ### Future blessings
 
-| Dates              | Blessing                                                                                                                                                                                                                                                                                                                                                                                                       |
-| ------------------ | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| August 1st - 15th  | <p>When a character triggers <strong>Swirl</strong> on an opponent, that opponent's <strong>DEF is decreased by 12%</strong> for 10s.</p><p></p><p>Max 3 stacks. Each stack's duration is counted independently.</p>                                                                                                                                                                                           |
-| August 16th - 31st | <p>After the active character's <strong>Normal, Charged, or Plunging Attacks</strong> hit opponents, that character's <strong>Normal, Charged, and Plunging Attack DMG is increased by 12%</strong> for 8s. This effect can be triggered once every 0.1s.</p><p></p><p>Max 4 stacks. </p><p>Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.</p> |
+| Dates                 | Blessing                                                                                                                                                                                                                                                                                                                                                                                                       |
+| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| August 16th - 31st    | <p>After the active character's <strong>Normal, Charged, or Plunging Attacks</strong> hit opponents, that character's <strong>Normal, Charged, and Plunging Attack DMG is increased by 12%</strong> for 8s. This effect can be triggered once every 0.1s.</p><p></p><p>Max 4 stacks. </p><p>Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.</p> |
+| September 1st - 15th  | ???                                                                                                                                                                                                                                                                                                                                                                                                            |
+| September 16th - 30th | ???                                                                                                                                                                                                                                                                                                                                                                                                            |
