@@ -20,6 +20,10 @@ When a character triggers **Swirl** on an opponent, that opponent's **DEF is dec
 
 Max 3 stacks. Each stack's duration is counted independently.
 
+{% hint style="info" %}
+This blessing is a significant debuff on enemies as well as being very easy to trigger since it only requires having![](.gitbook/assets/anemo\_small.png)on your team and any other elemental damage. This effect will also stack with **Viridescent Veneer** debuff as well, significantly booster your team's damage.
+{% endhint %}
+
 ### Future blessings
 
 | Dates                 | Blessing                                                                                                                                                                                                                                                                                                                                                                                                       |
