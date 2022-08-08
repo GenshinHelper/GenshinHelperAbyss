@@ -1,6 +1,8 @@
 # Example Teams
 
-_Note: This page has recently been changed to include only teams that are more viable for the recent abyss cycles. If you want to see other team examples, visit_ [more-example-teams.md](../../archive/more-example-teams.md "mention").
+{% hint style="info" %}
+_This page has recently been changed to include some teams that are more viable for the recent abyss cycles. If you want to see other team examples, visit_ [more-example-teams.md](../../archive/more-example-teams.md "mention").
+{% endhint %}
 
 These are just example teams and do not generalize to everyone's account (nor are they 1000% strategically optimal)! Make changes as you see fit with your account while keeping the team structures intact. **Keep in mind though that not all substitutions are one-for-one and achieve the same effects.**
 
