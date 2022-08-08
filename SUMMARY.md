@@ -23,7 +23,7 @@
 
 ## Teambuilding
 
-* [Building a Composition](teambuilding/building-a-composition.md)
+* [Picking Teams](teambuilding/building-a-composition.md)
 * [Character Investment](teambuilding/character-investment.md)
 * [Character Tierlist](teambuilding/character-tierlist.md)
 
