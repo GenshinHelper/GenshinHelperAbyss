@@ -2,6 +2,19 @@
 
 There's many different ways to approach teambuilding, however for Abyss it's not recommended to try to build a "perfect" 4 character team and use it for every single floor. Each floor has different divergences and monsters, so it's best to modify your teams to suit the floor.
 
+## General Tips
+
+**If you're looking for quick tips on how to improve your compositions, here is some advice:**
+
+1. Pick 2-3 characters to act as your "core" or main damage-dealing combination. There should be 1 main-DPS and characters that enhance that DPS's damage \[1].
+2. Fill the rest of your slots with both characters that support this core and meet clearing requirements for the floor \[2].
+
+\[1] Go to the second half of the page for examples.
+
+\[2] Ex. Adding Xiangling to deal with Mitachurl Cryo shields.
+
+**More in-depth explanations follow!**
+
 ## Teambuilding Approach
 
 ### Pick a core
