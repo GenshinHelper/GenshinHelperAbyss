@@ -1,5 +1,9 @@
 # More Example Teams
 
+{% hint style="info" %}
+This page is archived and no longer being updated with new character releases.
+{% endhint %}
+
 Here are some example cores with a variety of different characters.
 
 ### Razor/Keqing + Cryo
