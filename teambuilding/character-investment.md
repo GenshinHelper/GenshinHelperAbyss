@@ -161,7 +161,7 @@ You will also want to start investing in characters other than just your **main 
 
 While some characters are stronger than others, you should invest in characters that you truly enjoy playing. Any character can be used to clear all the content in the game as long as they’re built right and have a strong supporting team. The main difference will be that some characters will take more resources to reach the same point as another, so find a balance between viability and enjoyability.
 
-Check out [Building a Composition](building-a-composition/#cores) for some suggestions on strong teams you can build around a character you enjoy.
+Check out [Building a Composition](building-a-composition.md#cores) for some suggestions on strong teams you can build around a character you enjoy.
 
 ### **Should I spend Primogems on Resin refreshes?**
 

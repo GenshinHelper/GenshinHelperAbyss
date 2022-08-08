@@ -4,9 +4,11 @@
 
 ## Full Changelogs
 
-| Date | Change                                | Author |
-| ---- | ------------------------------------- | ------ |
-| 1st  | Updating Blessings                    | Blep   |
-| 7th  | Updated Character Compositions: Cores | Prad   |
-|      | Added Yelan to Compositions           | Prad   |
+| Date | Change                       | Author |
+| ---- | ---------------------------- | ------ |
+| 1st  | Updating Blessings           | Blep   |
+| 7th  | Updated Picking Teams: Cores | Prad   |
+|      | Added Yelan to Compositions  | Prad   |
+| 8th  | Added Example Teams          | Prad   |
+|      | Create Weapons Page          | Prad   |
 

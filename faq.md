@@ -13,8 +13,8 @@ While you could try to use a single team for all floors, Abyss teams tend to cha
 
 For more detailed info, check out the guide below:
 
-{% content-ref url="teambuilding/building-a-composition/" %}
-[building-a-composition](teambuilding/building-a-composition/)
+{% content-ref url="teambuilding/building-a-composition.md" %}
+[building-a-composition.md](teambuilding/building-a-composition.md)
 {% endcontent-ref %}
 
 ### What level should my characters be?

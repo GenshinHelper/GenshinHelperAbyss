@@ -31,7 +31,7 @@ If possible, try to use different types of damage between the two teams in order
 
 ****
 
-### **Melt/Vaporize** ![](../../.gitbook/assets/pyro\_small.png)![](../../.gitbook/assets/hydro\_small.png)![](../../.gitbook/assets/cryo\_small.png):
+### **Melt/Vaporize** ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png):
 
 Consists of a pyro character and a hydro/cryo character to amplify one another's damage through melt/vaporize.
 
@@ -44,7 +44,7 @@ Consists of a pyro character and a hydro/cryo character to amplify one another's
 * <mark style="color:red;">Heavy emphasis on Crimson-Witch Farming</mark>&#x20;
 * <mark style="color:red;">High reliance on characters like Xingqui and Bennett (high use characters)</mark>
 
-### **Superconduct** ![](../../.gitbook/assets/physical\_small.png)![](../../.gitbook/assets/electro\_small.png)![](../../.gitbook/assets/cryo\_small.png):&#x20;
+### **Superconduct** ![](../.gitbook/assets/physical\_small.png)![](../.gitbook/assets/electro\_small.png)![](../.gitbook/assets/cryo\_small.png):&#x20;
 
 These cores consisting of Electro/Cryo characters amplify physical damage by procing superconduct to decrease 40% enemy physical res.&#x20;
 
@@ -53,7 +53,7 @@ These cores consisting of Electro/Cryo characters amplify physical damage by pro
 * <mark style="color:red;">lower versatility: higher floors tend to have enemies with higher physical resistance canceling out the decrease in physical res</mark>&#x20;
 * <mark style="color:red;">Lower AOE</mark>
 
-### **Geo** ![](../../.gitbook/assets/geo\_small.png):&#x20;
+### **Geo** ![](../.gitbook/assets/geo\_small.png):&#x20;
 
 Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resonance buffs.&#x20;
 
@@ -62,7 +62,7 @@ Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resona
 * <mark style="color:red;">lacks in AOE (but can be improved with certain characters)</mark>
 * <mark style="color:red;">locked behind certain 5\* characters like Zhongli and Albedo.</mark>
 
-### **Freeze** ![](../../.gitbook/assets/cryo\_small.png)![](../../.gitbook/assets/hydro\_small.png):&#x20;
+### **Freeze** ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png):&#x20;
 
 Teams with Cryo and Hydro characters to proc freeze.
 
@@ -105,14 +105,14 @@ Commonly referred to as a **battery**, these supports are the same element as a 
 
 #### Crowd Control
 
-Characters that are able to disable enemies in various ways. This will often be a character than can enable Freeze to disable enemies, or an ![](../../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
+Characters that are able to disable enemies in various ways. This will often be a character than can enable Freeze to disable enemies, or an ![](../.gitbook/assets/anemo\_small.png) character whose abilities will pick up and knock down enemies.
 
 #### Damage
 
 These supports boost the damage of your core unit in some way, either by:
 
 * Buffing your team (**Bennet**, character using **Noblesse Oblige** set)
-* Debuffing your enemies (**Zhong Li**, Sucrose![](../../.gitbook/assets/anemo\_small.png)using **Viridescent Veneer** set)
+* Debuffing your enemies (**Zhong Li**, Sucrose![](../.gitbook/assets/anemo\_small.png)using **Viridescent Veneer** set)
 * Adding resonance
 
 ### Floor-Specific Supports
@@ -127,19 +127,19 @@ If you're not sure what elements you need, check out the guides on each floor! E
 
 #### Resonance
 
-Adding![](../../.gitbook/assets/pyro\_small.png)resonance is an easy way to add damage to any team if the floor allows it. This gives a nice boost early on but drops off on the later floors as you get better stats.
+Adding![](../.gitbook/assets/pyro\_small.png)resonance is an easy way to add damage to any team if the floor allows it. This gives a nice boost early on but drops off on the later floors as you get better stats.
 
-![](../../.gitbook/assets/cryo\_small.png)/![](../../.gitbook/assets/geo\_small.png) resonances are very good for specific compositions that rely on **Freeze** / ![](../../.gitbook/assets/geo\_small.png)**DMG**.
+![](../.gitbook/assets/cryo\_small.png)/![](../.gitbook/assets/geo\_small.png) resonances are very good for specific compositions that rely on **Freeze** / ![](../.gitbook/assets/geo\_small.png)**DMG**.
 
-![](../../.gitbook/assets/anemo\_small.png) resonance is good on teams that will swap between **Elemental Skills** often.
+![](../.gitbook/assets/anemo\_small.png) resonance is good on teams that will swap between **Elemental Skills** often.
 
-![](../../.gitbook/assets/electro\_small.png)/![](../../.gitbook/assets/hydro\_small.png)resonances are the weakest and usually not worth going for specifically.
+![](../.gitbook/assets/electro\_small.png)/![](../.gitbook/assets/hydro\_small.png)resonances are the weakest and usually not worth going for specifically.
 
-**To see example teams, visit** [example-teams.md](example-teams.md "mention").
+**To see example teams, visit** [example-teams.md](building-a-composition/example-teams.md "mention").
 
 ### Next Steps
 
-Once you have a team, **do the appropriate research on the characters (best rotations, teammates, artifacts, talents). See** [resources.md](../../resources.md "mention").
+Once you have a team, **do the appropriate research on the characters (best rotations, teammates, artifacts, talents). See** [resources.md](../resources.md "mention").
 
 ### FAQs
 

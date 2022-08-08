@@ -12,7 +12,7 @@ description: Changlogs
 * New monster guide for [Pyro Agent](../../monsters/fatui/pyro-agent.md)
 * Added section on [Buff Cards](../../mechanics/buff-cards.md)
 * Added section for [Character Investment](../../teambuilding/character-investment.md)
-* Added section for [Building a Composition](../../teambuilding/building-a-composition/)
+* Added section for [Building a Composition](../../teambuilding/building-a-composition.md)
 
 ## Full Changelogs
 

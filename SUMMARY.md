@@ -23,7 +23,7 @@
 
 ## Teambuilding
 
-* [Picking Teams](teambuilding/building-a-composition/README.md)
+* [Picking Teams](teambuilding/building-a-composition.md)
   * [Example Teams](teambuilding/building-a-composition/example-teams.md)
   * [Character Builds](https://tinyurl.com/genshinbuilds)
   * [Weapons](teambuilding/building-a-composition/weapons.md)
