@@ -55,7 +55,7 @@ If not using an anemo to group the whopperflowers, you can go to the edge of the
 
 #### Character Recommendations - Any character(s) that can deal high single target DPS
 
-See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+See: [building-a-composition](../../teambuilding/building-a-composition/ "mention")
 
 Ruin Guard Spawns first and the Ruin Grader spawns once the Ruin Guard dies.
 
@@ -106,7 +106,7 @@ For the second wave, focus the the Cryo Slime first as the Ice Age wil prevent y
 
 #### Character Recommendations - Any character(s) that can deal high single target DPS
 
-See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+See: [building-a-composition](../../teambuilding/building-a-composition/ "mention")
 
 Maguu Kenki half, use your best damage dealer team here.
 
@@ -134,7 +134,7 @@ Be aware that some of his attacks will be cryo so bennett Q might accidentally k
 
 **Character Recommendations - Any Non-Cryo character(s) that can deal high single target DPS**
 
-See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+See: [building-a-composition](../../teambuilding/building-a-composition/ "mention")
 
 \
 Spawns with two Primordial Bathysmal Vishap Hatchling
@@ -153,7 +153,7 @@ They have slightly higher electro and physical resistance but its still only 30%
 
 **Character Recommendations - Any Non-Physical character(s) that can deal high single target DPS**
 
-See: [building-a-composition.md](../../teambuilding/building-a-composition.md "mention")
+See: [building-a-composition](../../teambuilding/building-a-composition/ "mention")
 
 \
 Perpetual Mechanical Array. High DPS check for a lot of players due its high hp so use your best damage dealing team here.

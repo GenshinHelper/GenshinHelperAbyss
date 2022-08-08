@@ -16,7 +16,7 @@ Spreading out your resources is a common reason players aren't able to progress 
 
 #### Save your Fragile Resin until AR45
 
-The highest level artifact domains **guarantee a 5**★** artifact** with every run, and these unlock at **AR45**. Artifacts are key to beating higher floors of Abyss, and having a large stock of **Fragile Resin** as soon as you're able to access the highest level domains is the best way to gear up quickly.
+The highest level artifact domains **guarantee a 5**★\*\* artifact\*\* with every run, and these unlock at **AR45**. Artifacts are key to beating higher floors of Abyss, and having a large stock of **Fragile Resin** as soon as you're able to access the highest level domains is the best way to gear up quickly.
 
 #### Prioritize weapon levels
 
@@ -111,13 +111,13 @@ If you have been saving your **Fragile Resin**, this is where you start spending
 
 #### DPS Breakdown by Piece
 
-|                                       Slot                                       | Recommended Level | Notes                                                                                                                                                                                                                                                                                   |
-| :------------------------------------------------------------------------------: | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|    <p><img src="../.gitbook/assets/gladiator_flower.png" alt=""><br>Flower</p>   |  +12 / +16 / +20  | <ul><li>Least important piece for DPS</li><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                       |
-| <p><img src="../.gitbook/assets/gladiator_feather.png" alt=""></p><p>Feather</p> |     +16 / +20     | <ul><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                                                             |
-|   <p><img src="../.gitbook/assets/gladiator_sands.png" alt=""></p><p>Sands</p>   |        +20        | <ul><li>Difficult to get correct mainstat on-set</li><li>Level the first one you find on-set, ignoring substats</li></ul>                                                                                                                                                               |
-|    <p><img src="../.gitbook/assets/gladiator_cup.png" alt=""></p><p>Goblet</p>   |        +20        | <ul><li>Very difficult to get correct mainstat on-set</li><li>Level the first one you find with the correct element in any set, ignoring substats</li></ul>                                                                                                                             |
-| <p><img src="../.gitbook/assets/gladiator_circlet.png" alt=""></p><p>Circlet</p> |        +20        | <ul><li>You should always choose a <strong>CRIT</strong> mainstat for DPS</li><li>Very difficult to get CRIT on-set</li><li>Level the first one you find on-set, ignoring substats</li><li>Choose CRIT Rate or CRIT DMG depending on whichever gets you closer to a 1:2 ratio</li></ul> |
+|                                                  Slot                                                 | Recommended Level | Notes                                                                                                                                                                                                                                                                                   |
+| :---------------------------------------------------------------------------------------------------: | :---------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|              <p><img src="../.gitbook/assets/gladiator_flower.png" alt=""><br>Flower</p>              |  +12 / +16 / +20  | <ul><li>Least important piece for DPS</li><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                       |
+| <p><img src="../.gitbook/assets/gladiator_feather.png" alt="" data-size="original"></p><p>Feather</p> |     +16 / +20     | <ul><li>Common drop with fixed mainstat</li><li>Don't level unless it has <strong>at least one CRIT stat</strong>, preferably two</li></ul>                                                                                                                                             |
+|   <p><img src="../.gitbook/assets/gladiator_sands.png" alt="" data-size="original"></p><p>Sands</p>   |        +20        | <ul><li>Difficult to get correct mainstat on-set</li><li>Level the first one you find on-set, ignoring substats</li></ul>                                                                                                                                                               |
+|    <p><img src="../.gitbook/assets/gladiator_cup.png" alt="" data-size="original"></p><p>Goblet</p>   |        +20        | <ul><li>Very difficult to get correct mainstat on-set</li><li>Level the first one you find with the correct element in any set, ignoring substats</li></ul>                                                                                                                             |
+| <p><img src="../.gitbook/assets/gladiator_circlet.png" alt="" data-size="original"></p><p>Circlet</p> |        +20        | <ul><li>You should always choose a <strong>CRIT</strong> mainstat for DPS</li><li>Very difficult to get CRIT on-set</li><li>Level the first one you find on-set, ignoring substats</li><li>Choose CRIT Rate or CRIT DMG depending on whichever gets you closer to a 1:2 ratio</li></ul> |
 
 #### Supports
 
@@ -161,7 +161,7 @@ You will also want to start investing in characters other than just your **main 
 
 While some characters are stronger than others, you should invest in characters that you truly enjoy playing. Any character can be used to clear all the content in the game as long as they’re built right and have a strong supporting team. The main difference will be that some characters will take more resources to reach the same point as another, so find a balance between viability and enjoyability.
 
-Check out [Building a Composition](building-a-composition.md#cores) for some suggestions on strong teams you can build around a character you enjoy.
+Check out [Building a Composition](building-a-composition/#cores) for some suggestions on strong teams you can build around a character you enjoy.
 
 ### **Should I spend Primogems on Resin refreshes?**
 

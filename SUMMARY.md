@@ -23,7 +23,10 @@
 
 ## Teambuilding
 
-* [Picking Teams](teambuilding/building-a-composition.md)
+* [Picking Teams](teambuilding/building-a-composition/README.md)
+  * [Example Teams](teambuilding/building-a-composition/example-teams.md)
+  * [Character Builds](https://tinyurl.com/genshinbuilds)
+  * [Weapons](teambuilding/building-a-composition/weapons.md)
 * [Character Investment](teambuilding/character-investment.md)
 * [Character Tierlist](teambuilding/character-tierlist.md)
 
@@ -195,5 +198,6 @@
   * [Floor 12 (v1.4 - v1.5)](archive/previous-floors/floor-12-v15.md)
   * [Floor 11 (v1.2 - 1.4)](archive/previous-floors/floor-11-v14.md)
   * [Floor 12 (v1.3 - 1.4)](archive/previous-floors/floor-12-v14.md)
+* [More Example Teams](archive/more-example-teams.md)
 * [Floor 11 (Template)](archive/floor-11-template.md)
 * [Floor 12 (Template)](archive/floor-12-template.md)
