@@ -14,20 +14,17 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Aug 1st - 15th
+**Duration:** Aug 16th - 30th
 
-When a character triggers **Swirl** on an opponent, that opponent's **DEF is decreased by 12%** for 10s.
+After the active character's **Normal, Charged, or Plunging Attacks** hit opponents, that character's **Normal, Charged, and Plunging Attack DMG is increased by 12%** for 8s. This effect can be triggered once every 0.1s.
 
-Max 3 stacks. Each stack's duration is counted independently.
+Max 4 stacks.&#x20;
 
-{% hint style="info" %}
-This blessing is a significant debuff on enemies as well as being very easy to trigger since it only requires having![](.gitbook/assets/anemo\_small.png)on your team and any other elemental damage. This effect will also stack with **Viridescent Veneer** debuff as well, significantly booster your team's damage.
-{% endhint %}
+Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.
 
 ### Future blessings
 
-| Dates                 | Blessing                                                                                                                                                                                                                                                                                                                                                                                                       |
-| --------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| August 16th - 31st    | <p>After the active character's <strong>Normal, Charged, or Plunging Attacks</strong> hit opponents, that character's <strong>Normal, Charged, and Plunging Attack DMG is increased by 12%</strong> for 8s. This effect can be triggered once every 0.1s.</p><p></p><p>Max 4 stacks. </p><p>Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.</p> |
-| September 1st - 15th  | ???                                                                                                                                                                                                                                                                                                                                                                                                            |
-| September 16th - 30th | ???                                                                                                                                                                                                                                                                                                                                                                                                            |
+| Dates                 | Blessing |
+| --------------------- | -------- |
+| September 1st - 15th  | ???      |
+| September 16th - 30th | ???      |
