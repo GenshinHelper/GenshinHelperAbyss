@@ -111,6 +111,7 @@
 * [World Bosses](monsters/elites/README.md)
   * [Cryo Regisvine](monsters/elites/cryo-regisvine.md)
   * [Pyro Regisvine](monsters/elites/pyro-regisvine.md)
+  * [Electro Regisvine](monsters/elites/electro-regisvine.md)
   * [Primo Geovishap](monsters/elites/primo-geovishap.md)
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
@@ -123,6 +124,7 @@
   * [Golden Wolford](monsters/elites/golden-wolford.md)
   * [Bathysmal Vishap Herd](monsters/elites/bathysmal-vishap-herd.md)
   * [Ruin Serpent](monsters/elites/ruin-serpent.md)
+  * [Jadeplume Terrorshroom](monsters/elites/jadeplume-terrorshroom.md)
 
 ## Mechanics
 
@@ -148,6 +150,7 @@
 ## Changelogs
 
 * [2022](changelogs/2022/README.md)
+  * [September](changelogs/2022/september.md)
   * [August](changelogs/2022/august.md)
   * [July](changelogs/2022/july.md)
 * [Versions](changelogs/versions/README.md)
