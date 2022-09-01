@@ -180,6 +180,10 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v2.8)](archive/previous-floors/floor-12-v2.8.md)
+  * [Floor 11 (v2.8)](archive/previous-floors/floor-11-v2.8.md)
+  * [Floor 10 (v2.0-2.8)](archive/previous-floors/floor-10-v2.0-2.8.md)
+  * [Floor 9 (v2.0-2.8)](archive/previous-floors/floor-9-v2.0-2.8.md)
   * [Floor 12 (v2.7)](archive/previous-floors/floor-12-v2.7.md)
   * [Floor 11 (v2.7)](archive/previous-floors/floor-11-v2.7.md)
   * [Floor 12 (v2.6)](archive/previous-floors/floor-12-v26.md)

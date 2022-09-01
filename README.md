@@ -14,17 +14,24 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Aug 16th - 30th
+**Duration:** Sept 1st - 15th
 
-After the active character's **Normal, Charged, or Plunging Attacks** hit opponents, that character's **Normal, Charged, and Plunging Attack DMG is increased by 12%** for 8s. This effect can be triggered once every 0.1s.
+After characters deal DMG to opponents with a **Dendro Core** (including Burgeon and Hyperbloom), their ATK will be increased by 15% for 8s.
 
-Max 4 stacks.&#x20;
+This effect can stack up to 4 times, and can be triggered once every 0.1s.
 
-Each stack's duration is counted independently. This effect will be cleared if the character leaves the field.
+{% hint style="info" %}
+Dendro Cores are created using the **Bloom** reaction by applying ![](.gitbook/assets/hydro\_small.png)+![](.gitbook/assets/dendro\_small.png)
+
+**Burgeon** is triggered by applying![](.gitbook/assets/pyro\_small.png)to cores
+
+**Hyperbloom** is triggered by applying![](.gitbook/assets/electro\_small.png)to cores
+{% endhint %}
 
 ### Future blessings
 
-| Dates                 | Blessing |
-| --------------------- | -------- |
-| September 1st - 15th  | ???      |
-| September 16th - 30th | ???      |
+| Dates            | Blessing                                                                                                                                   |
+| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
+| Sept 16th - 30th | When a character triggers Quicken on an opponent, that opponent's DEF is decreased by 35% for 10s after they are affected by the reaction. |
+| Oct 1st - 15th   | ??? (v3.1)                                                                                                                                 |
+| Oct 16th - 31st  | ??? (v3.1)                                                                                                                                 |
