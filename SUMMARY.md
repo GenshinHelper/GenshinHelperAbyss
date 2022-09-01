@@ -94,6 +94,8 @@
   * [Ruin Defender](monsters/ruin-constructs/ruin-defender.md)
   * [Ruin Destroyer](monsters/ruin-constructs/ruin-destroyer.md)
   * [Ruin Scout](monsters/ruin-constructs/ruin-scout.md)
+  * [Ruin Drake: Earthguard](monsters/ruin-constructs/ruin-drake-earthguard.md)
+  * [Ruin Drake: Skywatch](monsters/ruin-constructs/ruin-drake-skywatch.md)
 * [Samurai](monsters/samurai/README.md)
   * [Nobushi](monsters/samurai/nobushi.md)
   * [Kairagi](monsters/samurai/kairagi.md)
