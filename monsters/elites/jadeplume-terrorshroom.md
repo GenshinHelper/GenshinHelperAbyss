@@ -1,5 +1,7 @@
 # Jadeplume Terrorshroom
 
+<figure><img src="../../.gitbook/assets/Jadeplume Terrorshroom.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 |                                                                                 Element | Resist |

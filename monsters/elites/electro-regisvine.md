@@ -1,5 +1,7 @@
 # Electro Regisvine
 
+<figure><img src="../../.gitbook/assets/Regisvine=ElectroRegisvine.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 |                                        Element | Resist |

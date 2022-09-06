@@ -1,5 +1,7 @@
 # Winged Dendroshroom
 
+<figure><img src="../../.gitbook/assets/Element=Dendro,Size=Large.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 |                                      Element | Resist |

@@ -1,5 +1,7 @@
 # Grounded Hydroshroom
 
+<figure><img src="../../.gitbook/assets/Element=Hydro,Size=Large.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 |                                                                                 Element | Resist |

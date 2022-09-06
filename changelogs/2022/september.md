@@ -16,8 +16,8 @@
 |      | Updating Blessings                 | Blep       |
 |      | Archiving v2.0 pages               | Blep       |
 |      | Adding placeholders for v3.0 pages | Blep       |
-|      |                                    |            |
-|      |                                    |            |
+| 5th  | Adding F12 Infographics            | Blep       |
+|      | Adding F12 Tips                    | Kicc, Blep |
 |      |                                    |            |
 |      |                                    |            |
 |      |                                    |            |
