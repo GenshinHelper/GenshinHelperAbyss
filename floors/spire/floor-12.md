@@ -84,6 +84,10 @@ If you don't have access to these characters, you can also try grouping them by 
 | --------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------- |
 | ![](../../.gitbook/assets/ui\_avataricon\_sucrose.png)![](../../.gitbook/assets/ui\_avataricon\_kazuha.png)![](../../.gitbook/assets/ui\_avataricon\_venti.png) | Crowd Control |
 
+#### Grouping Tip
+
+{% embed url="https://gfycat.com/idleclutteredcougar" %}
+
 ### Side 2
 
 <figure><img src="../../.gitbook/assets/12-2-2v30.png" alt=""><figcaption></figcaption></figure>
@@ -140,6 +144,10 @@ Bennet and Jean are the only characters that can remove this debuff using their 
 | --------------------------------------------------------------------------------------------------------- | ----------- |
 | ![](../../.gitbook/assets/ui\_avataricon\_bennett.png)![](../../.gitbook/assets/ui\_avataricon\_jean.png) | Cleanse     |
 | ![](../../.gitbook/assets/ui\_avataricon\_ayaka.png)![](../../.gitbook/assets/ui\_avataricon\_ganyu.png)  | Freeze Team |
+
+#### Grouping Tip
+
+{% embed url="https://gfycat.com/grandslowarmadillo" %}
 
 ### Side 2
 
