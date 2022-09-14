@@ -22,4 +22,7 @@
 | 6th  | Adding F11 infographics            | Blep       |
 |      | Adding F11 tips                    | Blep       |
 | 11th | Adding Jadeplume Terrorshroom      | Kinna/Blep |
+| 14th | Adding F10 infographics            | Blep       |
+|      | Adding F10 tips                    | Koshu/Blep |
+|      |                                    |            |
 
