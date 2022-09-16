@@ -14,24 +14,17 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Sept 1st - 15th
+**Duration:** Sep 16th - 30th
 
-After characters deal DMG to opponents with a **Dendro Core** (including Burgeon and Hyperbloom), their ATK will be increased by 15% for 8s.
-
-This effect can stack up to 4 times, and can be triggered once every 0.1s.
+When a character triggers Quicken on an opponent, that opponent's DEF is decreased by 35% for 10s after they are affected by the reaction.
 
 {% hint style="info" %}
-Dendro Cores are created using the **Bloom** reaction by applying ![](.gitbook/assets/hydro\_small.png)+![](.gitbook/assets/dendro\_small.png)
-
-**Burgeon** is triggered by applying![](.gitbook/assets/pyro\_small.png)to cores
-
-**Hyperbloom** is triggered by applying![](.gitbook/assets/electro\_small.png)to cores
+**Quicken** is triggered using![](.gitbook/assets/electro\_small.png)+![](.gitbook/assets/dendro\_small.png)
 {% endhint %}
 
 ### Future blessings
 
-| Dates            | Blessing                                                                                                                                   |
-| ---------------- | ------------------------------------------------------------------------------------------------------------------------------------------ |
-| Sept 16th - 30th | When a character triggers Quicken on an opponent, that opponent's DEF is decreased by 35% for 10s after they are affected by the reaction. |
-| Oct 1st - 15th   | ??? (v3.1)                                                                                                                                 |
-| Oct 16th - 31st  | ??? (v3.1)                                                                                                                                 |
+| Dates           | Blessing   |
+| --------------- | ---------- |
+| Oct 1st - 15th  | ??? (v3.1) |
+| Oct 16th - 31st | ??? (v3.1) |
