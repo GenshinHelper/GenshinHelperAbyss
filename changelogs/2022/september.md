@@ -4,6 +4,7 @@
 
 * Added [electro-regisvine.md](../../monsters/elites/electro-regisvine.md "mention")
 * Added [jadeplume-terrorshroom.md](../../monsters/elites/jadeplume-terrorshroom.md "mention")
+* Added [daythunder.md](../../monsters/eremites/daythunder.md "mention")
 * Updated [floor-9.md](../../floors/spire/floor-9.md "mention") for v3.0
 * Updated [floor-10.md](../../floors/spire/floor-10.md "mention") for v3.0
 * Updated [floor-11.md](../../floors/spire/floor-11.md "mention") for v3.0
@@ -11,18 +12,18 @@
 
 ## Full Changelogs
 
-| Date | Change                             | Author     |
-| ---- | ---------------------------------- | ---------- |
-| 1st  | Adding Electro Regisvine           | Kicc, Blep |
-|      | Updating Blessings                 | Blep       |
-|      | Archiving v2.0 pages               | Blep       |
-|      | Adding placeholders for v3.0 pages | Blep       |
-| 5th  | Adding F12 Infographics            | Blep       |
-|      | Adding F12 Tips                    | Kicc, Blep |
-| 6th  | Adding F11 infographics            | Blep       |
-|      | Adding F11 tips                    | Blep       |
-| 11th | Adding Jadeplume Terrorshroom      | Kinna/Blep |
-| 14th | Adding F10 infographics            | Blep       |
-|      | Adding F10 tips                    | Koshu/Blep |
-|      |                                    |            |
+| Date | Change                             | Author      |
+| ---- | ---------------------------------- | ----------- |
+| 1st  | Adding Electro Regisvine           | Kicc, Blep  |
+|      | Updating Blessings                 | Blep        |
+|      | Archiving v2.0 pages               | Blep        |
+|      | Adding placeholders for v3.0 pages | Blep        |
+| 5th  | Adding F12 Infographics            | Blep        |
+|      | Adding F12 Tips                    | Kicc, Blep  |
+| 6th  | Adding F11 infographics            | Blep        |
+|      | Adding F11 tips                    | Blep        |
+| 11th | Adding Jadeplume Terrorshroom      | Kinna/Blep  |
+| 14th | Adding F10 infographics            | Blep        |
+|      | Adding F10 tips                    | Koshu/Blep  |
+| 22nd | Adding Daythunder                  | Beatus/Blep |
 
