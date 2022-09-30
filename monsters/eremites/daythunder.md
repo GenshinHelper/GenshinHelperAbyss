@@ -1,6 +1,6 @@
 # Daythunder
 
-## Resistances
+<figure><img src="../../.gitbook/assets/Elite=Daythunder.png" alt=""><figcaption></figcaption></figure>
 
 |                                        Element | Resist |
 | ---------------------------------------------: | ------ |
@@ -19,9 +19,15 @@ Their fast attacks and gap closing attack make them particularly deadly. Try to 
 
 ### Enhanced State
 
+{% embed url="https://gfycat.com/insignificantbelatedisabellineshrike" %}
+
 When HP drops below **70%**, Eremite elites will enter an **Enhanced State** which increases their damage and augments some of their attacks.
 
-This buff lasts **20 seconds**, and when the buff ends, they will be momentarily stunned have have reduced resistance matching their element.
+{% embed url="https://gfycat.com/compassionatemeatyindigowingedparrot" %}
+
+This buff lasts **20 seconds**, and when the buff ends, they will be momentarily stunned have have reduced resistance matching their element. An icon will flash above their head as the buff ends.
+
+## Abilities
 
 ### Triple Sweep
 

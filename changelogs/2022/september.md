@@ -26,4 +26,5 @@
 | 14th | Adding F10 infographics            | Blep        |
 |      | Adding F10 tips                    | Koshu/Blep  |
 | 22nd | Adding Daythunder                  | Beatus/Blep |
+| 29th | Adding Clearwater                  | Beatus/Blep |
 
