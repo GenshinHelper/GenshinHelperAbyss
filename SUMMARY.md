@@ -46,9 +46,10 @@
   * [Electro Whopperflower](monsters/animals/electro-whopperflower.md)
   * [Eye of the Storm](monsters/animals/eye-of-the-storm.md)
 * [Eremites](monsters/eremites/README.md)
-  * [Daythunder](monsters/eremites/daythunder.md)
   * [Desert Clearwater](monsters/eremites/desert-clearwater.md)
+  * [Daythunder](monsters/eremites/daythunder.md)
   * [Sunfrost](monsters/eremites/sunfrost.md)
+  * [Stone Enchanter](monsters/eremites/stone-enchanter.md)
 * [Fatui](monsters/fatui/README.md)
   * [Anemoboxer](monsters/fatui/anemoboxer.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
@@ -130,6 +131,7 @@
   * [Bathysmal Vishap Herd](monsters/elites/bathysmal-vishap-herd.md)
   * [Ruin Serpent](monsters/elites/ruin-serpent.md)
   * [Jadeplume Terrorshroom](monsters/elites/jadeplume-terrorshroom.md)
+  * [ASIMON](monsters/elites/asimon.md)
 
 ## Mechanics
 
