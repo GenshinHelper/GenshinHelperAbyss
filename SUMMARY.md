@@ -157,6 +157,7 @@
 ## Changelogs
 
 * [2022](changelogs/2022/README.md)
+  * [October](changelogs/2022/october.md)
   * [September](changelogs/2022/september.md)
   * [August](changelogs/2022/august.md)
   * [July](changelogs/2022/july.md)
@@ -187,6 +188,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v3.0)](archive/previous-floors/floor-12-v3.0.md)
+  * [Floor 11 (v3.0)](archive/previous-floors/floor-11-v3.0.md)
   * [Floor 12 (v2.8)](archive/previous-floors/floor-12-v2.8.md)
   * [Floor 11 (v2.8)](archive/previous-floors/floor-11-v2.8.md)
   * [Floor 10 (v2.0-2.8)](archive/previous-floors/floor-10-v2.0-2.8.md)
