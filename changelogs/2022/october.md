@@ -11,6 +11,6 @@
 | ---- | -------------------------------------------- | ------ |
 | 1st  | Updating Blessings                           | Blep   |
 |      | Archiving v3.0 pages and adding placeholders | Blep   |
-|      |                                              |        |
+|      | Adding infographics for Floor 11             | Blep   |
 |      |                                              |        |
 

@@ -2,7 +2,7 @@
 
 ## Divergence
 
-****![](../../.gitbook/assets/dendro\_small.png)**DMG** increased by **75%**
+****![](../../.gitbook/assets/electro\_small.png)**DMG** increased by **75%**
 
 ## General Tips
 
@@ -24,6 +24,8 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-1-1v31.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -31,6 +33,8 @@
 
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/11-1-2v31.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -44,6 +48,8 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-2-1v31.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -51,6 +57,8 @@
 
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/11-2-2v31.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -62,6 +70,8 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-3-1v31.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -69,6 +79,8 @@
 |                |            |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/Jadeplume Terrorshroom.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide                                                                         | Other Info |
 | -------------------------------------------------------------------------------------- | ---------- |

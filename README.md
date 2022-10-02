@@ -14,17 +14,21 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Sep 16th - 30th
+**Duration:** Oct 1st - 15th
 
-When a character triggers Quicken on an opponent, that opponent's DEF is decreased by 35% for 10s after they are affected by the reaction.
+After a character triggers Bloom, Hyperbloom, or Burgeon, all party members will have their Elemental Mastery increased by 40 for 10s. This effect can be triggered once every 0.1s. Max 5 stacks. Each stack's duration is counted independently.
 
 {% hint style="info" %}
-**Quicken** is triggered using![](.gitbook/assets/electro\_small.png)+![](.gitbook/assets/dendro\_small.png)
+**Bloom** is triggered using![](.gitbook/assets/hydro\_small.png)+![](.gitbook/assets/dendro\_small.png), producing Dendro cores\
+**Hyperbloom** is triggered by using![](.gitbook/assets/electro\_small.png)on Dendro Cores
+
+**Burgeon** is triggered by using![](.gitbook/assets/pyro\_small.png)on Dendro cores
 {% endhint %}
 
 ### Future blessings
 
-| Dates           | Blessing   |
-| --------------- | ---------- |
-| Oct 1st - 15th  | ??? (v3.1) |
-| Oct 16th - 31st | ??? (v3.1) |
+| Dates           | Blessing                                                                                                                                                                                                              |
+| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Oct 16th - 31st | After opponents take DMG from Dendro Cores (this includes Burgeon and Hyperbloom DMG), their All Elemental and Physical RES will decrease by 8% for 6s. Max 4 stacks.                                                 |
+| Nov 1st - 15th  | When Dendro Core attacks (this includes Burgeon and Hyperbloom attacks) hit an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed this way every 2s. |
+| Nov 16th - 30th | ??? (v3.2)                                                                                                                                                                                                            |
