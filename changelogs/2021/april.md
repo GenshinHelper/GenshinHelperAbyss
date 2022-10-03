@@ -16,29 +16,30 @@ description: Changlogs
 
 ## Full Changelogs
 
-| Date   | Change                                                     | Author      |
-| ------ | ---------------------------------------------------------- | ----------- |
-| Apr 1  | Updated blessings on landing page                          | AegisD      |
-| Apr 2  | Added Cryo Cicin Mage gifs                                 | Koshu       |
-|        | Added Tips/Mechanics for Cryo Cicin Mage                   | AegisD      |
-| Apr 3  | Added Electro Cicin Mage gifs                              | Koshu       |
-|        | Added Tips/Mechanics for Electro Cicin Mage                | AegisD      |
-| Apr 4  | Performed damage comparisons on buff cards                 | Yumi/Twofu  |
-|        | Added section on Buff Cards                                | AegisD      |
-| Apr 5  | Fixed section on removing Cryo Cicin shield and added gifs | AegisD      |
-|        | Added Ruin Guard gifs                                      | Setz        |
-|        | Added Tips/Mechanics for Ruin Guard                        | AegisD      |
-| Apr 8  | Added Pyro Agent gifs                                      | Setz        |
-|        | Added Tips/Mechanics for Pyro Agent                        | AegisD      |
-|        | Small fixes to Ruin Guard and Pyro Agent pages             | Setz        |
-| Apr 9  | Drafting information on character investment               | Prad/Setz   |
-|        | Adding early game investment section                       | AegisD      |
-| Apr 13 | Adding mid-late game investment sections                   | AegisD      |
-| Apr 15 | Updating blessing                                          | AegisD      |
-| Apr 19 | Added Composition Building page                            | AegisD      |
-| Apr 20 | Adding Childe Freeze to Compositions                       | Aidan       |
-| Apr 23 | Adding Resonance to Support section in Compositions        | AegisD/Prad |
-|        | Adding Kaeya/Rosaria Physical to Compositions              | AegisD/Prad |
-|        | Added FAQ section to Char Investment                       | Prad        |
-| Apr 24 | Adding v1.5 F11/12 placeholders                            | AegisD      |
-|        | Adding blessing for May 1st                                | AegisD      |
+| Date | Change | Author |
+| :--- | :--- | :--- |
+| Apr 1 | Updated blessings on landing page | AegisD |
+| Apr 2 | Added Cryo Cicin Mage gifs | Koshu |
+|  | Added Tips/Mechanics for Cryo Cicin Mage | AegisD |
+| Apr 3 | Added Electro Cicin Mage gifs | Koshu |
+|  | Added Tips/Mechanics for Electro Cicin Mage | AegisD |
+| Apr 4 | Performed damage comparisons on buff cards | Yumi/Twofu |
+|  | Added section on Buff Cards | AegisD |
+| Apr 5 | Fixed section on removing Cryo Cicin shield and added gifs | AegisD |
+|  | Added Ruin Guard gifs | Setz |
+|  | Added Tips/Mechanics for Ruin Guard | AegisD |
+| Apr 8 | Added Pyro Agent gifs | Setz |
+|  | Added Tips/Mechanics for Pyro Agent | AegisD |
+|  | Small fixes to Ruin Guard and Pyro Agent pages | Setz |
+| Apr 9 | Drafting information on character investment | Prad/Setz |
+|  | Adding early game investment section | AegisD |
+| Apr 13 | Adding mid-late game investment sections | AegisD |
+| Apr 15 | Updating blessing | AegisD |
+| Apr 19 | Added Composition Building page | AegisD |
+| Apr 20 | Adding Childe Freeze to Compositions | Aidan |
+| Apr 23 | Adding Resonance to Support section in Compositions | AegisD/Prad |
+|  | Adding Kaeya/Rosaria Physical to Compositions | AegisD/Prad |
+|  | Added FAQ section to Char Investment | Prad |
+| Apr 24 | Adding v1.5 F11/12 placeholders | AegisD |
+|  | Adding blessing for May 1st | AegisD |
+

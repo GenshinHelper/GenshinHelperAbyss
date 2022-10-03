@@ -6,8 +6,23 @@ There's many different ways to approach teambuilding. Picking good teams depends
 
 **If you're looking for quick tips on how to improve your compositions, here is some advice:**
 
-1. Pick 2-3 characters to act as your "core" or main damage-dealing combination. There should be 1 main-DPS and characters that enhance that DPS's damage \[1].
-2. Fill the rest of your slots with both characters that support this core and meet clearing requirements for the floor \[2].
+
+
+## Main Core Types
+
+### **Melt/Vaporize** ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png)
+
+These cores take advantage of the damage bonus that Pyro/Cryo/Hydro Damage gets when the opposing elements are applied to an ememy. For example, Pyro attacks deal 1.5x/2x damage to enemies inflicted with Hydro/Cryo Auras. Cryo/Hydro damage deals 1.5x/2x damage to enemies inflicted by Pyro. **This is currently seen as the core with the highest DPS threshold**, and can be a great core to build when you need to overcome a DPS deficiency.
+
+
+
+1. **Melt/Vaporize** ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png)**:** These cores take advantage of the damage bonus that Pyro/Cryo/Hydro Damage gets when the opposing elements are applied to an ememy. For example, Pyro attacks deal 1.5x/2x damage to enemies inflicted with Hydro/Cryo Auras. Cryo/Hydro damage deals 1.5x/2x damage to enemies inflicted by Pyro. **This is currently seen as the core with the highest DPS threshold**, and can be a great core to build when you need to overcome a DPS deficiency.
+2. **Superconduct** ![](../.gitbook/assets/physical\_small.png)![](../.gitbook/assets/electro\_small.png)![](../.gitbook/assets/cryo\_small.png): These cores consisting of Electro/Cryo characters amplify physical damage by procing superconduct to decrease enemy physical res. This core can be great because it is accessible through many different characters and is not as locked behind 5\* characters as other cores. It is also strong situationally when fighting humanoid enemies. It does **generally fall behind other cores as higher floors tend to have enemies with higher physical resistance** and/or a high quantity of enemies resulting in inefficiency due to **lack of AOE scalability.**
+3. **Geo** ![](../.gitbook/assets/geo\_small.png): These cores are generally pure Geo teams. This relies on the incredible buffs of Geo resonance and the compatibility of buffs between existing Geo characters. Certain characters allow these teams to gain AOE capabilities but it is still lacking in that regard compared to other cores. **The biggest drawback with this core is that its power is locked behind certain 5\* characters like Zhongli and Albedo.**
+4. **Freeze** ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png): Freeze teams make use of the comfortability of play due to the freeze reaction keeping enemies in place. It is made stronger with the blizzard strayer set and resonance allowing for low crit rate builds. These teams lead to **higher consistency of damage and more ease of play** but do not have the same DPS threshold of melt/vaporize teams.
+5. **Mono-element**: Mono-element teams take advantage of character-specific buffs to damage of a specific type (Bennett C6, Xiangling C6, Beidou C6, Kujou Sara C6, etc.). They are further enabled with Swirl reactions that buff that element damage further. These teams are generally locked behind character constellations of 5\* characters and are best used when a specific character is not bestfit to proc reactions.
+6. Pick 2-3 characters to act as your "core" or main damage-dealing combination. There should be 1 main-DPS and characters that enhance that DPS's damage \[1].
+7. Fill the rest of your slots with both characters that support this core and meet clearing requirements for the floor \[2].
 
 \[1] Go to the second half of the page for examples.
 
@@ -21,7 +36,7 @@ There's many different ways to approach teambuilding. Picking good teams depends
 
 Your core is responsible for dealing most of the damage for your team, and usually consists of a pair of characters with good synergy. These are the characters which you should prioritize investing in for weapons/artifacts/talents.&#x20;
 
-For Abyss, you will need at least 1 core for each team. When starting a floor, look at the mobs and tips for the floor to decide which side each core should go on.
+For Abyss, you will need **at least 1 core for each team**. When starting a floor, look at the mobs and tips for the floor to decide which side each core should go on.
 
 {% hint style="info" %}
 If possible, try to use different types of damage between the two teams in order to avoid being heavily disadvantaged if a floor is bad for a specific element.
@@ -31,7 +46,7 @@ If possible, try to use different types of damage between the two teams in order
 
 ****
 
-### **Melt/Vaporize** ![](../.gitbook/assets/pyro\_small.png)![](../.gitbook/assets/hydro\_small.png)![](../.gitbook/assets/cryo\_small.png):
+### **Melt/Vaporize**&#x20;
 
 Consists of a pyro character and a hydro/cryo character to amplify one another's damage through melt/vaporize.
 
@@ -44,16 +59,12 @@ Consists of a pyro character and a hydro/cryo character to amplify one another's
 * <mark style="color:red;">Heavy emphasis on Crimson-Witch Farming</mark>&#x20;
 * <mark style="color:red;">High reliance on characters like Xingqui and Bennett (high use characters)</mark>
 
-### **Superconduct** ![](../.gitbook/assets/physical\_small.png)![](../.gitbook/assets/electro\_small.png)![](../.gitbook/assets/cryo\_small.png):&#x20;
-
 These cores consisting of Electro/Cryo characters amplify physical damage by procing superconduct to decrease 40% enemy physical res.&#x20;
 
 * <mark style="color:blue;">Strong situationally when fighting humanoid enemies</mark>&#x20;
 * <mark style="color:blue;">Lots of f2p physical DPS and support options</mark>
 * <mark style="color:red;">lower versatility: higher floors tend to have enemies with higher physical resistance canceling out the decrease in physical res</mark>&#x20;
 * <mark style="color:red;">Lower AOE</mark>
-
-### **Geo** ![](../.gitbook/assets/geo\_small.png):&#x20;
 
 Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resonance buffs.&#x20;
 
@@ -62,8 +73,6 @@ Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resona
 * <mark style="color:red;">lacks in AOE (but can be improved with certain characters)</mark>
 * <mark style="color:red;">locked behind certain 5\* characters like Zhongli and Albedo.</mark>
 
-### **Freeze** ![](../.gitbook/assets/cryo\_small.png)![](../.gitbook/assets/hydro\_small.png):&#x20;
-
 Teams with Cryo and Hydro characters to proc freeze.
 
 * <mark style="color:blue;">Higher comfortability of play due to the freeze reaction keeping enemies in place</mark>&#x20;
@@ -71,8 +80,6 @@ Teams with Cryo and Hydro characters to proc freeze.
 * <mark style="color:blue;">higher consistency of damage and more ease of play</mark>
 * <mark style="color:red;">compromises DPS threshold</mark>
 * <mark style="color:red;">somewhat locked behind limited-5\* characters</mark>
-
-### **Mono-element**:&#x20;
 
 Mono-element teams take advantage of character-specific buffs to damage of a specific type (Bennett C6, Xiangling C6, Beidou C6, Kujou Sara C6, etc.). They are further enabled with Swirl reactions that buff that element damage further.&#x20;
 

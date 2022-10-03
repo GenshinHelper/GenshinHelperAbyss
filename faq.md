@@ -21,9 +21,9 @@ For more detailed info, check out the guide below:
 
 Always focus on leveling your **Main carry/DPS** first. The characters and their weapons should be **maxed out for your WL**. If your main carry is more than 10 levels below the mobs on the floor, it may be challenging to beat it.
 
-\*\*Support \*\*characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their \*\*60/70 ascension \*\*(meaning ascending from lvl 60, but not levelling them to 70). This unlocks their last passive talent.
+**Support **characters do not need to be maxed out in the same way. Keep them **1-2 ascension levels lower than your Main carry/DPS**, up to their **60/70 ascension **(meaning ascending from lvl 60, but not levelling them to 70). This unlocks their last passive talent.
 
-Characters only used for\*\* shield breaking\*\* do not need any levels at all. Their skills are equally effective at level 1 (as long as you can keep them alive!).
+Characters only used for** shield breaking** do not need any levels at all. Their skills are equally effective at level 1 (as long as you can keep them alive!).
 
 It is not recommended you level characters past 80/90 as there is very little benefit for the cost. Put these resources into Supports and Sub DPS characters.
 
@@ -71,7 +71,7 @@ This also means you don't have to 9★ a floor in one run! You can build a team 
 
 ### I cleared 8-3 but I didn't get the 2400 Primogems shown in the Event?
 
-![Moment of Syzygy "Event" Banner](.gitbook/assets/moment\_of\_syzygy.jpg)
+![Moment of Syzygy "Event" Banner](.gitbook/assets/moment_of_syzygy.jpg)
 
 The rewards advertised in the **Moment of Syzygy** banner are **not a separate reward!** It's simply a summary of all the rewards you would normally get from **clearing and 9**★-**ing Floors 1-8**. There is no bonus after completing 8-3.
 
