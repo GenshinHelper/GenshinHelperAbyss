@@ -19,6 +19,8 @@ None
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/12-1-1v31.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -27,6 +29,8 @@ None
 
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/12-1-2v31.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -54,6 +58,8 @@ None
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/12-2-1v31.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -69,6 +75,8 @@ None
 |           |          |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/maguu-kenki.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -92,15 +100,11 @@ None
 
 ### Side 1
 
-| In Depth Guide                                                                                                                                                                             | Other Info |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| <p><a data-mention href="../../monsters/vishaps/bathysmal-vishap.md">bathysmal-vishap.md</a><br>> <a data-mention href="../../mechanics/auras/mist-bubble.md">mist-bubble.md</a></p>       | 1.1M HP    |
-| [bathysmal-vishap.md](../../monsters/vishaps/bathysmal-vishap.md "mention") (hatchling)                                                                                                    | 555K HP    |
-| <p><a data-mention href="../../monsters/mushrooms/grounded-hydroshroom.md">grounded-hydroshroom.md</a><br>> Slowing Waters <a data-mention href="../../mechanics/debuffs/">debuffs</a></p> | 277K HP    |
-| <p><a data-mention href="../../monsters/mushrooms/winged-cryoshroom.md">winged-cryoshroom.md</a><br>> <a data-mention href="../../mechanics/auras/ice-cage.md">ice-cage.md</a></p>         | 388K HP    |
-| [winged-dendroshroom.md](../../monsters/mushrooms/winged-dendroshroom.md "mention")                                                                                                        | 277K HP    |
 
-****
+
+| In Depth Guide                                                                          | Other Info |
+| --------------------------------------------------------------------------------------- | ---------- |
+| [bathysmal-vishap.md](../../monsters/vishaps/bathysmal-vishap.md "mention") (hatchling) | 555K HP    |
 
 #### Character Recommendations
 
@@ -110,6 +114,8 @@ None
 |           |          |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/ASIMON.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide                                                                         | Other Info |
 | -------------------------------------------------------------------------------------- | ---------- |
