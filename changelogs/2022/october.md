@@ -13,4 +13,5 @@
 |      | Archiving v3.0 pages and adding placeholders | Blep   |
 |      | Adding infographics for Floor 11             | Blep   |
 | 3rd  | Adding infographics for Floor 11             | Blep   |
+| 4th  | Adding tips for Floor 11                     | Blep   |
 
