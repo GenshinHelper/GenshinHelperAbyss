@@ -16,4 +16,5 @@
 | 3rd  | Adding infographics for Floor 11             | Blep        |
 | 4th  | Adding tips for Floor 11                     | Blep        |
 |      | Adding ASIMON                                | Kinna, Blep |
+| 5th  | Adding tips for Floor 12                     | Kicc, Blep  |
 
