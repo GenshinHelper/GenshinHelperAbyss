@@ -11,7 +11,7 @@
 
 ## Tips and Mechanics <a href="#tips-and-mechanics" id="tips-and-mechanics"></a>
 
-**Weak Point** - Core
+**Weak Point** - Face
 
 When stunned, Eremite Clearwaters get **-60%**![](../../.gitbook/assets/hydro\_small.png)**RES**.
 

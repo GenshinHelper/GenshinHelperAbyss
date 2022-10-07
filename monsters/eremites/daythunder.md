@@ -9,7 +9,7 @@
 
 ## Tips and Mechanics <a href="#tips-and-mechanics" id="tips-and-mechanics"></a>
 
-**Weak Point** - Core
+**Weak Point** - Face
 
 When stunned, Eremite Daythunders get **-60%**![](../../.gitbook/assets/electro\_small.png)**RES**.
 
