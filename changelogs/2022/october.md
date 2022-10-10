@@ -6,6 +6,8 @@
 * Updated [floor-12.md](../../floors/spire/floor-12.md "mention") for v3.1
 * Added [asimon.md](../../monsters/elites/asimon.md "mention")
 * Added [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")
+* Added [ruin-drake-earthguard.md](../../monsters/ruin-constructs/ruin-drake-earthguard.md "mention")
+* Added [ruin-drake-skywatch.md](../../monsters/ruin-constructs/ruin-drake-skywatch.md "mention")
 
 ## Full Changelogs
 
@@ -19,4 +21,6 @@
 |      | Adding ASIMON                                | Kinna, Blep  |
 | 5th  | Adding tips for Floor 12                     | Kicc, Blep   |
 | 6th  | Adding Sunfrost                              | Beatus, Blep |
+| 9th  | Adding Earthguard                            | Kicc, Blep   |
+|      | Adding Skywatch                              | Kicc, Blep   |
 
