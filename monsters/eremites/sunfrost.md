@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/Elite=Sunfrost.png" alt=""><figcaption></figcaption></figure>
 
+## Resistances
+
 |                                        Element | Resist |
 | ---------------------------------------------: | ------ |
 | ![](../../.gitbook/assets/physical\_small.png) | -20%   |

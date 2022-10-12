@@ -2,6 +2,8 @@
 
 <figure><img src="../../.gitbook/assets/Elite=Daythunder.png" alt=""><figcaption></figcaption></figure>
 
+## Resistances
+
 |                                        Element | Resist |
 | ---------------------------------------------: | ------ |
 | ![](../../.gitbook/assets/physical\_small.png) | -20%   |

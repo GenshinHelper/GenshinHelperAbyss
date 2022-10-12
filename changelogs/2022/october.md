@@ -8,6 +8,7 @@
 * Added [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")
 * Added [ruin-drake-earthguard.md](../../monsters/ruin-constructs/ruin-drake-earthguard.md "mention")
 * Added [ruin-drake-skywatch.md](../../monsters/ruin-constructs/ruin-drake-skywatch.md "mention")
+* Added [stone-enchanter.md](../../monsters/eremites/stone-enchanter.md "mention")
 
 ## Full Changelogs
 
@@ -23,4 +24,5 @@
 | 6th  | Adding Sunfrost                              | Beatus, Blep |
 | 9th  | Adding Earthguard                            | Kicc, Blep   |
 |      | Adding Skywatch                              | Kicc, Blep   |
+| 12th | Adding Stone Enchanter                       | Beatus, Blep |
 
