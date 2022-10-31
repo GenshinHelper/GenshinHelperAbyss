@@ -1,5 +1,7 @@
 # Galehunter
 
+<figure><img src="../../.gitbook/assets/Elite=Galehunter.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 #### Normal

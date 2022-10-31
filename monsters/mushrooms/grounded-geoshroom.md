@@ -1,5 +1,7 @@
 # Grounded Geoshroom
 
+<figure><img src="../../.gitbook/assets/Element=Geo,Size=Large.png" alt=""><figcaption></figcaption></figure>
+
 ## Resistances
 
 |                                   Element | Resist |
