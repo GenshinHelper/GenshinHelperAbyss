@@ -14,9 +14,9 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Oct 1st - 15th
+**Duration:** Nov 1st - 15th
 
-After a character triggers Bloom, Hyperbloom, or Burgeon, all party members will have their Elemental Mastery increased by 40 for 10s. This effect can be triggered once every 0.1s. Max 5 stacks. Each stack's duration is counted independently.
+When Dendro Core attacks (this includes Burgeon and Hyperbloom attacks) hit an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed this way every 2s.
 
 {% hint style="info" %}
 **Bloom** is triggered using![](.gitbook/assets/hydro\_small.png)+![](.gitbook/assets/dendro\_small.png), producing Dendro cores\
@@ -27,8 +27,7 @@ After a character triggers Bloom, Hyperbloom, or Burgeon, all party members will
 
 ### Future blessings
 
-| Dates           | Blessing                                                                                                                                                                                                              |
-| --------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Oct 16th - 31st | After opponents take DMG from Dendro Cores (this includes Burgeon and Hyperbloom DMG), their All Elemental and Physical RES will decrease by 8% for 6s. Max 4 stacks.                                                 |
-| Nov 1st - 15th  | When Dendro Core attacks (this includes Burgeon and Hyperbloom attacks) hit an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed this way every 2s. |
-| Nov 16th - 30th | ??? (v3.2)                                                                                                                                                                                                            |
+| Dates           | Blessing   |
+| --------------- | ---------- |
+| Nov 16th - 30th | ??? (v3.2) |
+| Dec 1st - 15th  | ??? (v3.2) |

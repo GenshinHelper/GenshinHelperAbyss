@@ -13,7 +13,7 @@
 
 |                                        Element | Resist |
 | ---------------------------------------------: | ------ |
-| ![](../../.gitbook/assets/physical\_small.png) | -30%   |
+| ![](../../.gitbook/assets/physical\_small.png) | -20%   |
 |                             ALL OTHER ELEMENTS | 60%    |
 
 #### Stunned
@@ -74,13 +74,21 @@ Leaping attack, dealing AoE damage on landing
 
 ## Abilities (Enhanced)
 
+### Coordinated Attack
+
+{% embed url="https://gfycat.com/widerealamericanmarten" %}
+The Stone Enchanter performs a leap slam attack, which is followed by a burrow from the Crocodile
+{% endembed %}
+
+This attack will be used once upon first entering Enhanced state.
+
 ### Slow Strike
 
 {% embed url="https://gfycat.com/backdeepelephantseal" %}
 Very slow, single slash
 {% endembed %}
 
-### Coordinated Slam
+### Coordinated Attack
 
 {% embed url="https://gfycat.com/widerealamericanmarten" %}
 The Stone Enchanter performs a leap slam attack, which is followed by a burrow from the Crocodile

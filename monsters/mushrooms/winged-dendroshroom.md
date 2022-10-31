@@ -13,7 +13,7 @@
 
 **Weak Point** - Face
 
-
+The activated Dendroshroom will perform carpet bomb attacks faster and more often. Avoid doing this.
 
 ### Activated/Scorched
 
@@ -30,8 +30,6 @@ Avoid using![](../../.gitbook/assets/electro\_small.png)based attacks first if p
 The Dendroshroom will occasionally go airborne. If you do enough damage with ranged attacks, it will knock it to the ground, briefly stunning it.
 
 ## Abilities <a href="#rage" id="rage"></a>
-
-### Slap
 
 ### Homing Missile
 

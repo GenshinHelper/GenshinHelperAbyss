@@ -50,6 +50,7 @@
   * [Daythunder](monsters/eremites/daythunder.md)
   * [Sunfrost](monsters/eremites/sunfrost.md)
   * [Stone Enchanter](monsters/eremites/stone-enchanter.md)
+  * [Galehunter](monsters/eremites/galehunter.md)
 * [Fatui](monsters/fatui/README.md)
   * [Anemoboxer](monsters/fatui/anemoboxer.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
@@ -87,6 +88,7 @@
   * [Grounded Hydroshroom](monsters/mushrooms/grounded-hydroshroom.md)
   * [Winged Cryoshroom](monsters/mushrooms/winged-cryoshroom.md)
   * [Winged Dendroshroom](monsters/mushrooms/winged-dendroshroom.md)
+  * [Grounded Geoshroom](monsters/mushrooms/grounded-geoshroom.md)
 * [Rifthounds](monsters/rifthounds/README.md)
   * [Rifthound Whelp](monsters/rifthounds/rifthound-whelp.md)
   * [Rifthound](monsters/rifthounds/rifthound.md)
@@ -157,6 +159,7 @@
 ## Changelogs
 
 * [2022](changelogs/2022/README.md)
+  * [November](changelogs/2022/november.md)
   * [October](changelogs/2022/october.md)
   * [September](changelogs/2022/september.md)
   * [August](changelogs/2022/august.md)

@@ -28,7 +28,7 @@ Most of this floor will be making sure you have enough damage, and there are few
 | In Depth Guide                                                                 | Other Info |
 | ------------------------------------------------------------------------------ | ---------- |
 | [desert-clearwater.md](../../monsters/eremites/desert-clearwater.md "mention") | 408K HP    |
-| [kairagi.md](../../monsters/samurai/kairagi.md "mention")                      | 434K HP    |
+| [kairagi.md](../../monsters/samurai/kairagi.md "mention")                      | 545K HP    |
 
 Enemies are fairly spread out, but if you run directly towards the front enemies, the others will naturally group around you.
 
