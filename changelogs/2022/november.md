@@ -4,20 +4,21 @@
 
 * Added [galehunter.md](../../monsters/eremites/galehunter.md "mention")
 * Added [grounded-geoshroom.md](../../monsters/mushrooms/grounded-geoshroom.md "mention")
+* Added [primal-constructs.md](../../monsters/ruin-constructs/primal-constructs.md "mention")
 
 ## Full Changelogs
 
-| Date | Change             | Author      |
-| ---- | ------------------ | ----------- |
-| 1st  | Updating Blessings | Blep        |
-|      | Added Galehunter   | Beatus/Blep |
-|      | Added Geoshroom    | Hongyi/Blep |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
-|      |                    |             |
+| Date | Change                  | Author      |
+| ---- | ----------------------- | ----------- |
+| 1st  | Updating Blessings      | Blep        |
+|      | Added Galehunter        | Beatus/Blep |
+|      | Added Geoshroom         | Hongyi/Blep |
+| 6th  | Added Primal Constructs | Kinna/Blep  |
+|      |                         |             |
+|      |                         |             |
+|      |                         |             |
+|      |                         |             |
+|      |                         |             |
+|      |                         |             |
+|      |                         |             |
 

@@ -102,6 +102,7 @@
   * [Ruin Scout](monsters/ruin-constructs/ruin-scout.md)
   * [Ruin Drake: Earthguard](monsters/ruin-constructs/ruin-drake-earthguard.md)
   * [Ruin Drake: Skywatch](monsters/ruin-constructs/ruin-drake-skywatch.md)
+  * [Primal Constructs](monsters/ruin-constructs/primal-constructs.md)
 * [Samurai](monsters/samurai/README.md)
   * [Nobushi](monsters/samurai/nobushi.md)
   * [Kairagi](monsters/samurai/kairagi.md)
