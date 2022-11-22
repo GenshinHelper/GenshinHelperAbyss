@@ -8,17 +8,17 @@
 
 ## Full Changelogs
 
-| Date | Change                  | Author      |
-| ---- | ----------------------- | ----------- |
-| 1st  | Updating Blessings      | Blep        |
-|      | Added Galehunter        | Beatus/Blep |
-|      | Added Geoshroom         | Hongyi/Blep |
-| 6th  | Added Primal Constructs | Kinna/Blep  |
-|      |                         |             |
-|      |                         |             |
-|      |                         |             |
-|      |                         |             |
-|      |                         |             |
-|      |                         |             |
-|      |                         |             |
+| Date | Change                       | Author      |
+| ---- | ---------------------------- | ----------- |
+| 1st  | Updating Blessings           | Blep        |
+|      | Added Galehunter             | Beatus/Blep |
+|      | Added Geoshroom              | Hongyi/Blep |
+| 6th  | Added Primal Constructs      | Kinna/Blep  |
+| 21st | Updating Blessings           | Blep        |
+|      | Moving v3.1 Abyss to archive | Blep        |
+|      |                              |             |
+|      |                              |             |
+|      |                              |             |
+|      |                              |             |
+|      |                              |             |
 

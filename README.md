@@ -14,20 +14,16 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Nov 1st - 15th
+**Duration:** Nov 16th - 30th
 
-When Dendro Core attacks (this includes Burgeon and Hyperbloom attacks) hit an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed this way every 2s.
+When characters deal DMG to an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. Each Elemental DMG Type (including Physical DMG) can unleash a shockwave this way every 8s
 
 {% hint style="info" %}
-**Bloom** is triggered using![](.gitbook/assets/hydro\_small.png)+![](.gitbook/assets/dendro\_small.png), producing Dendro cores\
-**Hyperbloom** is triggered by using![](.gitbook/assets/electro\_small.png)on Dendro Cores
-
-**Burgeon** is triggered by using![](.gitbook/assets/pyro\_small.png)on Dendro cores
+This blessing rewards you for both using compositions with as many different elements as possible, as well as rotating frequently between characters. Try to build towards this if your teams normally lack damage.
 {% endhint %}
 
 ### Future blessings
 
-| Dates           | Blessing   |
-| --------------- | ---------- |
-| Nov 16th - 30th | ??? (v3.2) |
-| Dec 1st - 15th  | ??? (v3.2) |
+| Dates          | Blessing                                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| -------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Dec 1st - 15th | When characters trigger Burning, Quicken, Aggravate, Spread, Bloom, Hyperbloom, or Burgeon on an opponent, all party members will gain 10% Dendro DMG Bonus for 10s. This bonus can be triggered once every 5s. Max 4 stacks. Once 4 stacks have been gained, when characters deal Dendro DMG to an opponent, a shockwave will be unleashed at that opponent's position, dealing True DMG. A shockwave can be unleashed in this way once every 5s. |
