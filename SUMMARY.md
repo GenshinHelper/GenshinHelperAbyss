@@ -125,6 +125,7 @@
   * [Cryo Hypostasis](monsters/elites/cryo-hypostasis.md)
   * [Pyro Hypostasis](monsters/elites/pyro-hypostasis.md)
   * [Hydro Hypostasis](monsters/elites/hydro-hypostasis.md)
+  * [Dendro Hypostasis](monsters/elites/dendro-hypostasis.md)
   * [Oceanid](monsters/elites/oceanid.md)
   * [Maguu Kenki](monsters/elites/maguu-kenki/README.md)
     * [Maguu Kenki (Split Version)](monsters/elites/maguu-kenki/maguu-kenki-split-version.md)
@@ -135,6 +136,7 @@
   * [Ruin Serpent](monsters/elites/ruin-serpent.md)
   * [Jadeplume Terrorshroom](monsters/elites/jadeplume-terrorshroom.md)
   * [ASIMON](monsters/elites/asimon.md)
+  * [Aeonblight Drake](monsters/elites/aeonblight-drake.md)
 
 ## Mechanics
 
