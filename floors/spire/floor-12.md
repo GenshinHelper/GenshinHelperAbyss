@@ -6,7 +6,10 @@ None
 
 ## General Tips
 
-
+* The chamber starts with 6 Thundercraven Rifthound Whelp, and spawns another as soon as you kill one. The last 2 of the 20 enemies are Thundercraven Rifthounds. (18 whelps  -> 2 rifthounds)
+* Electro is a great choice against the Rifthounds as they’ll have less electro resistance after accumulating enough fury.
+* However, as they’re easily knock-backed, freeze teams with an Anemo CC are still one of the best options to clear the chamber.
+* Be wary of bleeding, as it’ll affect off-field characters which may kill them as soon as you swap characters.
 
 ## Chamber 1
 
