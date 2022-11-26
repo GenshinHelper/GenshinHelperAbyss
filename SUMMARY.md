@@ -33,8 +33,10 @@
 ## Monsters
 
 * [Abyss Order](monsters/abyss-order/README.md)
-  * [Black Serpent: Windcutter](monsters/abyss-order/black-serpent-windcutter.md)
+  * [Black Serpent: Windcutter](monsters/abyss-order/serpent-knight.md)
   * [Black Serpent: Standard Bearer](monsters/abyss-order/black-serpent-standard-bearer.md)
+  * [Black Serpent: Defender](monsters/abyss-order/black-serpent-defender.md)
+  * [Black Serpent: Line Breaker](monsters/abyss-order/black-serpent-line-breaker.md)
   * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
   * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
   * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)

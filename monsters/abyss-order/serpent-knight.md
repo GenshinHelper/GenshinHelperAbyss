@@ -1,4 +1,4 @@
-# Serpent Knight
+# Black Serpent: Windcutter
 
 ## Resistances
 

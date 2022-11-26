@@ -25,5 +25,6 @@
 | 26th | Added Windcutter             | Beatus/Prad |
 |      | Added Standard Bearer        | Kinna/Prad  |
 |      | Added Defender               | Kinna/Prad  |
+|      | Added Line Breaker           | Kinna/Prad  |
 |      | Added Dendro Hypotasis       | Hongyi/Prad |
 
