@@ -15,6 +15,8 @@
 
 While it is vulnerable, the **Dendro Hypostasis** will be infused with Dendro during and after some attacks.
 
+**To defeat the Hypostasis, you need a Dendro character on your team! It is impossible to defeat it without one.**
+
 ## Abilities
 
 ### Poison Attack
