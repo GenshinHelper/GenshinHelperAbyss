@@ -26,5 +26,5 @@
 |      | Added Standard Bearer        | Kinna/Prad  |
 |      | Added Defender               | Kinna/Prad  |
 |      | Added Line Breaker           | Kinna/Prad  |
-|      | Added Dendro Hypotasis       | Hongyi/Prad |
+|      | Added Dendro Hypostasis      | Hongyi/Prad |
 
