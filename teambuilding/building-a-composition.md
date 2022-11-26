@@ -59,12 +59,16 @@ Consists of a pyro character and a hydro/cryo character to amplify one another's
 * <mark style="color:red;">Heavy emphasis on Crimson-Witch Farming</mark>&#x20;
 * <mark style="color:red;">High reliance on characters like Xingqui and Bennett (high use characters)</mark>
 
+### Physical&#x20;
+
 These cores consisting of Electro/Cryo characters amplify physical damage by procing superconduct to decrease 40% enemy physical res.&#x20;
 
 * <mark style="color:blue;">Strong situationally when fighting humanoid enemies</mark>&#x20;
 * <mark style="color:blue;">Lots of f2p physical DPS and support options</mark>
 * <mark style="color:red;">lower versatility: higher floors tend to have enemies with higher physical resistance canceling out the decrease in physical res</mark>&#x20;
 * <mark style="color:red;">Lower AOE</mark>
+
+### Geo&#x20;
 
 Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resonance buffs.&#x20;
 
@@ -73,6 +77,8 @@ Geo teams consisting of 3-4 Geo characters taking advantage of strong Geo resona
 * <mark style="color:red;">lacks in AOE (but can be improved with certain characters)</mark>
 * <mark style="color:red;">locked behind certain 5\* characters like Zhongli and Albedo.</mark>
 
+### Freeze
+
 Teams with Cryo and Hydro characters to proc freeze.
 
 * <mark style="color:blue;">Higher comfortability of play due to the freeze reaction keeping enemies in place</mark>&#x20;
@@ -80,6 +86,8 @@ Teams with Cryo and Hydro characters to proc freeze.
 * <mark style="color:blue;">higher consistency of damage and more ease of play</mark>
 * <mark style="color:red;">compromises DPS threshold</mark>
 * <mark style="color:red;">somewhat locked behind limited-5\* characters</mark>
+
+### Mono
 
 Mono-element teams take advantage of character-specific buffs to damage of a specific type (Bennett C6, Xiangling C6, Beidou C6, Kujou Sara C6, etc.). They are further enabled with Swirl reactions that buff that element damage further.&#x20;
 
