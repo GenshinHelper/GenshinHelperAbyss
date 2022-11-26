@@ -33,6 +33,7 @@
 ## Monsters
 
 * [Abyss Order](monsters/abyss-order/README.md)
+  * [Serpent Knight](monsters/abyss-order/serpent-knight.md)
   * [Pyro Abyss Mage](monsters/abyss-order/pyro-abyss-mage.md)
   * [Hydro Abyss Mage](monsters/abyss-order/hydro-abyss-mage.md)
   * [Cryo Abyss Mage](monsters/abyss-order/cryo-abyss-mage.md)
