@@ -15,6 +15,8 @@
 
 While it is vulnerable, the **Dendro Hypostasis** will be infused with Dendro during and after some attacks.
 
+Using Pyro characters can cut down the time of certain attacks and can speed up battle.
+
 **To defeat the Hypostasis, you need a Dendro character on your team! It is impossible to defeat it without one.**
 
 ## Abilities
