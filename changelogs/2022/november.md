@@ -22,5 +22,8 @@
 |      | Added F11 tips               | Blep        |
 | 25th | Added F12 infographics       | Blep        |
 |      | Added F12 tips               | Kicc        |
-| 26th | Added Serpent Knight         | Beatus/Prad |
+| 26th | Added Windcutter             | Beatus/Prad |
+|      | Added Standard Bearer        | Kinna/Prad  |
+|      | Added Defender               | Kinna/Prad  |
+|      | Added Dendro Hypotasis       | Hongyi/Prad |
 
