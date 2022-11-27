@@ -23,8 +23,9 @@
 | 25th | Added F12 infographics       | Blep        |
 |      | Added F12 tips               | Kicc        |
 | 26th | Added Windcutter             | Beatus/Prad |
-|      | Added Standard Bearer        | Kinna/Prad  |
+|      | Added Dendro Hypostasis      | Hongyi/Prad |
+| 27th | Added Standard Bearer        | Kinna/Prad  |
 |      | Added Defender               | Kinna/Prad  |
 |      | Added Line Breaker           | Kinna/Prad  |
-|      | Added Dendro Hypostasis      | Hongyi/Prad |
+|      |                              |             |
 
