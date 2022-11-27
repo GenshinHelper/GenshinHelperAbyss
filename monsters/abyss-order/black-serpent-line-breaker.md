@@ -17,5 +17,21 @@
 
 ## Abilities
 
-Shield breaker banner sweep Shield breaker fireball Shield breaker shield generation using a shield
+### Drill
+
+{% embed url="https://gfycat.com/faithfultornaxisdeer" %}
+Runs forward dealing Hydro Damage
+{% endembed %}
+
+### Swipe Attack
+
+{% embed url="https://gfycat.com/accurateoddhartebeest" %}
+Swipes Staff dealing AOE Hydro Damage
+{% endembed %}
+
+### Quick Charge
+
+{% embed url="https://gfycat.com/zigzagflippantflatcoatretriever" %}
+Brief charge forward dealing Hydro Damage
+{% endembed %}
 

@@ -16,3 +16,21 @@
 * Slow Attacking so a heavy barrage of elemental reactions will wear them down quickly
 
 ## Abilities
+
+### Banner Sweep
+
+{% embed url="https://gfycat.com/definitiveinformalgemsbuck" %}
+Single instance of AOE Pyro Damage
+{% endembed %}
+
+### Fireball
+
+{% embed url="https://gfycat.com/legalsphericalhornedviper" %}
+Shoots Single Instance of Pyro Damage
+{% endembed %}
+
+### Shield Up
+
+{% embed url="https://gfycat.com/esteemedgenuineblackbuck" %}
+Puts a decaying shield up when it attacks a shielded character
+{% endembed %}

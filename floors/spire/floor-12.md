@@ -153,3 +153,5 @@ This Chamber has an electro monolith that will apply electro shield to the mobs 
 Be careful of the Stone Enchanter’s Geo Aura on the second wave. The aura effect deals considerable damage and will kill you if you're not careful.
 
 Like any other human enemies, Eremites and Fatui have lowered resistance to physical damage, so it's a viable option for this chamber.
+
+After the first wave, focus on the geochanter which doesn't move and will be significantly harder to kill if his shield comes up.

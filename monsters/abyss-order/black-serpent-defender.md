@@ -17,4 +17,20 @@
 
 ## Abilities
 
-defender cryo airstrike defender cryo arrow bolt(?) defender fortify using a shield
+### Arrow Strike
+
+{% embed url="https://gfycat.com/chieffittingabyssiniangroundhornbill" %}
+Shoots Arrow up dealing high Area Cryo Damage
+{% endembed %}
+
+### Aimed Strike
+
+{% embed url="https://gfycat.com/amazingincomparableflee" %}
+Shoots Arrow Forward dealing Cryo Damage
+{% endembed %}
+
+### Shield-Up
+
+{% embed url="https://gfycat.com/pettyuntriedborzoi" %}
+When Attacks shielded character, takes damage
+{% endembed %}

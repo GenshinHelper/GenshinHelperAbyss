@@ -50,5 +50,5 @@ When out of range, charges six bolts that fire towards the player one at a time.
 ### Teleport
 
 {% embed url="https://gfycat.com/bruisedcluelessindianabat" %}
-Ehen it hits the player with a shield, the knight with be empowered (shown as a green aura on itself), the next attack hitting the knight will deal no damage and it will teleport a few meters away from the player.
+When it hits the player with a shield, the knight with be empowered (shown as a green aura on itself), the next attack hitting the knight will deal no damage and it will teleport a few meters away from the player.
 {% endembed %}
