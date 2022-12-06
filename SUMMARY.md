@@ -166,6 +166,7 @@
 ## Changelogs
 
 * [2022](changelogs/2022/README.md)
+  * [December](changelogs/2022/december.md)
   * [November](changelogs/2022/november.md)
   * [October](changelogs/2022/october.md)
   * [September](changelogs/2022/september.md)
