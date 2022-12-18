@@ -21,6 +21,8 @@ None
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/perpetual-mechanical-arrray.jpg" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -36,6 +38,8 @@ None
 |           |          |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/12-1-2v33.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -61,6 +65,8 @@ None
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/12-2-1v33.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -69,6 +75,8 @@ None
 
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/Golden Wolflord.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -80,13 +88,15 @@ None
 
 **Monster Level - 100**
 
-|                            |              Side 1              | Side 2 |
-| -------------------------- | :------------------------------: | :----: |
-| **Shieldbreakers**         |                                  |        |
-| **Preferred DPS Elements** |                                  |        |
-| **Avoid DPS Elements**     | 3681653793944f4f977aeb498ad8acd3 |        |
+|                            | Side 1 | Side 2 |
+| -------------------------- | :----: | :----: |
+| **Shieldbreakers**         |        |        |
+| **Preferred DPS Elements** |        |        |
+| **Avoid DPS Elements**     |        |        |
 
 ### Side 1
+
+<figure><img src="../../.gitbook/assets/Jadeplume Terrorshroom.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -101,6 +111,8 @@ None
 |           |          |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/12-3-2v33.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |

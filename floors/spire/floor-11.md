@@ -22,11 +22,15 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-1-1v33.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/11-1-2v33.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -39,6 +43,8 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-2-1v33.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
@@ -46,6 +52,8 @@
 
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/11-2-2v33.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
@@ -58,11 +66,15 @@
 
 ### Side 1
 
+<figure><img src="../../.gitbook/assets/11-3-1v33.png" alt=""><figcaption></figcaption></figure>
+
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
 |                |            |
 
 ### Side 2
+
+<figure><img src="../../.gitbook/assets/11-3-2v33.png" alt=""><figcaption></figcaption></figure>
 
 | In Depth Guide | Other Info |
 | -------------- | ---------- |
