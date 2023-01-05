@@ -165,6 +165,8 @@
 
 ## Changelogs
 
+* [2023](changelogs/2023/README.md)
+  * [January](changelogs/2023/january.md)
 * [2022](changelogs/2022/README.md)
   * [December](changelogs/2022/december.md)
   * [November](changelogs/2022/november.md)
@@ -236,5 +238,6 @@
   * [Floor 11 (v1.2 - 1.4)](archive/previous-floors/floor-11-v14.md)
   * [Floor 12 (v1.3 - 1.4)](archive/previous-floors/floor-12-v14.md)
 * [More Example Teams](archive/more-example-teams.md)
+* [Changelog Template](archive/changelog-template.md)
 * [Floor 11 (Template)](archive/floor-11-template.md)
 * [Floor 12 (Template)](archive/floor-12-template.md)
