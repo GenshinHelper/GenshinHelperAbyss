@@ -9,7 +9,7 @@
 | Date | Change            | Author |
 | ---- | ----------------- | ------ |
 | 4th  | Updating blessing | Blep   |
-|      |                   |        |
+| 16th | Updating blessing | Blep   |
 |      |                   |        |
 |      |                   |        |
 |      |                   |        |
