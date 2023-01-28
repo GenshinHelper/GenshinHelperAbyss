@@ -15,7 +15,7 @@
 
 |                                        Element | Resist |
 | ---------------------------------------------: | ------ |
-| ![](../../.gitbook/assets/physical\_small.png) | 30%    |
+| ![](../../.gitbook/assets/physical\_small.png) | -20%   |
 |                             ALL OTHER ELEMENTS | 60%    |
 
 #### Stunned
