@@ -55,6 +55,8 @@
   * [Sunfrost](monsters/eremites/sunfrost.md)
   * [Stone Enchanter](monsters/eremites/stone-enchanter.md)
   * [Galehunter](monsters/eremites/galehunter.md)
+  * [Scorching Loremaster](monsters/eremites/scorching-loremaster.md)
+  * [Floral Ring-Dancer](monsters/eremites/floral-ring-dancer.md)
 * [Fatui](monsters/fatui/README.md)
   * [Anemoboxer](monsters/fatui/anemoboxer.md)
   * [Electrohammer Vanguard](monsters/fatui/electrohammer-vanguard.md)
@@ -141,6 +143,7 @@
   * [Jadeplume Terrorshroom](monsters/elites/jadeplume-terrorshroom.md)
   * [ASIMON](monsters/elites/asimon.md)
   * [Aeonblight Drake](monsters/elites/aeonblight-drake.md)
+  * [Setekh Wenut](monsters/elites/setekh-wenut.md)
 
 ## Mechanics
 
