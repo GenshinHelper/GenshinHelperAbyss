@@ -169,6 +169,7 @@
 ## Changelogs
 
 * [2023](changelogs/2023/README.md)
+  * [February](changelogs/2023/february.md)
   * [January](changelogs/2023/january.md)
 * [2022](changelogs/2022/README.md)
   * [December](changelogs/2022/december.md)
@@ -204,6 +205,8 @@
 ## Archive
 
 * [Previous Floors](archive/previous-floors/README.md)
+  * [Floor 12 (v3.3)](archive/previous-floors/floor-12-v3.3.md)
+  * [Floor 11 (v3.3)](archive/previous-floors/floor-11-v3.3.md)
   * [Floor 12 (v3.2)](archive/previous-floors/floor-12-v3.2.md)
   * [Floor 11 (v3.2)](archive/previous-floors/floor-11-v3.2.md)
   * [Floor 12 (v3.1)](archive/previous-floors/floor-12-v3.1.md)
