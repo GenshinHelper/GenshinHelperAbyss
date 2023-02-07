@@ -7,10 +7,10 @@
 
 ## Full Changelogs
 
-| Date | Change                        | Author |
-| ---- | ----------------------------- | ------ |
-| 4th  | Updated Blessings             | Blep   |
-|      | Added infographics for F11/12 | Blep   |
-|      |                               |        |
-|      |                               |        |
-|      |                               |        |
+| Date | Change                        | Author     |
+| ---- | ----------------------------- | ---------- |
+| 4th  | Updated Blessings             | Blep       |
+|      | Added infographics for F11/12 | Blep       |
+| 6th  | Added tips for F11            | Koshu/Blep |
+|      |                               |            |
+|      |                               |            |
