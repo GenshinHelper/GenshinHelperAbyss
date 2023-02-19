@@ -14,14 +14,16 @@ If you have any suggestions, please feel free to send them via our form on the s
 
 ## Current Blessing
 
-**Duration:** Feb 1st - 15th
+**Duration:** Feb 16th - 28th
 
-The Dendro RES and Electro RES will be decreased by 30% for opponents that are under the Quickened state. This effect will be removed 2s after the Quickened state ends.
+After a character deals Dendro DMG to opponents through Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the character will gain one stack of Verdant Vigor: DMG dealt by the character will be increased by 8% for 6s.
+
+This effect can be triggered once every 0.1s. Max 6 stacks. Each stack's duration is counted independently.
 
 ### Future blessings
 
-| Dates           | Blessing                                                                                                                                                                                                                                                                                                                                                                |
-| --------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Feb 16th - 28th | After a character deals Dendro DMG to opponents through Normal Attack, Charged Attack, Plunging Attack, Elemental Skill, or Elemental Burst, the character will gain one stack of Verdant Vigor: DMG dealt by the character will be increased by 8% for 6s. This effect can be triggered once every 0.1s. Max 6 stacks. Each stack's duration is counted independently. |
-| Mar 1st - 15th  | When a character triggers a Spread or Aggravate reaction on an opponent, a shockwave will be unleashed at the opponent's position, dealing True DMG. A shockwave can be unleashed this way every 3s.                                                                                                                                                                    |
-| Mar 16th - 31st | ??? (v3.5)                                                                                                                                                                                                                                                                                                                                                              |
+| Dates            | Blessing                                                                                                                                                                                             |
+| ---------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Mar 1st - 15th   | When a character triggers a Spread or Aggravate reaction on an opponent, a shockwave will be unleashed at the opponent's position, dealing True DMG. A shockwave can be unleashed this way every 3s. |
+| Mar 16th - 31st  | ??? (v3.5)                                                                                                                                                                                           |
+| April 1st - 15th | ??? (v3.5)                                                                                                                                                                                           |

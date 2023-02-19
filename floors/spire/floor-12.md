@@ -30,9 +30,9 @@ None
 
 | In Depth Guide                                                                                | Other Info |
 | --------------------------------------------------------------------------------------------- | ---------- |
-| [ruin-guard.md](../../monsters/ruin-constructs/ruin-guard.md "mention")                       |            |
-| [ruin-drake-earthguard.md](../../monsters/ruin-constructs/ruin-drake-earthguard.md "mention") |            |
-| [ruin-grader.md](../../monsters/ruin-constructs/ruin-grader.md "mention")                     |            |
+| [ruin-guard.md](../../monsters/ruin-constructs/ruin-guard.md "mention")                       | 485K HP    |
+| [ruin-drake-earthguard.md](../../monsters/ruin-constructs/ruin-drake-earthguard.md "mention") | 795K HP    |
+| [ruin-grader.md](../../monsters/ruin-constructs/ruin-grader.md "mention")                     | 624K HP    |
 
 The chamber is fairly straightforward, however enemies spawn one at a time so you will need to bring a strong single target DPS.
 
@@ -53,14 +53,14 @@ Be wary of the Earthguard's charging-up attack. If you can't kill it quickly eno
 
 | In Depth Guide                                                                        | Other Info |
 | ------------------------------------------------------------------------------------- | ---------- |
-| [cryo-whopperflower.md](../../monsters/animals/cryo-whopperflower.md "mention")       |            |
-| [pyro-whopperflower.md](../../monsters/animals/pyro-whopperflower.md "mention")       |            |
-| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention") |            |
-| [pyro-abyss-mage.md](../../monsters/abyss-order/pyro-abyss-mage.md "mention")         |            |
-| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")   |            |
-| [cryo-abyss-mage.md](../../monsters/abyss-order/cryo-abyss-mage.md "mention")         |            |
-| [desert-clearwater.md](../../monsters/eremites/desert-clearwater.md "mention")        |            |
-| [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")                          |            |
+| [cryo-whopperflower.md](../../monsters/animals/cryo-whopperflower.md "mention")       | 208K HP    |
+| [pyro-whopperflower.md](../../monsters/animals/pyro-whopperflower.md "mention")       | 208K HP    |
+| [electro-whopperflower.md](../../monsters/animals/electro-whopperflower.md "mention") | 208K HP    |
+| [pyro-abyss-mage.md](../../monsters/abyss-order/pyro-abyss-mage.md "mention")         | 138K HP    |
+| [electro-abyss-mage.md](../../monsters/abyss-order/electro-abyss-mage.md "mention")   | 138K HP    |
+| [cryo-abyss-mage.md](../../monsters/abyss-order/cryo-abyss-mage.md "mention")         | 138K HP    |
+| [desert-clearwater.md](../../monsters/eremites/desert-clearwater.md "mention")        | 409K HP    |
+| [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")                          | 409K HP    |
 
 ![](../../.gitbook/assets/anemo\_small.png) character is highly recommended for this side to group and CC the enemies.
 
@@ -92,10 +92,10 @@ Be careful getting Frozen by combined attacks on the last wave. ![](../../.gitbo
 
 | In Depth Guide                                            | Other Info |
 | --------------------------------------------------------- | ---------- |
-| [nobushi.md](../../monsters/samurai/nobushi.md "mention") |            |
-| [kairagi.md](../../monsters/samurai/kairagi.md "mention") |            |
-| Consecrated Red Vulture                                   |            |
-| Consecrated Scorpion                                      |            |
+| [nobushi.md](../../monsters/samurai/nobushi.md "mention") | 257K HP    |
+| [kairagi.md](../../monsters/samurai/kairagi.md "mention") | 618K HP    |
+| Consecrated Red Vulture                                   | 901K HP    |
+| Consecrated Scorpion                                      | 901K HP    |
 
 The floor is filled with hard-hitting enemies, so make sure your healers get enough uptime and heal, or your shielders are adequately built.
 
@@ -119,9 +119,9 @@ The Consecrated Scorpion performs a lot of sweeping attacks at melee range, and 
 
 <figure><img src="../../.gitbook/assets/12-2-2v34.png" alt=""><figcaption></figcaption></figure>
 
-| In Depth Guide                                                                                           | Other Info |
-| -------------------------------------------------------------------------------------------------------- | ---------- |
-| [maguu-kenki-split-version.md](../../monsters/elites/maguu-kenki/maguu-kenki-split-version.md "mention") |            |
+| In Depth Guide                                                                                           | Other Info     |
+| -------------------------------------------------------------------------------------------------------- | -------------- |
+| [maguu-kenki-split-version.md](../../monsters/elites/maguu-kenki/maguu-kenki-split-version.md "mention") | 122K HP (each) |
 
 Each variant will attack every 10 seconds.
 
@@ -163,7 +163,7 @@ After doing an initial grouping, try to stay close to the Cryo variant to preven
 
 | In Depth Guide                                         | Other Info |
 | ------------------------------------------------------ | ---------- |
-| [asimon.md](../../monsters/elites/asimon.md "mention") |            |
+| [asimon.md](../../monsters/elites/asimon.md "mention") | 222K HP    |
 
 It is highly recommended to bring an ![](https://lh4.googleusercontent.com/FjcV5eoYERlZS8FF3MsBHCH-KMZwDmnuahDnfeCQPQ-ZCoc2uuScXPI4M8mzjenWBhvkuhOOnBtBqLOZgKxNh8rOVvcxdVPMwOM-M-sbJzc8ycY\_flECkjUWCPF-WA3vj0x7ya\_zI9Q3mA5u\_I8svYM) character or else you may lose a lot of time to the invisibility phase. Note that this character doesn't need to be built for damage, though that can help.
 
@@ -181,12 +181,12 @@ Characters such as Nahida are helpful as they apply a mark making the boss easil
 
 | In Depth Guide                                                                                                                                                                       | Other Info |
 | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------- |
-| <p><a data-mention href="../../monsters/eremites/desert-clearwater.md">desert-clearwater.md</a><br>> <a data-mention href="../../mechanics/debuffs/">debuffs</a>(Slowing Waters)</p> |            |
-| [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")                                                                                                                         |            |
-| [daythunder.md](../../monsters/eremites/daythunder.md "mention")                                                                                                                     |            |
-| Scorching Loremaster                                                                                                                                                                 |            |
-| [floral-ring-dancer.md](../../monsters/eremites/floral-ring-dancer.md "mention")                                                                                                     |            |
-| [galehunter.md](../../monsters/eremites/galehunter.md "mention")                                                                                                                     |            |
+| <p><a data-mention href="../../monsters/eremites/desert-clearwater.md">desert-clearwater.md</a><br>> <a data-mention href="../../mechanics/debuffs/">debuffs</a>(Slowing Waters)</p> | 499K HP    |
+| [sunfrost.md](../../monsters/eremites/sunfrost.md "mention")                                                                                                                         | 499K HP    |
+| [daythunder.md](../../monsters/eremites/daythunder.md "mention")                                                                                                                     | 555K HP    |
+| Scorching Loremaster                                                                                                                                                                 | 610K HP    |
+| [floral-ring-dancer.md](../../monsters/eremites/floral-ring-dancer.md "mention")                                                                                                     | 693K HP    |
+| [galehunter.md](../../monsters/eremites/galehunter.md "mention")                                                                                                                     | 610K HP    |
 
 The enemies here are weak to ![](../../.gitbook/assets/physical\_small.png), so you can consider using it if you have a team built.
 

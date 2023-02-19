@@ -13,4 +13,5 @@
 |      | Added infographics for F11/12 | Blep       |
 | 6th  | Added tips for F11            | Koshu/Blep |
 |      | Added tips for F12            | Ulti/Blep  |
-|      |                               |            |
+| 17th | Updating blessings            | Blep       |
+|      | Adding mob HP for F12         | Blep/Aias  |
